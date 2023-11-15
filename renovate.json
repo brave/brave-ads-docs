@@ -1,5 +1,14 @@
 {
   "extends": [
-    "local>brave/renovate-config"
-  ]
+    "local>brave/renovate-config",
+    "config:js-app",
+    ":semanticCommits",
+    ":semanticCommitTypeAll(chore)",
+    "npm:unpublishSafe",
+    "helpers:pinGitHubActionDigests",
+    "group:allNonMajor",
+    "schedule:weekends"
+  ],
+  "labels": ["dependencies"],
+  "postUpdateOptions": ["npmDedupe"]
 }
