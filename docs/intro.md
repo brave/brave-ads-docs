@@ -3,11 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Overview
-
-Welcome to Brave Ads documentation.
-
-## Brave Ads
+# Basic of Brave Ads
 Brave Ads are first-party ad placements available throughout Brave, the privacy-first Web browser, Brave Search, the world’s fastest growing independent search engine.
 
 ## Brave Ads Manager
