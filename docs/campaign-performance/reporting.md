@@ -17,15 +17,14 @@ Blocked scripts will disable most, if not all, functions for third-party trackin
 Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
 
 ### Available reporting metrics in Brave Ads Manager
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|**Metric**|**Description**|**Search keyword Ads**|**New Tab Takeover**|**Newsfeed Ads**|**Notification Ads**|
-|**Impressions**|Counted when an ad is displayed on screen for a minimum of one second.|X|X|X|X|
-|**Clicks**|Counted when a user clicks on the ad. Does not include clicks to dismiss.|X|X|X|X|
-|**Dismissed**|Counted when a user clicks the “close” or “x” button to make an ad go away.|||X|X|
-|**10-Second Visit**|Counted when a user spends at least ten seconds with the landing page in view in their browser.|X|X|X|X|
-|**Upvote & Downvote**|Counted when a user either upvotes or downvotes an ad in their ad history.||||X|
-|**Conversion**|Counted when a user reaches a designated conversion landing page.|X||X|X|
+| Metric            | Description                                                                                     | Search Keyword Ads | New Tab Takeover | Newsfeed Ads | Notification Ads |
+|-------------------|-------------------------------------------------------------------------------------------------|--------------------|------------------|--------------|------------------|
+| Impressions       | Counted when an ad is displayed on screen for a minimum of one second.                          | X                  | X                | X            | X                |  
+| Clicks            | Counted when a user clicks on the ad. Does not include clicks to dismiss.                       | X                  | X                | X            | X                |
+| Dismissed         | Counted when a user clicks the “close” or “x” button to make an ad go away.                     |                    |                  | X            | X                |
+| 10-Second Visit   | Counted when a user spends at least ten seconds with the landing page in view in their browser. | X                  | X                | X            | X                |
+| Upvote & Downvote | Counted when a user either upvotes or downvotes an ad in their ad history.                      |                    |                  |              | X                |  
+| Conversion        | Counted when a user reaches a designated conversion landing page.                               | X                  |                  | X            | X                |
 
 ### Conversion reporting in Brave Ads Manager
 We strongly recommend including conversion reporting for your Brave campaign. Because Brave ads are delivered via the browser, we are able to report on conversions (signups, orders, etc.) attributed to the campaign using a URL. To include conversion reporting in the Brave Dashboard, please provide a conversion confirmation page URL so Brave can map the event back to the campaign.
@@ -79,18 +78,14 @@ Verifiable Ad Conversion Reporting is done by a Conversion ID. For your site, th
 Brave uses TweetNacl to encrypt the Conversion ID. 
 
 Encrypted Conversion Envelopes will look like:
-
-> {
->
-> "alg": "crypto_box_curve25519xsalsa20poly1305"
-> 
-> ciphertext": "BTX6xKZ4vITaWa11EMcly7gyQ3rN8JoAYvoHeIiYuSS9Lsc4GUQBN54+otIGOsxk"
-> 
-> "epk": "3N1RKgiOvOXCGjO6txtEwR0DzpEp9U+PkbpwxAkAGwg="
-> 
-> "nonce": "N4EH/upCXxyRPLmYLvYCyuaKQASlA6Qo"
->
-> }
+```json
+{
+ "alg": "crypto_box_curve25519xsalsa20poly1305"
+ "ciphertext": "BTX6xKZ4vITaWa11EMcly7gyQ3rN8JoAYvoHeIiYuSS9Lsc4GUQBN54+otIGOsxk"
+ "epk": "3N1RKgiOvOXCGjO6txtEwR0DzpEp9U+PkbpwxAkAGwg="
+ "nonce": "N4EH/upCXxyRPLmYLvYCyuaKQASlA6Qo"
+}
+```
 
 ##### Implementation options
 Brave provides two implementation options for Verifiable Conversions using a URL pattern or DOM element pattern.
