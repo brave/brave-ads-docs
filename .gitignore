@@ -6,6 +6,7 @@
 
 # IDE
 .idea/
+.obsidian/
 
 # Generated files
 .docusaurus
