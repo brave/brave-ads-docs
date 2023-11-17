@@ -53,11 +53,6 @@ const config: Config = {
         {to: 'https://brave.com/download', label: 'Download', position: 'left'},
         {to: 'https://twitter.com/brave', label: 'Twitter', position: 'left'},
         {to: 'https://github.com/brave/brave-browser', label: 'Github', position: 'left'},
-        {
-          href: 'https://github.com/brave/brave-ads-docs',
-          label: 'Brave Ads Docs GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
