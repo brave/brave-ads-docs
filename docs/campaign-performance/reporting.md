@@ -44,14 +44,15 @@ A referral or promo code (e.g. brave15) can be used at the time of checkout to r
 ### Query string parameters and first-party cookies (i.e. UTMs)
 Click URL tracking parameters are allowed, but only when used in a way that your web server or web application can detect. Using third-party reporting such as Google Analytics will not show accurate data. Please note, only direct URLs are allowed for the click link—no redirects.
 
-- Clickthrough URL example (UTM parameters): [https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test](https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test)
-- Landing page: [https://example.com/product](https://example.com/product)
-- Query string parameters (UTM): utm_source=brave&utm_medium=push_notification&utm_campaign=test
+##### Clickthrough URL (UTM parameters)
+- Example: ``[https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test](https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test)``
+- Landing page:``[https://example.com/product](https://example.com/product)``
+- Query string parameters (UTM): ``utm_source=brave&utm_medium=push_notification&utm_campaign=test``
 
-
-- Clickthrough URL example (query string parameters): [https://example.com/product?ref=brave&type=push_notification&campaign=test](https://example.com/product?ref=brave&type=push_notification&campaign=test)
-- Landing page: [https://example.com/product](https://example.com/product)
-- Query string parameters: ref=brave&type=push_notification&campaign=test
+##### Clickthrough URL (query string parameters)
+- Example: ``[https://example.com/product?ref=brave&type=push_notification&campaign=test](https://example.com/product?ref=brave&type=push_notification&campaign=test)``
+- Landing page: ``[https://example.com/product](https://example.com/product)``
+- Query string parameters: ``ref=brave&type=push_notification&campaign=test``
     
 Parse values and set first-party cookies based on the query string parameters from the clickthrough URL. This entire query string can be set as the value or parsed into individual key value pairs.
 When the same user lands from a different channel, your same code snippet can append or overwrite the cookie values with the new parameter values depending on your preference.
