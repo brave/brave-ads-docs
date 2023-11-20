@@ -36,7 +36,7 @@ This unit is an ideal addition for advertisers looking to add engagement, qualit
 - Use emojis to help tell your brand’s story with fewer characters
 - Vary copy to appeal to different audiences or product features
 - Share wisdom, Brave users love to learn
-- No click-bait headlines
+- No clickbait headlines
 - No claims of high returns on investments (APY/APR)
 - No all-uppercase lettering
 - No profanity, nudity, violence, or illicit substances

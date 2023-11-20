@@ -32,7 +32,7 @@ Brave News is a private, customizable news feed that appears in every new tab pa
 - Use engaging imagery such as products, or demonstrative illustrations
 - Use a specific call to action: “Learn More,” “Try Now,” “Buy Now,” “Sign Up,” etc.
 - Limit text in images, some text is fine
-- No click-bait headlines
+- No clickbait headlines
 - No claims of high returns on investments (APY/APR)
 - No all-uppercase lettering
 - No profanity, nudity, violence, or illicit substances

@@ -26,7 +26,7 @@ Search keyword ads are similar to the text and url-based ads shown on search eng
 - Use multiple versions of ad creative for testing
 - Use a specific call to action: “Learn More,” “Try Now,” “Buy Now,” “Sign Up,” etc.
 - Vary copy to appeal to different audiences or product features
-- No click-bait headlines
+- No clickbait headlines
 - No claims of high returns on investments (APY/APR)
 - No all-uppercase lettering
 - No profanity, nudity, violence, or illicit substances

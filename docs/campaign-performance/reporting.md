@@ -71,7 +71,7 @@ Verifiable Ad Conversion Reporting is done by a Conversion ID. For your site, th
 
 ##### Requirements:
 - The Conversion ID value must be unique for each conversion. Duplicate Conversion Event ID values will result in accounting discrepancies.
-- The Conversion ID must be between 1–30 characters long, contain only alphanumeric characters (as well as dashes), and match this regular expression:`` [-a-zA-Z0-9]{1,30}.``
+- The Conversion ID must be between 1–30 characters long, contain only alphanumeric characters (as well as dashes), and match this regular expression: `` [-a-zA-Z0-9]{1,30}.``
 - Event values longer than 30 characters will fail, preventing the event from being accurately accounted for. You may check if your identifier is valid by using a site like [https://regex101.com/](https://regex101.com/).
 - Conversion IDs must not include user identifiers or personally identifying information. For example, Conversion IDs like the following are not permitted: ``<user id>-<random id>``, ``<random id>-<email address>``.
     
@@ -80,9 +80,9 @@ Brave uses TweetNacl to encrypt the Conversion ID.
 Encrypted Conversion Envelopes will look like:
 ```json
 {
- "alg": "crypto_box_curve25519xsalsa20poly1305"
- "ciphertext": "BTX6xKZ4vITaWa11EMcly7gyQ3rN8JoAYvoHeIiYuSS9Lsc4GUQBN54+otIGOsxk"
- "epk": "3N1RKgiOvOXCGjO6txtEwR0DzpEp9U+PkbpwxAkAGwg="
+ "alg": "crypto_box_curve25519xsalsa20poly1305",
+ "ciphertext": "BTX6xKZ4vITaWa11EMcly7gyQ3rN8JoAYvoHeIiYuSS9Lsc4GUQBN54+otIGOsxk",
+ "epk": "3N1RKgiOvOXCGjO6txtEwR0DzpEp9U+PkbpwxAkAGwg=",
  "nonce": "N4EH/upCXxyRPLmYLvYCyuaKQASlA6Qo"
 }
 ```

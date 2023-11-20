@@ -12,5 +12,5 @@ Brave Ads Manager, or Ads Manager, is where Brave Ads campaigns are created, man
 ### Managed service
 Work with a dedicated sales and account management team to execute campaigns. Managed service campaigns require a $10,000 minimum monthly spend and offer a wider range of ad placements.
 
-### Self service
-Do-it-yourself (DIY) management of ad campaigns through easy-to-use campaign creation, editing, and reporting tools. Self service campaigns require a minimum spend of $500 for optimal results.
+### Self-service
+Do-it-yourself (DIY) management of ad campaigns through easy-to-use campaign creation, editing, and reporting tools. Self-service campaigns require a minimum spend of $500 for optimal results.
