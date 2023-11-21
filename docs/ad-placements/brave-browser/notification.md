@@ -29,10 +29,10 @@ This unit is an ideal addition for advertisers looking to add engagement, qualit
 - CPSV (Per site-visit)
 
 ### Best practices
-- Add context to your title for clarity, e.g.“Masterclass. Learn from the best."
+- Add context to your title for clarity, e.g. _Masterclass. Learn from the best._
 - Use unique landing pages such as “advertiser.com/brave” to make measurement easier
 - Use multiple versions of ad creative for testing
-- Use a specific call to action: “Learn More,” “Try Now,” “Buy Now,” “Sign Up,” etc.
+- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
 - Use emojis to help tell your brand’s story with fewer characters
 - Vary copy to appeal to different audiences or product features
 - Share wisdom, Brave users love to learn
