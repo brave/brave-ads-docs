@@ -21,7 +21,7 @@ Brave News is a private, customizable news feed that appears in every new tab pa
   - MacOS, Windows, Linux, Android, iOS
 - By country
 
-***Note**: currently available only to browsers with English and Japanese language settings.
+**Note**: currently available only to browsers with English and Japanese language settings.
 
 ### Pricing
 - CPM
@@ -30,7 +30,7 @@ Brave News is a private, customizable news feed that appears in every new tab pa
 ### Best practices
 - Use multiple versions of ad creative for testing
 - Use engaging imagery such as products, or demonstrative illustrations
-- Use a specific call to action: “Learn More,” “Try Now,” “Buy Now,” “Sign Up,” etc.
+- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
 - Limit text in images, some text is fine
 - No clickbait headlines
 - No claims of high returns on investments (APY/APR)
