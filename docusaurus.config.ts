@@ -50,9 +50,9 @@ const config: Config = {
         src: 'img/brave128.png',
       },
       items: [
-        {to: 'https://ads.brave.com/register', label: 'Sign up', position: 'left'},
-        {to: 'https://brave.com/brave-ads', label: 'About', position: 'left'},
-        {to: 'https://brave.com/brave-ads/audience', label: 'Audience', position: 'left'},
+        { href: 'https://ads.brave.com/register', label: 'Sign up', position: 'left'},
+        { href: 'https://brave.com/brave-ads', label: 'About', position: 'left'},
+        { href: 'https://brave.com/brave-ads/audience', label: 'Audience', position: 'left'},
       ],
     },
     footer: {
