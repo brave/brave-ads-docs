@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Policies and Restrictions
+# Policies and restrictions
 ## Policies
 
 - [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
