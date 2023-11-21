@@ -17,13 +17,13 @@ Blocked scripts will disable most, if not all, functions for third-party trackin
 Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
 
 ### Available reporting metrics in Brave Ads Manager
-| Metric            | Description                                                                                     | Search Keyword Ads | New Tab Takeover | Newsfeed Ads | Notification Ads |
+| Metric            | Description                                                                                     | Search keyword ads | New tab takeover | Newsfeed ads | Notification ads |
 |-------------------|-------------------------------------------------------------------------------------------------|--------------------|------------------|--------------|------------------|
 | Impressions       | Counted when an ad is displayed on screen for a minimum of one second.                          | X                  | X                | X            | X                |  
 | Clicks            | Counted when a user clicks on the ad. Does not include clicks to dismiss.                       | X                  | X                | X            | X                |
 | Dismissed         | Counted when a user clicks the “close” or “x” button to make an ad go away.                     |                    |                  | X            | X                |
-| 10-Second Visit   | Counted when a user spends at least ten seconds with the landing page in view in their browser. | X                  | X                | X            | X                |
-| Upvote & Downvote | Counted when a user either upvotes or downvotes an ad in their ad history.                      |                    |                  |              | X                |  
+| 10-Second visit   | Counted when a user spends at least ten seconds with the landing page in view in their browser. | X                  |                  | X            | X                |
+| Upvote & downvote | Counted when a user either upvotes or downvotes an ad in their ad history.                      |                    |                  |              | X                |  
 | Conversion        | Counted when a user reaches a designated conversion landing page.                               | X                  |                  | X            | X                |
 
 ### Conversion reporting in Brave Ads Manager
@@ -44,20 +44,20 @@ A referral or promo code (e.g. brave15) can be used at the time of checkout to r
 Click URL tracking parameters are allowed, but only when used in a way that your web server or web application can detect. Using third-party reporting such as Google Analytics will not show accurate data. Please note, only direct URLs are allowed for the click link—no redirects.
 
 ##### Clickthrough URL (UTM parameters)
-- Example: ``[https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test](https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test)``
-- Landing page:``[https://example.com/product](https://example.com/product)``
+- Example: ``https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test``
+- Landing page:``https://example.com/product``
 - Query string parameters (UTM): ``utm_source=brave&utm_medium=push_notification&utm_campaign=test``
 
 ##### Clickthrough URL (query string parameters)
-- Example: ``[https://example.com/product?ref=brave&type=push_notification&campaign=test](https://example.com/product?ref=brave&type=push_notification&campaign=test)``
-- Landing page: ``[https://example.com/product](https://example.com/product)``
+- Example: ``https://example.com/product?ref=brave&type=push_notification&campaign=test``
+- Landing page: ``https://example.com/product``
 - Query string parameters: ``ref=brave&type=push_notification&campaign=test``
     
 Parse values and set first-party cookies based on the query string parameters from the clickthrough URL. This entire query string can be set as the value or parsed into individual key value pairs.
 When the same user lands from a different channel, your same code snippet can append or overwrite the cookie values with the new parameter values depending on your preference.
 When the user completes the expected action and a network request is made back to your servers, the cookies should be attached to the request headers and you can see that a user has come from a Brave Ads campaign.
 
-### Verifiable Ad Conversions (VAC)
+## Verifiable Ad Conversions (VAC)
 Verifiable Ad Conversions (VAC) is an optional feature-set of Brave Ads Conversion Reporting. VAC provides Brave advertisers with the ability to determine their return on ad spend by privately reporting encrypted Conversion IDs. Advertisers can then audit the list of encrypted Conversion IDs to verify that the converted user can be attributed to a Brave Ads campaign.
 
 When an eligible user lands on the Conversion Page, a process is invoked that enables the advertiser to account for the specific transaction event, while maintaining user privacy and anonymity. Not even Brave can read or learn anything about that event (aside from the anonymously reported conversion event count). This enables privacy from end-to-end and allows users to feel better about their Conversion Event, knowing that no one can learn anything from the conversion.
@@ -66,10 +66,10 @@ Advertisers who choose to use VAC will generate a public-private key pair in the
 
 It’s crucial that the advertiser does not lose their private key for Verifiable Ad Conversions.
 
-##### Conversion Event ID details
+### Conversion event ID details
 Verifiable Ad Conversion Reporting is done by a Conversion ID. For your site, this may be an order number, a transaction ID, or something similar.
 
-##### Requirements:
+### Requirements:
 - The Conversion ID value must be unique for each conversion. Duplicate Conversion Event ID values will result in accounting discrepancies.
 - The Conversion ID must be between 1–30 characters long, contain only alphanumeric characters (as well as dashes), and match this regular expression: `` [-a-zA-Z0-9]{1,30}.``
 - Event values longer than 30 characters will fail, preventing the event from being accurately accounted for. You may check if your identifier is valid by using a site like [https://regex101.com/](https://regex101.com/).
@@ -87,10 +87,10 @@ Encrypted Conversion Envelopes will look like:
 }
 ```
 
-##### Implementation options
+### Implementation options
 Brave provides two implementation options for Verifiable Conversions using a URL pattern or DOM element pattern.
 
-**URL Pattern**
+#### URL Pattern
 
 An advertiser has a Conversion ID that is present as a query string parameter in the Conversion Page URL pattern. The advertiser must provide Brave with the query string key that identifies the Conversion ID.
 
@@ -101,7 +101,7 @@ When an eligible user lands on the Conversion Page URL, Brave will:
 
 Take, for example, the following Conversion Page URL: https://example.com/checkout?order=ABC-12345-xyz. Brave will look for the query string key order and encrypt the value ``ABC-12345-xyz``. 
 
-**DOM Element Pattern**
+#### DOM Element Pattern
 
 An advertiser has a Conversion ID that is present in the Document Object Model (DOM) of the Conversion Page URL.
 

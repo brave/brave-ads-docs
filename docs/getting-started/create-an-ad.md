@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Create an Ad
+# Create an ad
 There are two ways to create an ad in Brave Ads Manager:
 
 ## During campaign set up

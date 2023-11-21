@@ -21,10 +21,10 @@ Search keyword ads are similar to the text and url-based ads shown on search eng
 - CPC
 
 ### Best practices
-- Add context to your headline for clarity, e.g.“Masterclass. Learn from the best."
+- Add context to your headline for clarity, e.g. _Masterclass. Learn from the best._
 - Use unique landing pages such as “advertiser.com/brave” to make measurement easier
 - Use multiple versions of ad creative for testing
-- Use a specific call to action: “Learn More,” “Try Now,” “Buy Now,” “Sign Up,” etc.
+- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
 - Vary copy to appeal to different audiences or product features
 - No clickbait headlines
 - No claims of high returns on investments (APY/APR)
