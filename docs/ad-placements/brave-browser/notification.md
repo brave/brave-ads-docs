@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Notification Ads
+# Notification ads
 
 Notification ads feature a title and short CTA; clicks drive users to the advertiser’s desired landing page. Ads are served over content at the browser level, not on web pages, within videos, or any of the more obtrusive practices of traditional display ads.
 
