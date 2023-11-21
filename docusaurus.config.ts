@@ -63,11 +63,11 @@ const config: Config = {
           items: [
             {
               label: 'Browser',
-              to: 'https://brave.com/download',
+              href: 'https://brave.com/download',
             },
             {
               label: 'Search',
-              to: 'https://search.brave.com',
+              href: 'https://search.brave.com',
             },
           ],
         },
