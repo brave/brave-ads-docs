@@ -50,42 +50,50 @@ const config: Config = {
         src: 'img/brave128.png',
       },
       items: [
-        {to: 'https://brave.com/download', label: 'Download', position: 'left'},
-        {to: 'https://twitter.com/brave', label: 'Twitter', position: 'left'},
-        {to: 'https://github.com/brave/brave-browser', label: 'Github', position: 'left'},
+        { href: 'https://ads.brave.com/register', label: 'Sign up', position: 'left'},
+        { href: 'https://brave.com/brave-ads', label: 'About', position: 'left'},
+        { href: 'https://brave.com/brave-ads/audience', label: 'Audience', position: 'left'},
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Try Brave',
           items: [
             {
-              label: 'Documentation',
-              to: '/',
+              label: 'Browser',
+              href: 'https://brave.com/download',
+            },
+            {
+              label: 'Search',
+              href: 'https://search.brave.com',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Follow Brave',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/brave',
-            },
             {
               label: 'Twitter',
               href: 'https://twitter.com/brave',
             },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/brave-software',
+            },
           ],
         },
         {
-          title: 'More',
+          title: 'Resources',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/brave/brave-browser',
+              label: 'Case studies',
+              href: 'https://brave.com/brave-ads/casestudies',
+            },
+            {
+              label: 'Learn',
+              href: 'https://brave.com/brave-ads/learn',
             },
           ],
         },
