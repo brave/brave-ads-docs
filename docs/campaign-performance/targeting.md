@@ -7,7 +7,7 @@ Brave has pioneered a new breed of privacy-respecting targeting that is matched 
 
 Each of Brave’s ad units has a unique approach to achieve varying levels of ad relevance with the end user:
 
-| **Targeting**              | **Description**                                                                                                                                                   | **Search keyword ads** | N**ew Tab Takeover** | **Newsfeed Ads** | **Notification Ads** |
+| **Targeting**              | **Description**                                                                                                                                                   | **Search keyword ads** | **New tab takeover** | **Newsfeed ads** | **Notification ads** |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------------|------------------|----------------------|
 | **Keywords**               | Keywords entered into Brave Search.                                                                                                                               | X                      |                      |                  |                      |
 | **Country and state**      | Location determined by IP address. Only top level country and state level information is inferred (State level targeting is available only in the USA).           | X                      | X                    | X                | X                    |
