@@ -4,6 +4,7 @@ sidebar_position: 1
 
 # Billing
 By default, all ad campaigns globally will be billed in USD. 
+
 ## By invoice
 By default, invoices for managed campaigns are sent at the end of the monthly billing cycle for the calendar month. Payment is due within 30 days of receipt of the invoice. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign 
 
@@ -12,12 +13,13 @@ Both Managed Service and self-directed Brave Ads Manager campaigns can be paid b
 
 - If buying via Managed Service, simply let your account manager know you’d like to pay via credit card.
 - If buying via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Stripe.
-## By cryptocurrency
 
+## By cryptocurrency
 Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Radom.
 
 - If buying ads via Managed Service, simply let your account manager know you’d like to pay via cryptocurrency. Please note that we currently accept Basic Attention Token (BAT), USD Coin (USDC), and Tether USD (USDT) on the Ethereum blockchain.
 - If buying ads via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Radom.
+
 ## Cancellations
 For New Tab Takeovers, advertisers that cancel within seven days of the campaign launch date will be charged 50% of the campaign cost. 
 
