@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Audience targeting in a privacy-first environment
+# Ad targeting
 Brave has pioneered a new breed of privacy-respecting targeting that is matched directly on the user’s device (aka “client-side”), without any personal data phoning home to Brave’s servers.  To achieve targeting at scale in a privacy-respecting capacity, Brave Ads uses on-device machine learning to anonymously match users to relevant ads. The system is built by leading privacy engineers with a range of cryptographic technologies that ensure that no personally-identifiable data ever leaves the user’s device. Contrary to other major ad tech providers who suck up as much personal data as they can, Brave only ever sees anonymous data.
 
 Each of Brave’s ad units has a unique approach to achieve varying levels of ad relevance with the end user:

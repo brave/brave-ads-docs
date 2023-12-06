@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Status indicators
 
-All campaigns and ads in Brave Ads Manager will display an indicator in the “status” column within Brave Ads Manager to identify their current state. Ads will only deliver when both the campaign and at least one ad are in the "active" state.
+All campaigns and ads in Brave Ads Manager will display an indicator in the “status” column within to identify their current state. Ads will only deliver when both the campaign and at least one ad are in the "active" state.
 ## Campaign states
 
 |   |   |
