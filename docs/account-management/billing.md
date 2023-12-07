@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Billing
-Brave Ads are available to be purchased via various different pricing models. Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
+Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
 
 |   |   |
 |---|---|
