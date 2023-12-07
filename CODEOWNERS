@@ -5,7 +5,7 @@
 # deliberately allow review by any approved committer, not just the code owner.
 
 # to reduce renovate spam: just send these to the core team
-/.github/workflows @tackley @IanKrieger
+/.github/workflows @IanKrieger
 
 .node-version @IanKrieger
 
