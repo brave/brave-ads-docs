@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Reporting in a privacy-first environment
+# Reporting
 Brave Ads is built from the ground up to support the highest privacy standards. By default, the Brave browser blocks third-party tracking including Google Analytics, Adobe Analytics, and other third-party reporting and measurement vendors. While Brave Ads respects (and does not collect) user data, it also gives advertisers useful, granular reporting on campaign performance data in a simple, easy-to-read dashboard. It also enables marketers to see campaign performance using their own reporting systems.
 
 ## Is my reporting blocked?
@@ -22,7 +22,7 @@ Whether your campaign is purchased via Managed Service or Self-Service, all adve
 | Impression       | Counted when an ad is displayed on screen for a minimum of one second.                          | X                  | X                | X            | X                |  
 | Click            | Counted when a user clicks on the ad. Does not include clicks to dismiss.                       | X                  | X                | X            | X                |
 | Dismissed         | Counted when a user clicks the “close” or “x” button to make an ad go away.                     |                    |                  | X            | X                |
-| 10-Second visit   | Counted when a user spends at least ten seconds with the landing page in view in their browser. | X                  |                  | X            | X                |
+| Site visit  | A site visit will be counted if the user clicks an ad and spends at least 10 seconds on the advertiser's website, with the website open in an active browser tab. The 10 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X                  |                  | X            | X                |
 | Upvote & downvote | Counted when a user either upvotes or downvotes an ad in their ad history.                      |                    |                  |              | X                |  
 | Conversion       | Counted when a user reaches a designated conversion landing page. Exported CSV reports will display click-through and view-through attributed-conversions separately.                              | X                  |                  | X            | X                |
 
