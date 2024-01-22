@@ -17,14 +17,19 @@ Blocked scripts will disable most, if not all, functions for third-party trackin
 Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
 
 ### Available reporting metrics in Brave Ads Manager
-| Metric            | Description                                                                                     | Search keyword ads | New tab takeover | Newsfeed ads | Notification ads |
-|-------------------|-------------------------------------------------------------------------------------------------|--------------------|------------------|--------------|------------------|
-| Impression       | Counted when an ad is displayed on screen for a minimum of one second.                          | X                  | X                | X            | X                |  
-| Click            | Counted when a user clicks on the ad. Does not include clicks to dismiss.                       | X                  | X                | X            | X                |
-| Dismissed         | Counted when a user clicks the “close” or “x” button to make an ad go away.                     |                    |                  | X            | X                |
-| Site visit  | A site visit will be counted if the user clicks an ad and spends at least 10 seconds on the advertiser's website, with the website open in an active browser tab. The 10 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X                  |                  | X            | X                |
-| Upvote & downvote | Counted when a user either upvotes or downvotes an ad in their ad history.                      |                    |                  |              | X                |  
-| Conversion       | Counted when a user reaches a designated conversion landing page. Exported CSV reports will display click-through and view-through attributed-conversions separately.                              | X                  |                  | X            | X                |
+| Metric | Description | Search keyword ads | New tab takeover | Newsfeed ads | Notification ads |  |
+|---|---|---|---|---|---|---|
+| Impression | Counted when an ad is displayed on screen for a minimum of one second. | X | X | X | X |  |
+| Click | Counted when a user clicks on the ad. Does not include clicks to dismiss. | X | X | X | X |  |
+| Dismissed | Counted when a user clicks the “close” or “x” button to make an ad go away. |  |  | X | X |  |
+| Site visit | Counted when the user clicks an ad and spends at least 10 seconds on the advertiser's website, with the website open in an active browser tab. The 10 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X |  | X | X |  |
+| Upvote & downvote | Counted when a user either upvotes or downvotes an ad in their ad history. |  |  |  | X |  |
+| Conversion | Counted when a user reaches a designated conversion landing page. Exported CSV reports will display click-through and view-through attributed-conversions separately. |  |  |  | X |  |
+| CTR | The click-through rate is a percentage expressing clicks relative to impressions. | X | X | X | X |  |
+| SVR | The site-visit rate is a percentage expressing site-visits relative to impressions. | X | X | X | X |  |
+| CPA | The cost-per-action found by dividing the total cost of the campaign by the number of conversions. | X |  | X | X |  |
+| Dismissal rate | A percentage expressing dismissed ads relative to impressions. |  |  |  | X |  |
+| Spend | Budget used to buy ads. | X | X | X | X |  |
 
 ### Conversion reporting in Brave Ads Manager
 We strongly recommend including conversion reporting for your Brave campaign. Because Brave ads are delivered via the browser, we are able to report on conversions (signups, orders, etc.) attributed to the campaign using a URL. To include conversion reporting in the Brave Dashboard, please provide a conversion confirmation page URL so Brave can map the event back to the campaign.
