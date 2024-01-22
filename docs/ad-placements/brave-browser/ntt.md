@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # New Tab Takeover
 **Available only via Managed Service buys** <br /><br />
-A Brave New Tab Takeover is a type of advertisement on Brave Search that is designed to promote brands or products. When a Brave browser user opens a new tab, they may see a full-page ad from a company that purchased a New Tab Takeover placement. The ad takes over the entire new tab page background and displays the company's message or branding. The goal is to introduce the user to the advertiser's brand in a prominent way since new tabs are frequently opened. If the user is interested, they can click the ad to learn more on the advertiser's website. New Tab Takeovers provide advertisers with high visibility for their brands while users are still able to access other browser features and search the web as usual from the new tab page.
+The New tab takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
 
 ![NTT.png](/static/img/NTT.png)
 ### Ad requirements
