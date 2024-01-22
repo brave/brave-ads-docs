@@ -8,6 +8,7 @@ Notification ads feature a title and short CTA; clicks drive users to the advert
 
 This unit is an ideal addition for advertisers looking to add engagement, quality site traffic, or acquisition drivers to paid marketing campaigns. Notification ads appear only to those who've opted in to seeing them. This makes them the surface that reaches the most discerning—and engaged—audience in the Brave ecosystem.
 
+![Notification.png](/static/img/Notification.png)
 ### Ad requirements
 - Ad copy
   - Title: 30 character limit, must include brand name

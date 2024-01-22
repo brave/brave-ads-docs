@@ -6,6 +6,7 @@ sidebar_position: 2
 
 Brave News is a private, customizable news feed that appears in every new tab page of the Brave browser. Advertisers can insert paid native display placements that appear similar to the images and snippets shown in the news feed.
 
+![Newsfeed.png](/static/img/Newsfeed.png)
 ### Ad requirements
 - Image
   - 900w x 750h (JPEG or PNG)

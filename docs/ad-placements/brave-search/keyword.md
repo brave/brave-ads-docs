@@ -6,6 +6,7 @@ sidebar_position: 1
 **Available only via Managed Service buys** <br /><br />
 Search keyword ads are similar to the text and url-based ads shown on search engines like Google and Bing. When people search on Brave Search for terms related to an advertiser's products or services, the advertiser's ad may appear at the top or side of the search results. If a user clicks the ad, they will be directed to the advertiser's website. This allows advertisers to reach people searching for relevant products and services in high-intent moments. Unlike some other search engines, Brave Search Ads are designed to respect users' privacy and not track people across the internet.
 
+![Search.png](/static/img/Search.png)
 ### Ad requirements
 - Ad copy
   - Headline: 30 characters
