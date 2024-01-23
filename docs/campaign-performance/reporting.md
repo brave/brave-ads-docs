@@ -19,12 +19,14 @@ Whether your campaign is purchased via Managed Service or Self-Service, all adve
 ### Available reporting metrics in Brave Ads Manager
 | Metric | Description | Search keyword ads | New tab takeover | Newsfeed ads | Notification ads |  |
 |---|---|---|---|---|---|---|
-| Impression | Counted when an ad is displayed on screen for a minimum of one second. | X | X | X | X |  |
-| Click | Counted when a user clicks on the ad. Does not include clicks to dismiss. | X | X | X | X |  |
+| Impressions | Counted when an ad is displayed on screen for a minimum of one second. | X | X | X | X |  |
+| Clicks | Counted when a user clicks on the ad. Does not include clicks to dismiss. | X | X | X | X |  |
 | Dismissed | Counted when a user clicks the “close” or “x” button to make an ad go away. |  |  | X | X |  |
-| Site visit | Counted when the user clicks an ad and spends at least 10 seconds on the advertiser's website, with the website open in an active browser tab. The 10 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X |  | X | X |  |
-| Upvote & downvote | Counted when a user either upvotes or downvotes an ad in their ad history. |  |  |  | X |  |
-| Conversion | Counted when a user reaches a designated conversion landing page. Exported CSV reports will display click-through and view-through attributed-conversions separately. |  |  |  | X |  |
+| Site visits | Counted when the user clicks an ad and spends at least 10 seconds on the advertiser's website, with the website open in an active browser tab. The 10 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X |  | X | X |  |
+| Upvotes & downvotes | Counted when a user either upvotes or downvotes an ad in their ad history. |  |  |  | X |  |
+| Conversions | Sum total of all conversions, including anonymous conversions without a specified click or view attribution. Counted when a user reaches a designated conversion landing page. | X |  | X | X |  |
+| Click-through conversions | Counted when a user reaches a designated conversion landing page following an impression and click of the ad. | X |  | X | X |  |
+| View-through conversions | Counted when a user reaches a designated conversion landing page following an ad impression. | X |  | X | X |  |
 | CTR | The click-through rate is a percentage expressing clicks relative to impressions. | X | X | X | X |  |
 | SVR | The site-visit rate is a percentage expressing site-visits relative to impressions. | X | X | X | X |  |
 | CPA | The cost-per-action found by dividing the total cost of the campaign by the number of conversions. | X |  | X | X |  |
