@@ -4,7 +4,7 @@ slug: /
 ---
 
 # Introduction to Brave Ads
-Brave Ads are first-party ad placements available throughout Brave, the privacy-first Web browser, Brave Search, the world’s fastest growing independent search engine.
+Brave Ads are first-party ad placements available throughout Brave, the privacy-first Web browser and Brave Search, the world’s fastest growing independent search engine.
 
 ## Brave Ads Manager
 Brave Ads Manager, or Ads Manager, is where Brave Ads campaigns are created, managed, and analyzed. There are two ways to buy Brave Ads:

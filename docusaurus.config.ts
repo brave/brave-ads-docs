@@ -41,6 +41,8 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  
+  staticDirectories: ["static"],
 
   themeConfig: {
     navbar: {
