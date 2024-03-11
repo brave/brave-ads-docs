@@ -2,33 +2,19 @@
 sidebar_position: 1
 ---
 
-# Search keyword ads
-**Available only via Managed Service buys** <br /><br />
-Search keyword ads are similar to the text and url-based ads shown on search engines like Google and Bing. When people search on Brave Search for terms related to an advertiser's products or services, the advertiser's ad may appear at the top or side of the search results. If a user clicks the ad, they will be directed to the advertiser's website. This allows advertisers to reach people searching for relevant products and services in high-intent moments. Unlike some other search engines, Brave Search Ads are designed to respect users' privacy and not track people across the internet.
+# Search ads
+**This product is currently only available to enterprise customers who meet a minimum set of criteria. Please contact adsales@brave.com to inquire.** <br /><br />
+Brave Search is the default search engine in the Brave browser and the fastest growing search engine since Bing. Search ads display when a user enters queries that match advertiser keywords that are generated based on the advertiser’s website. For example, if a user enters the query “blue shoes”, an ad will be shown from an advertiser who sells shoes on their website. If there is no relevant ad for the query, an organic result will be shown instead.
 
 ![Search.png](/img/Search.png)
-### Ad requirements
-- Ad copy
-  - Headline: 30 characters
-  - Description: 90 characters
-- Click-through URL
-  - No redirects/URL shortening
 
-### Available targeting
-**Keyword**: List all terms or phrases that a customer might use to describe your products or services <br />
-**Geo**: Country level or global (some restrictions apply)
+### Overview
+All ads are created automatically based on landing page content to ensure an ideal user experience. When an ad shows on Brave Search, it’s because a keyword that matches the content of an advertiser landing page is a sufficient match. For both the user and advertiser this is the ideal outcome: the user finds what they are looking for, and the advertiser gets the user to their website.
+
+### Ad requirements
+- The domain that you will be sending traffic to (for example: https://brave.com or https://wikipedia.org)
+- Your email address must match this domain (for example: user@brave.com or user@wikipedia.org) 
+- Query string parameters (optional but recommended)
 
 ### Pricing
 - CPC
-
-### Best practices
-- Add context to your headline for clarity, e.g. _Masterclass. Learn from the best._
-- Use unique landing pages such as “advertiser.com/brave” to make measurement easier
-- Use multiple versions of ad creative for testing
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Vary copy to appeal to different audiences or product features
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
-- No redirect URLS (ads must direct to your owned domain or social media)
