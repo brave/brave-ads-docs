@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # Policies and restrictions
@@ -25,5 +25,6 @@ Campaigns cannot currently advertise products and services for the following pro
 - Content targeting expecting mothers
 
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
+
 ## Brand safety
 All Brave ads are brand safe in that they are served first-party at the browser or search-engine level, not before, between, or after content on explicit or potentially unsafe third-party websites.

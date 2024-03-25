@@ -5,9 +5,8 @@ sidebar_position: 1
 # Billing
 Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
 
-|   |   |
-|---|---|
 |**Pricing model**|**Billable event (if applicable)**|
+|---|---|
 |**Flat**|A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New tab takeovers.|
 |**CPM**|Refers to a cost-per-thousand impressions, whereby the advertiser is billed a fixed price for each thousand impressions delivered by their campaign.|
 |**CPC**|Refers to a cost-per-click, whereby the advertiser is billed based on a fixed price for each individual click delivered by their campaign.|
