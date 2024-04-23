@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
 ---
+# API
 
-# Getting Started
+## Getting Started
 1. Log on to https://ads.brave.com
 
 2. Generate an API KEY
