@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # New Tab Takeover
 **Available only via Managed Service buys** <br /><br />
-The New tab takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
+The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
 
 ![NTT.png](/img/NTT.png)
 ### Ad requirements
