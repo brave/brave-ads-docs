@@ -7,10 +7,9 @@ Brave Ads are available to be purchased via various different pricing models. By
 
 |**Pricing model**|**Billable event (if applicable)**|
 |---|---|
-|**Flat**|A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New tab takeovers.|
+|**Flat**|A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New Tab Takeovers.|
 |**CPM**|Refers to a cost-per-thousand impressions, whereby the advertiser is billed a fixed price for each thousand impressions delivered by their campaign.|
 |**CPC**|Refers to a cost-per-click, whereby the advertiser is billed based on a fixed price for each individual click delivered by their campaign.|
-|**CPSV**|Refers to a cost-per-site-visit, whereby the advertiser is billed based on a fixed price for each individual site visit delivered by their campaign. See the [campaign reporting metrics](https://ads-help.brave.com/campaign-performance/reporting) section for the full definition of Brave’s site visit metric.|
 
 The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
 

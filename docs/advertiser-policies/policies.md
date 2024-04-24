@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Policies and restrictions
+# General policies
 ## Policies
 
 - [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
@@ -25,6 +25,19 @@ Campaigns cannot currently advertise products and services for the following pro
 - Content targeting expecting mothers
 
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
+
+## Redirect links
+
+Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any link that redirects to another domain, even if owned by the same advertiser, will be rejected.
+
+**Examples of redirects which will be rejected:**
+- `https://landing.brave.me` Redirects to: `https://brave.com/landing`
+    - Assuming they are both owned by Brave, this would still be denied since they are not on the same eTLD+1.
+- `https://brave.page.link/abc` - which redirects `https://brave.com/landing`
+
+**Examples of redirects that will be accepted:**
+- `brave.com/marketing` redirecting to `https://ads.brave.com` 
+- `https://landing.brave.com` redirecting to `https://brave.com` 
 
 ## Brand safety
 All Brave ads are brand safe in that they are served first-party at the browser or search-engine level, not before, between, or after content on explicit or potentially unsafe third-party websites.
