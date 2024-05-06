@@ -4,14 +4,22 @@ sidebar_position: 2
 # Reporting
 Brave Ads is built from the ground up to support the highest privacy standards. By default, the Brave browser blocks third-party tracking including Google Analytics, Adobe Analytics, and other third-party reporting and measurement vendors. While Brave Ads respects (and does not collect) user data, it also gives advertisers useful, granular reporting on campaign performance data in a simple, easy-to-read dashboard. It also enables marketers to see campaign performance using their own reporting systems.
 
-## Is my reporting blocked?
+## Is my reporting blocked by Brave?
 The first step is to understand what is being blocked by the Brave browser. To do so, open Brave on your desktop and navigate to your business site or campaign landing page and follow these steps:
 
 1. Click on the Brave lion icon on the right side of the address bar.
 2. Expand the “Advanced Control” menu. 
 3. Click the purple number located next to “Block Trackers and Ads’’ to display what is currently being blocked.
     
-Blocked scripts will disable most, if not all, functions for third-party tracking.
+Blocked scripts will disable most, if not all, functions for third-party tracking. Here's a helpful table with examples of different tracking scenarios and their compatibility with Brave Ads:
+
+| Sample scenarios | Sample endpoint for www.example.com | Compatible with  Brave Ads |
+|---|---|---|
+| Custom Website Analytics (first-party) | analytics.example.com | YES |
+| Google Analytics 4 (first-party) | analytics.example.com | YES |
+| Adobe Analytics (first-party) | analytics.example.com | YES |
+| Google Analytics 4 (hosted by Google)  | google.com | NO |
+| Adobe Analytics (hosted by Adobe) | adobe.com | NO |
 
 ## Brave Ads Manager reporting
 Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
