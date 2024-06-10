@@ -12,30 +12,30 @@ Os anúncios Brave podem ser adquiridos por meio de diferentes modelos de precif
 | **CPM**                    | Refere-se a um custo por mil visualizações, onde o anunciante é cobrado um preço fixo para cada mil visualizações entregues pela sua campanha.                                      |
 | **CPC**                    | Refere-se a um custo por clique, onde o anunciante é cobrado com base em um preço fixo para cada clique individual entregue pela sua campanha.                                      |
 
-The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
+O modelo de precificação é definido no conjunto de anúncios da campanha e não pode ser alterado durante uma execução. Para mudar um conjunto de anúncios para um novo modelo de precificação, o conjunto de anúncios original deve ser pausado e um novo deve ser criado com o modelo de precificação revisado. O conjunto de anúncios original será cobrado conforme a precificação original.
 
-## Paying an invoice
+## Pagamento de fatura
 
-By default, invoices for managed campaigns are sent at the end of the monthly billing cycle for the calendar month. Payment is due within 30 days of receipt of the invoice. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign
+Por padrão, as faturas para campanhas gerenciadas são enviadas ao final do ciclo de faturamento mensal para o respectivo mês calendário. O pagamento deve ser efetuado dentro de 30 dias após o recebimento da fatura. O Brave pode, a nosso critério, exigir o pré-pagamento para anunciantes e campanhas antes do lançamento da sua campanha
 
-## Paying with a credit card
+## Pagamento com cartão de crédito
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Stripe. 
+Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciador de Anúncios Brave podem ser pagas com cartão de crédito através da Stripe.
 
-- If buying via Managed Service, simply let your account manager know you’d like to pay via credit card.
-- If buying via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Stripe.
+- Se estiver comprando através do Serviço Gerenciado, basta informar ao seu gerente de conta que gostaria de pagar via cartão de crédito.
+- Se estiver comprando através do Gerenciador de Anúncios Brave, precisará fazer um "top-up" — complemento — na sua conta da Stripe para efetuar o pré-pagamento da sua campanha.
 
-## Paying with cryptocurrency
+## Pagamentos com criptomoedas
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Radom.
+Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciador de Anúncios Brave podem ser pagos com cartão de crédito através da Radom.
 
-- If buying ads via Managed Service, simply let your account manager know you’d like to pay via cryptocurrency. Please note that we currently accept Basic Attention Token (BAT), USD Coin (USDC), and Tether USD (USDT) on the Ethereum blockchain.
-- If buying ads via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Radom.
+- Se estiver comprando através do Serviço Gerenciado, basta informar ao seu gerente de conta que gostaria de pagar via criptomoeda. Por favor, observe que atualmente aceitamos Basic Attention Token (BAT), USD Coin (USDC) e Tether USD (USDT) na blockchain Ethereum.
+- Se estiver comprando através do Gerenciador de Anúncios Brave, precisará fazer um "top-up" — complemento — na sua conta da Radom para efetuar o pré-pagamento da sua campanha.
 
-## Cancellations
+## Cancelamentos
 
-For New Tab Takeovers, advertisers that cancel within seven days of the campaign launch date will be charged 50% of the campaign cost. 
+Para os Anúncios de Nova Guia, os anunciantes que cancelarem dentro de sete dias após a data de lançamento da campanha serão cobrados 50% do custo da campanha.
 
-If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused. 
+Se estiver trabalhando com a nossa equipe de contas e vendas, você pode cancelar suas campanhas de anúncios de Pesquisa, Notificações ou Feed de Notícias a qualquer momento e só será faturado pelos valores gastos até o momento em que a campanha foi interrompida.
 
-If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [adops@brave.com](mailto:adops@brave.com).
+Se efetuou o pré-pagamento da sua campanha por meio da nossa opção de autoatendimento e deseja cancelá-la antecipadamente, observe que precisará solicitar um reembolso para qualquer saldo restante enviando um e-mail para [adops@brave.com](mailto:adops@brave.com).
