@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Notification ads
+# Anúncios de Notificação
 
-Notification ads feature a title and short CTA; clicks drive users to the advertiser’s desired landing page. Ads are served over content at the browser level, not on web pages, within videos, or any of the more obtrusive practices of traditional display ads.
+Os Anúncios de Notificação apresentam um título e um CTA curto; os cliques direcionam os usuários para a página de destino desejada pelo anunciante. Os anúncios são veiculados sobre o conteúdo diretamente no navegador, não em páginas da web, em vídeos, ou em qualquer uma das práticas mais invasivas dos anúncios de exibição tradicionais.
 
 This unit is an ideal addition for advertisers looking to add engagement, quality site traffic, or acquisition drivers to paid marketing campaigns. Notification ads appear only to those who've opted in to seeing them. This makes them the surface that reaches the most discerning—and engaged—audience in the Brave ecosystem.
 
