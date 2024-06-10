@@ -2,35 +2,35 @@
 sidebar_position: 1
 ---
 
-# New Tab Takeover
+# Anúncios de Nova Guia
 
-**Available only via Managed Service buys** <br /><br />
-The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
+**Disponível apenas para compras via Serviços Gerenciados** <br /><br />
+Os Anúncios de Nova Guia são o recurso de maior impacto do Brave, proporcionando um preenchimento quase total da tela da página de nova guia no Brave. Os anúncios são exibidos na primeira nova guia ao abrir o navegador e a cada terceira nova guia subsequente. Entre esses anúncios, os usuários veem uma seleção de fotografias de paisagens enviadas pela comunidade Brave.
 
 ![NTT.png](/img/NTT.png)
 
-### Ad requirements
+### Requisitos do anúncio
 
-- One to three background images
-  - 2560 (wide) x 1440 (high), JPEG format only
-  - Distinctly different visuals to ensure new-tabs don’t become monotonous
-  - Place the main focal point of the background around x:935 y:680 to prevent obstruction by new tab widgets (clock, cards, favorites, etc.)
-  - Background images will be cropped for mobile based on main focal range above
-- Logo canvas
-  - 512 x 512, transparent PNG only
-  - Will be used for all background images
-  - Consists of a brand logo, ad copy, and optional CTA (illustration)
-  - White text/logos are preferred but color will be accepted pending approval
-  - Minimum 38pt text can be used to ensure legibility on smaller devices
-- Click-through URL
-  - No redirects/URL shortening
-  - One URL will be used for all background images
+- Uma a três imagens de fundo
+  - 2560 (largura) x 1440 (altura), apenas no formato JPEG
+  - Imagens completamente distintas para garantir que as novas guias não se tornem monótonas
+  - Posicione o ponto focal principal do plano de fundo em torno de x:935 y:680 para evitar obstruções pelos widgets da nova guia (relógio, cartões, favoritos, etc.)
+  - As imagens de fundo serão cortadas para dispositivos móveis com base no intervalo focal principal acima
+- Canvas do logotipo
+  - 512 x 512, apenas em formato PNG transparente
+  - Será usado para todas as imagens de fundo
+  - Consiste em um logotipo da marca, texto do anúncio e um CTA opcional (ilustração)
+  - Texto/logotipos em branco são preferidos, mas cores serão aceitas mediante aprovação
+  - O texto deve ter no mínimo 38pts para garantir a legibilidade em dispositivos menores
+- URL de cliques
+  - Sem redirecionamentos ou encurtamento de URL
+  - Uma URL será usada para todas as imagens de fundo
 
-### Available targeting
+### Direcionamento disponível
 
-By country (single, multiple countries, or full global takeover)
+Por país (um, vários países, ou cobertura global completa)
 
-### Best practices
+### Boas práticas
 
-- Review our [best practices document](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
-- Use Brave’s [online mockup tool](https://mockup.ads.brave.com) to test images
+- Confira nosso [documento de boas práticas](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
+- Use a [ferramenta de mockups online](https://mockup.ads.brave.com) do Brave para testar imagens
