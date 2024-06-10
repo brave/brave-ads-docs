@@ -2,43 +2,43 @@
 sidebar_position: 2
 ---
 
-# Newsfeed ads
+# Anúncios do feed de notícias
 
-Brave News is a private, customizable news feed that appears in every new tab page of the Brave browser. Advertisers can insert paid native display placements that appear similar to the images and snippets shown in the news feed.
+Notícias Brave é um feed de notícias privado e personalizável que aparece em cada nova guia do navegador Brave. Os anunciantes podem inserir anúncios pagos de exibição nativa que aparecem de forma semelhante às imagens e "snippets" apresentados no feed de notícias.
 
 ![Newsfeed.png](/img/Newsfeed.png)
 
-### Ad requirements
+### Requisitos do anúncio
 
-- Image
-  - 900w x 750h (JPEG or PNG)
-- Ad copy
-  - Title: 90 characters maximum
-  - Call to action (CTA): 15 characters maximum
-  - Brand name: 30 characters maximum
-- Click-through URL
-  - No redirects/URL shortening
+- Imagem
+  - 900l x 750a (JPEG ou PNG)
+- Copy do anúncio
+  - Título: 90 caracteres no máximo
+  - Chamada para ação (CTA): máximo de 15 caracteres
+  - Nome da marca: 30 caracteres no máximo
+- URL de cliques
+  - Sem redirecionamentos ou encurtamento de URL
 
-### Available targeting
+### Direcionamento disponível
 
-- By device
+- Por dispositivo
   - MacOS, Windows, Linux, Android, iOS
-- By country
+- Por país
 
-**Note**: currently available only to browsers with English and Japanese language settings.
+**Nota**: atualmente disponível apenas para navegadores com configurações de idioma em inglês e japonês.
 
-### Pricing
+### Precificação
 
 - CPM
 - CPC
 
-### Best practices
+### Boas práticas
 
-- Use multiple versions of ad creative for testing
-- Use engaging imagery such as products, or demonstrative illustrations
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Limit text in images, some text is fine
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
+- Use várias versões de criativos de anúncios para testes
+- Use imagens atrativas, como produtos ou ilustrações demonstrativas
+- Use uma chamada para ação específica: _Saiba Mais, Experimente Agora, Compre Agora, Cadastre-se, etc._
+- Limite o texto em imagens, um pouco de texto é aceitável
+- Evite títulos apelativos, ou "clickbaits"
+- Evite afirmar altos retornos em investimentos (APY/APR)
+- Evite utilizar todas as letras em maiúsculo
+- Não use palavrões, nudez, violência ou substâncias ilícitas
