@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Billing
+# Cobrança
 
-Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
+Os anúncios Brave podem ser adquiridos por meio de diferentes modelos de precificação. Por padrão, todas as campanhas publicitárias serão universalmente cobradas em USD, no entanto, outras opções estão disponíveis.
 
-| **Pricing model** | **Billable event (if applicable)**                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Flat**          | A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New Tab Takeovers. |
-| **CPM**           | Refers to a cost-per-thousand impressions, whereby the advertiser is billed a fixed price for each thousand impressions delivered by their campaign.                                   |
-| **CPC**           | Refers to a cost-per-click, whereby the advertiser is billed based on a fixed price for each individual click delivered by their campaign.                                             |
+| **Modelo de Precificação** | **Evento faturável (se aplicável)**                                                                                                                                              |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fixo                       | Uma taxa fixa refere-se a uma tarifa estática, independentemente da entrega ou desempenho. Taxas fixas são atualmente utilizadas apenas para Anúncios de Nova Guia. |
+| **CPM**                    | Refere-se a um custo por mil visualizações, onde o anunciante é cobrado um preço fixo para cada mil visualizações entregues pela sua campanha.                                      |
+| **CPC**                    | Refere-se a um custo por clique, onde o anunciante é cobrado com base em um preço fixo para cada clique individual entregue pela sua campanha.                                      |
 
 The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
 
