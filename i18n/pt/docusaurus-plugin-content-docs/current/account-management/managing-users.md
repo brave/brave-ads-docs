@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Managing users
+# Gerenciamento de usuários
 
-To add new users to your advertiser account, please email adops@brave.com from the same email address you used to set up your account and our team will be happy to help with adding additional users.
+Para incluir novos usuários à sua conta de anunciante, basta enviar um e-mail para adops@brave.com pelo mesmo endereço de e-mail que você usou para configurar sua conta, e nossa equipe ficará feliz em ajudar adicionando usuários adicionais.
