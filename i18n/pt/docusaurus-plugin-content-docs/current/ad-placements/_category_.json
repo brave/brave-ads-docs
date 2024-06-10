@@ -1,8 +1,8 @@
 {
-  "label": "Ad placements",
+  "label": "Posicionamentos de Anúncios",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "title": "Brave ad placements"
+    "type": "índice gerado",
+    "title": "Posicionamentos de anúncios do Brave"
   }
 }
