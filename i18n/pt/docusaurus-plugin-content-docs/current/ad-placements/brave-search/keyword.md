@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Search ads
+# Anúncios de Pesquisa
 
-**This product is currently only available to enterprise customers who meet a minimum set of criteria. Please contact adsales@brave.com to inquire.** <br /><br />
-Brave Search is the default search engine in the Brave browser and the fastest growing search engine since Bing. Search ads display when a user enters queries that match advertiser keywords that are generated based on the advertiser’s website. For example, if a user enters the query “blue shoes”, an ad will be shown from an advertiser who sells shoes on their website. If there is no relevant ad for the query, an organic result will be shown instead.
+**No momento, este produto está disponível apenas para clientes corporativos que atendam a um conjunto mínimo de critérios. Por favor, entre em contato com adsales@brave.com para perguntar.**<br /><br />
+A Pesquisa Brave é o mecanismo de busca padrão no navegador Brave e o mecanismo de busca de crescimento mais rápido desde o Bing. Os anúncios de pesquisa são exibidos quando um usuário insere consultas que correspondem às palavras-chave do anunciante, que são geradas com base no site do anunciante. For example, if a user enters the query “blue shoes”, an ad will be shown from an advertiser who sells shoes on their website. If there is no relevant ad for the query, an organic result will be shown instead.
 
 ![Search.png](/img/Search.png)
 
