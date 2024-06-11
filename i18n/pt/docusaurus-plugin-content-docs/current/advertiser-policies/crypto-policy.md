@@ -48,25 +48,25 @@ To maintain the high standards of our platform, prospective advertisers in this 
 - Se aplicável, o token ou criptomoeda da empresa está listado com informações correspondentes ao site do anunciante no Coinmarketcap.com e/ou Coingecko.com
 - Se aplicável, o token ou criptomoeda da empresa deve estar listado ou disponível em bolsas centralizadas bem conhecidas, ou em bolsas descentralizadas
 
-A search for the project should not return controversial reports or reports from users or customers of suspect behavior from the company.
+Uma busca pelo projeto não deve retornar relatórios controversos ou relatos de comportamento suspeito da empresa por parte de usuários, ou clientes.
 
-## Creative guidelines
+## Diretrizes criativas
 
-### Creative (ad) copy:
+### Copy do criativo (anúncio):
 
-- Should focus on the value proposition and use case of the project, token or service
-- Should not include speculative language, references to the token as an investment or claims of increasing value or guaranteed returns
-- Must not include speculative language related to value or price of the token or cryptocurrency
-- Guaranteed fixed APY or APR rates cannot be advertised
-- Using “bonus”, “up to” or other similar text is normally acceptable upon review
-  - For example:  “Earn up to 5% in staking rewards.”
+- Deve focar na proposta de valor e no caso de uso do projeto, token ou serviço
+- Não deve incluir linguagem especulativa, referências ao token como um investimento ou afirmações de aumento de valor, ou retornos garantidos
+- Não deve incluir linguagem especulativa relacionada ao valor ou preço do token, ou criptomoeda
+- Taxas fixas garantidas de APY ou APR não podem ser anunciadas
+- O uso de "bônus", "até" ou outro texto semelhante é geralmente aceitável após revisão
+  - Por exemplo: “Ganhe até 5% em recompensas de staking.”
 
-### Click-through URLs:
+### URLs de cliques:
 
-- Landing pages must direct users to the top level domain, or related subdomain for the registered advertiser
-- URLs should not contain third-party redirects that navigate users to exchanges, liquidity pools, or secondary sites
+- As páginas de destino devem direcionar os usuários para o domínio de nível superior ou subdomínio relacionado do anunciante registrado
+- As URLs não devem conter redirecionamentos de terceiros que levem os usuários a corretoras, pools de liquidez ou sites secundários
 
-## Pay-to-play games, casino raffles, lotteries
+## Jogos do tipo "pay to play", sorteios de cassino, loterias
 
 - Any advertiser requiring a payment or deposit, whether in fiat or crypto, to enter a contest will be denied
   - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
