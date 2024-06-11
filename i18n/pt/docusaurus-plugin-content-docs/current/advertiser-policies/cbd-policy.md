@@ -9,10 +9,10 @@ sidebar_position: 2
 Este artigo fala sobre a política para a publicidade de produtos de CBD com os Anúncios Brave nos Estados Unidos.
 Os Anúncios Brave podem passar a permitir a publicidade de produtos de CBD fora dos Estados Unidos no futuro, mas atualmente só permite anúncios de CBD dentro dos Estados Unidos.
 Este documento se aplica apenas à publicidade de produtos de CBD e não se aplica a produtos relacionados ao THC.
-Advertising for “CBD flower”, “CBD wraps” or any CBD products used for smoking is prohibited.
-Advertisements cannot click-through to landing pages that feature THC products for sale alongside the CBD product being advertised.
+A publicidade da "flor de CBD", "papéis para enrolar de CBD" ou quaisquer produtos de CBD usados para fumar é proibida.
+Anúncios não podem direcionar para páginas de destino que apresentem produtos de THC à venda com o produto de CBD anunciado.
 
-## Advertising CBD
+## Publicidade de CBD
 
 The Agriculture Improvement Act of 2018 was signed into US federal law, removing hemp from the Controlled Substances Act. However, the legal status of CBD varies from state to state. The guidelines below (which are provided for reference only and should not be relied upon by any advertisers) cover where CBD advertisers can advertise their products in Brave Ads, and applicable conditions per state.
 
