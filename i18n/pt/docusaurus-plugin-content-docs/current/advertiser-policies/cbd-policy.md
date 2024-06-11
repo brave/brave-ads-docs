@@ -31,25 +31,25 @@ Você concorda em indenizar, defender e isentar de responsabilidade o Brave e su
 - Indiana
 - Maine
 - Missouri
-- New Jersey
-- New Mexico
-- North Dakota
+- Nova Jersey
+- Novo México
+- Dakota do Norte
 - Ohio
 - Oklahoma
-- Virginia
+- Virgínia
 - Alabama
 - Tennessee
 - Utah
 
-### CBD advertising, excluding food/beverage products, is available in:
+### A publicidade de CBD, excluindo produtos alimentícios/bebidas, está disponível em:
 
-- Alaska
+- Alasca
 - Arizona
 - Arkansas
-- California
+- Califórnia
 - Colorado
 - Connecticut
-- Georgia
+- Geórgia
 - Kansas
 - Kentucky
 - Massachusetts
@@ -57,9 +57,9 @@ Você concorda em indenizar, defender e isentar de responsabilidade o Brave e su
 - Minnesota
 - Montana
 - Nebraska
-- New York
-- North Carolina
-- Pennsylvania
+- Nova Iorque
+- Carolina do Norte
+- Pensilvânia
 - South Carolina
 - Vermont
 - Washington
