@@ -7,7 +7,7 @@ sidebar_position: 1
 **No momento, este produto está disponível apenas para clientes corporativos que atendam a um conjunto mínimo de critérios. Por favor, entre em contato com adsales@brave.com para perguntar.**<br /><br />
 A Pesquisa Brave é o mecanismo de busca padrão no navegador Brave e o mecanismo de busca de crescimento mais rápido desde o Bing. Os anúncios de pesquisa são exibidos quando um usuário insere consultas que correspondem às palavras-chave do anunciante, que são geradas com base no site do anunciante. Por exemplo, se um usuário digitar a consulta "sapatos azuis", um anúncio será exibido de um anunciante que vende sapatos em seu site. Se não houver um anúncio relevante para a consulta, um resultado orgânico será exibido em seu lugar.
 
-![Search.png](/img/Search.png)
+![Pesquisa.png](/img/Search.png)
 
 ### Visão geral
 
