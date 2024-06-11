@@ -45,8 +45,8 @@ To maintain the high standards of our platform, prospective advertisers in this 
 
 ## Market presence:
 
-- If applicable, the company token or cryptocurrency is listed with matching information to the advertiser website on Coinmarketcap.com and/or Coingecko.com
-- If applicable, the company token or cryptocurrency should be listed or available on well-known centralized exchanges, or decentralized exchanges
+- Se aplicável, o token ou criptomoeda da empresa está listado com informações correspondentes ao site do anunciante no Coinmarketcap.com e/ou Coingecko.com
+- Se aplicável, o token ou criptomoeda da empresa deve estar listado ou disponível em bolsas centralizadas bem conhecidas, ou em bolsas descentralizadas
 
 A search for the project should not return controversial reports or reports from users or customers of suspect behavior from the company.
 
