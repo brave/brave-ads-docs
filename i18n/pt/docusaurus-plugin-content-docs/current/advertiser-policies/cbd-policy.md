@@ -2,13 +2,13 @@
 sidebar_position: 2
 ---
 
-# CBD Policy
+# Política sobre o CBD
 
-## Introduction
+## Introdução
 
-This article covers the policy for advertising CBD products with Brave Ads in the United States.
-Brave Ads may support CBD advertising outside of the United States in the future, but currently only supports advertising CBD within the United States.
-This document only applies for CBD advertising, and does not apply to THC-related products.
+Este artigo fala sobre a política para a publicidade de produtos de CBD com os Anúncios Brave nos Estados Unidos.
+Os Anúncios Brave podem passar a permitir a publicidade de produtos de CBD fora dos Estados Unidos no futuro, mas atualmente só permite anúncios de CBD dentro dos Estados Unidos.
+Este documento se aplica apenas à publicidade de produtos de CBD e não se aplica a produtos relacionados ao THC.
 Advertising for “CBD flower”, “CBD wraps” or any CBD products used for smoking is prohibited.
 Advertisements cannot click-through to landing pages that feature THC products for sale alongside the CBD product being advertised.
 
