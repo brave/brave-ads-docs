@@ -68,8 +68,8 @@ Uma busca pelo projeto não deve retornar relatórios controversos ou relatos de
 
 ## Jogos do tipo "pay to play", sorteios de cassino, loterias
 
-- Any advertiser requiring a payment or deposit, whether in fiat or crypto, to enter a contest will be denied
-  - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
-- Play to Earn and Quests with engagement rewards are allowed
-  - Example: users enter their email address for a chance to win an NFT
-- It is acceptable for an advertiser to focus their campaign on a free giveaway while there are other parts of the site allowing pay-to-play elements
+- Qualquer anunciante que exija um pagamento ou depósito, seja em moeda fiduciária ou criptomoeda, para participar de um concurso será rejeitado
+  - Exemplo: Um usuário deposita ETH ou outra criptomoeda/moeda fiduciária para concorrer a um NFT
+- "Play to Earn" e "Quests" com recompensas de engajamento são permitidos
+  - Exemplo: os usuários inserem seu endereço de e-mail para concorrer a um NFT
+- É aceitável que um anunciante concentre sua campanha em um sorteio gratuito, enquanto outras partes do site permitem elementos "pay to play"
