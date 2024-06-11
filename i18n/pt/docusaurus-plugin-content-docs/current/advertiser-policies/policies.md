@@ -2,39 +2,39 @@
 sidebar_position: 1
 ---
 
-# General policies
+# Políticas gerais
 
-## Policies
+## Políticas
 
-- [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
-- [Basic Attention Token terms of service](https://basicattentiontoken.org/advertiser-terms-of-service/)
-- [IAB standard terms & conditions](https://www.iab.com/wp-content/uploads/2015/06/IAB_4As-tsandcs-FINAL.pdf)
+- [Política de privacidade do anunciante](https://brave.com/privacy/advertiser/)
+- [Termos de serviço do Basic Attention Token](https://basicattentiontoken.org/advertiser-terms-of-service/)
+- [Termos e condições padrão da IAB](https://www.iab.com/wp-content/uploads/2015/06/IAB_4As-tsandcs-FINAL.pdf)
 
-## Restricted and prohibited categories
+## Categorias restritas e proibidas
 
-Campaigns cannot currently advertise products and services for the following prohibited and restricted categories:
+No momento, as campanhas não podem anunciar produtos e serviços das seguintes categorias proibidas e restritas:
 
-- CBD (available in the US with state-level restrictions)
+- CBD (disponível nos EUA com restrições estaduais)
 - THC
-- Tobacco
-- Vaping
-- Pharmaceuticals
-- Gambling
-- Adult content
-- Politics
-- Violence
-- Content targeting children
-- Content targeting expecting mothers
+- Tabaco
+- Cigarro eletrônico
+- Produtos farmacêuticos
+- Apostas
+- Conteúdo adulto
+- Política
+- Violência
+- Conteúdo direcionado a crianças
+- Conteúdo direcionado a futuras mães
 
-Note: While currently unavailable, advertising to restricted categories may become available in the future.
+Observação: Embora atualmente indisponível, a publicidade para categorias restritas pode se tornar disponível no futuro.
 
-## Redirect links
+## Redirecionar links
 
-Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any link that redirects to another domain, even if owned by the same advertiser, will be rejected.
+Anunciantes não podem usar links de redirecionamento a menos que estejam no mesmo eTLD+1. Qualquer link que redirecione para outro domínio, mesmo que seja de propriedade do mesmo anunciante, será rejeitado.
 
-**Examples of redirects which will be rejected:**
+**Exemplos de redirecionamentos que serão rejeitados:**
 
-- `https://landing.brave.me` Redirects to: `https://brave.com/landing`
+- `https://landing.brave.me` Redireciona para: `https://brave.com/landing`
   - Assuming they are both owned by Brave, this would still be denied since they are not on the same eTLD+1.
 - `https://brave.page.link/abc` - which redirects `https://brave.com/landing`
 
