@@ -8,7 +8,7 @@ Os Anúncios de Notificação apresentam um título e um CTA curto; os cliques d
 
 Este recurso é uma ótima opção para anunciantes que desejam aumentar o engajamento, o tráfego de qualidade para o site ou os impulsionadores de consumo em campanhas de marketing pagas. Anúncios de notificação aparecem apenas para aqueles que optaram por vê-los. Isso os torna a opção que alcança o público mais exigente e engajado no ecossistema Brave.
 
-![Notification.png](/img/Notification.png)
+![Notificação.png](/img/Notification.png)
 
 ### Requisitos do anúncio
 
