@@ -14,19 +14,19 @@ Anúncios não podem direcionar para páginas de destino que apresentem produtos
 
 ## Publicidade de CBD
 
-The Agriculture Improvement Act of 2018 was signed into US federal law, removing hemp from the Controlled Substances Act. However, the legal status of CBD varies from state to state. The guidelines below (which are provided for reference only and should not be relied upon by any advertisers) cover where CBD advertisers can advertise their products in Brave Ads, and applicable conditions per state.
+A Lei de Melhoria da Agricultura de 2018 foi sancionada como lei federal nos EUA, removendo o cânhamo da lista de substâncias controladas. No entanto, a situação legal do CBD varia de estado para estado. As diretrizes abaixo (fornecidas apenas para referência e não devem ser consideradas pelos anunciantes) abrangem onde os anunciantes de CBD podem promover seus produtos nos Anúncios Brave, e as condições aplicáveis por estado.
 
-Advertisers accept full liability and responsibility for operating within state regulations and restrictions for the states that they plan to run CBD advertising in.
+Os anunciantes assumem total responsabilidade por operar conforme as regulamentações e restrições estaduais para os estados nos quais planejam veicular publicidade de CBD.
 
-You represent and warrant that your CBD advertisements (including any products, services or other materials referenced therein), any website(s) or other destinations to which your advertisements may link or direct viewers, and any act or omission by you relating to your CBD advertisements (collectively, “CBD Advertisements”) do not violate any applicable law, statute, directive, ordinance, treaty, contract, or regulation, or any applicable Brave policies or guidelines, in any of the jurisdictions in which your CBD Advertisements are distributed and/or displayed.
+Você declara e garante que seus anúncios de CBD (incluindo quaisquer produtos, serviços ou outros materiais referenciados neles), qualquer site(s) ou outros destinos para os quais seus anúncios possam direcionar os espectadores, e qualquer ato ou omissão relacionada aos seus anúncios de CBD (coletivamente, "Anúncios de CBD") não violam qualquer lei, estatuto, diretiva, ordenança, tratado, contrato ou regulamento aplicável, ou qualquer política ou diretrizes do Brave aplicáveis, em qualquer das jurisdições em que seus Anúncios de CBD são distribuídos e/ou exibidos.
 
-You agree to indemnify, defend, and hold harmless Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents from and against all claims, demands, suits, or other assertions of rights by any third party, whether actual or alleged (collectively, “Claims”), and any resulting judgments, damages, losses, liabilities, settlements, costs, and expenses (including, but not limited to, attorney’s fees and costs), that arise out of or in connection with your CBD Advertisements. You agree to be solely responsible for defending any Claim against Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents, subject to Brave’s right to participate with counsel of its own choosing; provided, that you will not agree to any settlement without Brave’s prior written consent.
+Você concorda em indenizar, defender e isentar de responsabilidade o Brave e suas afiliadas, subsidiárias, diretores, acionistas, funcionários e agentes de todas as reivindicações, demandas, ações ou outras afirmações de direitos de terceiros, sejam reais ou alegadas (coletivamente, "Reivindicações"), e quaisquer julgamentos, danos, perdas, responsabilidades, acordos, custos e despesas resultantes (incluindo, mas não se limitando a, honorários advocatícios e custos), que surjam ou estejam relacionados aos seus Anúncios de CBD. Você concorda em ser o único responsável por defender qualquer Reivindicação contra o Brave e suas afiliadas, subsidiárias, diretores, acionistas, funcionários e agentes, sujeito ao direito do Brave de participar com os advogados de sua própria escolha; desde que você não concorde com nenhum acordo sem o consentimento prévio por escrito do Brave.
 
-### CBD advertising is available in:
+### A publicidade de CBD está disponível em:
 
 - Delaware
-- Florida
-- Hawaii
+- Flórida
+- Havaí
 - Illinois
 - Indiana
 - Maine
