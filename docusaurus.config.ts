@@ -110,6 +110,10 @@ const config: Config = {
       indexName: process.env.REACT_APP_DOC_SEARCH_INDEX_NAME,
       // Ensures that search results are relevant to the current language and version
       contextualSearch: true,
+      searchParameters: {
+        analytics: false,
+        clickAnalytics: false,
+      }
     },
     prism: {
       theme: prismThemes.github,
