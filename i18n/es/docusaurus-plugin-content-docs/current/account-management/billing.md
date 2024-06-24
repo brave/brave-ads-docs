@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Billing
+# Facturación
 
-Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
+Los Anuncios Brave están disponibles para ser comprados a través de diferentes modelos de precios. Por defecto, todas las campañas publicitarias a nivel global se facturarán en USD, sin embargo, hay otras opciones disponibles.
 
-| **Pricing model** | **Billable event (if applicable)**                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Flat**          | A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New Tab Takeovers. |
-| **CPM**           | Refers to a cost-per-thousand impressions, whereby the advertiser is billed a fixed price for each thousand impressions delivered by their campaign.                                   |
-| **CPC**           | Refers to a cost-per-click, whereby the advertiser is billed based on a fixed price for each individual click delivered by their campaign.                                             |
+| **Modelo de precios** | **Evento facturable (si aplica)**                                                                                                                                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Plana**             | Una tarifa plana, también denominada tarifa fija, se refiere a una cuota estática, independientemente de la entrega o el rendimiento. Las tarifas planas se utilizan actualmente sólo para los anuncios en las nuevas pestañas. |
+| **CPM**               | Se refiere a un costo por mil impresiones, por lo que el anunciante es facturado un precio fijo por cada mil impresiones entregadas por su campaña.                                                                                             |
+| **CPC**               | Se refiere a un costo por clic, por el cual el anunciante es facturado en base a un precio fijo por cada clic individual entregado por su campaña.                                                                                              |
 
 The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
 
