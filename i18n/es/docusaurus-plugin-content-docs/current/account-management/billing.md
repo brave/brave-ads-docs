@@ -12,13 +12,13 @@ Los Anuncios Brave están disponibles para ser comprados a través de diferentes
 | **CPM**               | Se refiere a un costo por mil impresiones, por lo que el anunciante es facturado un precio fijo por cada mil impresiones entregadas por su campaña.                                                                                             |
 | **CPC**               | Se refiere a un costo por clic, por el cual el anunciante es facturado en base a un precio fijo por cada clic individual entregado por su campaña.                                                                                              |
 
-The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
+El modelo de precios se determina en el nivel de conjunto de anuncios de la campaña y no puede cambiarse a mitad de un lanzamiento. Para cambiar un conjunto de anuncios a un nuevo modelo de precios, debe pausarse el conjunto de anuncios original y crearse uno nuevo con el modelo de precios revisado. El conjunto de anuncios original se facturará según el precio original.
 
-## Paying an invoice
+## Pagar una factura
 
-By default, invoices for managed campaigns are sent at the end of the monthly billing cycle for the calendar month. Payment is due within 30 days of receipt of the invoice. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign
+Por defecto, las facturas de las campañas gestionadas se envían al final del ciclo de facturación mensual del mes natural. El pago debe efectuarse en un plazo de 30 días a partir de la recepción de la factura. Brave puede, a nuestra discreción, exigir el pago por adelantado a los anunciantes y campañas antes del lanzamiento de su campaña
 
-## Paying with a credit card
+## Pagar con tarjeta de crédito
 
 Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Stripe. 
 
