@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  pull_request:
 
 jobs:
   build-publish:
@@ -12,6 +13,10 @@ jobs:
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    env:
+      REACT_APP_DOC_SEARCH_APP_ID: ${{ secrets.DOC_SEARCH_APP_ID }}
+      REACT_APP_DOC_SEARCH_INDEX_NAME: ${{ secrets.DOC_SEARCH_INDEX_NAME }}
+      
     steps:
       - name: Checkout
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
@@ -26,9 +31,6 @@ jobs:
 
       - name: Build website
         run: npm run build
-        env:
-          REACT_APP_DOC_SEARCH_APP_ID: ${{ secrets.DOC_SEARCH_APP_ID }}
-          REACT_APP_DOC_SEARCH_INDEX_NAME: ${{ secrets.DOC_SEARCH_INDEX_NAME }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
