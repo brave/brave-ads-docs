@@ -27,6 +27,16 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        'http-equiv': 'Content-Security-Policy',
+        content: `default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
+      },
+    }
+  ],
 
   presets: [
     [
