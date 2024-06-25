@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import * as process from "node:process";
 
 const config: Config = {
   title: 'Brave Ads',
@@ -26,6 +27,16 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        'http-equiv': 'Content-Security-Policy',
+        content: `default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
+      },
+    }
+  ],
 
   presets: [
     [
@@ -101,6 +112,18 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Brave Software, Inc.`,
+    },
+    algolia: {
+      appId: process.env.REACT_APP_DOC_SEARCH_APP_ID,
+      // Public API key: it is safe to commit it
+      apiKey: '9d6bcc3afa8daed9395db8c441bc04a1',
+      indexName: process.env.REACT_APP_DOC_SEARCH_INDEX_NAME,
+      // Ensures that search results are relevant to the current language and version
+      contextualSearch: true,
+      searchParameters: {
+        analytics: false,
+        clickAnalytics: false,
+      }
     },
     prism: {
       theme: prismThemes.github,
