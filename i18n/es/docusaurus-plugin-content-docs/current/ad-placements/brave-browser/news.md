@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Anuncios de Noticias
+# Anuncios de noticias
 
 Noticias de Brave es una fuente de noticias privada y personalizable que aparece en cada página de nueva pestaña del navegador Brave. Los anunciantes pueden insertar anuncios pagados nativos que aparecen de forma similar a las imágenes y fragmentos mostrados en la fuente de noticias.
 
