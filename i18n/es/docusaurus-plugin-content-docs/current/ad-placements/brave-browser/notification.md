@@ -6,44 +6,44 @@ sidebar_position: 3
 
 Los anuncios de notificación presentan un título y una breve CTA; los clics conducen a los usuarios a la página de destino deseada por el anunciante. Los anuncios se muestran sobre el contenido a nivel del navegador, no en las páginas web, dentro de los videos, ni mediante ninguna de las prácticas más intrusivas de los anuncios de pantalla tradicionales.
 
-This unit is an ideal addition for advertisers looking to add engagement, quality site traffic, or acquisition drivers to paid marketing campaigns. Notification ads appear only to those who've opted in to seeing them. This makes them the surface that reaches the most discerning—and engaged—audience in the Brave ecosystem.
+Esta unidad es un complemento ideal para los anunciantes que buscan agregar compromiso, tráfico de calidad en el sitio o impulsores de adquisición a las campañas de marketing pagadas. Los anuncios de notificación sólo aparecen a quienes han optado por verlos. Esto los convierte en la superficie que llega a la audiencia más exigente y comprometida del ecosistema de Brave.
 
 ![Notification.png](/img/Notification.png)
 
-### Ad requirements
+### Requisitos del anuncio
 
-- Ad copy
-  - Title: 30 character limit, must include brand name
-  - Body: 60 character limit, for key messaging/value proposition/call to action
-- Click-through URL
-  - No redirects/URL shortening
+- Copia del anuncio
+  - Título: límite de 30 caracteres, debe incluir el nombre de la marca
+  - Cuerpo: Límite de 60 caracteres, para mensajes clave/propuesta de valor/llamada a la acción (CTA)
+- URL de clic
+  - Sin redireccionamientos/acortamiento de URL
 
-### Available targeting
+### Segmentación disponible
 
-- By device
+- Por dispositivo
   - MacOS, Windows, Linux, Android, iOS
-- By country
-  - State level targeting available in USA
-- Contextual IAB standard segments
-- Custom segments **(Managed Service only)**
+- Por país
+  - Segmentación a nivel estatal disponible en EE. UU.
+- Segmentos estándar de IAB contextuales
+- Segmentos personalizados **(sólo Servicio Gestionado)**
 
-### Pricing
+### Precio
 
 - CPM
 - CPC
-- CPSV (Per site-visit)
+- CPSV (Por visita al sitio)
 
-### Best practices
+### Prácticas recomendadas
 
-- Add context to your title for clarity, e.g. _Masterclass. Learn from the best._
-- Use unique landing pages such as “advertiser.com/brave” to make measurement easier
-- Use multiple versions of ad creative for testing
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Use emojis to help tell your brand’s story with fewer characters
-- Vary copy to appeal to different audiences or product features
-- Share wisdom, Brave users love to learn
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
-- No redirect URLS (ads must direct to your owned domain or social media)
+- Añada contexto a su título para mayor claridad, por ejemplo: _Masterclass. Aprenda de los mejores._
+- Utilice páginas de destino únicas como "advertiser.com/brave" para facilitar la medición.
+- Utilice múltiples versiones de creatividades publicitarias para realizar pruebas.
+- Utilice una llamada a la acción (CTA) específica: _Más información, Pruebe ahora, Compre ahora, Regístrese, etc._
+- Utilice emojis para ayudar a contar la historia de su marca con menos caracteres.
+- Varíe el texto para atraer a diferentes audiencias o características del producto.
+- Comparta sabiduría, a los usuarios de Brave les encanta aprender.
+- Sin titulares "clickbait"
+- Sin afirmaciones de altos rendimientos de las inversiones (APY/APR)
+- Sin todas las letras en mayúscula
+- Sin blasfemias, desnudos, violencia o sustancias ilícitas
+- Sin URLs de redireccionamiento (los anuncios deben dirigir a su dominio propio o redes sociales)
