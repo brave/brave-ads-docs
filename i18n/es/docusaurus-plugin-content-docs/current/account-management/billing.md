@@ -36,6 +36,6 @@ Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads
 
 Para los anuncios de nuevas pestañas, a los anunciantes que cancelen en los siete días siguientes a la fecha de lanzamiento de la campaña se les cobrará el 50% del costo de la campaña.
 
-If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused. 
+Si trabaja con nuestro equipo de cuentas y ventas, puede cancelar sus campañas de anuncios de Búsqueda, Notificaciones o Noticias en cualquier momento y sólo se le facturarán los importes gastadas hasta la pausa de la campaña.
 
-If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [adops@brave.com](mailto:adops@brave.com).
+Si pagó por adelantado su campaña a través de nuestra opción de autoservicio y desea cancelar su campaña antes, tenga en cuenta que deberá solicitar un reembolso para cualquier saldo restante enviando un correo electrónico a [adops@brave.com](mailto:adops@brave.com).
