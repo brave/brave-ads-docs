@@ -20,21 +20,21 @@ Por defecto, las facturas de las campañas gestionadas se envían al final del c
 
 ## Pagar con tarjeta de crédito
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Stripe. 
+Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads Manager se pueden pagar con tarjeta de crédito a través de Stripe.
 
-- If buying via Managed Service, simply let your account manager know you’d like to pay via credit card.
-- If buying via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Stripe.
+- Si compra a través del Servicio Gestionado, sólo tiene que indicar a su gestor de cuenta que desea pagar con tarjeta de crédito.
+- Si compra a través de Brave Ads Manager, se le pedirá que pague por adelantado su campaña "recargando" su cuenta a través de Stripe.
 
-## Paying with cryptocurrency
+## Pagar con criptomonedas
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Radom.
+Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads Manager se pueden pagar con tarjeta de crédito a través de Radom.
 
-- If buying ads via Managed Service, simply let your account manager know you’d like to pay via cryptocurrency. Please note that we currently accept Basic Attention Token (BAT), USD Coin (USDC), and Tether USD (USDT) on the Ethereum blockchain.
-- If buying ads via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Radom.
+- Si compra anuncios a través del Servicio Gestionado, sólo tiene que indicar a su gestor de cuenta que desea pagar con criptomonedas. Por favor, tenga en cuenta que actualmente aceptamos Basic Attention Token (BAT), USD Coin (USDC), y Tether USD (USDT) en la cadena de bloques de Ethereum.
+- Si compra anuncios a través de Brave Ads Manager, se le pedirá que pague por adelantado su campaña "recargando" su cuenta a través de Radom.
 
-## Cancellations
+## Cancelaciones
 
-For New Tab Takeovers, advertisers that cancel within seven days of the campaign launch date will be charged 50% of the campaign cost. 
+Para los anuncios de nuevas pestañas, a los anunciantes que cancelen en los siete días siguientes a la fecha de lanzamiento de la campaña se les cobrará el 50% del costo de la campaña.
 
 If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused. 
 
