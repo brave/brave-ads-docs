@@ -2,24 +2,24 @@
 sidebar_position: 1
 ---
 
-# New Tab Takeover
+# Anuncios de la nueva pestaña
 
-**Available only via Managed Service buys** <br /><br />
-The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
+**Disponible sólo a través de compras de Servicios Gestionados** <br /><br />
+Los anuncios de la nueva pestaña son la unidad publicitaria de mayor impacto de Brave, y ofrece una toma de control casi a pantalla completa de la página de la nueva pestaña en Brave. Los anuncios se muestran en la primera nueva pestaña al iniciar el navegador y, a partir de entonces, cada tres nuevas pestañas. Entre tanto, los usuarios ven una rotación de fotografías de paisajes de la comunidad de Brave.
 
 ![NTT.png](/img/NTT.png)
 
-### Ad requirements
+### Requisitos del anuncio
 
-- One to three background images
-  - 2560 (wide) x 1440 (high), JPEG format only
-  - Distinctly different visuals to ensure new-tabs don’t become monotonous
-  - Place the main focal point of the background around x:935 y:680 to prevent obstruction by new tab widgets (clock, cards, favorites, etc.)
-  - Background images will be cropped for mobile based on main focal range above
-- Logo canvas
-  - 512 x 512, transparent PNG only
-  - Will be used for all background images
-  - Consists of a brand logo, ad copy, and optional CTA (illustration)
+- De una a tres imágenes de fondo
+  - 2560 (ancho) x 1440 (alto), sólo formato JPEG
+  - Elementos visuales claramente diferentes para garantizar que las nuevas pestañas no se vuelvan monótonas.
+  - Coloque el punto focal principal del fondo alrededor de x:935 y:680 para evitar la obstrucción de los widgets de la nueva pestaña (reloj, tarjetas, favoritos, etc).
+  - Las imágenes de fondo se recortarán para dispositivos móviles en función del rango focal principal anterior.
+- Lienzo con logotipo
+  - 512 x 512, sólo PNG transparente
+  - Se utilizará para todas las imágenes de fondo.
+  - Consiste en un logotipo de marca, un texto publicitario y una CTA opcional (ilustración).
   - White text/logos are preferred but color will be accepted pending approval
   - Minimum 38pt text can be used to ensure legibility on smaller devices
 - Click-through URL
