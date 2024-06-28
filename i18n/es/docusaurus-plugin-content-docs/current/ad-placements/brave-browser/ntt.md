@@ -20,17 +20,17 @@ Los anuncios de la nueva pestaña son la unidad publicitaria de mayor impacto de
   - 512 x 512, sólo PNG transparente
   - Se utilizará para todas las imágenes de fondo.
   - Consiste en un logotipo de marca, un texto publicitario y una CTA opcional (ilustración).
-  - White text/logos are preferred but color will be accepted pending approval
-  - Minimum 38pt text can be used to ensure legibility on smaller devices
-- Click-through URL
-  - No redirects/URL shortening
-  - One URL will be used for all background images
+  - Se prefiere el texto/logotipos blancos, pero se aceptará el color pendiente de aprobación.
+  - El texto mínimo de 38pt puede utilizarse para asegurar la legibilidad en dispositivos más pequeños
+- URL de clic
+  - Sin redireccionamientos/acortamiento de URL
+  - Se utilizará una URL para todas las imágenes de fondo
 
-### Available targeting
+### Segmentación disponible
 
-By country (single, multiple countries, or full global takeover)
+Por país (individual, varios países o adquisición global completa)
 
-### Best practices
+### Prácticas recomendadas
 
-- Review our [best practices document](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
-- Use Brave’s [online mockup tool](https://mockup.ads.brave.com) to test images
+- Revise nuestro [documento de buenas recomendadas.](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
+- Utilice la [herramienta de maquetas en línea] de Brave (https://mockup.ads.brave.com) para probar imágenes.
