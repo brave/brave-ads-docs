@@ -73,7 +73,7 @@ Using a conversion URL provides a more accurate measure of ad effectiveness than
 		- For example, building on the above example, ``https://shoestore.com/check-out/thank-you*`` would effectively capture any URL that is the same leading up to the wildcard variable, such as ``https://shoestore.com/check-out/thank-you/orderID=63551``
 
 ### Advanced use of wildcard variables in conversion URLs
-Wildcard values can be placed anywhere in the sub-path of the URL, including in-between path sections. Here are some examples using a hypothetical shoe store, ``https://shoestore.com``, that categorizes their available shoes by categogry, type, and color across their website. Their pages are thus all structured using the following format: ``https://shoestore.com/category/type/color/``
+Wildcard values can be placed anywhere in the sub-path of the URL, including in-between path sections. Here are some examples using a hypothetical shoe store, ``https://shoestore.com``, that categorizes their available shoes by category, type, and color across their website. Their pages are thus all structured using the following format: ``https://shoestore.com/category/type/color/``
 
 - Example 1: This conversion URL will count visits to pages in the “running-shoes” directory categorized as “mens”: ``https://shoestore.com/running-shoes/*/mens*``
 	- In this case, the first asterisk represents any type, while the second is the trailing wildcard recommended on all conversion URLs.
