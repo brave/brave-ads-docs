@@ -4,7 +4,7 @@ sidebar_position: 2
 # Reporting
 Brave Ads is built from the ground up to support the highest privacy standards. By default, the Brave browser blocks third-party tracking including Google Analytics, Adobe Analytics, and other third-party reporting and measurement vendors. While Brave Ads respects (and does not collect) user data, it also gives advertisers useful, granular reporting on campaign performance data in a simple, easy-to-read dashboard. It also enables marketers to see campaign performance using their own reporting systems.
 
-## Is my reporting blocked by Brave?
+## Is my reporting blocked by Brave Browser?
 The first step is to understand what is being blocked by the Brave browser. To do so, open Brave on your desktop and navigate to your business site or campaign landing page and follow these steps:
 
 1. Click on the Brave lion icon on the right side of the address bar.
@@ -73,12 +73,12 @@ Using a conversion URL provides a more accurate measure of ad effectiveness than
 		- For example, building on the above example, ``https://shoestore.com/check-out/thank-you*`` would effectively capture any URL that is the same leading up to the wildcard variable, such as ``https://shoestore.com/check-out/thank-you/orderID=63551``
 
 ### Advanced use of wildcard variables in conversion URLs
-Wildcard values can be placed anywhere in the sub-path of the URL, including in-between path sections. Here are some examples using a hypothetical shoe store, ``https://shoestore.com``, that categorizes their available shoes by type, color, and categogry across their website. Their pages are thus all structured using the following format: ``https://shoestore.com/type/color/category/``
+Wildcard values can be placed anywhere in the sub-path of the URL, including in-between path sections. Here are some examples using a hypothetical shoe store, ``https://shoestore.com``, that categorizes their available shoes by categogry, type, and color across their website. Their pages are thus all structured using the following format: ``https://shoestore.com/category/type/color/``
 
 - Example 1: This conversion URL will count visits to pages in the “running-shoes” directory categorized as “mens”: ``https://shoestore.com/running-shoes/*/mens*``
-	- In this case, the first asterisk represents any color, while the second is the trailing wildcard recommended on all conversion URLs.
-- Example 2: This conversion URL will count visits to pages for any shoes that are “blue”: ``https://shoestore.com/*/blue/*``
-	- In this case, the first asterisk represents any shoe type, while the second acts both as the category, and ultimately fulfills the role of the recommended trailing wildcard.
+	- In this case, the first asterisk represents any type, while the second is the trailing wildcard recommended on all conversion URLs.
+- Example 2: This conversion URL will count visits to pages for any shoes that are “childrens”: ``https://shoestore.com/*/childrens/*``
+	- In this case, the first asterisk represents the subpaths for any shoe category. The second asterisk acts both as the shoe color, and also fulfills the role of the recommended trailing wildcard.
 ### Advanced controls for attribution
 
 When setting up a conversion URL in Brave, you’ll be asked to pick an observation window, also known as a look-back window, which determines how long after an ad view (or click) should a conversion be attributed to the ad campaign. This can be set for 1, 7, or 30 days, where 1-day will capture the fewest conversions and 30-day will capture the most.
