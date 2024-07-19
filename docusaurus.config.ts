@@ -24,7 +24,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'pt'],
   },
   
   headTags: [
@@ -65,6 +65,7 @@ const config: Config = {
         { href: 'https://ads.brave.com/register', label: 'Sign up', position: 'left'},
         { href: 'https://brave.com/brave-ads', label: 'About', position: 'left'},
         { href: 'https://brave.com/brave-ads/audience', label: 'Audience', position: 'left'},
+        { type: 'localeDropdown', position: 'left' },
       ],
     },
     footer: {
