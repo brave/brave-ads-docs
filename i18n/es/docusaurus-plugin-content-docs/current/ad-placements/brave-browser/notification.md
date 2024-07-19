@@ -23,7 +23,7 @@ Esta unidad es un complemento ideal para los anunciantes que buscan agregar comp
 - Por dispositivo
   - MacOS, Windows, Linux, Android, iOS
 - Por país
-  - Segmentación a nivel estatal disponible en EE. UU.
+  - Segmentación a nivel estatal disponible en EE.
 - Segmentos estándar de IAB contextuales
 - Segmentos personalizados **(sólo Servicio Gestionado)**
 

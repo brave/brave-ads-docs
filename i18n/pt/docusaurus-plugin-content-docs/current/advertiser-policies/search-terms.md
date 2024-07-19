@@ -6,7 +6,7 @@ sidebar_position: 4
 
 _Última atualização: 11 de março de 2024_
 
-Estes Termos de Serviço do Anunciante da Pesquisa Brave (_"Termos"_) se aplicam ao seu acesso e uso dos Serviços (conforme definido na Seção 1 abaixo) fornecidos pela Brave US LLC e por quaisquer de suas empresas afiliadas, incluindo, mas não se limitando a empresas controladoras diretas e indiretas, subsidiárias e outras empresas comuns ou afiliadas.  ("Brave" ou "nós").Você também concorda que estes Termos se aplicarão a quaisquer reivindicações feitas contra qualquer funcionário, diretor, oficial ou agente do Brave. **Ao acessar ou usar nossos Serviços, você concorda com estes Termos. Se você não concordar com estes Termos, incluindo a disposição de arbitragem obrigatória e renúncia a ações coletivas na Seção 13, não acesse ou use nossos Serviços.**
+Estes Termos de Serviço do Anunciante da Pesquisa Brave (_"Termos"_) se aplicam ao seu acesso e uso dos Serviços (conforme definido na Seção 1 abaixo) fornecidos pela Brave US LLC e por quaisquer de suas empresas afiliadas, incluindo, mas não se limitando a empresas controladoras diretas e indiretas, subsidiárias e outras empresas comuns ou afiliadas.  ("Brave" ou "nós").("Brave" ou "nós").Você também concorda que estes Termos se aplicarão a quaisquer reivindicações feitas contra qualquer funcionário, diretor, oficial ou agente do Brave. **Ao acessar ou usar nossos Serviços, você concorda com estes Termos. Se você não concordar com estes Termos, incluindo a disposição de arbitragem obrigatória e renúncia a ações coletivas na Seção 13, não acesse ou use nossos Serviços.**
 
 Para informações sobre como coletamos e utilizamos seus dados, consulte nossa [Política de Privacidade para Anunciantes](https://brave.com/privacy/advertiser/).
 
@@ -94,7 +94,7 @@ Até o máximo permitido pela lei aplicável, você indenizará, defenderá e is
 
 Reservamo-nos o direito de exercer controle exclusivo sobre a defesa, às suas custas, de qualquer reivindicação sujeita a indenização sob esta Seção 9. Esta indenização é adicional e não substitui quaisquer outras indenizações estabelecidas em um acordo escrito entre você e o Brave.
 
-## 10. Avisos Legais
+## 10. Isenção de Responsabilidade
 
 **Até o limite máximo permitido pela lei aplicável e exceto conforme especificado por escrito por nós:**
 
@@ -113,7 +113,7 @@ Reservamo-nos o direito de exercer controle exclusivo sobre a defesa, às suas c
 
 ## 12. Isenção de Responsabilidade
 
-Até o limite máximo permitido pela lei aplicável, você libera o Brave e as outras Partes do Brave de responsabilidade, reivindicações, demandas e/ou danos (atuais e consequenciais) de qualquer tipo e natureza, conhecidos e desconhecidos (incluindo, mas não se limitando a, reivindicações de negligência), decorrentes de ou relacionados a disputas entre você e outros Anunciantes Brave ou aos atos ou omissões de terceiros.Você renuncia expressamente a quaisquer direitos que possa ter sob o Código Civil da Califórnia § 1542, bem como a quaisquer outros princípios estatutários ou de direito comum que, de outra forma, limitariam a cobertura desta isenção de responsabilidade para incluir apenas aquelas reivindicações que você possa saber ou suspeitar que existam em seu favor no momento de concordar com esta isenção de responsabilidade.
+Até o limite máximo permitido pela lei aplicável, você libera o Brave e as outras Partes do Brave de responsabilidade, reivindicações, demandas e/ou danos (atuais e consequenciais) de qualquer tipo e natureza, conhecidos e desconhecidos (incluindo, mas não se limitando a, reivindicações de negligência), decorrentes de ou relacionados a disputas entre você e outros Anunciantes Brave ou aos atos ou omissões de terceiros.Você renuncia expressamente a quaisquer direitos que possa ter sob o Código Civil da Califórnia § 1542, bem como a quaisquer outros princípios estatutários ou de direito comum que, de outra forma, limitariam a cobertura desta isenção de responsabilidade para incluir apenas aquelas reivindicações que você possa saber ou suspeitar que existam em seu favor no momento de concordar com esta isenção de responsabilidade.Você renuncia expressamente a quaisquer direitos que possa ter sob o Código Civil da Califórnia § 1542, bem como a quaisquer outros princípios estatutários ou de direito comum que, de outra forma, limitariam a cobertura desta isenção de responsabilidade para incluir apenas aquelas reivindicações que você possa saber ou suspeitar que existam em seu favor no momento de concordar com esta isenção de responsabilidade.
 
 ## 13. Resolução de Disputas; Arbitragem
 
