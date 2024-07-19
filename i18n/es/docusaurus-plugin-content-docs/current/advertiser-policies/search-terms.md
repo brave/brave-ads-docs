@@ -6,7 +6,7 @@ sidebar_position: 4
 
 _Última actualización: 11 de marzo de 2024_
 
-Estos términos de servicio del anunciante del Buscador de Brave (_"Términos"_) se aplican a su acceso y uso de los servicios (tal y como se definen en la Sección 1 a continuación) proporcionados por Brave US LLC y cualquiera de sus empresas afiliadas, incluidas, entre otras, las empresas matrices directas e indirectas, las filiales y otras empresas de propiedad común o afiliadas.  (_"Brave"_ o _"nosotros"_).También acepta que estos Términos se aplicarán a cualquier reclamación presentada contra cualquier empleado, director, funcionario o agente de Brave. **Al acceder o utilizar nuestros Servicios, acepta estos Términos. Si no está de acuerdo con estos Términos, incluida la disposición de arbitraje obligatorio y la renuncia a demandas colectivas en la Sección 13, no acceda ni utilice nuestros Servicios.**
+Estos términos de servicio del anunciante del Buscador de Brave (_"Términos"_) se aplican a su acceso y uso de los servicios (tal y como se definen en la Sección 1 a continuación) proporcionados por Brave US LLC y cualquiera de sus empresas afiliadas, incluidas, entre otras, las empresas matrices directas e indirectas, las filiales y otras empresas de propiedad común o afiliadas.  (_"Brave"_ o _"nosotros"_).(_"Brave"_ o _"nosotros"_).También acepta que estos Términos se aplicarán a cualquier reclamación presentada contra cualquier empleado, director, funcionario o agente de Brave. **Al acceder o utilizar nuestros Servicios, acepta estos Términos. Si no está de acuerdo con estos Términos, incluida la disposición de arbitraje obligatorio y la renuncia a demandas colectivas en la Sección 13, no acceda ni utilice nuestros Servicios.**
 
 Para obtener información sobre cómo recopilamos y utilizamos sus datos, consulte nuestra [Política de privacidad de los anunciantes](https://brave.com/privacy/advertiser/).
 
@@ -16,10 +16,9 @@ Usted y Brave acuerdan lo siguiente:
 
 ## 1. Resumen y alcance
 
-Brave opera una plataforma (la _"Plataforma"_) para ofrecer anuncios a los usuarios del motor de búsqueda de Brave, un motor de búsqueda propiedad de Brave Software, Inc. y operado por ésta.
 Estos términos rigen los servicios (los _"Servicios"_) que Brave pone a disposición de los anunciantes que establecen una cuenta de anunciante con Brave (_"Anunciantes de Brave"_), incluida la posibilidad de insertar anuncios y obtener servicios relacionados a través de la plataforma.
 
-## 2. Elegibilidad
+## 2. Divisibilidad
 
 Para acceder y utilizar nuestros servicios, usted debe
 
@@ -45,7 +44,7 @@ Si desea eliminar o desactivar su cuenta de anunciante, puede hacerlo de acuerdo
 ## 4. Contenido publicitario
 
 Usted es el único responsable de los anuncios enviados para la plataforma en su cuenta de anunciante (_"sus anuncios"_). Debe asegurarse de que sus anuncios sean veraces, no engañosos, cumplan con todas las leyes aplicables y, cuando corresponda, estén respaldados por evidencia científica. Sus anuncios deben cumplir con nuestra política de anuncios (_"Política de anuncios"_), que le proporcionamos cuando crea su cuenta de anunciante y que se incorpora a estos términos. La política de anuncios incluye una lista de las regiones geográficas en las que se deben mostrar los anuncios de Brave. Es posible que actualicemos la política de anuncios de vez en cuando. Es su responsabilidad revisar estos cambios en la política de anuncios de forma continua.
-Debe etiquetar correctamente sus anuncios con las regiones en las que se van a mostrar, y el asunto de cada uno de sus anuncios debe ser legal para anunciarse, venderse y usarse en todas las regiones con las que etiquete ese anuncio, así como en los EE. UU., el estado de California y las Islas Caimán.
+Debe etiquetar correctamente sus anuncios con las regiones en las que se van a mostrar, y el asunto de cada uno de sus anuncios debe ser legal para anunciarse, venderse y usarse en todas las regiones con las que etiquete ese anuncio, así como en los EE.
 Sus anuncios están sujetos a revisión y aprobación por nuestra parte antes de que se activen para su publicación en la plataforma. También podemos revisar sus anuncios en cualquier momento y por cualquier motivo. Si sus anuncios, por cualquier motivo, no pasan nuestro proceso de aprobación, o se considera que infringen estos términos, podemos, a nuestra discreción, desactivar esos anuncios, detener inmediatamente todos sus anuncios, suspenderlo de la plataforma o aplicar otros recursos que consideremos necesarios para garantizar la calidad y la reputación de la plataforma. Nuestra determinación en estos asuntos, incluida la de qué clasificaciones de contenido se aplican a cualquiera de sus anuncios, es definitiva y vinculante.
 Usted otorga una licencia no exclusiva, mundial y libre de regalías a Brave para reproducir, distribuir, mostrar públicamente y modificar (según sea necesario para la visualización en la plataforma) sus anuncios con el fin de mostrar sus anuncios a través de la plataforma y proporcionarle los servicios en virtud de estos términos.
 Brave se reserva el derecho de suspender las campañas en cualquier momento si sospecha que la campaña del anunciante supone un riesgo para la seguridad de nuestros usuarios, incluso si Brave sospecha que la empresa de publicidad tiene una violación de seguridad/incidente y/u otros fallos operativos significativos, siempre que Brave avise al anunciante con la antelación que sea razonablemente posible dadas las circunstancias antes de suspender una campaña.
@@ -186,7 +185,7 @@ Es posible que realicemos cambios en estos términos de vez en cuando. Si realiz
 Nos reservamos el derecho, sin previo aviso y a nuestra entera discreción, de terminar o suspender su derecho a acceder o utilizar los servicios (incluida la terminación o suspensión de su cuenta de anunciante), con efecto inmediato. No somos responsables de ninguna pérdida o daño relacionado con su incapacidad para acceder o utilizar los servicios.
 Puede cancelar su cuenta de anunciante en cualquier momento notificándonos en advertisers@brave.com. Si su cuenta se cancela por cualquier motivo, continuará protegiendo la información confidencial como se describe en la sección 7, y seguirá siendo responsable del pago relacionado con su uso anterior de los servicios como se describe en la sección 5.
 
-### 17. Divisibilidad
+### 17. Elegibilidad
 
 Si algún término, cláusula o disposición de estos términos se considera ilegal, nulo o inaplicable, entonces ese término, cláusula o disposición será separable de estos términos y no afectará la validez o aplicabilidad de cualquier parte restante de ese término, cláusula o disposición, o cualquier otro término, cláusula o disposición de estos términos.
 
