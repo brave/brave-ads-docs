@@ -2,14 +2,14 @@
 sidebar_position: 2
 ---
 
-# Create a campaign
+# Crear una campaña
 
-To get started, select the “New Campaign” button in the top right hand corner of Brave Ads Manager and fill out the required fields. The campaign level is where you will set the following parameters:
+Para empezar, seleccione el botón "Nueva campaña" en la esquina superior derecha del Administrador de Anuncios de Brave y rellene los campos obligatorios. El nivel de la campaña es donde establecerá los siguientes parámetros:
 
-- **Campaign name** helps to identify campaigns more easily in your account.
-- **Start and end** dates define the beginning and end of your campaign delivery window, including time of day.
-- **Time zone** defines what timezone your campaign will begin and end in.
-- **Formats** define where in the Brave Ads ecosystem your ads will be displayed. For more information on Brave’s ad formats, their characteristics, and availability in Brave Ads Manager, [visit the ad placements section](/ad-placements/brave-browser/ntt).
-- **Location** defines where in the world your ads deliver. State-level targeting is currently only available in the United-States.
-- **Budget** defines how much you aim to spend throughout the lifetime of your campaign.
-- **Payment method** defines how you’ll pay. [Brave accepts USD and BAT](/account-management/billing)
+- **El nombre de la campaña** ayuda a identificar las campañas más fácilmente en su cuenta.
+- **Las fechas de inicio y fin** definen el inicio y el fin de la ventana de entrega de su campaña, incluyendo la hora del día.
+- **La zona horaria** define en qué zona horaria empezará y terminará su campaña.
+- **Los formatos** definen en qué parte del ecosistema de los Anuncios de Brave se mostrarán sus anuncios. Para mayor información sobre los formatos de anuncios de Brave, sus características y su disponibilidad en el Administrador de Anuncios de Brave, [visite la sección de ubicaciones de anuncios](/ad-placements/brave-browser/ntt).
+- **La ubicación** define en qué parte del mundo se entregan sus anuncios. Actualmente, la segmentación a nivel estatal solo está disponible en Estados Unidos.
+- **El presupuesto** define cuánto pretende gastar a lo largo de la vida útil de su campaña.
+- **El método de pago** define cómo pagará. [Brave acepta USD y BAT](/gestión de cuenta/facturación)

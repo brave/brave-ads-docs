@@ -2,47 +2,47 @@
 sidebar_position: 1
 ---
 
-# Ad targeting
+# Segmentación de anuncios
 
-Brave has pioneered a new breed of privacy-respecting targeting that is matched directly on the user’s device (aka “client-side”), without any personal data phoning home to Brave’s servers. To achieve targeting at scale in a privacy-respecting capacity, Brave Ads uses on-device machine learning to anonymously match users to relevant ads. The system is built by leading privacy engineers with a range of cryptographic technologies that ensure that no personally-identifiable data ever leaves the user’s device. Contrary to other major ad tech providers who suck up as much personal data as they can, Brave only ever sees anonymous data.
+Brave ha sido pionero en una nueva generación de segmentación respetuosa con la privacidad que se empareja directamente en el dispositivo del usuario (también conocido como "lado del cliente"), sin que ningún dato personal llegue a casa en los servidores de Brave. Para lograr la segmentación a gran escala y respetar la privacidad, Anuncios de Brave utiliza el aprendizaje automático en el dispositivo para hacer coincidir de forma anónima a los usuarios con los anuncios relevantes. El sistema está construido por ingenieros líderes en privacidad con una gama de tecnologías criptográficas que garantizan que ningún dato de identificación personal salga del dispositivo del usuario. A diferencia de otros grandes proveedores de tecnología publicitaria que absorben la mayor cantidad de datos personales que pueden, Brave solo ve datos anónimos.
 
-Each of Brave’s ad units has a unique approach to achieve varying levels of ad relevance with the end user:
+Cada uno de los bloques de anuncios de Brave tiene un enfoque único para lograr diferentes niveles de relevancia del anuncio con el usuario final:
 
-| **Targeting**       | **Description**                                                                                                                                                                                   | **New Tab Takeover** | **Newsfeed** | **Notification** | **Search** |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------ | ---------------- | ---------- |
-| **Keyword**         | Based on relevant keywords entered in Brave Search.                                                                                                                               |                      |              |                  | X          |
-| **Country**         | Location determined by IP address. Only top level country and state level information is inferred.                                                                | X                    | X            | X                | X          |
-| **State**           | Location determined by IP address. Only top level country and state level information is inferred. Available only in the USA.                     |                      |              | X                | X          |
-| **Time of day**     | Delivery based on local time inferred by the IP address.                                                                                                                          |                      |              | X                |            |
-| **Contextual**      | IAB standard contextual category segments based on page content and domains visited by the user.                                                                                  |                      |              | X                |            |
-| **Custom segments** | Bespoke segments built with keywords and domains that the advertiser wishes to target. Minimum spend required, and only available with managed service campaigns. |                      |              | X                |            |
+| **Segmentación**             | **Descripción**                                                                                                                                                                                                                   | **Anuncios de nueva pestaña** | **Noticias** | **Notificación** | **Búsqueda** |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------ | ---------------- | ------------ |
+| **Palabra clave**            | Basado en palabras clave relevantes introducidas en Buscador de Brave.                                                                                                                                            |                               |              |                  | X            |
+| **País**                     | Ubicación determinada por la dirección IP. Solo se infiere información de nivel superior a nivel de país y estado.                                                                                | X                             | X            | X                | X            |
+| **Estado**                   | Ubicación determinada por la dirección IP. Solo se infiere información de nivel superior a nivel de país y estado. Disponible sólo en los Estados Unidos.                         |                               |              | X                | X            |
+| **Hora del día**             | Entrega basada en la hora local inferida por la dirección IP.                                                                                                                                                     |                               |              | X                |              |
+| **Contextual**               | Segmentos de categorías contextuales estándar de IAB basados en el contenido de la página y los dominios visitados por el usuario.                                                                                |                               |              | X                |              |
+| **Segmentos personalizados** | Segmentos personalizados creados con palabras clave y dominios a los que el anunciante desea dirigirse. Se requiere un gasto mínimo y solo está disponible con campañas de servicios gestionados. |                               |              | X                |              |
 
-## Contextual category list
+## Lista de categorías contextuales
 
-- Architecture
-- Arts & Entertainment
-- Automotive
-- Business
-- Careers
-- Cell Phones
-- Crypto
-- Education
-- Fashion
-- Folklore
-- Food & Drink
-- Gaming
-- Health & Fitness
-- History
-- Hobbies & Interests
-- Home
-- Law
-- Military
-- Personal Finance
-- Pets
-- Real Estate
-- Science
-- Sports
-- Technology & Computing
-- Travel
-- Weather
-- Untargeted (all segments)
+- Arquitectura
+- Arte y entretenimiento
+- Automotriz
+- Negocios
+- Carreras profesionales
+- Teléfonos móviles
+- Cripto
+- Educación
+- Moda
+- Folclore
+- Comida y bebida
+- Juegos
+- Salud y fitness
+- Historia
+- Pasatiempos e intereses
+- Hogar
+- Legislación
+- Militar
+- Finanzas personales
+- Mascotas
+- Bienes raíces
+- Ciencia
+- Deportes
+- Tecnología y computación
+- Viajes
+- Clima
+- Sin segmentar (todos los segmentos)

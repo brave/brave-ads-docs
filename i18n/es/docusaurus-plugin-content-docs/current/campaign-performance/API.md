@@ -40,8 +40,8 @@ Día/Hora,Nombre del Anunciante,Nombre de la Campaña,ID de la Campaña,ID del C
 
 #### Parámetros opcionales compartidos
 
-- `desde` (fecha en UTC) - Obtener datos en la fecha especificada o después. Usar por defecto la fecha de inicio de la campaña si no se especifica.Formato: `AAAA-MM-DD` Formato: `AAAA-MM-DD`
-- `hasta` (fecha en UTC) - Obtener datos hasta la fecha especificada. Usar por defecto la fecha de finalización de la campaña si no se especifica.Formato: `AAAA-MM-DD` Comenzar
+- `desde` (fecha en UTC) - Obtener datos en la fecha especificada o después. Usar por defecto la fecha de inicio de la campaña si no se especifica.Formato: `AAAA-MM-DD` Formato: `AAAA-MM-DD` Formato: `AAAA-MM-DD`
+- `hasta` (fecha en UTC) - Obtener datos hasta la fecha especificada. Usar por defecto la fecha de finalización de la campaña si no se especifica.Formato: `AAAA-MM-DD` Comenzar Comenzar
 - `país` - Agregar columna de país al informe. Por defecto es falso. Formato `verdadero`
 
 #### Informes v1
