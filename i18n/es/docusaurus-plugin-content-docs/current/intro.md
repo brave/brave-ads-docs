@@ -3,18 +3,18 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction to Brave Ads
+# Introducción a Anuncios de Brave
 
-Brave Ads are first-party ad placements available throughout Brave, the privacy-first Web browser and Brave Search, the world’s fastest growing independent search engine.
+Los anuncios de Brave son ubicaciones de anuncios de origen disponibles en Brave, el navegador web que prioriza la privacidad, y Buscador de Brave, el motor de búsqueda independiente de más rápido crecimiento en el mundo.
 
-## Brave Ads Manager
+## Administrador de Anuncios de Brave
 
-Brave Ads Manager, or Ads Manager, is where Brave Ads campaigns are created, managed, and analyzed. There are two ways to buy Brave Ads:
+Administrador de Anuncios de Brave, o Administrador de Anuncios, es donde se crean, administran y analizan las campañas de Anuncios de Brave. Hay dos maneras de comprar Anuncios de Brave:
 
-### Managed service
+### Servicio gestionado
 
-Work with a dedicated sales and account management team to execute campaigns. Managed service campaigns require a $10,000 minimum monthly spend and offer a wider range of ad placements.
+Trabaje con un equipo dedicado de ventas y gestión de cuentas para ejecutar campañas. Las campañas de servicios gestionados requieren un gasto mensual mínimo de $10,000 y ofrecen una gama más amplia de ubicaciones de anuncios.
 
-### Self-service
+### Autoservicio
 
-Do-it-yourself (DIY) management of ad campaigns through easy-to-use campaign creation, editing, and reporting tools. Self-service campaigns require a minimum spend of $500 for optimal results.
+Gestión "hágalo usted mismo" (DIY) de campañas publicitarias mediante herramientas de creación, edición e informes de campañas fáciles de usar. Las campañas de autoservicio requieren un gasto mínimo de $500 para obtener resultados óptimos.
