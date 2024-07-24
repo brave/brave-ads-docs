@@ -114,7 +114,7 @@ Una página de destino única es una gran opción para contar el tráfico a trav
 
 Se puede utilizar un código promocional o de referencia (por ejemplo, brave15) en el momento del pago para informar sobre las conversiones atribuidas a su campaña. Recomendamos que el código de referencia o promocional se rellene automáticamente para que los usuarios no lo olviden. Utilizando los informes de su plataforma, usted podrá ver el número de conversiones que han utilizado el código promocional o de referencia.
 
-### Parámetros de cadena de consulta y cookies de origen (es decir, UTMs) UTMs) UTMs)
+### Parámetros de cadena de consulta y cookies de origen (es decir, UTMs) UTMs) UTMs) UTMs)
 
 Los parámetros de seguimiento de URL de clics están permitidos, pero solo cuando se utilizan de una manera que el servidor web o la aplicación web puedan detectar. El uso de informes de terceros, como Google Analytics, no mostrará datos precisos. Tenga en cuenta que solo se permiten URL directas para el enlace de clic, sin redireccionamientos.
 

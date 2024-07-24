@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements": {
+    "message": "Ubicaciones de anuncios",
+    "description": "The label for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements.link.generated-index.title": {
+    "message": "Ubicaciones del anuncio de Brave",
+    "description": "The generated-index page title for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search": {
+    "message": "Buscador de Brave",
+    "description": "The label for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search.link.generated-index.title": {
+    "message": "Ubicaciones del Buscador de Brave",
+    "description": "The generated-index page title for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser": {
+    "message": "Brave Browser",
+    "description": "The label for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser.link.generated-index.title": {
+    "message": "Ubicaciones de Brave Browser",
+    "description": "The generated-index page title for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting started": {
+    "message": "Comenzar",
+    "description": "The label for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Campaign performance": {
+    "message": "Rendimiento de la campaña",
+    "description": "The label for category Campaign performance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account management": {
+    "message": "Gestión de cuentas",
+    "description": "The label for category Account management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advertiser policies": {
+    "message": "Políticas de los anunciantes",
+    "description": "The label for category Advertiser policies in sidebar tutorialSidebar"
+  }
+}
