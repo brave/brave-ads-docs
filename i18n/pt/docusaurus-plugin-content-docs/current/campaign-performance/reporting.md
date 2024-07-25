@@ -114,7 +114,7 @@ Uma página de destino única é uma ótima opção para contar o tráfego atrav
 
 Um código de indicação (do inglês, _referral code_) ou promoção (por exemplo, brave15) pode ser usado no momento da finalização da compra para relatar conversões atribuídas à sua campanha. Recomendamos que o código de indicação ou promoção seja preenchido automaticamente para que os usuários não esqueçam. Usando os relatórios da sua plataforma, você pode então visualizar o número de conversões que usaram o código de promoção ou indicação.
 
-### Parâmetros de string de consulta e cookies de primeira parte (Por exemplo, UTMs) UTMs) UTMs) UTMs)
+### Parâmetros de string de consulta e cookies de primeira parte (Por exemplo, UTMs)
 
 Parâmetros de rastreamento de URL de clique são permitidos, mas apenas quando usados de forma que seu servidor web ou aplicação web possam detectar. Usar relatórios de terceiros, como o Google Analytics, não mostrará dados precisos. Por favor, note que apenas URLs diretas são permitidas para o link de clique—sem redirecionamentos.
 
