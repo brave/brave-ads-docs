@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Anúncios Brave",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logotipo do Brave",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Sign up": {
+    "message": "Criar conta",
+    "description": "Navbar item with label Sign up"
+  },
+  "item.label.About": {
+    "message": "Sobre",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Audience": {
+    "message": "Público",
+    "description": "Navbar item with label Audience"
+  }
+}
