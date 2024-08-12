@@ -108,6 +108,14 @@ const config: Config = {
               label: 'Learn',
               href: 'https://brave.com/brave-ads/learn',
             },
+            {
+              label: 'Terms of service',
+              href: 'https://basicattentiontoken.org/advertiser-terms-of-service/',
+            },
+            {
+              label: 'Privacy policy',
+              href: 'https://brave.com/privacy/advertiser/',
+            }
           ],
         },
       ],
