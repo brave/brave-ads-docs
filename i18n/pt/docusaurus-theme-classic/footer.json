@@ -38,5 +38,13 @@
   "copyright": {
     "message": "Copyright © 2024 Brave Software, Inc.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Terms of service": {
+    "message": "Termos de serviço",
+    "description": "The label of footer link with label=Terms of service linking to https://basicattentiontoken.org/advertiser-terms-of-service/"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Política de privacidade",
+    "description": "The label of footer link with label=Privacy policy linking to https://brave.com/privacy/advertiser/"
   }
 }
