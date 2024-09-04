@@ -36,7 +36,7 @@ Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any
 - `https://brave.page.link/abc` - which redirects `https://brave.com/landing`
 
 **Examples of redirects that will be accepted:**
-- `brave.com/marketing` redirecting to `https://ads.brave.com` 
+- `https://brave.com/marketing` redirecting to `https://ads.brave.com` 
 - `https://landing.brave.com` redirecting to `https://brave.com` 
 
 ## Brand safety
