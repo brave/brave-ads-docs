@@ -40,7 +40,7 @@ Los anunciantes no pueden utilizar enlaces de redireccionamiento a menos que sea
 
 **Ejemplos de redirecciones que serán aceptadas:**
 
-- `brave.com/marketing` redirigiendo a `https://ads.brave.com`
+- `https://brave.com/marketing` redirecting to `https://ads.brave.com`
 - `https://landing.brave.com` redirigiendo a `https://brave.com`
 
 ## Seguridad de marca
