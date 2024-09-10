@@ -27,7 +27,7 @@ Note: While currently unavailable, advertising to restricted categories may beco
 
 ## Website and page requirements
 - Advertiser website must have Terms of Service and/or Privacy Policy.
-- Advertiser website must be reachable (load properly).
+- Advertiser website must be accessible and fully functional.
 - Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
 ## Redirect links
