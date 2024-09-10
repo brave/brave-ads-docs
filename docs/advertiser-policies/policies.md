@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# General policies
-## Policies
+# Mische policies
+## Extended policies
 
 - [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
 - [Basic Attention Token terms of service](https://basicattentiontoken.org/advertiser-terms-of-service/)
@@ -25,6 +25,12 @@ Campaigns cannot currently advertise products and services for the following pro
 - Content targeting expecting mothers
 
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
+
+## Website and page requirements
+
+- Advertiser website must have Terms of Service and/or Privacy Policy.
+- Advertiser website must be reachable (load properly).
+- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
 ## Redirect links
 
