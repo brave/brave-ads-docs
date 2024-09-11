@@ -26,8 +26,8 @@ Campaigns cannot currently advertise products and services for the following pro
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
 
 ## Website and page requirements
-- Advertiser website must have Terms of Service and/or Privacy Policy.
 - Advertiser website must be accessible and fully functional.
+- Advertiser website must have Terms of Service and/or Privacy Policy.
 - Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
 ## Redirect links
