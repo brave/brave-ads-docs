@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Políticas generales
 
-## Políticas
+## Extended policies
 
 - [Política de privacidad del anunciante](https://brave.com/privacy/advertiser/)
 - [Términos de servicio de Basic Attention Token](https://basicattentiontoken.org/advertiser-terms-of-service/)
@@ -27,6 +27,12 @@ Actualmente, las campañas no pueden anunciar productos y servicios de las sigui
 - Contenido dirigido a mujeres embarazadas
 
 Nota: Aunque actualmente no está disponible, la publicidad para las categorías restringidas puede estar disponible en el futuro.
+
+## Website and page requirements
+
+- Advertiser website must be accessible and fully functional.
+- Advertiser website must have Terms of Service and/or Privacy Policy.
+- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
 ## Enlaces de redireccionamiento
 
