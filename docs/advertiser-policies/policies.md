@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # General policies
-## Policies
+## Extended policies
 
 - [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
 - [Basic Attention Token terms of service](https://basicattentiontoken.org/advertiser-terms-of-service/)
@@ -11,7 +11,6 @@ sidebar_position: 1
 
 ## Restricted and prohibited categories
 Campaigns cannot currently advertise products and services for the following prohibited and restricted categories:
-
 - CBD (available in the US with state-level restrictions)
 - THC
 - Tobacco
@@ -26,8 +25,12 @@ Campaigns cannot currently advertise products and services for the following pro
 
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
 
-## Redirect links
+## Website and page requirements
+- Advertiser website must be accessible and fully functional.
+- Advertiser website must have Terms of Service and/or Privacy Policy.
+- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
+## Redirect links
 Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any link that redirects to another domain, even if owned by the same advertiser, will be rejected.
 
 **Examples of redirects which will be rejected:**

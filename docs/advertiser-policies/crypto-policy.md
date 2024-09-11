@@ -37,8 +37,8 @@ To maintain the high standards of our platform, prospective advertisers in this 
 
 ### The following promotional campaigns are not permitted: 
 - Token pre-sales
-- SAFTs
 - Testnet or other pre-launch offerings
+- Simple Agreement for Future Tokens (SAFTs)
 
 ## Market presence:
 - If applicable, the company token or cryptocurrency is listed with matching information to the advertiser website on Coinmarketcap.com and/or Coingecko.com
