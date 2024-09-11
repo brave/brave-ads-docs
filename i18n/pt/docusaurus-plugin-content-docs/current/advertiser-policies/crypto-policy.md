@@ -40,8 +40,8 @@ Para manter os altos padrões da nossa plataforma, os potenciais anunciantes nes
 ### As seguintes campanhas promocionais não são permitidas:
 
 - Pré-vendas de Token
-- SAFTs
 - Testnet ou outras ofertas de pré-lançamento
+- Simple Agreement for Future Tokens (SAFTs)
 
 ## Presença de mercado:
 
