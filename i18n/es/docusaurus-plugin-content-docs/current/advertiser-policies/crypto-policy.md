@@ -40,8 +40,8 @@ Para mantener los altos estándares de nuestra plataforma, los posibles anuncian
 ### No se permiten las siguientes campañas promocionales:
 
 - Preventa de tokens
-- SAFTs
 - Testnet u otras ofertas previas al lanzamiento
+- Simple Agreement for Future Tokens (SAFTs)
 
 ## Presencia en el mercado:
 
