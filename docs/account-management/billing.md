@@ -35,18 +35,18 @@ If working with our accounts and sales team, you can cancel your Search, Notific
 
 If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [adops@brave.com](mailto:adops@brave.com).
 
-# Account Balances
+# Account balances
 
-For self-directed Brave Ads Manager campaigns, any unspent pre-paid amounts from Stripe or Radom payments will be returned to your Account. This balance can be used for future campaigns, ensuring you only pay for the ads you run.
+Any leftover campaign budgets from pre-paid campaigns paid via Stripe or Radom will be transferred to your account balance for future campaigns. These funds are typically transferred within 24-48 hours, under the following two circumstances:
 
-### When Funds Will Transfer
+### When a campaign reaches its end date
 
-1. **Campaign Completion**: Once your campaign's end date has passed and it's considered "complete," we'll transfer any unspent funds back to your account.
+If your campaign reaches its scheduled end date and there are remaining funds, the campaign status will update to "complete," and any leftover funds will be transferred to your account balance.
 
-2. **Full Spend**: If your campaign uses its entire pre-paid amount, we'll credit the campaign for the full spend. No funds will be transferred to your account in this case.
+### When a campaign is terminated manually
 
-3. **Early Termination**: To end your campaign immediately:
-   - Go to the edit view
-   - Click the "Close this campaign" button
-   - This action will mark your campaign as "complete"
-   - Any remaining funds will be transferred to your account within 24-48 hours
+To end your campaign immediately and transfer any remaining funds to your account balance, follow these steps:
+
+- Select the campaign.
+- Click "Edit."
+- Click "Close this campaign."
