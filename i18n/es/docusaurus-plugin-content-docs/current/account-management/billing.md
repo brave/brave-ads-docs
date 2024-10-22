@@ -27,7 +27,7 @@ Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads
 
 ## Pagar con criptomonedas
 
-Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads Manager se pueden pagar con tarjeta de crédito a través de Radom.
+Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by using a crypto wallet via Radom.
 
 - Si compra anuncios a través del Servicio Gestionado, sólo tiene que indicar a su gestor de cuenta que desea pagar con criptomonedas. Por favor, tenga en cuenta que actualmente aceptamos Basic Attention Token (BAT), USD Coin (USDC), y Tether USD (USDT) en la cadena de bloques de Ethereum.
 - Si compra anuncios a través de Brave Ads Manager, se le pedirá que pague por adelantado su campaña "recargando" su cuenta a través de Radom.
@@ -39,3 +39,19 @@ Para los anuncios de nuevas pestañas, a los anunciantes que cancelen en los sie
 Si trabaja con nuestro equipo de cuentas y ventas, puede cancelar sus campañas de anuncios de Búsqueda, Notificaciones o Noticias en cualquier momento y sólo se le facturarán los importes gastadas hasta la pausa de la campaña.
 
 Si pagó por adelantado su campaña a través de nuestra opción de autoservicio y desea cancelar su campaña antes, tenga en cuenta que deberá solicitar un reembolso para cualquier saldo restante enviando un correo electrónico a [adops@brave.com](mailto:adops@brave.com).
+
+# Account balances
+
+Any leftover campaign budgets from pre-paid campaigns paid via Stripe or Radom will be transferred to your account balance for future campaigns. These funds are typically transferred within 24-48 hours, under the following two circumstances:
+
+### When a campaign reaches its end date
+
+If your campaign reaches its scheduled end date and there are remaining funds, the campaign status will update to "complete," and any leftover funds will be transferred to your account balance.
+
+### When a campaign is terminated manually
+
+To end your campaign immediately and transfer any remaining funds to your account balance, follow these steps:
+
+- Select the campaign.
+- Click "Edit."
+- Click "Close this campaign."
