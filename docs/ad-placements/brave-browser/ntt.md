@@ -8,7 +8,7 @@ The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near fu
 
 ![NTT.png](/img/NTT.png)
 ### Ad requirements
-- One to three background images
+- Two to three background images
   - 2560 (wide) x 1440 (high), JPEG format only
   - Distinctly different visuals to ensure new-tabs don’t become monotonous
   - Place the main focal point of the background around x:935 y:680 to prevent obstruction by new tab widgets (clock, cards, favorites, etc.)
