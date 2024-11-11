@@ -11,7 +11,7 @@ Os Anúncios de Nova Guia são o recurso de maior impacto do Brave, proporcionan
 
 ### Requisitos do anúncio
 
-- Uma a três imagens de fundo
+- Two to three background images
   - 2560 (largura) x 1440 (altura), apenas no formato JPEG
   - Imagens completamente distintas para garantir que as novas guias não se tornem monótonas
   - Posicione o ponto focal principal do plano de fundo em torno de x:935 y:680 para evitar obstruções pelos widgets da nova guia (relógio, cartões, favoritos, etc.)
