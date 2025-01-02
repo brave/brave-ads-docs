@@ -33,7 +33,7 @@ For New Tab Takeovers, advertisers that cancel within seven days of the campaign
 
 If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused. 
 
-If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [adops@brave.com](mailto:adops@brave.com).
+If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [selfserve@brave.com](mailto:selfserve@brave.com).
 
 # Account balances
 
