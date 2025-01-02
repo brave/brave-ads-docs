@@ -38,7 +38,7 @@ Para os Anúncios de Nova Guia, os anunciantes que cancelarem dentro de sete dia
 
 Se estiver trabalhando com a nossa equipe de contas e vendas, você pode cancelar suas campanhas de anúncios de Pesquisa, Notificações ou Feed de Notícias a qualquer momento e só será faturado pelos valores gastos até o momento em que a campanha foi interrompida. 
 
-Se efetuou o pré-pagamento da sua campanha por meio da nossa opção de autoatendimento e deseja cancelá-la antecipadamente, observe que precisará solicitar um reembolso para qualquer saldo restante enviando um e-mail para [adops@brave.com](mailto:adops@brave.com).
+If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [selfserve@brave.com](mailto:selfserve@brave.com).
 
 # Account balances
 
