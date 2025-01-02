@@ -38,7 +38,7 @@ Para los anuncios de nuevas pestañas, a los anunciantes que cancelen en los sie
 
 Si trabaja con nuestro equipo de cuentas y ventas, puede cancelar sus campañas de anuncios de Búsqueda, Notificaciones o Noticias en cualquier momento y sólo se le facturarán los importes gastadas hasta la pausa de la campaña.
 
-Si pagó por adelantado su campaña a través de nuestra opción de autoservicio y desea cancelar su campaña antes, tenga en cuenta que deberá solicitar un reembolso para cualquier saldo restante enviando un correo electrónico a [adops@brave.com](mailto:adops@brave.com).
+If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [selfserve@brave.com](mailto:selfserve@brave.com).
 
 # Account balances
 
