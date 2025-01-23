@@ -27,7 +27,6 @@ This unit is an ideal addition for advertisers looking to add engagement, qualit
 ### Pricing
 - CPM
 - CPC
-- CPSV (Per site-visit)
 
 ### Best practices
 - Add context to your title for clarity, e.g. _Masterclass. Learn from the best._
