@@ -2,43 +2,43 @@
 sidebar_position: 2
 ---
 
-# Newsfeed ads
+# Newsfeed-Anzeigen
 
-Brave News is a private, customizable news feed that appears in every new tab page of the Brave browser. Advertisers can insert paid native display placements that appear similar to the images and snippets shown in the news feed.
+Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite des Brave-Browsers erscheint. Werbetreibende können bezahlte native Displayplatzierungen einfügen, die den Bildern und Snippets im Newsfeed ähneln.
 
 ![Newsfeed.png](/img/Newsfeed.png)
 
-### Ad requirements
+### Anforderungen für Anzeigen
 
-- Image
-  - 900w x 750h (JPEG or PNG)
-- Ad copy
-  - Title: 90 characters maximum
-  - Call to action (CTA): 15 characters maximum
-  - Brand name: 30 characters maximum
-- Click-through URL
-  - No redirects/URL shortening
+- Bild
+  - 900w x 750h (JPEG oder PNG)
+- Anzeigentext
+  - Titel: maximal 90 Zeichen
+  - Handlungsaufforderung (CTA): maximal 15 Zeichen
+  - Markenname: maximal 30 Zeichen
+- Click-through-URL
+  - Keine Weiterleitungen/URL-Kürzungen
 
-### Available targeting
+### Verfügbare Zielgruppenansprache
 
-- By device
+- Nach Gerät
   - MacOS, Windows, Linux, Android, iOS
-- By country
+- Nach Land
 
-**Note**: currently available only to browsers with English and Japanese language settings.
+**Hinweis**: Derzeit nur für Browser mit englischen und japanischen Spracheinstellungen verfügbar.
 
-### Pricing
+### Preise
 
 - CPM
 - CPC
 
-### Best practices
+### Bewährte Verfahren
 
-- Use multiple versions of ad creative for testing
-- Use engaging imagery such as products, or demonstrative illustrations
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Limit text in images, some text is fine
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
+- Verwenden Sie mehrere Versionen des kreativen Inhalts für Tests
+- Verwenden Sie ansprechende Bilder wie Produkte oder demonstrative Illustrationen
+- Verwenden Sie eine spezifische Handlungsaufforderung: _Mehr erfahren, Jetzt testen, Jetzt kaufen, Anmelden, etc._
+- Begrenzen Sie Text in Bildern, etwas Text ist in Ordnung
+- Keine sensationsheischenden Überschriften
+- Keine Aussagen über hohe Renditen auf Investitionen (APY/APR)
+- Keine Großbuchstabenschreibung
+- Keine obszönen, gewalttätigen oder illegalen Inhalte oder Substanzen
