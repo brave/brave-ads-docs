@@ -2,10 +2,10 @@
 sidebar_position: 4
 ---
 
-# Create an ad set
+# Ein Anzeigen-Set erstellen
 
-After you’ve set basic parameters for your campaign, you’ll need to further define the targeting and delivery parameters of your ads. You can set up multiple ad sets within a campaign, for example, when you wish to target different ads to different device types or contextual segments. The ad set level is where you will set the following parameters:
+Nachdem Sie die grundlegenden Parameter für Ihre Kampagne festgelegt haben, müssen Sie die Zielgruppenausrichtung und die Lieferparameter Ihrer Anzeigen weiter definieren. Sie können innerhalb einer Kampagne mehrere Anzeigen-Sets einrichten, beispielsweise wenn Sie verschiedene Anzeigen für verschiedene Gerätetypen oder kontextabhängige Segmente ausrichten möchten. Auf der Ebene des Anzeigen-Sets legen Sie die folgenden Parameter fest:
 
-- **Ad set names** will help to identify ad sets more easily in your account.
-- **Categories** are contextual segments based on the IAB standard taxonomy. They determine what type of interests you’d like to target with your ad set.
-- **Platforms** define what types of devices your ad will be delivered to.
+- **Anzeigen-Set-Namen** helfen dabei, Anzeigen-Sets leichter in Ihrem Account zu identifizieren.
+- **Kategorien** sind kontextabhängige Segmente basierend auf der IAB-Standard-Taxonomie. Sie bestimmen, welche Interessen Sie mit Ihrem Anzeigen-Set ansprechen möchten.
+- Die **Plattformen** definieren, auf welchen Gerätetypen Ihre Anzeige ausgeliefert wird.
