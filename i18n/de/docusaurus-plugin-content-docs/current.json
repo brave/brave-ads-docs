@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements": {
+    "message": "Ad placements",
+    "description": "The label for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements.link.generated-index.title": {
+    "message": "Brave ad placements",
+    "description": "The generated-index page title for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search": {
+    "message": "Brave Search",
+    "description": "The label for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search.link.generated-index.title": {
+    "message": "Brave Search placements",
+    "description": "The generated-index page title for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser": {
+    "message": "Brave Browser",
+    "description": "The label for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser.link.generated-index.title": {
+    "message": "Brave Browser placements",
+    "description": "The generated-index page title for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting started": {
+    "message": "Getting started",
+    "description": "The label for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Campaign performance": {
+    "message": "Campaign performance",
+    "description": "The label for category Campaign performance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account management": {
+    "message": "Account management",
+    "description": "The label for category Account management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advertiser policies": {
+    "message": "Advertiser policies",
+    "description": "The label for category Advertiser policies in sidebar tutorialSidebar"
+  }
+}
