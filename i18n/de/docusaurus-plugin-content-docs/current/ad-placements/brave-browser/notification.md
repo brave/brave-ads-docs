@@ -2,47 +2,47 @@
 sidebar_position: 3
 ---
 
-# Notification ads
+# Benachrichtigungsanzeigen
 
-Notification ads feature a title and short CTA; clicks drive users to the advertiser’s desired landing page. Ads are served over content at the browser level, not on web pages, within videos, or any of the more obtrusive practices of traditional display ads.
+Notification ads feature a title and short CTA; clicks drive users to the advertiser’s desired landing page. Anzeigen werden auf der Inhaltsebene des Browsers angezeigt, nicht auf Webseiten, in Videos oder in anderen aufdringlichen Praktiken traditioneller Display-Anzeigen.
 
-This unit is an ideal addition for advertisers looking to add engagement, quality site traffic, or acquisition drivers to paid marketing campaigns. Notification ads appear only to those who've opted in to seeing them. This makes them the surface that reaches the most discerning—and engaged—audience in the Brave ecosystem.
+Diese Einheit ist eine ideale Ergänzung für Werbetreibende, die Engagement, qualitativ hochwertigen Seitenverkehr oder Akquisitionstreiber zu bezahlten Marketingkampagnen hinzufügen möchten. Benachrichtigungsanzeigen erscheinen nur bei denen, die sich dafür entschieden haben, sie zu sehen. Dies macht sie zur Oberfläche, die das wählerischste und engagierteste Publikum im Brave-Ökosystem erreicht.
 
 ![Notification.png](/img/Notification.png)
 
-### Ad requirements
+### Werbemittel-Anforderungen
 
-- Ad copy
-  - Title: 30 character limit, must include brand name
-  - Body: 60 character limit, for key messaging/value proposition/call to action
+- Werbetext
+  - Titel: 30 Zeichen Begrenzung, muss den Markennamen enthalten
+  - Text: 60 Zeichen Begrenzung, für Schlüsselbotschaft/Wertversprechen/Handlungsaufforderung
 - Click-through URL
-  - No redirects/URL shortening
+  - Keine Weiterleitungen/URL-Verkürzung
 
-### Available targeting
+### Verfügbares Targeting
 
-- By device
+- Nach Gerät
   - MacOS, Windows, Linux, Android, iOS
-- By country
-  - State level targeting available in USA
-- Contextual IAB standard segments
-- Custom segments **(Managed Service only)**
+- Nach Land
+  - Targeting auf Bundesstaaten-Ebene in den USA verfügbar
+- Kontextbezogene IAB-Standardsegmente
+- Benutzerdefinierte Segmente **(nur Managed Service)**
 
-### Pricing
+### Preisgestaltung
 
 - CPM
 - CPC
 
-### Best practices
+### Bewährte Vorgehensweisen
 
 - Add context to your title for clarity, e.g. _Masterclass. Learn from the best._
 - Use unique landing pages such as “advertiser.com/brave” to make measurement easier
-- Use multiple versions of ad creative for testing
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Use emojis to help tell your brand’s story with fewer characters
-- Vary copy to appeal to different audiences or product features
+- Verwenden Sie eine spezifische Handlungsaufforderung: _Mehr erfahren, Jetzt ausprobieren, Jetzt kaufen, Anmelden, etc._
+- Verwenden Sie Emojis, um die Geschichte Ihrer Marke mit weniger Zeichen zu erzählen
+- Variieren Sie den Text, um unterschiedliche Zielgruppen oder Produkteigenschaften anzusprechen
+- Teilen Sie Ihr Wissen, Brave-Nutzer lieben es, zu lernen
 - Share wisdom, Brave users love to learn
 - No clickbait headlines
 - No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
+- Keine Obszönitäten, Nacktheit, Gewalt oder verbotene Substanzen
 - No profanity, nudity, violence, or illicit substances
-- No redirect URLS (ads must direct to your owned domain or social media)
+- Keine Weiterleitungs-URLs (Werbeanzeigen müssen zu Ihrer eigenen Domain oder zu sozialen Medien führen)
