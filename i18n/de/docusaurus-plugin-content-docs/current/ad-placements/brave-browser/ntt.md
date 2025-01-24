@@ -2,35 +2,35 @@
 sidebar_position: 1
 ---
 
-# New Tab Takeover
+# Neue Tab-Übernahme
 
 **Available only via Managed Service buys** <br /><br />
-The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Ads are served on the first new tab upon starting the browser, and every third new tab thereafter. In between, users see a rotation of landscape photographs from the Brave community.
+The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Anzeigen werden im ersten neuen Tab beim Starten des Browsers und danach in jedem dritten neuen Tab angezeigt. Zwischenzeitlich sehen die Benutzer eine Rotation von Landschaftsfotografien aus der Brave Community.
 
 ![NTT.png](/img/NTT.png)
 
-### Ad requirements
+### Anforderungen an Anzeigen
 
-- Two to three background images
-  - 2560 (wide) x 1440 (high), JPEG format only
-  - Distinctly different visuals to ensure new-tabs don’t become monotonous
-  - Place the main focal point of the background around x:935 y:680 to prevent obstruction by new tab widgets (clock, cards, favorites, etc.)
-  - Background images will be cropped for mobile based on main focal range above
-- Logo canvas
-  - 512 x 512, transparent PNG only
-  - Will be used for all background images
-  - Consists of a brand logo, ad copy, and optional CTA (illustration)
-  - White text/logos are preferred but color will be accepted pending approval
-  - Minimum 38pt text can be used to ensure legibility on smaller devices
-- Click-through URL
-  - No redirects/URL shortening
-  - One URL will be used for all background images
+- Zwei bis drei Hintergrundbilder
+  - 2560 (Breite) x 1440 (Höhe), nur JPEG-Format
+  - Deutlich unterschiedliche visuelle Darstellungen, um sicherzustellen, dass neue Tabs nicht eintönig werden
+  - Platzieren Sie den Hauptfokus des Hintergrunds bei ca. x:935 y:680, um eine Behinderung durch neue Tab-Widgets (Uhr, Karten, Favoriten usw.) zu vermeiden
+  - Hintergrundbilder werden für Mobilgeräte basierend auf dem oben angegebenen Hauptfokusbereich beschnitten
+- Logo-Leinwand
+  - 512 x 512, nur transparentes PNG
+  - Wird für alle Hintergrundbilder verwendet
+  - Besteht aus einem Markenlogo, Werbetext und optionalem CTA (Illustration)
+  - Weiße Texte/Logos werden bevorzugt, aber Farben werden nach Genehmigung akzeptiert
+  - Es sollte mindestens eine Schriftgröße von 38pt verwendet werden, um die Lesbarkeit auf kleineren Geräten sicherzustellen
+- Click-Through URL
+  - Keine Redirects/URL-Verkürzung
+  - Eine URL wird für alle Hintergrundbilder verwendet
 
-### Available targeting
+### Verfügbare Zielgruppenansprache
 
-By country (single, multiple countries, or full global takeover)
+Nach Ländern (einzeln, mehrere Länder oder vollständige globale Übernahme)
 
-### Best practices
+### Best Practices
 
-- Review our [best practices document](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
-- Use Brave’s [online mockup tool](https://mockup.ads.brave.com) to test images
+- Überprüfen Sie unser [Best Practices-Dokument](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
+- Verwenden Sie Bravess [Online-Mockup-Tool](https://mockup.ads.brave.com), um Bilder zu testen
