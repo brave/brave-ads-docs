@@ -4,4 +4,4 @@ sidebar_position: 2
 
 # Gerenciamento de usuários
 
-To add new users to your advertiser account, please email [selfserve@brave.com](mailto:selfserve@brave.com) from the same email address you used to set up your account and our team will be happy to help with adding additional users.
+Para incluir novos usuários à sua conta de anunciante, basta enviar um e-mail para [selfserve@brave.com](mailto:selfserve@brave.com) pelo mesmo endereço de e-mail que você usou para configurar sua conta, e nossa equipe ficará feliz em ajudar adicionando usuários adicionais.
