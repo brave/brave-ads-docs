@@ -9,3 +9,5 @@ To create an account, visit [ads.brave.com](https://ads.brave.com/) and fill out
 - English
 - Spanish
 - Portuguese
+- German
+- French
