@@ -2,27 +2,27 @@
 sidebar_position: 2
 ---
 
-# CBD Policy
+# CBD Richtlinie
 
-## Introduction
+## Einführung
 
-This article covers the policy for advertising CBD products with Brave Ads in the United States.
-Brave Ads may support CBD advertising outside of the United States in the future, but currently only supports advertising CBD within the United States.
-This document only applies for CBD advertising, and does not apply to THC-related products.
-Advertising for “CBD flower”, “CBD wraps” or any CBD products used for smoking is prohibited.
+Dieser Artikel behandelt die Richtlinie für die Werbung von CBD-Produkten mit Brave Ads in den Vereinigten Staaten.
+Brave Ads könnte in Zukunft die Werbung für CBD außerhalb der Vereinigten Staaten unterstützen, aber derzeit wird die Werbung für CBD nur in den Vereinigten Staaten unterstützt.
+Dieses Dokument gilt nur für die Werbung von CBD und nicht für Produkte, die THC enthalten.
+Die Werbung für „CBD-Blüten“, „CBD-Wraps“ oder andere CBD-Produkte, die zum Rauchen verwendet werden, ist verboten.
 Advertisements cannot click-through to landing pages that feature THC products for sale alongside the CBD product being advertised.
 
-## Advertising CBD
+## Werbung für CBD
 
-The Agriculture Improvement Act of 2018 was signed into US federal law, removing hemp from the Controlled Substances Act. However, the legal status of CBD varies from state to state. The guidelines below (which are provided for reference only and should not be relied upon by any advertisers) cover where CBD advertisers can advertise their products in Brave Ads, and applicable conditions per state.
+Der Agriculture Improvement Act von 2018 wurde in das US-Bundesgesetz aufgenommen, wodurch Hanf aus dem Controlled Substances Act entfernt wurde. Der rechtliche Status von CBD variiert jedoch von Staat zu Staat. Die untenstehenden Richtlinien (die nur zur Orientierung dienen und von keinem Werbetreibenden als verbindlich betrachtet werden sollten) beschreiben, wo CBD-Werbetreibende ihre Produkte in Brave Ads bewerben können und welche Bedingungen pro Staat gelten.
 
-Advertisers accept full liability and responsibility for operating within state regulations and restrictions for the states that they plan to run CBD advertising in.
+Werbetreibende akzeptieren die volle Haftung und Verantwortung dafür, die staatlichen Vorschriften und Beschränkungen der Staaten einzuhalten, in denen sie CBD-Werbung schalten möchten.
 
-You represent and warrant that your CBD advertisements (including any products, services or other materials referenced therein), any website(s) or other destinations to which your advertisements may link or direct viewers, and any act or omission by you relating to your CBD advertisements (collectively, “CBD Advertisements”) do not violate any applicable law, statute, directive, ordinance, treaty, contract, or regulation, or any applicable Brave policies or guidelines, in any of the jurisdictions in which your CBD Advertisements are distributed and/or displayed.
+Sie versichern und garantieren, dass Ihre CBD-Anzeigen (einschließlich aller darin erwähnten Produkte, Dienstleistungen oder anderen Materialien), jede Website(s) oder andere Ziele, auf die Ihre Anzeigen verweisen oder die sie ansteuern, und jede Handlung oder Unterlassung Ihrerseits in Bezug auf Ihre CBD-Anzeigen (zusammenfassend „CBD-Anzeigen“) keine geltenden Gesetze, Verordnungen, Richtlinien, Vertragsbestimmungen oder Vorschriften oder geltenden Brave-Richtlinien oder -Leitlinien in einer der Jurisdiktionen verletzen, in denen Ihre CBD-Anzeigen verbreitet und/oder angezeigt werden.
 
-You agree to indemnify, defend, and hold harmless Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents from and against all claims, demands, suits, or other assertions of rights by any third party, whether actual or alleged (collectively, “Claims”), and any resulting judgments, damages, losses, liabilities, settlements, costs, and expenses (including, but not limited to, attorney’s fees and costs), that arise out of or in connection with your CBD Advertisements. You agree to be solely responsible for defending any Claim against Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents, subject to Brave’s right to participate with counsel of its own choosing; provided, that you will not agree to any settlement without Brave’s prior written consent.
+Sie stimmen zu, Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Direktoren, Aktionäre, Mitarbeiter und Agenten von allen Ansprüchen, Forderungen, Klagen oder anderen Rechten Dritter, ob tatsächlich oder angeblich (zusammenfassend „Ansprüche“), und daraus resultierenden Urteilen, Schäden, Verlusten, Verbindlichkeiten, Vergleichen, Kosten und Ausgaben (einschließlich, aber nicht beschränkt auf Anwaltsgebühren und -kosten), die aus oder im Zusammenhang mit Ihren CBD-Anzeigen entstehen, zu entschädigen, zu verteidigen und schadlos zu halten. Sie stimmen zu, allein für die Verteidigung gegen jede Forderung gegen Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Direktoren, Aktionäre, Mitarbeiter und Agenten verantwortlich zu sein, vorbehaltlich Braves Recht, mit einem eigenen Rechtsbeistand teilzunehmen; vorausgesetzt, dass Sie keiner Einigung ohne Braves vorheriger schriftlicher Zustimmung zustimmen werden.
 
-### CBD advertising is available in:
+### CBD-Werbung ist verfügbar in:
 
 - Delaware
 - Florida
@@ -41,12 +41,12 @@ You agree to indemnify, defend, and hold harmless Brave and its affiliates, subs
 - Tennessee
 - Utah
 
-### CBD advertising, excluding food/beverage products, is available in:
+### CBD-Werbung, mit Ausnahme von Lebensmitteln/Getränken, ist verfügbar in:
 
 - Alaska
 - Arizona
 - Arkansas
-- California
+- Kalifornien
 - Colorado
 - Connecticut
 - Georgia
@@ -66,7 +66,7 @@ You agree to indemnify, defend, and hold harmless Brave and its affiliates, subs
 - West Virginia
 - Wisconsin
 
-### CBD advertising is NOT available in:
+### CBD-Werbung ist NICHT verfügbar in:
 
 - Idaho
 - Iowa
