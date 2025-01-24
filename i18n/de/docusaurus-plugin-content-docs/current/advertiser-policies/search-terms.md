@@ -2,194 +2,193 @@
 sidebar_position: 4
 ---
 
-# Brave Search Advertiser Terms of Service
+# Brave Search Werbetreibende Nutzungsbedingungen
 
-_Last Updated: March 11, 2024_
+_Zuletzt aktualisiert: 11. März 2024_
 
-These Brave Search Advertiser Terms of Service (_"Terms"_) apply to your access to and use of Services (as defined in Section 1 below) provided by Brave US LLC and any of its affiliated companies, including but not limited to direct and indirect parents, subsidiaries and otherwise commonly owned or affiliated companies.  (_"Brave"_ or _"we"_).You also agree that these Terms will apply to any claims asserted against any employee, director, officer or agent of Brave. **By accessing or using our Services, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 13, do not access or use our Services.**
+Diese Brave Search Werbetreibende Nutzungsbedingungen ("_Bedingungen_") gelten für Ihren Zugang zu und die Nutzung von Diensten (wie in Abschnitt 1 unten definiert), die von Brave US LLC und allen ihren verbundenen Unternehmen bereitgestellt werden, einschließlich, aber nicht beschränkt auf direkte und indirekte Muttergesellschaften, Tochtergesellschaften und sonstige verbundene oder im gemeinsamen Besitz stehende Unternehmen.  ("_Brave_" oder "_wir_").Sie erklären sich auch damit einverstanden, dass diese Bedingungen für alle Ansprüche gelten, die gegen einen Mitarbeiter, Direktor, Offizier oder Vertreter von Brave geltend gemacht werden. **Durch den Zugriff auf oder die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu. Wenn Sie mit diesen Bedingungen, einschließlich der obligatorischen Schiedsklausel und des Verzichts auf Sammelklagen in Abschnitt 13, nicht einverstanden sind, greifen Sie nicht auf unsere Dienste zu und nutzen Sie diese nicht.**
 
-For information about how we collect and use your data, please refer to our [Advertisers Privacy Policy](https://brave.com/privacy/advertiser/).
+Informationen darüber, wie wir Ihre Daten erfassen und verwenden, finden Sie in unserer [Werbetreibende Datenschutzrichtlinie](https://brave.com/privacy/advertiser/).
 
-If you have any questions about these Terms, please contact us at advertisers@brave.com.
+Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter advertisers@brave.com.
 
-You and Brave agree as follows:
+Sie und Brave stimmen dem Folgenden zu:
 
-## 1. Overview and Scope
+## 1. Überblick und Umfang
 
-Brave operates a platform (the _"Platform"_) for delivering ads to users of the Brave Search Engine, a proprietary search engine owned and operated by Brave Software, Inc.
-These Terms govern the services (the _"Services"_) that Brave makes available to advertisers who establish an Advertiser Account with Brave (_"Brave Advertisers"_), including the ability to place advertisements and obtain related services through the Platform.
+Brave betreibt eine Plattform (die _"Plattform"_) zur Bereitstellung von Anzeigen für Nutzer der Brave Search, einer proprietären Suchmaschine, die von Brave Software, Inc. betrieben wird. Diese Bedingungen regeln die Dienstleistungen (die _"Dienste"_), die Brave Werbetreibenden, die ein Werbetreibendenkonto bei Brave (_"Brave Werbetreibende"_) einrichten, zur Verfügung stellt, einschließlich der Möglichkeit, Anzeigen zu schalten und damit verbundene Dienstleistungen über die Plattform zu erhalten.
 
-## 2. Eligibility
+## 2. Berechtigung
 
-In order to access and use our Services, you must
+Um Zugang zu unseren Diensten zu erhalten und diese zu nutzen, müssen Sie
 
-- be at least 18 years of age and have the capacity to enter into a legally binding agreement,
-- use our Services only for business purposes, and
-- establish an Advertiser Account in accordance with Section 3.
+- mindestens 18 Jahre alt sein und die Fähigkeit besitzen, eine rechtsverbindliche Vereinbarung einzugehen,
+- unsere Dienste nur zu geschäftlichen Zwecken nutzen, und
+- ein Werbetreibenden Konto gemäß Abschnitt 3 einrichten.
 
-You may not access or use our Services if
+Sie dürfen nicht auf unsere Dienste zugreifen oder diese nutzen, wenn
 
-- you are prohibited by law from using the Services or do not have the requisite licenses or other governmental authorizations to use the Services,
-- you or your country is on any government list of prohibited or restricted parties or countries, or
-- your use of the Services breaches any other agreement to which you are a party.
+- es Ihnen gesetzlich untersagt ist, die Dienste zu nutzen, oder wenn Sie die erforderlichen Lizenzen oder andere behördliche Genehmigungen für die Nutzung der Dienste nicht besitzen,
+- Sie oder Ihr Land auf einer staatlichen Liste von verbotenen oder eingeschränkten Parteien oder Ländern stehen, oder
+- die Nutzung der Dienste durch Sie eine andere Vereinbarung verletzt, an die Sie gebunden sind.
 
-If you are accessing or using our Services on behalf of another person or entity: references to _"you"_ in these Terms collectively refer to you and that person or entity, and you represent that you are authorized to accept these Terms on that person or entity's behalf and that the person or entity agrees to be responsible to us if you or the other person or entity violates these Terms.
+Wenn Sie im Namen einer anderen Person oder eines anderen Unternehmens auf unsere Dienste zugreifen oder diese nutzen: Verweise auf "_Sie_" in diesen Bedingungen beziehen sich gemeinsam auf Sie und diese Person oder dieses Unternehmen, und Sie erklären, dass Sie befugt sind, diese Bedingungen im Namen dieser Person oder dieses Unternehmens zu akzeptieren und dass die Person oder das Unternehmen damit einverstanden ist, uns gegenüber verantwortlich zu sein, wenn Sie oder die andere Person oder das andere Unternehmen diese Bedingungen verletzt.
 
-## 3. Advertiser Account
+## 3. Werbetreibenden Konto
 
-You can request to establish an Advertiser Account with us by joining https://ads.brave.com/search. You will need to provide us information to establish an Advertiser Account (_"Account Information"_), including your name and email address. We may ask for additional Account Information at our discretion. The Account Information you provide must be true and accurate. You must promptly inform us whenever your Account Information changes.
-When you establish your Advertiser Account, we may provide you with information related to the Services which is confidential, and you agree to keep such information confidential. You have confidentiality obligations with respect to this information and these obligations are described in Section 7.
-You must maintain the security of your Advertiser Account and promptly notify us if you discover or suspect that someone has accessed your Advertiser Account without your permission. If you permit others to use your Advertiser Account, you are responsible for the activities of such people that occur in connection with your Advertiser Account. You are responsible for providing and maintaining accurate contact information for your Advertiser Account.
-If you wish to delete or deactivate your Advertiser Account, you may do so according to Section 16, but note that we may retain certain information as permitted by law, regulation or court order.
+Sie können die Einrichtung eines Werbetreibenden Kontos bei uns beantragen, indem Sie sich unter https://ads.brave.com/search anmelden. Sie müssen uns Informationen zur Einrichtung eines Werbetreibenden Kontos bereitstellen ("_Kontoinformationen_"), einschließlich Ihres Namens und Ihrer E-Mail-Adresse. Wir können nach eigenem Ermessen zusätzliche Kontoinformationen anfordern. Die von Ihnen bereitgestellten Kontoinformationen müssen wahr und genau sein. Sie müssen uns unverzüglich informieren, wenn sich Ihre Kontoinformationen ändern.
+Wenn Sie Ihr Werbetreibenden Konto einrichten, können wir Ihnen Informationen im Zusammenhang mit den Diensten bereitstellen, die vertraulich sind, und Sie stimmen zu, solche Informationen vertraulich zu behandeln. Sie haben Vertraulichkeitspflichten in Bezug auf diese Informationen und diese Verpflichtungen sind in Abschnitt 7 beschrieben.
+Sie müssen die Sicherheit Ihres Werbetreibenden Kontos gewährleisten und uns umgehend benachrichtigen, wenn Sie entdecken oder vermuten, dass jemand ohne Ihre Erlaubnis auf Ihr Werbetreibenden Konto zugegriffen hat. Wenn Sie anderen die Nutzung Ihres Werbetreibenden Kontos gestatten, sind Sie für die Aktivitäten dieser Personen verantwortlich, die im Zusammenhang mit Ihrem Werbetreibenden Konto auftreten. Sie sind dafür verantwortlich, genaue Kontaktinformationen für Ihr Werbetreibenden Konto bereitzustellen und zu pflegen.
+Wenn Sie wünschen, Ihr Werbetreibenden Konto zu löschen oder zu deaktivieren, können Sie dies gemäß Abschnitt 16 tun, beachten Sie jedoch, dass wir bestimmte Informationen gemäß den gesetzlichen Vorschriften, Vorschriften oder Gerichtsbeschlüssen aufbewahren dürfen.
 
-## 4. Advertising Content
+## 4. Werbeinhalt
 
-You alone are responsible for the ads submitted for the Platform on your Advertiser Account (_"your ads"_). You must ensure that your ads are truthful, not misleading, comply with all applicable laws, and, when appropriate, backed by scientific evidence. Your ads must conform to our ad policy (_"Ad Policy"_), which we provide to you when you establish your Advertiser Account and which is incorporated into these terms. The Ad Policy includes a list of the geographic regions in which Brave Ads are intended to be shown. We may update the Ad Policy from time to time. It is your responsibility to review these changes to the Ad Policy on an ongoing basis.
-You must accurately label your ads with the region(s) in which they are to be shown, and the subject of each of your ads must be legal to advertise, sell, and use in all of the regions with which you label that ad, as well as in the USA, the state of California, and the Cayman Islands.
-Your ads are subject to review and approval by us before they are activated for delivery in the Platform. We may also review your ads at any point and for any reason. If your ads for any reason do not pass our approval process, or are otherwise deemed to be in violation of these Terms, we may — at our discretion — disable those ads, immediately halt all of your ads, suspend you from the platform, or apply other remedies we think are needed to ensure the quality and reputation of the Platform. Our determination in these matters, including as to which Content Classifications apply to any of your ads, is final and binding.
-You grant a non-exclusive, worldwide, royalty-free license to Brave to reproduce, distribute, publicly display, and modify (as needed for display on the Platform) your ads for the purpose of displaying your ads via the Platform and otherwise providing the Services to you under these Terms.
-Brave reserves the right to suspend campaigns at any time if Brave suspects that the advertiser campaign poses a safety risk to our users including if Brave suspects that the advertising company has a security breach/incident and/or other significant operational failures, provided that Brave will provide as much notice to Advertiser as is reasonably practicable under the circumstances prior to suspending a campaign.
-Campaign performance may vary and is not guaranteed by Brave.
+Sie allein sind verantwortlich für die Anzeigen, die über Ihr Werbetreibenden Konto auf der Plattform eingereicht werden ("_Ihre Anzeigen_"). Sie müssen sicherstellen, dass Ihre Anzeigen wahrheitsgemäß, nicht irreführend und in Übereinstimmung mit allen geltenden Gesetzen sind und, falls erforderlich, durch wissenschaftliche Beweise gestützt werden. Ihre Anzeigen müssen unserer Werbepolitik ("_Werbepolitik_") entsprechen, die wir Ihnen bei der Einrichtung Ihres Werbetreibenden Kontos bereitstellen und die in diese Bedingungen aufgenommen ist. Die Werbepolitik enthält eine Liste der geografischen Regionen, in denen Brave Anzeigen geschaltet werden sollen. Wir können die Werbepolitik von Zeit zu Zeit aktualisieren. Es liegt in Ihrer Verantwortung, diese Änderungen der Werbepolitik laufend zu prüfen.
+Sie müssen Ihre Anzeigen genau mit den Regionen kennzeichnen, in denen sie gezeigt werden sollen, und der Inhalt jeder Ihrer Anzeigen muss in allen Regionen, die Sie für diese Anzeige kennzeichnen, sowie in den USA, im Bundesstaat Kalifornien und auf den Kaimaninseln legal sein.
+Ihre Anzeigen unterliegen unserer Prüfung und Genehmigung, bevor sie zur Bereitstellung auf der Plattform aktiviert werden. Wir können Ihre Anzeigen jederzeit und aus jedem Grund prüfen. Falls Ihre Anzeigen aus irgendeinem Grund nicht unseren Genehmigungsprozess bestehen oder anderweitig als Verstoß gegen diese Bedingungen betrachtet werden, können wir nach eigenem Ermessen diese Anzeigen deaktivieren, alle Ihre Anzeigen sofort stoppen, Sie von der Plattform suspendieren oder andere Maßnahmen ergreifen, die wir für erforderlich halten, um die Qualität und den Ruf der Plattform zu gewährleisten. Unsere Entscheidung in diesen Angelegenheiten, einschließlich der Festlegung der Inhaltsklassifikationen für Ihre Anzeigen, ist endgültig und bindend. Unsere Entscheidung in diesen Angelegenheiten, einschließlich der Frage, welche Inhaltsklassifizierungen für eine Ihrer Anzeigen gelten, ist endgültig und verbindlich.
+Sie gewähren Brave eine nicht-exklusive, weltweite, gebührenfreie Lizenz zur Vervielfältigung, Verteilung, öffentlichen Darstellung und Modifikation (soweit für die Darstellung auf der Plattform erforderlich) Ihrer Anzeigen, um Ihre Anzeigen über die Plattform anzuzeigen und Ihnen anderweitig die Dienste gemäß diesen Bedingungen bereitzustellen.
+Die Kampagnenleistung kann variieren und ist nicht garantiert durch Brave.
+Die Leistung der Kampagne kann variieren und wird von Brave nicht garantiert.
 
-## 5. Invoicing & Payment
+## 5. Rechnungsstellung und Zahlung
 
-Your ads are priced based on the number of clicks (_“Clicks”_) the ad generates and the cost per click (_“CPC”_), which is the amount you agree to pay us for each click you receive. The CPC is based either on a fixed price agreed upon between you and us or on a competitive bidding process that takes place at the time an ad is to be served in response to a relevant query. When the Platform displays one of your ads and a user clicks on the ad, it reports that Click to us. Approximately every month, we verify and tally the Clicks and CPC associated with all of your active ad campaigns and issue you an invoice. Our accounting of Clicks and CPC is final and binding. You agree to pay the full amount of each invoice within 30 days of receipt.
+Ihre Anzeigen werden auf der Grundlage der Anzahl der Klicks (_„Klicks“_), die die Anzeige generiert, und den Kosten pro Klick (_„CPC“_), die der Betrag ist, den Sie uns für jeden erhaltenen Klick zu zahlen verpflichten, berechnet. Der CPC basiert entweder auf einem zwischen Ihnen und uns vereinbarten Festpreis oder auf einem Wettbewerbsgebotsverfahren, das zum Zeitpunkt der Schaltung einer Anzeige als Reaktion auf eine relevante Suchanfrage stattfindet. Wenn die Plattform eine Ihrer Anzeigen anzeigt und ein Benutzer auf die Anzeige klickt, meldet sie diesen Klick an uns. Etwa jeden Monat überprüfen und erfassen wir die Klicks und CPC, die mit all Ihren aktiven Werbekampagnen verbunden sind, und stellen Ihnen eine Rechnung aus. Unsere Abrechnung der Klicks und CPC ist endgültig und bindend. Sie verpflichten sich, den vollen Betrag jeder Rechnung innerhalb von 30 Tagen nach Erhalt zu zahlen.
 
-## 6. Taxes
+## 6. Steuern
 
-You are responsible for determining what, if any, taxes apply to your use of the Services, and for withholding, collecting, reporting and remitting the correct taxes, if any, to the appropriate tax authorities. Brave is not responsible for withholding, collecting, reporting, or remitting any tax arising from your use of the Services. You agree to provide information reasonably requested by Brave, including completed and signed tax forms, as applicable.
+Sie sind dafür verantwortlich, festzustellen, welche Steuern, falls vorhanden, für Ihre Nutzung der Dienste anfallen, und die richtigen Steuern, falls vorhanden, an die zuständigen Steuerbehörden abzuführen, einzuziehen, zu melden und abzuführen. Brave ist nicht dafür verantwortlich, Steuern, die aus der Nutzung der Dienste entstehen, einzubehalten, abzuführen, zu melden oder abzuführen. Sie verpflichten sich, die von Brave angemessen angeforderten Informationen zur Verfügung zu stellen, einschließlich ausgefüllter und unterschriebener Steuerformulare, soweit erforderlich.
 
-## 7. Confidentiality
+## 7. Vertraulichkeit
 
-In the course of your use of the Services, we may disclose to you information which we consider confidential (_"Confidential Information"_), including information regarding your pricing and performance measures.
-You agree to use this Confidential Information solely for the purpose of using the Platform and to keep this Confidential Information secret, using no less than the same degree of care that you use when you protect your own similar confidential information, and in any event at least a reasonable degree of care.
+Während der Nutzung der Dienste können wir Ihnen Informationen offenlegen, die wir als vertraulich betrachten (_"Vertrauliche Informationen"_), einschließlich Informationen über Ihre Preisgestaltung und Leistungskennzahlen.
+Sie verpflichten sich, diese Vertraulichen Informationen ausschließlich zum Zweck der Nutzung der Plattform zu verwenden und sie geheim zu halten, indem Sie mindestens dieselbe Sorgfalt anwenden, die Sie auch auf Ihre eigenen ähnlichen vertraulichen Informationen anwenden, und in jedem Fall wenigstens angemessene Sorgfalt walten zu lassen.
 
-## 8. Prohibited Conduct
+## 8. Verbotenes Verhalten
 
-While using or accessing our Services, you will not:
+Während der Nutzung oder des Zugriffs auf unsere Dienste werden Sie nicht:
 
-- (a) violate any applicable law, contract, intellectual property or other third-party right or commit a tort;
-- (b) engage in, encourage or promote any activity that violates these Terms;
-- (c) attempt to circumvent any content-limiting techniques we employ;
-- (d) develop or use any non-Brave scripts or applications designed to scrape or extract data from the Services;
-- (e) use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from utilizing the Services or that could damage, disable, overburden or impair the functioning of the Services in any manner;
-- (f) use the Services for benchmarking purposes or for the purpose of developing a competitive product; or
-- (g) manipulate, or attempt to manipulate, the Services in any way.
+- (a) gegen geltendes Recht, Verträge, geistige Eigentumsrechte oder andere Rechte Dritter verstoßen oder eine unerlaubte Handlung begehen;
+- (b) sich an Aktivitäten beteiligen, solche fördern oder unterstützen, die gegen diese Bedingungen verstoßen;
+- (c) versuchen, von uns eingesetzte Techniken zur Inhaltsbeschränkung zu umgehen;
+- (d) irgendwelche nicht von Brave stammenden Skripte oder Anwendungen entwickeln oder verwenden, die dazu bestimmt sind, Daten aus den Diensten zu extrahieren oder abzufragen;
+- (e) die Dienste in einer Weise nutzen, die andere Benutzer daran hindern könnte, die Dienste zu nutzen oder zu stören, oder die Funktionen der Dienste in irgendeiner Weise beschädigen, deaktivieren, überlasten oder beeinträchtigen könnte;
+- (f) die Dienste für Benchmarking-Zwecke oder zur Entwicklung eines Konkurrenzprodukts nutzen; oder
+- (g) die Dienste manipulieren oder versuchen, sie in irgendeiner Weise zu manipulieren.
 
-In the course of using or accessing the Services, you must not:
+Während der Nutzung oder des Zugriffs auf die Dienste dürfen Sie nicht:
 
-- (h) commit a criminal offense; violate any local, state, national, or international law; encourage others to do so; or provide instructions for doing so;
-- (i) infringe any patent, trademark, trade secret, copyright, or other similar exclusive or proprietary right protected by law;
-- (j) take any action which poses, in our sole judgment, a reasonable risk of exposing the Services, our users, or others to any harm or liability of any type; or
+- (h) eine strafbare Handlung begehen; gegen lokales, staatliches, nationales oder internationales Recht verstoßen; andere dazu ermutigen, dies zu tun; oder Anweisungen dazu geben;
+- (i) irgendein Patent, eine Marke, ein Geschäftsgeheimnis, ein Urheberrecht oder ein ähnliches exklusives oder proprietäres Recht verletzen, das durch Gesetz geschützt ist;
+- (j) eine Handlung vornehmen, die nach unserem alleinigen Ermessen ein vertretbares Risiko darstellt, die Dienste, unsere Nutzer oder andere zu schädigen oder anderweitig zu gefährden; oder
 - (k) take any measures to identify users of the Brave Search Engine (other than those users who have clicked on your ad and voluntarily provided personal information to you).
 
-## 9. Indemnification
+## 9. Entschädigung
 
 To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Brave and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the _"Brave Parties"_) from and against all claims, demands, actions, damages, losses, costs and expenses (including attorneys' fees) that arise from or relate to:
 
-- (a) your access or use of the Services,
-- (b) your ads
-- (c) your responsibilities or obligations under these Terms,
-- (d) your violation of these Terms, or
-- (e) your violation of any rights of any other person or entity.
+- (a) Ihr Zugriff oder Ihre Nutzung der Dienste,
+- (b) Ihre Anzeigen,
+- (c) Ihre Pflichten oder Verpflichtungen aus diesen Bedingungen,
+- (d) Ihr Verstoß gegen diese Bedingungen oder
+- (e) Ihre Verletzung von Rechten Dritter oder anderer Personen.
 
-We reserve the right to exercise sole control over the defense, at your expense, of any claim subject to indemnification under this Section 9. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Brave.
+Wir behalten uns das Recht vor, die Verteidigung, bei Ihren Kosten, der unter diese Ziffer 9 fallenden Ansprüche allein zu steuern. Diese Freistellung gilt zusätzlich zu und nicht anstelle anderer in einer schriftlichen Vereinbarung zwischen Ihnen und Brave festgelegter Entschädigungen.
 
-## 10. Disclaimers
+## 10. Haftungsausschlüsse
 
-**To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:**
+**Im größtmöglichen Umfang, der nach geltendem Recht zulässig ist und sofern nicht anders schriftlich von uns festgelegt:**
 
-- **(a) the Services are made available on an _"as is"_ and _"as available"_ basis without warranties of any kind;**
-- **(b) we expressly disclaim all implied warranties as to the Services, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement;**
-- **(c) we do not represent or warrant that the Services are reliable, current or error-free, meet your requirements, or that defects in the Services will be corrected; and**
-- **(d) we cannot and do not represent or warrant that the Services are free of malware or other harmful components.**
+- **(a) werden die Dienste ohne jegliche Gewährleistungen jeglicher Art als _"wie gesehen"_ und _"wie verfügbar"_ bereitgestellt;**
+- **(b) lehnen wir ausdrücklich alle stillschweigenden Gewährleistungen in Bezug auf die Dienste ab, einschließlich, aber nicht beschränkt auf stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck, Eigentum und Nichtverletzung;**
+- **(c) übernehmen wir keine Zusicherung oder Gewährleistung, dass die Dienste zuverlässig, aktuell oder fehlerfrei sind, Ihre Anforderungen erfüllen oder dass Mängel in den Diensten behoben werden; und**
+- **(d) können und werden wir nicht garantieren oder gewährleisten, dass die Dienste frei von Malware oder anderen schädlichen Komponenten sind.**
 
-## 11. Limitation of Liability
+## 11. Haftungsbeschränkung
 
-- (a) **To the fullest extent permitted by applicable law:**
-  - **(i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and**
-  - **(ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.**
-- **(b) The limitations set forth in Section 11(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Brave.**
-- (c) Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the limitations of this section may not apply to you.
+- (a) **Soweit gesetzlich zulässig:**
+  - **(i) In keinem Fall haften Brave oder irgendeine der Brave Parties Ihnen gegenüber für indirekte, spezielle, zufällige, Folge- oder beispielhafte Schäden jeglicher Art (einschließlich, aber nicht beschränkt auf Schäden im Zusammenhang mit dem Verlust von Einnahmen, Einkommen oder Gewinn, dem Verlust der Nutzung oder Daten oder Schäden durch Betriebsunterbrechung), unabhängig von der Art der Handlung, sei es aus Vertrag, Delikt (einschließlich, aber nicht beschränkt auf einfache Fahrlässigkeit, sei sie aktiv, passiv oder zugerechnet) oder irgendeine andere rechtliche oder angemessene Theorie (selbst wenn die Partei auf die Möglichkeit solcher Schäden hingewiesen wurde und unabhängig davon, ob solche Schäden vorhersehbar waren); und**
+  - **(ii) In keinem Fall übersteigt die Gesamthaftung von Brave und den Brave Parties (einzeln oder gemeinsam), sei es aus Vertrag, Garantie, Delikt (einschließlich Fahrlässigkeit, sei sie aktiv, passiv oder zugerechnet) oder einer anderen Theorie, in Zusammenhang mit den Diensten oder diesen Bedingungen den Gesamtbetrag, den Sie für Ihre ads ausgegeben haben.**
+- **(b) Die in Abschnitt 11 (a) festgelegten Beschränkungen beschränken oder schließen die Haftung für grobe Fahrlässigkeit, Betrug oder vorsätzliches, willentliches oder rücksichtsloses Fehlverhalten von Brave nicht aus.**
+- (c) Einige Gerichtsbarkeiten erlauben die Beschränkung oder den Ausschluss der Haftung für zufällige oder Folgeschäden nicht. Daher können einige der Einschränkungen dieses Abschnitts möglicherweise nicht auf Sie zutreffen.
 
-## 12. Release
+## 12. Freistellung
 
-To the fullest extent permitted by applicable law, you release Brave and the other Brave Parties from responsibility, liability, claims, demands and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between you and other Brave Advertisers or the acts or omissions of third parties.You expressly waive any rights you may have under California Civil Code § 1542 as well as any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
+Im größtmöglichen gesetzlich zulässigen Umfang entbinden Sie Brave und die anderen Brave Parties von Verantwortung, Haftung, Ansprüchen, Forderungen und/oder Schäden (tatsächliche und Folgeschäden) jeglicher Art und Natur, bekannt und unbekannt (einschließlich, aber nicht beschränkt auf Ansprüche wegen Fahrlässigkeit), die sich aus oder im Zusammenhang mit Streitigkeiten zwischen Ihnen und anderen Brave Advertisers oder den Handlungen oder Unterlassungen Dritter ergeben.Sie verzichten ausdrücklich auf alle Rechte, die Sie gemäß California Civil Code § 1542 sowie nach anderen Statuten oder gemeinsamen Rechtsprinzipien haben, die ansonsten die Reichweite dieser Freistellung auf diejenigen Ansprüche beschränken würden, die Ihnen zum Zeitpunkt der Zustimmung zu dieser Freistellung bekannt sind oder vermutet werden.
 
-## 13. Dispute Resolution; Arbitration
+## 13. Streitbeilegung; Schiedsverfahren
 
-**Please read the following section carefully because it contains additional provisions applicable only to individuals located, resident, or domiciled in the United States. If you are located, resident, or domiciled in the United States, this section requires you to arbitrate certain disputes and claims with Brave and limits the manner in which you can seek relief from us.**
-**If you have a dispute with us, you agree to first contact your account manager. If you would prefer to send a written complaint via mail, please include as much information as possible in describing your complaint, including your support ticket number, how you would like us to resolve the complaint, and any other relevant information to us at legal@brave.com. The complaint process is completed when Brave responds to your complaint or 45 business days after the date we receive your complaint, whichever occurs first. You agree to complete this process before filing an arbitration demand and agree that that completing the complaint process is a condition precedent to filing an arbitration demand or any other litigation.**
+**Bitte lesen Sie den folgenden Abschnitt sorgfältig durch, da er zusätzliche Bestimmungen enthält, die nur für in den Vereinigten Staaten befindliche, ansässige oder domizilierte Personen gelten. Wenn Sie sich in den Vereinigten Staaten befinden, dort wohnen oder ansässig sind, verpflichtet dieser Abschnitt Sie dazu, bestimmte Streitigkeiten und Ansprüche mit Brave durch ein Schiedsverfahren beizulegen und beschränkt die Art und Weise, wie Sie von uns Entlastung suchen können.**
+**Wenn Sie einen Streitfall mit uns haben, stimmen Sie zu, zuerst Ihren Kontomanager zu kontaktieren. Wenn Sie lieber eine schriftliche Beschwerde per Post senden möchten, fügen Sie bitte so viele Informationen wie möglich zur Beschreibung Ihrer Beschwerde bei, einschließlich Ihrer Support-Ticket-Nummer, wie Sie möchten, dass wir die Beschwerde lösen, und alle anderen relevanten Informationen an uns unter legal@brave.com. Der Beschwerdeprozess ist abgeschlossen, wenn Brave auf Ihre Beschwerde antwortet oder 45 Werktage nach dem Datum, an dem wir Ihre Beschwerde erhalten, je nachdem, was zuerst eintritt. Sie stimmen zu, diesen Prozess abzuschließen, bevor Sie eine Schiedsgerichtsanforderung einreichen, und stimmen zu, dass die Durchführung des Beschwerdeprozesses eine Voraussetzung für die Einreichung einer Schiedsgerichtsanforderung oder einer anderen Rechtsstreitigkeit ist.**
 
-### 1. Binding Arbitration.
+### 1. Bindendes Schiedsverfahren.
 
-Except for any disputes, claims, suits, actions, causes of action, demands or proceedings arising from or related to the Services, including the Terms, Terms, the data we process in connection with the Services and our Advertiser Privacy Policy (collectively, "_Disputes_") in which either Party seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including, without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, or small claims disputes in which you or Brave seeks to bring an individual action in small claims court located in the county of your billing address, you and Brave:
+Mit Ausnahme von Streitigkeiten, Ansprüchen, Klagen, Klageursachen, Forderungen oder Verfahren, die sich aus oder im Zusammenhang mit den Diensten, einschließlich der Bedingungen, der Daten, die wir im Zusammenhang mit den Diensten verarbeiten, und unserer Advertiser Privacy Policy ergeben (zusammen „_Streitigkeiten_“), in denen eine der Parteien Unterlassungs- oder andere angemessene Rechtsmittel wegen der angeblich unrechtmäßigen Nutzung von geistigem Eigentum, einschließlich, aber nicht beschränkt auf Urheberrechte, Marken, Handelsnamen, Logos, Geschäftsgeheimnisse oder Patente, anstrebt, oder bei geringfügigen Streitigkeiten, in denen Sie oder Brave versuchen, eine Einzelklage vor einem Amtsgericht im Bezirk Ihrer Rechnungsadresse einzureichen, gilt:
 
-- **(i) waive your and Brave's respective rights to have any and all Disputes resolved in a court, and**
-- **(ii) waive your and Brave's respective rights to a jury trial. Instead, you and Brave will arbitrate disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).**
+- **(i) Auf Ihr jeweiliges Recht und das von Brave, alle Streitigkeiten vor Gericht zu klären, verzichten; und**
+- **(ii) Auf Ihr jeweiliges Recht und das von Brave auf ein Schwurgerichtsverfahren verzichten. Stattdessen werden Sie und Brave Streitigkeiten durch bindende Schiedsverfahren klären (bei denen es sich um die Verweisung eines Streits an eine oder mehrere Personen handelt, die mit der Überprüfung des Streits und der endgültigen und bindenden Entscheidung darüber beauftragt sind, anstatt den Streit von einem Richter oder einer Jury vor Gericht entscheiden zu lassen).** 2.
 
-### 2. No Class Arbitrations, Class Actions or Representative Actions.
+### Keine Sammelschiedsverfahren, Sammelklagen oder Repräsentativverfahren. Jede Streitigkeit ist persönlich zwischen Ihnen und Brave und wird ausschließlich durch individuelles Schiedsverfahren gelöst und nicht als Sammelschiedsverfahren, Sammelklage oder eine andere Art von repräsentativem oder kollektivem Verfahren eingereicht.
 
-Any Dispute is personal to you and Brave and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative or collective proceeding. There will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another individual or group of individuals. Further, a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals.
+Es wird kein Sammelschiedsverfahren oder Schiedsverfahren geben, bei dem eine Einzelperson versucht, eine Streitigkeit als Vertreter einer anderen Einzelperson oder Gruppe von Einzelpersonen zu lösen. Darüber hinaus kann eine Streitigkeit nicht als Sammelklage oder eine andere Art von repräsentativem Verfahren eingereicht werden, weder innerhalb noch außerhalb eines Schiedsverfahrens, oder im Namen einer anderen Einzelperson oder einer Gruppe von Einzelpersonen. 3.
 
-### 3. Federal Arbitration Act
+### Bundesschiedsgesetz Die Durchsetzbarkeit dieses Abschnitts 13 wird sowohl materiell als auch verfahrensrechtlich durch und nach Maßgabe des Federal Arbitration Act, 9 U.S.C.
 
-The enforceability of this Section 13 will be both substantively and procedurally governed by and construed and enforced in accordance with the Federal Arbitration Act, 9 U.S.C. § 1 et seq. (the _"FAA"_), to the maximum extent permitted by applicable law.
+§ 1 ff. (das _„FAA“_), geregelt und ausgelegt und durchgesetzt, soweit gesetzlich zulässig. 4. Mitteilung; informelle Streitbeilegung
 
-### 4. Notice; Informal Dispute Resolution
+### Jede Partei wird die andere Partei schriftlich über jede Streitigkeit innerhalb von dreißig (30) Tagen nach deren Entstehung informieren, damit die Parteien in gutem Glauben versuchen können, die Streitigkeit informell zu lösen. Die Mitteilung an Brave ist per E-Mail an Brave an advertisers@brave.com zu senden.
 
-Each Party will notify the other Party in writing of any Dispute within thirty (30) days of the date it arises, so that the Parties can attempt in good faith to resolve the Dispute informally. Notice to Brave shall be sent by e-mail to Brave at advertisers@brave.com. Notice to you shall be by email to the email address in your Advertiser Account. Your notice must include
+Die Mitteilung an Sie erfolgt per E-Mail an die E-Mail-Adresse in Ihrem Werbekonto. Ihre Mitteilung muss (i) Ihren Namen, Ihre Postadresse, E-Mail-Adresse und Telefonnummer enthalten, (ii) eine Beschreibung in angemessenem Detail der Natur oder Grundlage der Streitigkeit, und
 
-- (i) your name, postal address, email address and telephone number,
-- (ii) a description in reasonable detail of the nature or basis of the Dispute, and
-- (iii) the specific relief that you are seeking.
+- (ii) eine Beschreibung in angemessenem Detail der Natur oder Grundlage der Streitigkeit, und
+- (ii) eine Beschreibung in angemessenem Detail der Natur oder Grundlage der Streitigkeit, und
+- (iii) das spezifische Rechtsmittel, das Sie suchen.
   If you and Brave cannot agree how to resolve the Dispute within thirty (30) days after the date notice is received by the applicable Party, then either you or Brave may, as appropriate and in accordance with this Section 13, commence an arbitration proceeding or, to the extent specifically provided for in Section 13.1, file a claim in court.
 
-### 5. Venue & Arbitrator
+### 5. Gerichtsstand & Schiedsrichter
 
-Any arbitration will occur in San Francisco County, California. Arbitration will be conducted confidentially by a single arbitrator in accordance with the Streamlined Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services (_"JAMS Rules"_), which are hereby incorporated by reference. The state and federal courts located in San Francisco County, California will have exclusive jurisdiction over any appeals and the enforcement of an arbitration award.
+Ein Schiedsverfahren wird im Bezirk San Francisco, Kalifornien, stattfinden. Das Schiedsverfahren wird vertraulich von einem einzelnen Schiedsrichter gemäß den beschleunigten Schiedsregeln und -verfahren von Judicial Arbitration and Mediation Services ("JAMS Rules"), die hiermit durch Verweis einbezogen werden, durchgeführt. Die staatlichen und bundesstaatlichen Gerichte im Bezirk San Francisco, Kalifornien, haben die ausschließliche Zuständigkeit für Berufungen und die Durchsetzung eines Schiedsspruchs.
 
-### 6. Authority of Arbitrator; Exchange of Information; Fees and Costs
+### 6. Befugnisse des Schiedsrichters; Austausch von Informationen; Gebühren und Kosten
 
-As limited by the FAA, these Terms and the applicable JAMS Rules, the arbitrator will have
+...
 
-- (i) the exclusive authority and jurisdiction to make all procedural and substantive decisions regarding a Dispute, including the determination of whether a Dispute is arbitrable, and
-- (ii) the authority to grant any remedy that would otherwise be available in court; provided, however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by these Terms. The arbitrator may only conduct an individual arbitration and may not consolidate more than one individual's claims, preside over any type of class or representative proceeding or preside over any proceeding involving more than one individual.
+- (i) die ausschließliche Befugnis und Zuständigkeit, alle verfahrensrechtlichen und materiellen Entscheidungen in Bezug auf einen Streit zu treffen, einschließlich der Entscheidung, ob ein Streit schiedsfähig ist, und
+- (ii) die Befugnis, jede Abhilfe zu gewähren, die vor Gericht verfügbar wäre; vorausgesetzt jedoch, dass der Schiedsrichter nicht befugt ist, ein Verbands- oder Kollektivschiedsverfahren zu führen, welches durch diese Bedingungen untersagt ist. Der Schiedsrichter darf nur ein individuelles Schiedsverfahren durchführen und keine Ansprüche mehrerer Personen zusammenlegen oder über irgendeine Art von Verbands- oder Kollektivverfahren leiten oder ein Verfahren mit mehr als einer Person leiten.
 
-The arbitration will allow for the discovery or exchange of non-privileged information relevant to the Dispute. For any arbitration you initiate, you will pay the filing fee, and Brave will pay the remaining JAMS fees and costs. For any arbitration initiated by Brave, Brave will pay all JAMS fees and costs.
+Das Schiedsverfahren wird die Entdeckung oder den Austausch von nicht privilegierten Informationen zulassen, die für den Streit relevant sind. Für jedes von Ihnen eingeleitete Schiedsverfahren zahlen Sie die Anmeldegebühr, und Brave übernimmt die verbleibenden JAMS-Gebühren und -Kosten. Für jedes von Brave eingeleitete Schiedsverfahren zahlt Brave alle JAMS-Gebühren und -Kosten.
 
-### 7. Rules of JAMS
+### 7. Regeln von JAMS
 
-The JAMS Rules and additional information about JAMS are available on the JAMS website. By agreeing to be bound by these Terms, you either
+The JAMS Rules and additional information about JAMS are available on the JAMS website. Durch die Zustimmung zu diesen Bedingungen stimmen Sie entweder
 
-- (i) acknowledge and agree that you have read and understand the JAMS Rules, or
-- (ii) waive your opportunity to read the JAMS Rules and any claim that the JAMS Rules are unfair or should not apply for any reason.
+- (i) zu und bestätigen, dass Sie die JAMS-Regeln gelesen und verstanden haben, oder
+- (ii) verzichten auf Ihre Gelegenheit, die JAMS-Regeln zu lesen, und auf jegliche Ansprüche, dass die JAMS-Regeln aus irgendeinem Grund unfair sind oder nicht angewendet werden sollen.
 
-### 8. Severability of Dispute Resolution and Arbitration Provisions
+### 8. Trennbarkeit der Streitbeilegungs- und Schiedsbestimmungen
 
-If any term, clause or provision of this Section 13 is held invalid or unenforceable, it will be so held to the minimum extent required by law, and all other terms, clauses and provisions of this Section 13 will remain valid and enforceable.
+Wenn ein Begriff, eine Klausel oder eine Bestimmung dieses Abschnitts 13 ungültig oder undurchsetzbar ist, wird dies im erforderlichen Mindestmaß gehalten, und alle anderen Begriffe, Klauseln und Bestimmungen dieses Abschnitts 13 bleiben gültig und durchsetzbar.
 
-### 9. Opt Out
+### 9. Abmeldung
 
-You have the right to opt out of binding arbitration within 30 days of the date you first accepted the Terms by notifying us via email at advertisers@brave.com. In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt out of binding arbitration. By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with section 13.
+You have the right to opt out of binding arbitration within 30 days of the date you first accepted the Terms by notifying us via email at advertisers@brave.com. Um wirksam zu sein, muss die Abmeldebenachrichtigung Ihren vollständigen Namen und Ihre Adresse enthalten und klar angeben, dass Sie sich von der verbindlichen Schiedsgerichtsbarkeit abmelden möchten. Durch die Abmeldung von der verbindlichen Schiedsgerichtsbarkeit erklären Sie sich damit einverstanden, Streitigkeiten gemäß Abschnitt 13 beizulegen.
 
-### 14. Governing Law and Venue
+### 14. Anwendbares Recht und Gerichtsstand
 
-These Terms will be governed by and construed and enforced in accordance with the laws of the state of California, without regard to conflict of law rules that would cause the application of the laws of any other jurisdiction. Any Dispute between the Parties arising out of relating to these Terms or its subject matter or formation (including non-contractual Disputes of claims) that is not subject to arbitration will be resolved in the courts of the state of California.
+Diese Bedingungen unterliegen den Gesetzen des Staates Kalifornien und werden in Übereinstimmung mit diesen ausgelegt und durchgesetzt, ohne Rücksicht auf Kollisionsnormen, die die Anwendung der Gesetze einer anderen Gerichtsbarkeit verursachen würden. Jeder Streit zwischen den Parteien, der sich aus diesen Bedingungen oder ihrem Gegenstand oder ihrer Entstehung (einschließlich außervertraglicher Streitigkeiten oder Ansprüche) ergibt, der nicht dem Schiedsverfahren unterliegt, wird vor den Gerichten des Staates Kalifornien beigelegt.
 
-### 15. Changes to these Terms
+### 15. Änderungen dieser Bedingungen
 
-We may make changes to these Terms from time to time. If we make changes, we will update the _"Last Updated"_ date above. Unless we notify you to the contrary, the amended Terms will be effective immediately and your continued access to or use of the Services will confirm your acceptance of the changes. If you do not agree to the amended Terms, you must stop accessing and using the Services.
+Wir können diese Bedingungen von Zeit zu Zeit ändern. Wenn wir Änderungen vornehmen, werden wir das oben angegebene Datum des _"Zuletzt aktualisiert"_ anpassen. Sofern wir Sie nicht anders benachrichtigen, werden die geänderten Bedingungen sofort wirksam und Ihre weitere Nutzung oder der weitere Zugriff auf die Dienste bestätigt Ihre Zustimmung zu den Änderungen. Wenn Sie den geänderten Bedingungen nicht zustimmen, müssen Sie die Nutzung und den Zugriff auf die Dienste einstellen.
 
-### 16. Termination and Suspension
+### 16. Kündigung und Aussetzung
 
-We reserve the right, without notice and in our sole discretion, to terminate or suspend your right to access or use the Services (including termination or suspension of your Advertiser Account), with immediate effect. We are not responsible for any loss or harm related to your inability to access or use the Services.
-You may terminate your Advertiser Account at any time by providing notice to us at advertisers@brave.com. If your account is terminated for any reason, you will continue to protect the Confidential Information as described in Section 7, and you will remain responsible for payment related to your previous use of the Services as described in section 5.
+Wir behalten uns das Recht vor, ohne vorherige Ankündigung und nach eigenem Ermessen Ihr Recht auf Zugang oder Nutzung der Dienste (einschließlich der Kündigung oder Aussetzung Ihres Werbekontos) mit sofortiger Wirkung zu beenden oder auszusetzen. Wir sind nicht verantwortlich für Verluste oder Schäden, die im Zusammenhang mit Ihrer Unfähigkeit, auf die Dienste zuzugreifen oder diese zu nutzen, entstehen.
+Sie können Ihr Werbekonto jederzeit kündigen, indem Sie uns eine Mitteilung an advertisers@brave.com senden. Wenn Ihr Konto aus irgendeinem Grund gekündigt wird, müssen Sie die Vertraulichen Informationen weiterhin, wie in Abschnitt 7 beschrieben, schützen und bleiben für Zahlungen im Zusammenhang mit Ihrer vorherigen Nutzung der Dienste, wie in Abschnitt 5 beschrieben, verantwortlich.
 
-### 17. Severability
+### 17. Trennbarkeit
 
-If any term, clause or provision of these Terms is held unlawful, void or unenforceable, then that term, clause or provision will be severable from these Terms and will not affect the validity or enforceability of any remaining part of that term, clause or provision, or any other term, clause or provision of these Terms.
+Wenn ein Begriff, eine Klausel oder eine Bestimmung dieser Bedingungen rechtswidrig, nichtig oder undurchsetzbar ist, wird dieser Begriff, diese Klausel oder diese Bestimmung von diesen Bedingungen abgetrennt und die Gültigkeit oder Durchsetzbarkeit eines verbleibenden Teils dieses Begriffs, dieser Klausel oder dieser Bestimmung oder eines anderen Begriffs, einer anderen Klausel oder einer anderen Bestimmung dieser Bedingungen wird nicht beeinträchtigt.
 
-### 18. Miscellaneous
+### 18. Sonstiges
 
-These Terms constitute the entire agreement between you and us relating to your access to or use of the Services, and supersede any prior agreements with Brave or its affiliates, express or implied, relating to the Services. We may make changes to these Terms from time to time as reasonably required to comply with applicable law or regulation. You may not assign your rights and obligations under these Terms without our express written consent. Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision. We will not be liable for any delay or failure to perform any obligation under these Terms where the delay or failure results from any cause beyond our reasonable control. Your access to or use of the Services does not create any form of partnership, joint venture or any other similar relationship between you and us. Except as otherwise provided in herein, these Terms are intended solely for the benefit of you and us and are not intended to confer third-party beneficiary rights upon any other person or entity. You agree and acknowledge that all agreements, notices, disclosures, and other communications that we provide to you, including these Terms, may be provided in electronic form.
+Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf Ihren Zugang und Ihre Nutzung der Dienste dar und ersetzen alle früheren Vereinbarungen mit Brave oder seinen verbundenen Unternehmen, ausdrücklich oder stillschweigend, in Bezug auf die Dienste. Wir können diese Bedingungen von Zeit zu Zeit ändern, wenn dies zur Einhaltung der geltenden Gesetze oder Vorschriften angemessen erforderlich ist. Sie dürfen Ihre Rechte und Pflichten aus diesen Bedingungen nicht ohne unsere ausdrückliche schriftliche Zustimmung übertragen. Unser Versäumnis, ein Recht oder eine Bestimmung dieser Bedingungen auszuüben oder durchzusetzen, gilt nicht als Verzicht auf dieses Recht oder diese Bestimmung. Wir haften nicht für Verzögerungen oder die Nichterfüllung von Verpflichtungen aus diesen Bedingungen, wenn die Verzögerung oder Nichterfüllung auf Ursachen zurückzuführen ist, die außerhalb unserer zumutbaren Kontrolle liegen. Ihr Zugang zu oder die Nutzung der Dienste begründet keine Form der Partnerschaft, Gemeinschaftsunternehmen oder ein anderes ähnliches Verhältnis zwischen Ihnen und uns. Soweit hierin nicht anders vorgesehen, dienen diese Bedingungen ausschließlich Ihrem und unserem Nutzen und sind nicht dazu bestimmt, Dritten Rechte als Begünstigte zu verleihen. Sie stimmen zu und erkennen an, dass alle Vereinbarungen, Mitteilungen, Offenlegungen und andere Kommunikationen, die wir Ihnen zur Verfügung stellen, einschließlich dieser Bedingungen, in elektronischer Form bereitgestellt werden können.
