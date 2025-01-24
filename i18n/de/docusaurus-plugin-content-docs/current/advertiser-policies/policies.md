@@ -2,53 +2,53 @@
 sidebar_position: 1
 ---
 
-# General policies
+# Allgemeine Richtlinien
 
-## Extended policies
+## Erweiterte Richtlinien
 
-- [Advertiser privacy policy](https://brave.com/privacy/advertiser/)
-- [Basic Attention Token terms of service](https://basicattentiontoken.org/advertiser-terms-of-service/)
-- [IAB standard terms & conditions](https://www.iab.com/wp-content/uploads/2015/06/IAB_4As-tsandcs-FINAL.pdf)
+- [Datenschutzerklärung für Werbetreibende](https://brave.com/privacy/advertiser/)
+- [Nutzungsbedingungen des Basic Attention Token](https://basicattentiontoken.org/advertiser-terms-of-service/)
+- [IAB Standard Geschäftsbedingungen](https://www.iab.com/wp-content/uploads/2015/06/IAB_4As-tsandcs-FINAL.pdf)
 
-## Restricted and prohibited categories
+## Eingeschränkte und verbotene Kategorien
 
-Campaigns cannot currently advertise products and services for the following prohibited and restricted categories:
+Kampagnen dürfen derzeit keine Produkte und Dienstleistungen für die folgenden verbotenen und eingeschränkten Kategorien bewerben:
 
-- CBD (available in the US with state-level restrictions)
+- CBD (verfügbar in den USA mit staatlichen Beschränkungen)
 - THC
-- Tobacco
-- Vaping
-- Pharmaceuticals
-- Gambling
-- Adult content
-- Politics
-- Violence
-- Content targeting children
-- Content targeting expecting mothers
+- Tabak
+- Dampfen
+- Arzneimittel
+- Glücksspiel
+- Erwachsenen-Inhalte
+- Politik
+- Gewalt
+- Inhalte, die sich an Kinder richten
+- Inhalte, die sich an werdende Mütter richten
 
-Note: While currently unavailable, advertising to restricted categories may become available in the future.
+Hinweis: Obwohl derzeit nicht verfügbar, könnte die Werbung für eingeschränkte Kategorien in Zukunft möglich werden.
 
-## Website and page requirements
+## Anforderungen an Webseiten und Seiten
 
-- Advertiser website must be accessible and fully functional.
-- Advertiser website must have Terms of Service and/or Privacy Policy.
+- Die Website des Werbetreibenden muss zugänglich und voll funktionsfähig sein.
+- Die Website des Werbetreibenden muss Nutzungsbedingungen und/oder eine Datenschutzerklärung haben.
 - Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
-## Redirect links
+## Redirect-Links
 
-Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any link that redirects to another domain, even if owned by the same advertiser, will be rejected.
+Werbetreibende dürfen keine Weiterleitungslinks verwenden, es sei denn, sie befinden sich innerhalb derselben eTLD+1. Jeder Link, der zu einer anderen Domain weiterleitet, auch wenn er dem gleichen Werbetreibenden gehört, wird abgelehnt.
 
-**Examples of redirects which will be rejected:**
+**Beispiele für Weiterleitungen, die abgelehnt werden:**
 
-- `https://landing.brave.me` Redirects to: `https://brave.com/landing`
-  - Assuming they are both owned by Brave, this would still be denied since they are not on the same eTLD+1.
-- `https://brave.page.link/abc` - which redirects `https://brave.com/landing`
+- `https://landing.brave.me` Weiterleitung zu: `https://brave.com/landing`
+  - Angenommen, beide gehören Brave, würde dies dennoch abgelehnt, da sie sich nicht auf derselben eTLD+1 befinden.
+- `https://brave.page.link/abc` - was zu `https://brave.com/landing` weiterleitet
 
-**Examples of redirects that will be accepted:**
+**Beispiele für Weiterleitungen, die akzeptiert werden:**
 
-- `https://brave.com/marketing` redirecting to `https://ads.brave.com`
-- `https://landing.brave.com` redirecting to `https://brave.com`
+- `https://brave.com/marketing` Weiterleitung zu `https://ads.brave.com`
+- `https://landing.brave.com` Weiterleitung zu `https://brave.com`
 
-## Brand safety
+## Markensicherheit
 
-All Brave ads are brand safe in that they are served first-party at the browser or search-engine level, not before, between, or after content on explicit or potentially unsafe third-party websites.
+Alle Brave Ads sind markensicher, da sie direkt im Browser oder auf Suchmaschinenebene angezeigt werden und nicht vor, zwischen oder nach Inhalten auf expliziten oder potenziell unsicheren Drittanbieter-Websites.
