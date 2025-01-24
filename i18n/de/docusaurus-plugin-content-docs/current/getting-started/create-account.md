@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# Create an account
+# Erstellen Sie ein Konto
 
-To create an account, visit [ads.brave.com](https://ads.brave.com/) and fill out the requested business information. All new advertiser accounts go through manual approval by the Brave team, and are typically processed within 48 hours. Please allow up to 72 hours before contacting support about account activation.
+Um ein Konto zu erstellen, besuchen Sie [ads.brave.com](https://ads.brave.com/) und füllen Sie die erforderlichen Geschäftsinformationen aus. Alle neuen Werbekonten werden manuell vom Brave-Team genehmigt und normalerweise innerhalb von 48 Stunden bearbeitet. Bitte warten Sie bis zu 72 Stunden, bevor Sie den Support bezüglich der Kontoaktivierung kontaktieren.
 
-## Supported languages
+## Unterstützte Sprachen
 
-- English
-- Spanish
-- Portuguese
-- German
-- French
+- Englisch
+- Spanisch
+- Portugiesisch
+- Deutsch
+- Französisch
