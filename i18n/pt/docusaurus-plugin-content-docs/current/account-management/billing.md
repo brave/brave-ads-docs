@@ -53,5 +53,5 @@ Se a sua campanha atingir a data final agendada e houver fundos restantes, o sta
 Para encerrar sua campanha imediatamente e transferir quaisquer fundos restantes para o saldo da sua conta, siga estas etapas:
 
 - Selecione a campanha.
-- Click "Edit."
-- Click "Close this campaign."
+- Clique em "Editar".
+- Clique em "Fechar esta campanha".
