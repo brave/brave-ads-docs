@@ -27,7 +27,7 @@ Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads
 
 ## Pagar con criptomonedas
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by using a crypto wallet via Radom.
+Tanto las campañas de Servicio Gestionado como las autogestionadas de Brave Ads Manager pueden pagarse utilizando una billetera de criptomonedas a través de Radom.
 
 - Si compra anuncios a través del Servicio Gestionado, sólo tiene que indicar a su gestor de cuenta que desea pagar con criptomonedas. Por favor, tenga en cuenta que actualmente aceptamos Basic Attention Token (BAT), USD Coin (USDC), y Tether USD (USDT) en la cadena de bloques de Ethereum.
 - Si compra anuncios a través de Brave Ads Manager, se le pedirá que pague por adelantado su campaña "recargando" su cuenta a través de Radom.
@@ -38,20 +38,20 @@ Para los anuncios de nuevas pestañas, a los anunciantes que cancelen en los sie
 
 Si trabaja con nuestro equipo de cuentas y ventas, puede cancelar sus campañas de anuncios de Búsqueda, Notificaciones o Noticias en cualquier momento y sólo se le facturarán los importes gastadas hasta la pausa de la campaña.
 
-If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [selfserve@brave.com](mailto:selfserve@brave.com).
+Si pagó por adelantado su campaña a través de nuestra opción de autoservicio y desea cancelar su campaña antes, tenga en cuenta que deberá solicitar un reembolso por cualquier saldo restante enviando un correo electrónico a [selfserve@brave.com](mailto:selfserve@brave.com).
 
-# Account balances
+# Saldos de cuentas
 
-Any leftover campaign budgets from pre-paid campaigns paid via Stripe or Radom will be transferred to your account balance for future campaigns. These funds are typically transferred within 24-48 hours, under the following two circumstances:
+Cualquier presupuesto restante de campañas prepagadas pagadas a través de Stripe o Radom se transferirá a su saldo de cuenta para futuras campañas. Por lo general, estos fondos se transfieren en un plazo de 24 a 48 horas, en las dos circunstancias siguientes:
 
-### When a campaign reaches its end date
+### Cuando una campaña llega a su fecha de finalización
 
-If your campaign reaches its scheduled end date and there are remaining funds, the campaign status will update to "complete," and any leftover funds will be transferred to your account balance.
+Si su campaña llega a su fecha de finalización programada y hay fondos restantes, el estado de la campaña se actualizará a "completa" y cualquier fondo restante se transferirá al saldo de su cuenta.
 
-### When a campaign is terminated manually
+### Cuando una campaña es terminada manualmente
 
-To end your campaign immediately and transfer any remaining funds to your account balance, follow these steps:
+Para finalizar su campaña inmediatamente y transferir cualquier fondo restante al saldo de su cuenta, siga estos pasos:
 
-- Select the campaign.
-- Click "Edit."
-- Click "Close this campaign."
+- Seleccione la campaña.
+- Haga clic en "Editar".
+- Haga clic en "Cerrar esta campaña".
