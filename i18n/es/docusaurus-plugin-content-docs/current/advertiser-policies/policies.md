@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Políticas generales
 
-## Extended policies
+## Políticas extendidas
 
 - [Política de privacidad del anunciante](https://brave.com/privacy/advertiser/)
 - [Términos de servicio de Basic Attention Token](https://basicattentiontoken.org/advertiser-terms-of-service/)
@@ -28,11 +28,11 @@ Actualmente, las campañas no pueden anunciar productos y servicios de las sigui
 
 Nota: Aunque actualmente no está disponible, la publicidad para las categorías restringidas puede estar disponible en el futuro.
 
-## Website and page requirements
+## Requisitos del sitio web y de la página
 
-- Advertiser website must be accessible and fully functional.
-- Advertiser website must have Terms of Service and/or Privacy Policy.
-- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
+- El sitio web del anunciante debe ser accesible y totalmente funcional.
+- El sitio web del anunciante debe tener términos de servicio y/o política de privacidad.
+- El sitio web del anunciante debe estar en el mismo idioma que los anuncios y que el idioma o idiomas principales del país o región a los que se dirigen las campañas publicitarias, y/o tener opciones para traducir el contenido a su llegada.
 
 ## Enlaces de redireccionamiento
 
@@ -46,7 +46,7 @@ Los anunciantes no pueden utilizar enlaces de redireccionamiento a menos que sea
 
 **Ejemplos de redirecciones que serán aceptadas:**
 
-- `https://brave.com/marketing` redirecting to `https://ads.brave.com`
+- `https://brave.com/marketing` redirigiendo a `https://ads.brave.com`
 - `https://landing.brave.com` redirigiendo a `https://brave.com`
 
 ## Seguridad de marca
