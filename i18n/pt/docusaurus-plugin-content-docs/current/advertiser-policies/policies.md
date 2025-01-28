@@ -30,8 +30,8 @@ Observação: Embora atualmente indisponível, a publicidade para categorias res
 
 ## Requisitos para sites e páginas
 
-- O site do anunciante deve ser acessível e totalmente funcional.
-- O site do anunciante deve ter Termos de Serviço e/ou Política de Privacidade.
+- O site do anunciante precisa ser acessível e totalmente funcional.
+- É necessário que o site do anunciante inclua os Termos de Serviço e/ou a Política de Privacidade.
 - Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
 
 ## Redirecionar links
