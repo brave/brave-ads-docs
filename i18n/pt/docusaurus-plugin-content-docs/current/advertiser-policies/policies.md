@@ -32,7 +32,7 @@ Observação: Embora atualmente indisponível, a publicidade para categorias res
 
 - O site do anunciante precisa ser acessível e totalmente funcional.
 - É necessário que o site do anunciante inclua os Termos de Serviço e/ou a Política de Privacidade.
-- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
+- É preciso que o site do anunciante esteja no mesmo idioma dos anúncios e do idioma principal do país ou região visado pelas campanhas publicitárias e/ou tenha opções para traduzir conteúdo novo.
 
 ## Redirecionar links
 
