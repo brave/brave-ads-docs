@@ -2,162 +2,162 @@
 sidebar_position: 2
 ---
 
-# Reporting
+# Rapports
 
-Brave Ads is built from the ground up to support the highest privacy standards. By default, the Brave browser blocks third-party tracking including Google Analytics, Adobe Analytics, and other third-party reporting and measurement vendors. While Brave Ads respects (and does not collect) user data, it also gives advertisers useful, granular reporting on campaign performance data in a simple, easy-to-read dashboard. It also enables marketers to see campaign performance using their own reporting systems.
+Brave Ads est conçu dès le départ pour soutenir les normes les plus élevées en matière de confidentialité. Par défaut, le navigateur Brave bloque le suivi par des tiers, y compris Google Analytics, Adobe Analytics et d'autres fournisseurs de rapports et de mesures tiers. Bien que Brave Ads respecte (et ne collecte pas) les données des utilisateurs, il fournit également aux annonceurs des rapports utiles et détaillés sur les performances des campagnes dans un tableau de bord simple et facile à lire. Il permet également aux spécialistes du marketing de voir les performances des campagnes en utilisant leurs propres systèmes de rapports.
 
-## Is my reporting blocked by Brave Browser?
+## Mon rapport est-il bloqué par le navigateur Brave ?
 
-The first step is to understand what is being blocked by the Brave browser. To do so, open Brave on your desktop and navigate to your business site or campaign landing page and follow these steps:
+La première étape consiste à comprendre ce qui est bloqué par le navigateur Brave. Pour ce faire, ouvrez Brave sur votre bureau et accédez à votre site professionnel ou à la page de destination de votre campagne, puis suivez ces étapes :
 
-1. Click on the Brave lion icon on the right side of the address bar.
-2. Expand the “Advanced Control” menu.
-3. Click the purple number located next to “Block Trackers and Ads’’ to display what is currently being blocked.
+1. Cliquez sur l'icône du lion Brave située à droite de la barre d'adresse.
+2. Développez le menu « Contrôle avancé ».
+3. Cliquez sur le nombre violet situé à côté de « Bloquer les traqueurs et les Ads » pour afficher ce qui est actuellement bloqué.
 
-Blocked scripts will disable most, if not all, functions for third-party tracking. Here's a helpful table with examples of different tracking scenarios and their compatibility with Brave Ads:
+Les scripts bloqués désactiveront la plupart, sinon la totalité, des fonctions pour le suivi par des tiers. Voici un tableau utile avec des exemples de différents scénarios de suivi et leur compatibilité avec Brave Ads :
 
-| Sample scenarios                                          | Sample endpoint for www.example.com | Compatible with  Brave Ads |
-| --------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
-| Custom Website Analytics (first-party) | analytics.example.com               | YES                        |
-| Google Analytics 4 (first-party)       | analytics.example.com               | YES                        |
-| Adobe Analytics (first-party)          | analytics.example.com               | YES                        |
-| Google Analytics 4 (hosted by Google)  | google.com                                          | NO                         |
-| Adobe Analytics (hosted by Adobe)      | adobe.com                                           | NO                         |
+| Scénarios d'exemple                                                  | Point de terminaison d'exemple pour www.example.com | Compatible avec Brave Ads |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------- |
+| Analyses personnalisées de site (première partie) | analytics.example.com                               | OUI                       |
+| Google Analytics 4 (première partie)              | analytics.example.com                               | OUI                       |
+| Adobe Analytics (première partie)                 | analytics.example.com                               | OUI                       |
+| Google Analytics 4 (hébergé par Google)           | google.com                                                          | NON                       |
+| Adobe Analytics (hébergé par Adobe)               | adobe.com                                                           | NON                       |
 
-## Brave Ads Manager reporting
+## Rapports de Brave Ads Manager
 
-Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
+Que votre campagne soit achetée via un service géré ou en libre-service, tous les annonceurs auront accès au tableau de bord des rapports Brave Ads pour rendre compte des performances des campagnes. Campaign dashboards update hourly with the option to export reporting for Notification and Newsfeed ad campaigns on demand.
 
-### Available reporting metrics in Brave Ads Manager
+### Métriques de rapports disponibles dans Brave Ads Manager
 
-| Metric                                  | Description                                                                                                                                                                                                                                                                                                                                   | Search ads | New Tab Takeover | Newsfeed ads | Notification ads |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- | ------------ | ---------------- |
-| Impressions                             | Counted when an ad is displayed on screen for a minimum of one second.                                                                                                                                                                                                                                                        | X          | X                | X            | X                |
-| Clicks                                  | Counted when a user clicks on the ad. Does not include clicks to dismiss.                                                                                                                                                                                                                                     | X          | X                | X            | X                |
-| Dismissed                               | Counted when a user clicks the “close” or “x” button to make an ad go away.                                                                                                                                                                                                                                                   |            |                  | X            | X                |
-| Site visits                             | Counted when the user clicks an ad and spends at least 5 seconds on the advertiser's website, with the website open in an active browser tab. The 5 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. |            |                  | X            | X                |
-| Upvotes & downvotes | Counted when a user either upvotes or downvotes an ad in their ad history.                                                                                                                                                                                                                                                    |            |                  |              | X                |
-| Conversions                             | Sum total of all conversions, including anonymous conversions without a specified click or view attribution. Counted when a user reaches a designated conversion landing page.                                                                                                                                |            |                  | X            | X                |
-| Click-through conversions               | Counted when a user reaches a designated conversion landing page following an impression and click of the ad.                                                                                                                                                                                                                 |            |                  | X            | X                |
-| View-through conversions                | Counted when a user reaches a designated conversion landing page following an ad impression.                                                                                                                                                                                                                                  |            |                  | X            | X                |
-| CTR                                     | The click-through rate is a percentage expressing clicks relative to impressions.                                                                                                                                                                                                                                             | X          | X                | X            | X                |
-| SVR                                     | The site-visit rate is a percentage expressing site-visits relative to impressions.                                                                                                                                                                                                                                           |            | X                | X            | X                |
-| CPA                                     | The cost-per-action found by dividing the total cost of the campaign by the number of conversions.                                                                                                                                                                                                                            |            |                  | X            | X                |
-| Dismissal rate                          | A percentage expressing dismissed ads relative to impressions.                                                                                                                                                                                                                                                                |            |                  |              | X                |
-| Spend                                   | Budget that has been spent by the platform.                                                                                                                                                                                                                                                                                   | X          | X                | X            | X                |
+| Métrique                   | Description                                                                                                                                                                                                                                                                                                                                   | Annonces dans les résultats de recherche | Annonces dans les nouveaux onglets | Annonces dans le fil d'actualité | Annonces sous forme de notification |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------- | -------------------------------- | ----------------------------------- |
+| Impressions                | Counted when an ad is displayed on screen for a minimum of one second.                                                                                                                                                                                                                                                        | X                                        | X                                  | X                                | X                                   |
+| Cliques                    | Counted when a user clicks on the ad. N'inclut pas les clics pour rejeter.                                                                                                                                                                                                                                    | X                                        | X                                  | X                                | X                                   |
+| Rejetées                   | Counted when a user clicks the “close” or “x” button to make an ad go away.                                                                                                                                                                                                                                                   |                                          |                                    | X                                | X                                   |
+| Visites du site            | Counted when the user clicks an ad and spends at least 5 seconds on the advertiser's website, with the website open in an active browser tab. The 5 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. |                                          |                                    | X                                | X                                   |
+| Votes positifs et négatifs | Counted when a user either upvotes or downvotes an ad in their ad history.                                                                                                                                                                                                                                                    |                                          |                                    |                                  | X                                   |
+| Conversions                | Somme totale de toutes les conversions, y compris les conversions anonymes sans attribution spécifiée de clic ou de vue. Comptées lorsqu'un utilisateur atteint une page de destination de conversion désignée.                                                                                               |                                          |                                    | X                                | X                                   |
+| Click-through conversions  | Counted when a user reaches a designated conversion landing page following an impression and click of the ad.                                                                                                                                                                                                                 |                                          |                                    | X                                | X                                   |
+| Conversions post-vue       | Counted when a user reaches a designated conversion landing page following an ad impression.                                                                                                                                                                                                                                  |                                          |                                    | X                                | X                                   |
+| CTR                        | Le taux de clics est un pourcentage exprimant le rapport entre les clics et les impressions.                                                                                                                                                                                                                                  | X                                        | X                                  | X                                | X                                   |
+| TCR                        | Le taux de visites du site est un pourcentage exprimant les visites du site par rapport aux impressions.                                                                                                                                                                                                                      |                                          | X                                  | X                                | X                                   |
+| CPA                        | Le coût par action est calculé en divisant le coût total de la campagne par le nombre de conversions.                                                                                                                                                                                                                         |                                          |                                    | X                                | X                                   |
+| Taux de rejet              | A percentage expressing dismissed ads relative to impressions.                                                                                                                                                                                                                                                                |                                          |                                    |                                  | X                                   |
+| Dépenses                   | Budget dépensé par la plateforme.                                                                                                                                                                                                                                                                                             | X                                        | X                                  | X                                | X                                   |
 
-## Conversion reporting in Brave Ads Manager
+## Rapport de conversion dans Brave Ads Manager
 
-Conversion reporting in Brave Ads Manager allows advertisers to define a conversion event on their ad campaigns with Brave by using a URL that indicates when a user reaches a certain stage of the customer journey. 
+Le rapport de conversion dans Brave Ads Manager permet aux annonceurs de définir un événement de conversion sur leurs campagnes publicitaires avec Brave en utilisant une URL qui indique quand un utilisateur atteint un certain stade du parcours client 
 
-**Key points**
+**Points clés**
 
-- Conversions are counted when a Brave user who interacted with your ad visits a specific page on your website.
+- Les conversions sont comptabilisées lorsqu'un utilisateur de Brave qui a interagi avec votre publicité visite une page spécifique de votre site web.
 
-- Measurement is possible because Brave functions as both the browser and ad-server. 
+- La mesure est possible parce que Brave fonctionne à la fois comme navigateur et serveur publicitaire 
 
-- The process occurs entirely at the browser level, eliminating the need for cookies, tags, or tracking scripts on your website. 
+- Le processus se déroule entièrement au niveau du navigateur, éliminant le besoin de cookies, de tags ou de scripts de suivi sur votre site web 
 
 ### Limitations
 
-- Conversion page URLs **must** follow these conditions in order to be approved:
-  - Be on the same eTLD+1 as the email domain used
-    - For example, if my email address is `admin@example.com`, I can set the conversion URL as a page on `https://example.com` or a sub-domain of that website, such as `https://shop.example.com`.
-- Brave may not be able to count the conversion if a user exits the Brave browser (e.g., when visiting third-party apps like app stores). In such cases, advertisers should use additional independent reporting methods provided by the third-parties.
+- Les URLs des pages de conversion **doivent** respecter ces conditions pour être approuvées :
+  - Se trouver sur le même eTLD+1 que le domaine de l'email utilisé
+    - Par exemple, si mon adresse email est `admin@exemple.com`, je peux définir l'URL de conversion comme une page sur `https://exemple.com` ou un sous-domaine de ce site, tel que `https://boutique.exemple.com`.
+- Brave peut ne pas être en mesure de comptabiliser la conversion si un utilisateur quitte le navigateur Brave (par exemple, lors de la visite d'applications tierces comme des App Store). Dans de tels cas, les annonceurs devraient utiliser des méthodes de rapport indépendantes supplémentaires fournies par des tiers.
 
-### Choosing an effective conversion URL
+### Choisir une URL de conversion efficace
 
-Using a conversion URL provides a more accurate measure of ad effectiveness than simply tracking visits to the homepage. 
+Utiliser une URL de conversion fournit une mesure plus précise de l'efficacité d'une publicité que de simplement suivre les visites de la page d'accueil 
 
-**Key Points:**
+**Points clés :**
 
-- Use a URL pattern that avoids false positives.
-  - Don't use your base website URL as the conversion URL. 
-    - Clicks and site visits are already counted by default for all Brave Ads campaigns.
-- Choose a URL that represents a deeper action on your website, such as:
-  - Sign-up completion page
-  - Email subscription welcome page
-  - Purchase confirmation page
-    - For example, on an ad campaign for `https://shoestore.com`, an effective conversion URL would be: `https://shoestore.com/check-out/thank-you*`
-- As a rule of thumb, all conversion URLs should end in wildcard variables to account for any additional query parameters that might risk disrupting the conversion counting process.
-  - An asterisk (\*) can be used as the wildcard variable in your conversion URL that will tell Brave Ads to treat that position in the URL as any possible value. This can be used in a variety of situations where conversion website URLs follow similar paths but include different values, such as product directories or unique order IDs.
-    - For example, building on the above example, `https://shoestore.com/check-out/thank-you*` would effectively capture any URL that is the same leading up to the wildcard variable, such as `https://shoestore.com/check-out/thank-you/orderID=63551`
+- Utilisez un modèle d’URL qui évite les faux positifs.
+  - N’utilisez pas l’URL de base de votre site web comme URL de conversion.
+    - Les clics et les visites sur le site sont déjà comptabilisés par défaut pour toutes les campagnes Brave Ads.
+- Choisissez une URL qui représente une action plus approfondie sur votre site web, telle que :
+  - Page de confirmation d’inscription
+  - Page de bienvenue à l’abonnement e-mail
+  - Page de confirmation d’achat
+    - Par exemple, pour une campagne publicitaire pour « https://shoestore.com », une URL de conversion efficace serait : « https://shoestore.com/check-out/thank-you\* »
+- En règle générale, toutes les URL de conversion doivent se terminer par des variables génériques pour prendre en compte tout paramètre de requête supplémentaire qui pourrait risquer de perturber le processus de comptabilisation des conversions.
+  - Une astérisque (\*) peut être utilisée comme variable générique dans votre URL de conversion, ce qui indiquera à Brave Ads de traiter cette position dans l’URL comme n’importe quelle valeur possible. Cela peut être utilisé dans une variété de situations où les URL de sites de conversion suivent des chemins similaires mais incluent des valeurs différentes, telles que les répertoires de produits ou les identifiants de commande uniques.
+    - Par exemple, sur la base de l'exemple ci-dessus, « https://shoestore.com/check-out/thank-you\* » capturera efficacement toute URL identique jusqu'à la variable générique, telle que « https://shoestore.com/check-out/thank-you/orderID=63551 »
 
-### Advanced use of wildcard variables in conversion URLs
+### Utilisation avancée des variables génériques dans les URL de conversion
 
-Wildcard values can be placed anywhere in the sub-path of the URL, including in-between path sections. Here are some examples using a hypothetical shoe store, `https://shoestore.com`, that categorizes their available shoes by category, type, and color across their website. Their pages are thus all structured using the following format: `https://shoestore.com/category/type/color/`
+Les valeurs génériques peuvent être placées n'importe où dans le sous-chemin de l'URL, y compris entre les sections de chemin. Voici quelques exemples utilisant un magasin de chaussures hypothétique, « https://shoestore.com », qui catégorise ses chaussures disponibles par catégorie, type et couleur sur son site web. Leurs pages sont donc toutes structurées en utilisant le format suivant : « https://shoestore.com/category/type/color/ »
 
-- Example 1: This conversion URL will count visits to pages in the “running-shoes” directory categorized as “mens”: `https://shoestore.com/running-shoes/*/mens*`
-  - In this case, the first asterisk represents any type, while the second is the trailing wildcard recommended on all conversion URLs.
-- Example 2: This conversion URL will count visits to pages for any shoes that are “childrens”: `https://shoestore.com/*/childrens/*`
-  - In this case, the first asterisk represents the subpaths for any shoe category. The second asterisk acts both as the shoe color, and also fulfills the role of the recommended trailing wildcard.
+- Exemple 1 : Cette URL de conversion comptabilisera les visites sur les pages du répertoire « running-shoes » classées comme « mens » : `https://shoestore.com/running-shoes/*/mens*`
+  - Dans ce cas, la première astérisque représente n’importe quel type, tandis que la seconde est la variable générique recommandée pour toutes les URL de conversion.
+- Exemple 2 : Cette URL de conversion comptabilisera les visites sur les pages de toutes les chaussures correspondant à « childrens » : `https://shoestore.com/*/childrens/*`
+  - Dans ce cas, la première astérisque représente les sous-chemins de n'importe quelle catégorie de chaussures. La deuxième astérisque agit à la fois comme la couleur des chaussures et remplit également le rôle de la variable générique recommandée.
 
-### Advanced controls for attribution
+### Contrôles avancés pour l’attribution
 
-When setting up a conversion URL in Brave, you’ll be asked to pick an observation window, also known as a look-back window, which determines how long after an ad view (or click) should a conversion be attributed to the ad campaign. This can be set for 1, 7, or 30 days, where 1-day will capture the fewest conversions and 30-day will capture the most.
+Lors de la configuration d’une URL de conversion dans Brave, il vous sera demandé de choisir une fenêtre d’observation, également appelée fenêtre de rétrospective. Elle détermine combien de temps après une vue (ou un clic) d’une publicité une conversion doit être attribuée à la campagne publicitaire. Cela peut être réglé sur 1, 7 ou 30 jours, où 1 jour capturera le moins de conversions et 30 jours capturera le plus.
 
-Conversions in Brave Ads Manager are represented via three metrics to provide you with a clearer understanding of ad impact:
+Les conversions dans Brave Ads Manager sont représentées via trois métriques pour vous fournir une compréhension plus claire de l’impact des publicités :
 
-- **Conversions**: The sum of post-view and post-click conversions.
-- **Post-click conversions** (Click-through): counted when the user converts after clicking the ad.
-- **Post-view conversions** (View-through): counted when the user sees an ad but does not click it and later returns to the website.
+- **Conversions** : La somme des conversions post-vue et post-clic.
+- **Conversions post-clic** (Click-through) : comptabilisées lorsque l'utilisateur convertit après avoir cliqué sur la publicité.
+- **Conversions post-vue** (View-through) : comptabilisées lorsque l'utilisateur voit une publicité mais ne la clique pas et revient plus tard sur le site web.
 
-## Independent reporting (first-party)
+## Rapport indépendant (première partie)
 
-In addition to reporting offered via the Brave dashboard, you can use a combination of the following methods to accurately and independently verify the results of your Brave Ads campaign:
+En plus des rapports proposés via le tableau de bord Brave, vous pouvez utiliser une combinaison des méthodes suivantes pour vérifier de manière précise et indépendante les résultats de votre campagne Brave Ads :
 
-### Unique landing page URL/click tracking parameters
+### Paramètres de suivi des clics/URL de page de destination unique
 
-A unique landing page is a great option to count traffic through your site’s server logs or first-party analytics dashboard. By creating a dedicated landing page URL (like domain.com/brave) for the campaign and ensuring it’s used only for Brave Ads campaigns, traffic to and from this page can be attributed to paid campaigns with Brave.
+Une page de destination unique est une excellente option pour compter le trafic via les journaux de serveur de votre site ou le tableau de bord d'analyse de première partie. En créant une URL de page de destination dédiée (comme domaine.com/brave) pour la campagne et en veillant à ce qu'elle ne soit utilisée que pour des campagnes Brave Ads, le trafic vers et depuis cette page peut être attribué à des campagnes payantes avec Brave.
 
-### Referral/promo code
+### Code de référence/promo
 
-A referral or promo code (e.g. brave15) can be used at the time of checkout to report on conversions attributed to your campaign. We recommend the referral or promo code is automatically populated so users don’t forget. Using your platform’s reporting, you can then view the number of conversions that have used the promo or referral code.
+Un code de référence ou promotionnel (par exemple brave15) peut être utilisé au moment du paiement pour signaler les conversions attribuées à votre campagne. Nous recommandons que le code de référence ou promotionnel soit automatiquement rempli pour que les utilisateurs ne l'oublient pas. En utilisant les rapports de votre plateforme, vous pouvez ensuite voir le nombre de conversions qui ont utilisé le code promotionnel ou de référence.
 
 ### Query string parameters and first-party cookies (i.e. UTMs)
 
-Click URL tracking parameters are allowed, but only when used in a way that your web server or web application can detect. Using third-party reporting such as Google Analytics will not show accurate data. Please note, only direct URLs are allowed for the click link—no redirects.
+Les paramètres de suivi des URL de clic sont autorisés, mais seulement lorsqu'ils sont utilisés de manière à ce que votre serveur web ou application web puisse les détecter. L'utilisation de rapports tiers tels que Google Analytics ne montrera pas de données précises. Veuillez noter qu'uniquement les URLs directes sont autorisées pour le lien de clic ; aucun redirection n'est permise.
 
-##### Clickthrough URL (UTM parameters)
+##### URL de suivi des clics (paramètres UTM)
 
-- Example: `https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test`
-- Landing page:`https://example.com/product`
-- Query string parameters (UTM): `utm_source=brave&utm_medium=push_notification&utm_campaign=test`
+- Exemple : `https://example.com/product?utm_source=brave&utm_medium=push_notification&utm_campaign=test`
+- Page de destination :`https://example.com/product`
+- Paramètres de chaîne de requête (UTM) : `utm_source=brave&utm_medium=push_notification&utm_campaign=test`
 
-##### Clickthrough URL (query string parameters)
+##### URL de suivi des clics (paramètres de chaîne de requête)
 
 - Example: `https://example.com/product?ref=brave&type=push_notification&campaign=test`
-- Landing page: `https://example.com/product`
-- Query string parameters: `ref=brave&type=push_notification&campaign=test`
+- Page de destination : `https://example.com/product`
+- Paramètres de chaîne de requête : `ref=brave&type=push_notification&campaign=test`
 
-Parse values and set first-party cookies based on the query string parameters from the clickthrough URL. This entire query string can be set as the value or parsed into individual key value pairs.
+Analyser les valeurs et définir les cookies de première partie en fonction des paramètres de la chaîne de requête de l'URL de suivi des clics. Toute cette chaîne de requête peut être définie comme la valeur ou analysée en paires clé-valeur individuelles.
 When the same user lands from a different channel, your same code snippet can append or overwrite the cookie values with the new parameter values depending on your preference.
-When the user completes the expected action and a network request is made back to your servers, the cookies should be attached to the request headers and you can see that a user has come from a Brave Ads campaign.
+Lorsque l'utilisateur complète l'action attendue et qu'une requête réseau est envoyée à vos serveurs, les cookies doivent être ajoutés aux en-têtes des requêtes ; vous pourrez alors voir qu'un utilisateur provient d'une campagne Brave Ads.
 
 ## Verifiable Ad Conversions (VAC)
 
-Verifiable Ad Conversions (VAC) is an optional feature-set of Brave Ads Conversion Reporting. VAC provides Brave advertisers with the ability to determine their return on ad spend by privately reporting encrypted Conversion IDs. Advertisers can then audit the list of encrypted Conversion IDs to verify that the converted user can be attributed to a Brave Ads campaign.
+Les Conversions Publicitaires Vérifiables (VAC) sont une fonction optionnelle du Rapport de Conversion Brave Ads. VAC provides Brave advertisers with the ability to determine their return on ad spend by privately reporting encrypted Conversion IDs. Les annonceurs peuvent ensuite vérifier la liste des identifiants de conversion chiffrés pour confirmer que l'utilisateur converti peut être attribué à une campagne Brave Ads.
 
-When an eligible user lands on the Conversion Page, a process is invoked that enables the advertiser to account for the specific transaction event, while maintaining user privacy and anonymity. Not even Brave can read or learn anything about that event (aside from the anonymously reported conversion event count). This enables privacy from end-to-end and allows users to feel better about their Conversion Event, knowing that no one can learn anything from the conversion.
+Lorsqu'un utilisateur éligible arrive sur la page de conversion, un processus est déclenché qui permet à l'annonceur de comptabiliser l'événement de transaction spécifique, tout en maintenant la confidentialité et l'anonymat de l'utilisateur. Même Brave ne peut lire ni apprendre quoi que ce soit de cet événement (à l'exception du décompte anonyme des événements de conversion signalés). Cela permet d'assurer la confidentialité de bout en bout et permet aux utilisateurs de se sentir mieux à propos de leur événement de conversion, sachant que personne ne peut rien apprendre de la conversion.
 
-Advertisers who choose to use VAC will generate a public-private key pair in the Account Settings of the Brave Ads interface. Brave will retain the public key, sign the Conversion ID with it, and report the encrypted Conversion ID. Only the Advertiser will have the private key, and only the advertiser will be able to decrypt the encrypted Conversion ID.
+Les annonceurs qui choisissent d'utiliser VAC généreront une paire de clés publique-privée dans les paramètres du compte de l'interface Brave Ads. Brave conservera la clé publique, signera l'ID de conversion avec elle et rapportera l'ID de conversion chiffré. Seul l'annonceur aura la clé privée, et seul l'annonceur pourra déchiffrer l'ID de conversion chiffré.
 
-It’s crucial that the advertiser does not lose their private key for Verifiable Ad Conversions.
+Il est crucial que l'annonceur ne perde pas sa clé privée pour les conversions d'annonces vérifiables.
 
-### Conversion event ID details
+### Détails de l'ID d'événement de conversion
 
-Verifiable Ad Conversion Reporting is done by a Conversion ID. For your site, this may be an order number, a transaction ID, or something similar.
+Le rapport de conversion d'annonces vérifiables se fait par un ID de conversion. Pour votre site, cela peut être un numéro de commande, un ID de transaction ou quelque chose de similaire.
 
-### Requirements:
+### Exigences :
 
-- The Conversion ID value must be unique for each conversion. Duplicate Conversion Event ID values will result in accounting discrepancies.
-- The Conversion ID must be between 1–30 characters long, contain only alphanumeric characters (as well as dashes), and match this regular expression: ` [-a-zA-Z0-9]{1,30}`.
-- Event values longer than 30 characters will fail, preventing the event from being accurately accounted for. You may check if your identifier is valid by using a site like `https://regex101.com/`.
-- Conversion IDs must not include user identifiers or personally identifying information. For example, Conversion IDs like the following are not permitted: `<user id>-<random id>`, `<random id>-<email address>`.
+- La valeur de l'ID de conversion doit être unique pour chaque conversion. Les valeurs en double d'ID d'événement de conversion entraîneront des divergences comptables.
+- L'ID de conversion doit être compris entre 1 et 30 caractères, ne contenir que des caractères alphanumériques (ainsi que des tirets) et correspondre à cette expression régulière : « [-a-zA-Z0-9]{1,30} ».
+- Les valeurs des événements de plus de 30 caractères échoueront, empêchant l'événement d'être correctement pris en compte. Vous pouvez vérifier si votre identifiant est valide en utilisant un site comme « https://regex101.com/ ».
+- Les ID de conversion ne doivent pas inclure d'identifiants d'utilisateur ou d'informations personnelles identifiables. Par exemple, les ID de conversion tels que « <user id>-<random id> », « <random id>-<email address> » ne sont pas autorisés.
 
-Brave uses TweetNacl to encrypt the Conversion ID.
+Brave utilise TweetNacl pour chiffrer l'ID de conversion.
 
-Encrypted Conversion Envelopes will look like:
+Les enveloppes de conversion chiffrées auront l'apparence suivante :
 
 ```json
 {
@@ -168,44 +168,44 @@ Encrypted Conversion Envelopes will look like:
 }
 ```
 
-### Implementation options
+### Options de mise en œuvre
 
-Brave provides two implementation options for Verifiable Conversions using a URL pattern or DOM element pattern.
+Brave propose deux options de mise en œuvre pour les conversions vérifiables en utilisant un modèle d'URL ou de modèle d'élément DOM.
 
-#### URL Pattern
+#### Modèle d'URL
 
-An advertiser has a Conversion ID that is present as a query string parameter in the Conversion Page URL pattern. The advertiser must provide Brave with the query string key that identifies the Conversion ID.
+Un annonceur dispose d'un ID de conversion qui est présent en tant que paramètre de chaîne de requête dans le modèle d'URL de la page de conversion. L'annonceur doit fournir à Brave la clé de chaîne de requête qui identifie l'ID de conversion.
 
-When an eligible user lands on the Conversion Page URL, Brave will:
+Lorsqu'un utilisateur éligible arrive sur l'URL de la page de conversion, Brave :
 
-- Record a conversion event
-- Parse the URL for the query string key that identifies the Conversion ID
-- Encrypt and record the Conversion ID
+- Enregistre un événement de conversion
+- Analyse l'URL pour la clé de chaîne de requête qui identifie l'ID de conversion
+- Chiffre et enregistre l'ID de conversion
 
-Take, for example, the following Conversion Page URL: https://example.com/checkout?order=ABC-12345-xyz. Brave will look for the query string key order and encrypt the value `ABC-12345-xyz`.
+Prenons, par exemple, l'URL de la page de conversion suivante : https://example.com/checkout?order=ABC-12345-xyz. Brave recherchera la clé de chaîne de requête order et chiffrera la valeur `ABC-12345-xyz`.
 
-#### DOM Element Pattern
+#### Modèle d'élément DOM
 
-An advertiser has a Conversion ID that is present in the Document Object Model (DOM) of the Conversion Page URL.
+Un annonceur dispose d'un ID de conversion qui est présent dans le modèle d'objet de document (DOM) de l'URL de la page de conversion.
 
-The advertiser must provide Brave with the DOM element that uniquely identifies the Conversion ID on the page. When an eligible user lands on the Conversion Page URL, Brave will:
+L'annonceur doit fournir à Brave l'élément DOM qui identifie de manière unique l'ID de conversion sur la page. Lorsqu'un utilisateur éligible arrive sur l'URL de la page de conversion, Brave :
 
-- Record a conversion event
-- Parse the DOM for the regex pattern that identifies the Conversion ID
-- Encrypt and record the Conversion ID
+- Enregistre un événement de conversion
+- Analyse le DOM à la recherche du modèle regex qui identifie l'ID de conversion
+- Chiffre et enregistre l'ID de conversion
 
-Take, for example, the following DOM element: `<div class='order-id-value'>Your Order ID: ABC-12345-xyz</div>`. Brave will look for this pattern `Your Order ID:.*`, set a capture group `([-a-zA-Z0-9]*)` and encrypt the value `ABC-12345-xyz`.
+Prenons, par exemple, l'élément DOM suivant : `<div class='order-id-value'>Votre ID de commande : ABC-12345-xyz</div>`. Brave recherchera ce modèle `Votre ID de commande :.*`, définira un groupe de capture `([-a-zA-Z0-9]*)` et chiffrera la valeur `ABC-12345-xyz`.
 
-## Brand lift studies
+## Études de notoriété de la marque
 
-Brave brand lift studies consist of pre-post research polls conducted via Brave to help advertisers better measure the impact of their ad campaigns beyond media metrics like impressions or clicks. Studies typically measure brand awareness or consideration, but can also measure growth in product understanding or other effects based on paid media spend with Brave.
+Les études de notoriété de la marque Brave consistent en des sondages de recherche avant et après réalisés via Brave afin d'aider les annonceurs à mieux mesurer l'impact de leurs campagnes publicitaires au-delà des indicateurs médiatiques tels que les impressions ou les clics. Les études mesurent généralement la notoriété ou la considération de la marque, mais elles peuvent également mesurer la compréhension du produit ou d'autres effets basés sur les dépenses publicitaires avec Brave.
 
-Prior to campaign launch, advertisers provide Brave with a series of questions structured into a survey and distributed via Brave Ads to a targeting profile that matches the ad campaign. After the campaign, the same set of questions (and additional questions that measure ad recall) will be fielded.
+Avant le lancement de la campagne, les annonceurs fournissent à Brave une série de questions structurées sous forme de sondage et distribuées via Brave Ads à un profil de ciblage correspondant à la campagne publicitaire. Après la campagne, le même ensemble de questions (et des questions supplémentaires qui mesurent la mémorisation de la publicité) seront posées.
 
-The pre- and post-campaign survey results are compared to gauge the impact of the advertising. Here are some examples of questions that may be fielded during a study:
+Les résultats des enquêtes avant et après la campagne sont comparés pour évaluer l'impact de la publicité. Voici quelques exemples de questions qui peuvent être posées lors d'une étude :
 
-- **Brand awareness**: Have you heard of “advertiser name” before?
-- **Ad recall**: Have you seen an ad for “advertiser name” in the past week?
-- **Product consideration**: How likely are you to shop for “product name” in the next several months?
+- **Notoriété de la marque** : Avez-vous déjà entendu parler de « nom de l'annonceur » ?
+- **Rappel publicitaire** : Avez-vous vu une publicité pour « nom de l'annonceur » au cours de la semaine dernière ?
+- **Considération de produit** : Quelle est la probabilité que vous achetiez « nom du produit » dans les prochains mois ?
 
-Studies can run independent of spend for a fixed cost, but may also be included as a bonus on a per-campaign basis for spends above a specified threshold. Get in touch with our sales team to learn more.
+Les études peuvent être réalisées indépendamment des dépenses à un coût fixe, mais elles peuvent également être incluses en tant que bonus pour chaque campagne dont les dépenses dépassent un seuil spécifié. Contactez notre équipe commerciale pour en savoir plus.
