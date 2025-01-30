@@ -2,47 +2,47 @@
 sidebar_position: 3
 ---
 
-# Notification ads
+# Annonces sous forme de notification
 
-Notification ads feature a title and short CTA; clicks drive users to the advertiser’s desired landing page. Ads are served over content at the browser level, not on web pages, within videos, or any of the more obtrusive practices of traditional display ads.
+Les annonces sous forme de notification comportent un titre et un court appel à l’action ; les clics dirigent les utilisateurs vers la page de destination souhaitée par l'annonceur. Les Ads sont diffusées au-dessus du contenu au niveau du navigateur, et non sur des pages Web, dans des vidéos, ou via l’une des pratiques plus intrusives des annonces display traditionnelles.
 
-This unit is an ideal addition for advertisers looking to add engagement, quality site traffic, or acquisition drivers to paid marketing campaigns. Notification ads appear only to those who've opted in to seeing them. This makes them the surface that reaches the most discerning—and engaged—audience in the Brave ecosystem.
+Cette unité est un complément idéal pour les annonceurs souhaitant augmenter l'engagement, le trafic qualifié sur leur site ou les moteurs d'acquisition dans les campagnes de marketing payant. Les annonces sous forme de notification apparaissent uniquement à ceux qui ont choisi de les voir. Cela en fait la surface qui touche le public le plus exigeant et le plus engagé de l'écosystème Brave.
 
 ![Notification.png](/img/Notification.png)
 
-### Ad requirements
+### Exigences des Ads
 
-- Ad copy
-  - Title: 30 character limit, must include brand name
-  - Body: 60 character limit, for key messaging/value proposition/call to action
-- Click-through URL
-  - No redirects/URL shortening
+- Texte des Ads
+  - Titre : Limite de 30 caractères, doit inclure le nom de la marque
+  - Corps : Limite de 60 caractères, pour les messages clés / proposition de valeur / appel à l’action
+- URL de click-through
+  - Pas de redirections / raccourcissement d’URL
 
-### Available targeting
+### Ciblage disponible
 
-- By device
-  - MacOS, Windows, Linux, Android, iOS
-- By country
-  - State level targeting available in USA
-- Contextual IAB standard segments
-- Custom segments **(Managed Service only)**
+- Par appareil
+  - macOS, Windows, Linux, Android, iOS
+- Par pays
+  - Ciblage au niveau de l'État disponible aux USA
+- Segments contextuels standard de l'IAB
+- Segments personnalisés **(Service géré uniquement)**
 
-### Pricing
+### Tarification
 
 - CPM
 - CPC
 
-### Best practices
+### Meilleures pratiques
 
-- Add context to your title for clarity, e.g. _Masterclass. Learn from the best._
-- Use unique landing pages such as “advertiser.com/brave” to make measurement easier
-- Use multiple versions of ad creative for testing
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Use emojis to help tell your brand’s story with fewer characters
-- Vary copy to appeal to different audiences or product features
-- Share wisdom, Brave users love to learn
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
-- No redirect URLS (ads must direct to your owned domain or social media)
+- Ajoutez du contexte à votre titre pour plus de clarté, par ex. _Masterclass. Apprenez des meilleurs._
+- Utilisez des pages de destination uniques telles que « advertiser.com/brave » pour faciliter la mesure
+- Utilisez plusieurs versions de créations publicitaires pour les tests
+- Utilisez un appel à l’action spécifique : _En savoir plus, Essayer maintenant, Acheter maintenant, Inscrivez-vous, etc._
+- Utilisez des emojis pour aider à raconter l'histoire de votre marque avec moins de caractères
+- Variez le texte pour séduire différents publics ou mettre en avant des caractéristiques de produit
+- Partagez vos connaissances ; les utilisateurs de Brave aiment apprendre
+- Pas de titres accrocheurs
+- Aucune promesse de rendements élevés sur les investissements (APY/APR)
+- Pas de lettres majuscules
+- Pas de grossièretés, nudité, violence ou substances illicites
+- Pas de redirection d’URL (les Ads doivent diriger vers votre propre domaine ou les réseaux sociaux)
