@@ -2,56 +2,56 @@
 sidebar_position: 1
 ---
 
-# Billing
+# Facturation
 
-Brave Ads are available to be purchased via various different pricing models. By default, all ad campaigns globally will be billed in USD, however, other options are available.
+Les Brave Ads peuvent être achetées via différents modèles de tarification. Par défaut, toutes les campagnes publicitaires dans le monde entier seront facturées en USD ; cependant, d’autres options sont disponibles.
 
-| **Pricing model** | **Billable event (if applicable)**                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Flat**          | A flat rate, also referred to as a fixed rate, refers to a static fee regardless of delivery or performance. Flat rates are currently only used for New Tab Takeovers. |
-| **CPM**           | Refers to a cost-per-thousand impressions, whereby the advertiser is billed a fixed price for each thousand impressions delivered by their campaign.                                   |
-| **CPC**           | Refers to a cost-per-click, whereby the advertiser is billed based on a fixed price for each individual click delivered by their campaign.                                             |
+| **Modèle de tarification** | **Événement facturable (le cas échéant)**                                                                                                                                                                                                                   |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Forfait**                | Un tarif forfaitaire, également appelé taux fixe, désigne des frais statiques, indépendamment de la livraison ou de la performance. Les tarifs forfaitaires sont actuellement utilisés uniquement pour les annonces dans les nouveaux onglets. |
+| **CPM**                    | Fait référence à un coût pour mille impressions, dans lequel l’annonceur est facturé un prix fixe pour chaque millier d’impressions livré par sa campagne.                                                                                                     |
+| **CPC**                    | Fait référence à un coût par clic, dans lequel l’annonceur est facturé un prix fixe pour chaque clic individuel livré par sa campagne.                                                                                                                         |
 
-The pricing model is determined at the ad set level of the campaign and cannot be changed partway through a flight. In order to switch an ad set to a new pricing model, the original ad set must be paused, and a new one with the revised pricing model must be created. The original ad set will be billed according to the original pricing.
+Le modèle de tarification est déterminé au niveau du groupe d’annonces de la campagne et ne peut pas être modifié en cours de route. Pour passer un groupe d’annonces à un nouveau modèle de tarification, l’ensemble d’annonces original doit être mis en pause, et un nouveau groupe avec le modèle de tarification révisé doit être créé. L’ensemble d’annonces original sera facturé selon la tarification originale.
 
-## Paying an invoice
+## Payer une facture
 
-By default, invoices for managed campaigns are sent at the end of the monthly billing cycle for the calendar month. Payment is due within 30 days of receipt of the invoice. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign
+Par défaut, les factures pour les campagnes gérées sont envoyées à la fin du cycle de facturation mensuel pour le mois civil. Le paiement est dû dans les 30 jours suivant la réception de la facture. Brave peut, à notre discrétion, exiger un pré-paiement pour les annonceurs et les campagnes avant le lancement de leur campagne
 
-## Paying with a credit card
+## Payer avec une carte de crédit
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Stripe. 
+Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées par carte de crédit via Stripe. 
 
-- If buying via Managed Service, simply let your account manager know you’d like to pay via credit card.
-- If buying via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Stripe.
+- Si vous achetez via un service géré, il suffit d’informer votre gestionnaire de compte que vous souhaitez payer par carte de crédit.
+- Si vous achetez via Brave Ads Manager, il vous sera demandé de pré-payer votre campagne en « rechargeant » votre compte via Stripe.
 
-## Paying with cryptocurrency
+## Payer avec des cryptomonnaies
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by using a crypto wallet via Radom.
+Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées en utilisant un portefeuille crypto via Radom.
 
-- If buying ads via Managed Service, simply let your account manager know you’d like to pay via cryptocurrency. Please note that we currently accept Basic Attention Token (BAT), USD Coin (USDC), and Tether USD (USDT) on the Ethereum blockchain.
-- If buying ads via Brave Ads Manager, you will be asked to pre-pay for your campaign by “topping-up” your account via Radom.
+- Si vous achetez des annonces via un service géré, il vous suffit d’informer votre gestionnaire de compte que vous souhaitez payer via une cryptomonnaie. Veuillez noter que nous acceptons actuellement le Basic Attention Token (BAT), l’USD Coin (USDC) et le Tether USD (USDT) sur la blockchain Ethereum.
+- Si vous achetez des annonces via Brave Ads Manager, il vous sera demandé de pré-payer votre campagne en « rechargeant » votre compte via Radom.
 
-## Cancellations
+## Annulations
 
-For New Tab Takeovers, advertisers that cancel within seven days of the campaign launch date will be charged 50% of the campaign cost. 
+Pour les annonces dans les nouveaux onglets, les annonceurs qui annulent dans les sept jours suivant la date de lancement de la campagne se verront facturer 50 % du coût de la campagne
 
-If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused. 
+Si vous travaillez avec notre équipe des comptes et des ventes, vous pouvez annuler vos campagnes d’annonces dans la Recherche, les Notifications ou le fil d’actualité à tout moment ; vous ne serez facturé que pour les montants dépensés jusqu’à ce que la campagne soit mise en pause
 
-If you prepaid your campaign via our self-service option and wish to cancel your campaign early, please note that you’ll need to request a refund for any remaining balance by sending an email to [selfserve@brave.com](mailto:selfserve@brave.com).
+Si vous avez prépayé votre campagne via notre option en libre-service et souhaitez annuler votre campagne à l'avance, veuillez noter que vous devrez demander un remboursement pour tout solde restant en envoyant un e-mail à [selfserve@brave.com](mailto:selfserve@brave.com).
 
-# Account balances
+# Soldes des comptes
 
-Any leftover campaign budgets from pre-paid campaigns paid via Stripe or Radom will be transferred to your account balance for future campaigns. These funds are typically transferred within 24-48 hours, under the following two circumstances:
+Tout budget de campagne restant provenant de campagnes prépayées payées via Stripe ou Radom sera transféré sur le solde de votre compte pour les futures campagnes. Ces fonds sont généralement transférés dans un délai de 24 à 48 heures, dans les deux circonstances suivantes :
 
-### When a campaign reaches its end date
+### Lorsque une campagne atteint sa date de fin
 
-If your campaign reaches its scheduled end date and there are remaining funds, the campaign status will update to "complete," and any leftover funds will be transferred to your account balance.
+Si votre campagne atteint sa date de fin prévue et qu’il reste des fonds, le statut de la campagne sera mis à jour sur « complète », et tout fond restant sera transféré sur le solde de votre compte.
 
-### When a campaign is terminated manually
+### Lorsque une campagne est terminée manuellement
 
-To end your campaign immediately and transfer any remaining funds to your account balance, follow these steps:
+Pour mettre fin à votre campagne immédiatement et transférer tout fond restant sur le solde de votre compte, suivez ces étapes :
 
-- Select the campaign.
-- Click "Edit."
-- Click "Close this campaign."
+- Sélectionner la campagne.
+- Cliquer sur « Modifier ».
+- Cliquez sur « Fermer cette campagne. »
