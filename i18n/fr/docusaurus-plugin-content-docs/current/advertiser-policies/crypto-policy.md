@@ -2,73 +2,73 @@
 sidebar_position: 3
 ---
 
-# Cryptocurrency policy
+# Politique de la crypto-monnaie
 
-These guidelines are not final, and are subject to change. These guidelines and criteria intend to inform prospective blockchain advertisers, but Brave ultimately reserves the right to reject or disqualify advertisers for any reason. Please note that given the new and evolving nature of the blockchain sector and regulation, advertisers that may meet the following guidelines and criteria may be rejected during the final review, or after their campaigns have launched.
+Ces directives ne sont pas définitives et sont sujettes à modification. Ces directives et critères visent à informer les annonceurs de blockchain potentiels, mais Brave se réserve finalement le droit de rejeter ou de disqualifier des annonceurs pour toute raison. Veuillez noter qu'étant donné la nature nouvelle et en constante évolution du secteur et de la réglementation de la blockchain, des annonceurs qui peuvent respecter les directives et critères suivants peuvent être rejetés lors de la révision finale ou après le lancement de leurs campagnes.
 
 For the purposes of these guidelines, “blockchain products, projects and related services” includes, but is not limited to:
 
-- Cryptocurrency
-- Utility tokens
+- Crypto-monnaie
+- Jetons utilitaires
 - Memecoins
 - Web3
-- Blockchain networks
+- Réseaux blockchain
 - DApps
-- Non-Fungible Tokens (NFTs)
-- Web3 Communities
-- Related products and accessories (hardware wallets)
-- Related content, information services and consulting
+- Tokens Non-Fongibles (NFTs)
+- Communautés Web3
+- Produits et accessoires connexes (portefeuilles matériels)
+- Contenu, services d'information et de conseil connexes
 
-To maintain the high standards of our platform, prospective advertisers in this category must follow the guidelines and criteria below.
+Pour maintenir les normes élevées de notre plateforme, les annonceurs potentiels de cette catégorie doivent respecter les directives et critères ci-dessous.
 
-## Advertiser website requirements
+## Exigences relatives au site Web de l'annonceur
 
-- A physical business address, jurisdiction and contact information in the Terms of Service
-- An official contact email, registered from the same domain as the advertiser website
-- Disclaimers and Risk Disclosures, general or specific to the company jurisdiction or countries in which the company provides products and/or services
-- Official social media profiles for the company or project, matching the information on the website
-- Terms of service
-- Privacy policy
+- Une adresse commerciale physique, une juridiction et des informations de contact dans les conditions de service
+- Un e-mail de contact officiel, enregistré depuis le même domaine que le site Web de l'annonceur
+- Avertissements et divulgations des risques, généraux ou spécifiques à la juridiction de l'entreprise ou aux pays dans lesquels l'entreprise fournit des produits et/ou services
+- Profils officiels sur les réseaux sociaux de l'entreprise ou du projet, correspondant aux informations sur le site Web
+- Conditions de service
+- Politique de confidentialité
 
 ### The following types of business claims are not permitted:
 
-- Unrealistic promises
-- Suggestions or implied guaranteed percentage return on investment
+- Promesses irréalistes
+- Suggestions ou implications de pourcentage de rendement garanti sur investissement
 - Claims of “SEC compliance” or listing on “SEC-compliant exchanges”
-- Token or cryptocurrency must not be explicitly presented solely as a speculative investment opportunity
+- Le jeton ou la crypto-monnaie ne doit pas être explicitement présenté uniquement comme une opportunité d'investissement spéculatif
 
 ### The following promotional campaigns are not permitted:
 
-- Token pre-sales
-- Testnet or other pre-launch offerings
-- Simple Agreement for Future Tokens (SAFTs)
+- Pré-ventes de jetons
+- Testnet ou d'autres offres pré-lancement
+- Accord simple pour futurs tokens (SAFTs)
 
 ## Market presence:
 
-- If applicable, the company token or cryptocurrency is listed with matching information to the advertiser website on Coinmarketcap.com and/or Coingecko.com
-- If applicable, the company token or cryptocurrency should be listed or available on well-known centralized exchanges, or decentralized exchanges
+- Le jeton ou la crypto-monnaie de l'entreprise est listé avec des informations correspondantes au site web de l'annonceur sur Coinmarketcap.com et/ou CoinGecko.com si applicable
+- Le jeton ou la crypto-monnaie de l'entreprise devrait être listé ou disponible sur des échanges centralisés bien connus, ou sur des échanges décentralisés si applicable
 
-A search for the project should not return controversial reports or reports from users or customers of suspect behavior from the company.
+Une recherche sur le projet ne doit pas retourner de rapports controversés ou de rapports d'utilisateurs ou clients sur un comportement suspect de la part de l'entreprise.
 
-## Creative guidelines
+## Directives créatives
 
 ### Creative (ad) copy:
 
-- Should focus on the value proposition and use case of the project, token or service
-- Should not include speculative language, references to the token as an investment or claims of increasing value or guaranteed returns
-- Must not include speculative language related to value or price of the token or cryptocurrency
-- Guaranteed fixed APY or APR rates cannot be advertised
+- Doit se concentrer sur la proposition de valeur et le cas d'utilisation du projet, du jeton ou du service
+- Ne doit pas inclure de langage spéculatif, de références au jeton en tant qu'investissement ou de revendications d'augmentation de valeur ou de rendements garantis
+- Ne doit pas inclure de langage spéculatif lié à la valeur ou au prix du jeton ou de la crypto-monnaie
+- Les taux fixes garantis APY ou APR ne peuvent pas être annoncés
 - Using “bonus”, “up to” or other similar text is normally acceptable upon review
   - For example:  “Earn up to 5% in staking rewards.”
 
 ### Click-through URLs:
 
-- Landing pages must direct users to the top level domain, or related subdomain for the registered advertiser
-- URLs should not contain third-party redirects that navigate users to exchanges, liquidity pools, or secondary sites
+- Les pages de destination doivent diriger les utilisateurs vers le domaine de premier niveau ou un sous-domaine connexe pour l'annonceur enregistré
+- Les URL ne doivent pas contenir de redirections tierces qui naviguent les utilisateurs vers des échanges, des pools de liquidités ou des sites secondaires
 
 ## Pay-to-play games, casino raffles, lotteries
 
-- Any advertiser requiring a payment or deposit, whether in fiat or crypto, to enter a contest will be denied
+- Tout annonceur nécessitant un paiement ou un dépôt, que ce soit en fiat ou en crypto, pour participer à un concours sera refusé
   - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
 - Play to Earn and Quests with engagement rewards are allowed
   - Example: users enter their email address for a chance to win an NFT
