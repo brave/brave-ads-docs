@@ -4,19 +4,19 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Brave Logo",
+    "message": "Logo Brave",
     "description": "The alt text of navbar logo"
   },
   "item.label.Sign up": {
-    "message": "Sign up",
+    "message": "Inscrivez-vous",
     "description": "Navbar item with label Sign up"
   },
   "item.label.About": {
-    "message": "About",
+    "message": "À propos",
     "description": "Navbar item with label About"
   },
   "item.label.Audience": {
-    "message": "Audience",
+    "message": "Public",
     "description": "Navbar item with label Audience"
   }
 }
