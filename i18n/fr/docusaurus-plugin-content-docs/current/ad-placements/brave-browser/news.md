@@ -2,43 +2,43 @@
 sidebar_position: 2
 ---
 
-# Newsfeed ads
+# Annonces dans le fil d'actualité
 
-Brave News is a private, customizable news feed that appears in every new tab page of the Brave browser. Advertisers can insert paid native display placements that appear similar to the images and snippets shown in the news feed.
+Actualités Brave est un fil d'actualités privé et personnalisable qui apparaît sur chaque nouvelle page d'onglet du navigateur Brave. Les annonceurs peuvent insérer des placements natifs payants qui ressemblent aux images et snippets affichés dans le fil d'actualité.
 
 ![Newsfeed.png](/img/Newsfeed.png)
 
-### Ad requirements
+### Exigences des Ads
 
 - Image
-  - 900w x 750h (JPEG or PNG)
-- Ad copy
-  - Title: 90 characters maximum
-  - Call to action (CTA): 15 characters maximum
-  - Brand name: 30 characters maximum
-- Click-through URL
-  - No redirects/URL shortening
+  - 900w x 750h (JPEG ou PNG)
+- Texte de l'Ad
+  - Titre : 90 caractères maximum
+  - Appel à l'action (CTA) : 15 caractères maximum
+  - Nom de la marque : 30 caractères maximum
+- URL de click-through
+  - Pas de redirections / pas de raccourcissement d'URL
 
-### Available targeting
+### Ciblage disponible
 
-- By device
-  - MacOS, Windows, Linux, Android, iOS
-- By country
+- Par device
+  - macOS, Windows, Linux, Android, iOS
+- Par pays
 
-**Note**: currently available only to browsers with English and Japanese language settings.
+**Remarque** : actuellement disponible uniquement pour les navigateurs avec des paramètres de langue en anglais ou japonais.
 
-### Pricing
+### Tarification
 
 - CPM
 - CPC
 
-### Best practices
+### Meilleures pratiques
 
-- Use multiple versions of ad creative for testing
-- Use engaging imagery such as products, or demonstrative illustrations
-- Use a specific call to action: _Learn More, Try Now, Buy Now, Sign Up, etc._
-- Limit text in images, some text is fine
-- No clickbait headlines
-- No claims of high returns on investments (APY/APR)
-- No all-uppercase lettering
-- No profanity, nudity, violence, or illicit substances
+- Utiliser plusieurs versions des créations Ads pour les tests
+- Utiliser des images engageantes telles que des produits ou des illustrations démonstratives
+- Utiliser un appel à l'action spécifique : _En savoir plus, Essayer maintenant, Acheter maintenant, S'inscrire, etc._
+- Limiter le texte dans les images, un peu de texte est acceptable
+- Pas de titres accrocheurs
+- Pas de promesses de rendements élevés sur les investissements (APY/APR)
+- Pas de lettres entièrement majuscules
+- Pas de vulgarités, nudité, violence ou substances illicites
