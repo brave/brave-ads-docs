@@ -4,66 +4,66 @@ sidebar_position: 4
 
 # API
 
-## Getting Started
+## Commencer
 
-1. Log on to https://ads.brave.com
+1. Connectez-vous sur https://ads.brave.com
 
-2. Generate an API KEY
-   1. Profile -> Generate API Key
-   2. Record generated API key, as you will not be able to retrieve it again
+2. Générez une clé d'API
+   1. Profil -> Générer une clé d'API
+   2. Enregistrez la clé d'API générée, car vous ne pourrez pas la récupérer de nouveau
 
-## Endpoints
+## Points de terminaison
 
-### Campaign Details
+### Détails de la campagne
 
-Retrieves all campaigns you have ran, as well as the ad sets and ads associated with them by ID.
+Récupère toutes les campagnes que vous avez exécutées, ainsi que les ensembles d'annonces et les annonces associés par ID.
 
 ```
 GET https://ads-serve.brave.com/v1/api/campaigns
 ```
 
-##### Optional Parameters
+##### Paramètres optionnels
 
-- `from` (date in UTC) - Fetch campaigns that ended on or after specified date. Format: `YYYY-MM-DDTHH:MM:SS`
+- `from` (date en UTC) - Récupérer les campagnes terminées à la date spécifiée ou après celle-ci. Format : `YYYY-MM-DDTHH:MM:SS`
 
-### Campaign Reporting
+### Rapports de campagnes
 
-Retrieves reporting details about a specific campaign you have ran, where the ID can be retrieved from the campaign details endpoint.
+Récupère les détails des rapports d'une campagne spécifique que vous avez exécutée, l'ID pouvant être récupéré à partir du point de terminaison des détails de la campagne.
 
-#### Common Reporting fields
+#### Champs de rapport communs
 
 ```
-Day/Hour,Advertiser Name,Campaign Name,Campaign ID,Creative Set ID,Creative Set Name,Creative Instance ID,Creative Title,Creative Body,Creative URL,View Counts,Click Counts,Dismissed Counts,Landed Counts,Conversion Counts,OS,Spend,View-through Conversion Counts,Click-through Conversion Counts,Attribution Window (days)
+Jour/Heure,Nom de l'annonceur,Nom de la campagne,ID de la campagne,ID de l'ensemble créatif,Nom de l'ensemble créatif,ID de l'instance créative,Titre créatif,Corps créatif,URL créative,Nombre de vues,Nombre de clics,Nombre de rejets,Nombre d'atterrissages,Nombre de conversions,OS,Dépense,Nombre de conversions par vue,Nombre de conversions par click-through,Fenêtre d'attribution (jours)
 ```
 
-**Note**: `v1` Returns an additional `Segment` column between `OS` and `Spend`
+**Remarque** : `v1` renvoie une colonne supplémentaire `Segment` entre `OS` et `Dépense`
 
-#### Shared Optional Parameters
+#### Paramètres optionnels partagés
 
-- `from` (date in UTC) - Fetch data on or after specified date. Defaults to campaign start date if not specified. Format: `YYYY-MM-DD`
-- `to` (date in UTC) - Fetch data up to specified date. Defaults to campaign end date if not specified. Format: `YYYY-MM-DD`
-- `country` - Add country column to report. Defaults to false. Format `true`
+- `from` (date en UTC) - Récupérer les données à la date spécifiée ou après celle-ci. Par défaut, il s'agit de la date de début de la campagne si non spécifiée. Format : `YYYY-MM-DD`
+- `to` (date en UTC) - Récupérer les données jusqu'à la date spécifiée. Par défaut, il s'agit de la date de fin de la campagne si non spécifiée. Format : `YYYY-MM-DD`
+- `country` - Ajouter une colonne de pays au rapport. Par défaut, il est à false. Format `true`
 
-#### v1 Reporting
+#### Rapports v1
 
-Returns all fields specified above, as well as an additional `Segment` column between `OS` and `Spend` <br />
-i.e: `...Conversion Counts,OS,Segment,Spend,View-through Conversion Counts...`
+Renvoie tous les champs spécifiés ci-dessus, ainsi qu'une colonne supplémentaire `Segment` entre `OS` et `Dépense` <br />
+c'est-à-dire : `...Nombre de conversions,OS,Segment,Dépense,Nombre de conversions par vue...`
 
 ```
 GET https://ads-serve.brave.com/v1/report/campaign/csv/:campaignId
 ```
 
-#### v2 Reporting
+#### Rapports v2
 
-Returns all fields specified above
+Renvoie tous les champs spécifiés ci-dessus
 
 ```
 GET https://ads-serve.brave.com/v2/report/campaign/csv/:campaignId
 ```
 
-# Making Requests
+# Faire des demandes
 
-Pass API key in header
+Passez la clé d'API dans l'en-tête
 
 ```
 curl --request GET \
@@ -71,29 +71,29 @@ curl --request GET \
   --header 'X-Brave-Api-Key: <API_KEY>' \
 ```
 
-## Response Examples
+## Exemples de réponse
 
-### Campaign Response
+### Réponse de campagne
 
 ```json
 {
-  "id": "f9f88715-db91-421b-9d1d-983742ef14c5", // Advertiser ID
-  "name": "My Advertiser Name",
+  "id": "f9f88715-db91-421b-9d1d-983742ef14c5", // ID de l'annonceur
+  "name": "Mon nom d'annonceur",
   "state": "active",
   "campaigns": [
     {
-      "id": "a3de655d-ae1b-41a5-b6f9-741a40010d00", // Campaign ID
-      "name": "My Campaign Name",
+      "id": "a3de655d-ae1b-41a5-b6f9-741a40010d00", // ID de la campagne
+      "name": "Mon nom de campagne",
       "format": "push_notification",
       "startAt": "2022-08-09T14:49:11.714Z",
       "endAt": "2024-03-22T05:42:49.691Z",
       "adSets": [
         {
-          "id": "e161f081-f249-4216-b9ad-64e2ba4c1b65", // Ad Set ID
-          "name": "My First Ad Set",
+          "id": "e161f081-f249-4216-b9ad-64e2ba4c1b65", // ID de l'ensemble d'annonces
+          "name": "Mon premier ensemble d'annonces",
           "ads": [
             {
-              "id": "c93d9444-2c59-4cec-9a61-de3e1e3f7552" // Ad ID
+              "id": "c93d9444-2c59-4cec-9a61-de3e1e3f7552" // ID de l'annonce
             }
           ]
         }
@@ -103,24 +103,24 @@ curl --request GET \
 }
 ```
 
-### v1 Reporting Response
+### Réponse de rapport v1
 
 ```
-Day/Hour,Advertiser ID,Campaign ID,Creative Set ID,Creative Instance ID,Creative Title,Creative Body,Creative URL,Impression Counts,Click Counts,Dismissed Counts,Site Visit Counts,Conversion Counts,OS,Spend,View-through Conversion Counts,Click-through Conversion Counts,Attribution Window (days)
-2024-01-31T20:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Sample Creative 1,Click here,https://example.com,1,0,1,0,0,macos,0.00800000,0,0,30 
-2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Sample Creative 2,Test creative,https://example.com,1,0,0,0,0,windows,0.00800000,0,0,30
-2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Sample Creative 1,Click here,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
-2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs19520db1,cri9086c13f,Sample Creative 3,Test creative 3,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30 
-2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Sample Creative 2,Test creative,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
+Jour/Heure,ID de l'annonceur,ID de la campagne,ID de l'ensemble de créations,ID de l'instance créative,Titre de la création,Corps de la création,URL de la création,Nombre d'impressions,Nombre de clics,Nombre de rejets,Nombre de visites sur le site,Nombre de conversions,OS,Dépenses,Nombre de conversions par vue,Nombre de conversions par click-through,Fenêtre d'attribution (jours)
+2024-01-31T20:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Exemple de Création 1,Cliquez ici,https://example.com,1,0,1,0,0,macos,0.00800000,0,0,30
+2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Exemple de Création 2,Test de création,https://example.com,1,0,0,0,0,windows,0.00800000,0,0,30
+2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Exemple de Création 1,Cliquez ici,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
+2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs19520db1,cri9086c13f,Exemple de Création 3,Test de création 3,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
+2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Exemple de Création 2,Test de création,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
 ```
 
-### v2 Reporting Response
+### Réponse de rapport v2
 
 ```
-Day/Hour,Advertiser ID,Campaign ID,Creative Set ID,Creative Instance ID,Creative Title,Creative Body,Creative URL,Impression Counts,Click Counts,Dismissed Counts,Site Visit Counts,Conversion Counts,OS,Segment,Spend,View-through Conversion Counts,Click-through Conversion Counts,Attribution Window (days)
-2024-01-31T20:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Sample Creative 1,Click here,https://example.com,1,0,1,0,0,macos,arts & entertainment,0.00800000,0,0,30 
-2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Sample Creative 2,Test creative,https://example.com,1,0,0,0,0,windows,food & wine,0.00800000,0,0,30
-2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Sample Creative 1,Click here,https://example.com,1,0,0,0,0,android,architecture,0.00800000,0,0,30
-2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs19520db1,cri9086c13f,Sample Creative 3,Test creative 3,https://example.com,1,0,0,0,0,android,crypto,0.00800000,0,0,30 
-2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Sample Creative 2,Test creative,https://example.com,1,0,0,0,0,android,gaming,0.00800000,0,0,30
+Jour/Heure,ID de l'annonceur,ID de la campagne,ID de l'ensemble de créations,ID de l'instance créative,Titre de la création,Corps de la création,URL de la création,Nombre d'impressions,Nombre de clics,Nombre de rejets,Nombre de visites sur le site,Nombre de conversions,OS,Segment,Dépenses,Nombre de conversions par vue,Nombre de conversions par clic,Fenêtre d'attribution (jours)
+2024-01-31T20:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Exemple de Création 1,Cliquez ici,https://example.com,1,0,1,0,0,macos,arts & entertainment,0.00800000,0,0,30 
+2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Exemple de Création 2,Test de création,https://example.com,1,0,0,0,0,windows,food & wine,0.00800000,0,0,30
+2024-01-31T22:00:00,ad5017b3,cmp932f4b3,crs819594b,cri7549f0ca,Exemple de Création 1,Cliquez ici,https://example.com,1,0,0,0,0,android,architecture,0.00800000,0,0,30
+2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs19520db1,cri9086c13f,Exemple de Création 3,Test de création 3,https://example.com,1,0,0,0,0,android,crypto,0.00800000,0,0,30 
+2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Exemple de Création 2,Test de création,https://example.com,1,0,0,0,0,android,gaming,0.00800000,0,0,30
 ```
