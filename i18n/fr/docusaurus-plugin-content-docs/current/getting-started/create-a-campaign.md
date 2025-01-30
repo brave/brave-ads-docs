@@ -2,14 +2,14 @@
 sidebar_position: 2
 ---
 
-# Create a campaign
+# Créer une campagne
 
-To get started, select the “New Campaign” button in the top right hand corner of Brave Ads Manager and fill out the required fields. The campaign level is where you will set the following parameters:
+Pour commencer, sélectionnez le bouton « Nouvelle campagne » dans le coin supérieur droit du gestionnaire de Brave Ads et remplissez les champs requis. Le niveau de la campagne est l’endroit où vous définirez les paramètres suivants :
 
-- **Campaign name** helps to identify campaigns more easily in your account.
-- **Start and end** dates define the beginning and end of your campaign delivery window, including time of day.
-- **Time zone** defines what timezone your campaign will begin and end in.
-- **Formats** define where in the Brave Ads ecosystem your ads will be displayed. For more information on Brave’s ad formats, their characteristics, and availability in Brave Ads Manager, [visit the ad placements section](/ad-placements/brave-browser/ntt).
-- **Location** defines where in the world your ads deliver. State-level targeting is currently only available in the United-States.
-- **Budget** defines how much you aim to spend throughout the lifetime of your campaign.
-- **Payment method** defines how you’ll pay. [Brave accepts USD and BAT](/account-management/billing)
+- **Nom de la campagne** aide à identifier plus facilement les campagnes dans votre compte.
+- Les **dates de début et de fin** définissent le début et la fin de la période de diffusion de votre campagne, y compris l'heure de la journée.
+- Le **fuseau horaire** définit dans quel fuseau horaire votre campagne commencera et se terminera.
+- Les **formats** définissent dans quelle partie de l’écosystème Brave Ads vos annonces seront affichées. Pour plus d’informations sur les formats de publicité de Brave, leurs caractéristiques et leur disponibilité dans Brave Ads Manager, [visitez la section des emplacements publicitaires](/ad-placements/brave-browser/ntt).
+- La **localisation** définit où dans le monde vos annonces seront diffusées. Le ciblage au niveau de l'État est actuellement disponible uniquement aux États-Unis.
+- Le **budget** définit combien vous souhaitez dépenser pendant la durée de vie de votre campagne.
+- La **méthode de paiement** définit comment vous allez payer. [Brave accepte les USD et les BAT](/account-management/billing)
