@@ -1,46 +1,46 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Suivant",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Ad placements": {
-    "message": "Ad placements",
+    "message": "Emplacements d'Ads",
     "description": "The label for category Ad placements in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ad placements.link.generated-index.title": {
-    "message": "Brave ad placements",
+    "message": "Emplacements d'Ads de Brave",
     "description": "The generated-index page title for category Ad placements in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Brave Search": {
-    "message": "Brave Search",
+    "message": "Recherche Brave",
     "description": "The label for category Brave Search in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Brave Search.link.generated-index.title": {
-    "message": "Brave Search placements",
+    "message": "Emplacements de Recherche Brave",
     "description": "The generated-index page title for category Brave Search in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Brave Browser": {
-    "message": "Brave Browser",
+    "message": "Navigateur Brave",
     "description": "The label for category Brave Browser in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Brave Browser.link.generated-index.title": {
-    "message": "Brave Browser placements",
+    "message": "Emplacements du Navigateur Brave",
     "description": "The generated-index page title for category Brave Browser in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Getting started": {
-    "message": "Getting started",
+    "message": "Prise en main",
     "description": "The label for category Getting started in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Campaign performance": {
-    "message": "Campaign performance",
+    "message": "Performance de campagne",
     "description": "The label for category Campaign performance in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Account management": {
-    "message": "Account management",
+    "message": "Gestion de compte",
     "description": "The label for category Account management in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Advertiser policies": {
-    "message": "Advertiser policies",
+    "message": "Politiques de l'annonceur",
     "description": "The label for category Advertiser policies in sidebar tutorialSidebar"
   }
 }
