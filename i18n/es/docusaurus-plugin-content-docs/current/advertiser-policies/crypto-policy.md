@@ -41,7 +41,7 @@ Para mantener los altos estándares de nuestra plataforma, los posibles anuncian
 
 - Preventa de tokens
 - Testnet u otras ofertas previas al lanzamiento
-- Simple Agreement for Future Tokens (SAFTs)
+- Acuerdo Simple para Futuros Tokens (SAFTs)
 
 ## Presencia en el mercado:
 

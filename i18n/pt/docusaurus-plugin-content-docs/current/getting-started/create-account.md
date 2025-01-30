@@ -11,3 +11,5 @@ Para criar uma conta, visite [ads.brave.com](https://ads.brave.com/) e preencha 
 - Inglês
 - Espanhol
 - Português
+- Alemão
+- Francês

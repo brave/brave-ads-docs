@@ -11,7 +11,7 @@ Los anuncios de la nueva pestaña son la unidad publicitaria de mayor impacto de
 
 ### Requisitos del anuncio
 
-- Two to three background images
+- De 2 a 3 imágenes de fondo
   - 2560 (ancho) x 1440 (alto), sólo formato JPEG
   - Elementos visuales claramente diferentes para garantizar que las nuevas pestañas no se vuelvan monótonas.
   - Coloque el punto focal principal del fondo alrededor de x:935 y:680 para evitar la obstrucción de los widgets de la nueva pestaña (reloj, tarjetas, favoritos, etc).
