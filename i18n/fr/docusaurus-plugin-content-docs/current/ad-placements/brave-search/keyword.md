@@ -2,23 +2,23 @@
 sidebar_position: 1
 ---
 
-# Search ads
+# Annonces dans les résultats de recherche
 
-**This product is currently only available to enterprise customers who meet a minimum set of criteria. Please contact adsales@brave.com to inquire.** <br /><br />
-Brave Search is the default search engine in the Brave browser and the fastest growing search engine since Bing. Search ads display when a user enters queries that match advertiser keywords that are generated based on the advertiser’s website. For example, if a user enters the query “blue shoes”, an ad will be shown from an advertiser who sells shoes on their website. If there is no relevant ad for the query, an organic result will be shown instead.
+**Ce produit est actuellement disponible uniquement pour les clients d'entreprise qui remplissent un ensemble de critères minimum. Veuillez contacter adsales@brave.com pour plus d'informations.** <br /><br />
+Recherche Brave est le moteur de recherche par défaut dans le navigateur Brave et le moteur de recherche à la croissance la plus rapide depuis Bing. Les annonces dans les résultats de recherche s'affichent lorsqu'un utilisateur saisit des requêtes correspondant à des mots-clés générés en fonction du site web de l'annonceur. Par exemple, si un utilisateur saisit la requête « chaussures bleues », une annonce s'affichera provenant d'un annonceur qui vend des chaussures sur son site web. S'il n'y a pas d'annonce pertinente pour la requête, un résultat organique s'affichera à la place.
 
 ![Search.png](/img/Search.png)
 
-### Overview
+### Aperçu
 
-All ads are created automatically based on landing page content to ensure an ideal user experience. When an ad shows on Brave Search, it’s because a keyword that matches the content of an advertiser landing page is a sufficient match. For both the user and advertiser this is the ideal outcome: the user finds what they are looking for, and the advertiser gets the user to their website.
+Toutes les annonces sont créées automatiquement en fonction du contenu de la page de destination afin de garantir une expérience utilisateur optimale. Lorsqu'une annonce apparaît sur Recherche Brave, c'est parce qu'un mot-clé correspondant au contenu de la page de destination de l'annonceur est en adéquation suffisante. C'est le résultat idéal pour l'utilisateur et l'annonceur : l'utilisateur trouve ce qu'il cherche, et l'annonceur attire l'utilisateur sur son site web.
 
-### Ad requirements
+### Exigences pour les annonces
 
-- The domain that you will be sending traffic to (for example: https://brave.com or https://wikipedia.org)
-- Your email address must match this domain (for example: user@brave.com or user@wikipedia.org)
-- Query string parameters (optional but recommended)
+- Le domaine vers lequel vous enverrez du trafic (par exemple : https://brave.com ou https://wikipedia.org)
+- Votre adresse électronique doit correspondre à ce domaine (par exemple : utilisateur@brave.com ou utilisateur@wikipedia.org)
+- Paramètres de chaîne de requête (facultatifs mais recommandés)
 
-### Pricing
+### Tarification
 
 - CPC
