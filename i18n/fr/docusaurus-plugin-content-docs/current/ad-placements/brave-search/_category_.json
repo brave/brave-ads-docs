@@ -1,8 +1,8 @@
 {
-  "label": "Brave Search",
+  "label": "Recherche Brave",
   "position": 1,
   "link": {
     "type": "generated-index",
-    "title": "Brave Search placements"
+    "title": "Emplacements de Recherche Brave"
   }
 }
