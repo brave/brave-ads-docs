@@ -2,6 +2,6 @@
 sidebar_position: 5
 ---
 
-# Launch your campaign
+# Lancez votre campagne
 
-Once you’ve set campaign, ad set, and ad parameters, you’re ready to top up your account with a dollar balance and launch your campaign. Brave accepts USD and BAT.
+Une fois que vous avez défini les paramètres de la campagne, du groupe d’annonces et des annonces, vous êtes prêt à créditer votre compte avec un solde en dollars et à lancer votre campagne. Brave accepte l’USD et le BAT.
