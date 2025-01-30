@@ -2,14 +2,14 @@
 sidebar_position: 3
 ---
 
-# Create an ad
+# Créer une publicité
 
-There are two ways to create an ad in Brave Ads Manager:
+Il y a deux façons de créer une publicité avec le gestionnaire Brave Ads :
 
-## During campaign set up
+## Lors de la configuration de la campagne
 
-During the campaign creation process, you’ll reach a step called Ads where you’ll see the option to create a new ad. Follow the onscreen instructions, which will provide guidelines on what to enter or upload based on the type of campaign you chose earlier on. This step will also show a preview of your ad to simulate how it will be seen by your audience.
+Pendant le processus de création de campagne, vous atteindrez une étape appelée Ads où vous verrez l’option de créer une nouvelle publicité. Suivez les instructions à l’écran, qui fourniront des directives sur ce qu’il faut entrer ou télécharger en fonction du type de campagne que vous avez choisi précédemment. Cette étape affichera également un aperçu de votre publicité pour simuler sa présentation auprès de votre public.
 
-## Independent of any campaign set up
+## Indépendamment de toute configuration de campagne
 
-To create an ad separate of a campaign, for example to be used across many campaigns, start from the home screen in Brave Ads Manager and select Creatives from the left sidebar. Once in the ads menu, hit the New Creative button in the top right corner of your screen. Then, choose the placement type that you wish to create an ad for.
+Pour créer une publicité indépendante d’une campagne, par exemple pour l’utiliser dans plusieurs campagnes, commencez depuis l’écran d'accueil du gestionnaire Brave Ads et sélectionnez « Creatives » dans la barre latérale gauche. Une fois dans le menu des Ads, cliquez sur le bouton « New Creative » en haut à droite de votre écran. Ensuite, choisissez le type de placement pour lequel vous souhaitez créer une publicité.
