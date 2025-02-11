@@ -14,7 +14,7 @@ Brave Ads können über verschiedene Preismodelle erworben werden. Standardmäß
 
 Das Preismodell wird auf der Anzeigenebene der Kampagne festgelegt und kann während eines Flights nicht geändert werden. Um eine Anzeige auf ein neues Preismodell umzustellen, muss die ursprüngliche Anzeige pausiert und eine neue mit dem überarbeiteten Preismodell erstellt werden. Die ursprüngliche Anzeige wird gemäß der ursprünglichen Preisgestaltung abgerechnet.
 
-## Eine Rechnung bezahlen
+## Rechnung bezahlen
 
 Standardmäßig werden Rechnungen für verwaltete Kampagnen am Ende des monatlichen Abrechnungszyklus für den Kalendermonat verschickt. Die Zahlung ist innerhalb von 30 Tagen nach Erhalt der Rechnung fällig. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign
 
