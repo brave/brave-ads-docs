@@ -8,7 +8,7 @@ sidebar_position: 4
 
 1. Melde dich unter https://ads.brave.com an
 
-2. Erstellen Sie einen API-Schlüssel
+2. Erstelle einen API-Schlüssel
    1. Profil -> API-Schlüssel erstellen
    2. Notieren Sie den erzeugten API-Schlüssel, da Sie ihn später nicht mehr abrufen können
 
@@ -26,7 +26,7 @@ GET https://ads-serve.brave.com/v1/api/campaigns
 
 - `from` (Datum in UTC) - Kampagnen abrufen, die am oder nach dem angegebenen Datum geendet haben. Format: `YYYY-MM-DDTHH:MM:SS`
 
-### Kampagnenberichte
+### Kampagnen-Reportings
 
 Ruft Berichterstattungsdetails zu einer spezifischen Kampagne ab, die Sie durchgeführt haben, wobei die ID aus dem Endpunkt Kampagnendetails abgerufen werden kann.
 
@@ -44,16 +44,16 @@ Day/Hour,Advertiser Name,Campaign Name,Campaign ID,Creative Set ID,Creative Set 
 - `to` (Datum in UTC) - Daten bis zum angegebenen Datum abrufen. Standardmäßig auf Kampagnenenddatum gesetzt, wenn nicht angegeben. Format: `YYYY-MM-DD`
 - `country` - Fügen Sie dem Bericht eine Länderspalte hinzu. Standardmäßig auf false gesetzt. Format: `true`
 
-#### v1-Berichterstattung
+#### v1-Reporting
 
 Gibt alle oben angegebenen Felder sowie eine zusätzliche `Segment`-Spalte zwischen `OS` und `Spend` zurück <br />
-z.B.: `...Conversion Counts,OS,Segment,Spend,View-through Conversion Counts...`
+z. B.: `...Conversion Counts,OS,Segment,Spend,View-through Conversion Counts...`
 
 ```
 GET https://ads-serve.brave.com/v1/report/campaign/csv/:campaignId
 ```
 
-#### v2-Berichterstattung
+#### v2-Reporting
 
 Gibt alle oben angegebenen Felder zurück
 
