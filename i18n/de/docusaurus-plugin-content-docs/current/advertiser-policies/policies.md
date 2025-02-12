@@ -51,4 +51,4 @@ Werbetreibende dürfen keine Weiterleitungslinks verwenden, es sei denn, sie bef
 
 ## Markensicherheit
 
-Alle Brave Ads sind markensicher, da sie direkt im Browser oder auf Suchmaschinenebene angezeigt werden und nicht vor, zwischen oder nach Inhalten auf expliziten oder potenziell unsicheren Drittanbieter-Websites.
+Alle Brave Ads sind markensicher, da sie direkt im Browser oder auf Suchmaschinenebene ausgeliefert werden und nicht vor, zwischen oder nach Inhalten auf expliziten oder potenziell unsicheren Drittanbieter-Websites.
