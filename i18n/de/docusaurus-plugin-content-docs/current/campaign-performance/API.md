@@ -10,13 +10,13 @@ sidebar_position: 4
 
 2. Erstelle einen API-Schlüssel
    1. Profil -> API-Schlüssel erstellen
-   2. Notieren Sie den erzeugten API-Schlüssel, da Sie ihn später nicht mehr abrufen können
+   2. Notiere dir den erzeugten API-Schlüssel, da du diesen später nicht mehr abrufen kannst
 
 ## Endpoints
 
 ### Kampagnendetails
 
-Ruft alle von Ihnen durchgeführten Kampagnen sowie die zugehörigen Anzeigengruppen und Anzeigen ab, die mit ihnen verknüpft sind, nach ID.
+Ruft alle von dir durchgeführten Kampagnen sowie die zugehörigen Anzeigengruppen und Anzeigen ab, die mit ihnen verknüpft sind, nach ID.
 
 ```
 GET https://ads-serve.brave.com/v1/api/campaigns
