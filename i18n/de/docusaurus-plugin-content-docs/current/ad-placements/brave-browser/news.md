@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Newsfeed-Anzeigen
 
-Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite des Brave-Browsers erscheint. Werbetreibende können bezahlte native Displayplatzierungen einfügen, die den Bildern und Snippets im Newsfeed ähneln.
+Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite des Brave Browsers erscheint. Werbetreibende können bezahlte native Displayplatzierungen einfügen, die den Bildern und Snippets im Newsfeed ähneln.
 
 ![Newsfeed.png](/img/Newsfeed.png)
 
-### Anforderungen für Anzeigen
+### Anforderungen für Ads
 
 - Bild
   - 900w x 750h (JPEG oder PNG)
@@ -19,7 +19,7 @@ Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite
 - Click-through-URL
   - Keine Weiterleitungen/URL-Kürzungen
 
-### Verfügbare Zielgruppenansprache
+### Verfügbares Targeting
 
 - Nach Gerät
   - MacOS, Windows, Linux, Android, iOS
@@ -32,13 +32,13 @@ Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite
 - CPM
 - CPC
 
-### Bewährte Verfahren
+### Best Practices
 
-- Verwenden Sie mehrere Versionen des kreativen Inhalts für Tests
-- Verwenden Sie ansprechende Bilder wie Produkte oder demonstrative Illustrationen
-- Verwenden Sie eine spezifische Handlungsaufforderung: _Mehr erfahren, Jetzt testen, Jetzt kaufen, Anmelden, etc._
-- Begrenzen Sie Text in Bildern, etwas Text ist in Ordnung
-- Keine sensationsheischenden Überschriften
+- Verwende mehrere kreative Anzeigen-Versionen für Tests
+- Verwende ansprechende Bilder wie Produkte oder demonstrative Illustrationen
+- Verwende eine spezifische Handlungsaufforderung: _Mehr erfahren, Jetzt testen, Jetzt kaufen, Anmelden, etc._
+- Begrenze Text in Bildern, ein wenig Text ist in Ordnung
+- Keine reißerischen Überschriften
 - Keine Aussagen über hohe Renditen auf Investitionen (APY/APR)
 - Keine Großbuchstabenschreibung
 - Keine obszönen, gewalttätigen oder illegalen Inhalte oder Substanzen
