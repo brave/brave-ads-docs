@@ -12,7 +12,7 @@ sidebar_position: 4
    1. Profil -> API-Schlüssel erstellen
    2. Notiere dir den erzeugten API-Schlüssel, da du diesen später nicht mehr abrufen kannst
 
-## Endpoints
+## Endpunkte
 
 ### Kampagnendetails
 
@@ -28,9 +28,9 @@ GET https://ads-serve.brave.com/v1/api/campaigns
 
 ### Kampagnen-Reportings
 
-Ruft Berichterstattungsdetails zu einer spezifischen Kampagne ab, die Sie durchgeführt haben, wobei die ID aus dem Endpunkt Kampagnendetails abgerufen werden kann.
+Ruft Reporting-Details zu einer spezifischen Kampagne ab, die du durchgeführt hast, wobei die ID aus dem Endpunkt Kampagnendetails abgerufen werden kann.
 
-#### Gemeinsame Berichterstattungsfelder
+#### Gemeinsame Reporting-Felder
 
 ```
 Day/Hour,Advertiser Name,Campaign Name,Campaign ID,Creative Set ID,Creative Set Name,Creative Instance ID,Creative Title,Creative Body,Creative URL,View Counts,Click Counts,Dismissed Counts,Landed Counts,Conversion Counts,OS,Spend,View-through Conversion Counts,Click-through Conversion Counts,Attribution Window (days)
@@ -38,11 +38,11 @@ Day/Hour,Advertiser Name,Campaign Name,Campaign ID,Creative Set ID,Creative Set 
 
 **Hinweis**: `v1` Gibt eine zusätzliche `Segment`-Spalte zwischen `OS` und `Spend` zurück
 
-#### Gemeinsame optionale Parameter
+#### Geteilte optionale Parameter
 
 - `from` (Datum in UTC) - Daten abrufen, die am oder nach dem angegebenen Datum liegen. Standardmäßig auf Kampagnenstartdatum gesetzt, wenn nicht angegeben. Format: `YYYY-MM-DD`
 - `to` (Datum in UTC) - Daten bis zum angegebenen Datum abrufen. Standardmäßig auf Kampagnenenddatum gesetzt, wenn nicht angegeben. Format: `YYYY-MM-DD`
-- `country` - Fügen Sie dem Bericht eine Länderspalte hinzu. Standardmäßig auf false gesetzt. Format: `true`
+- `country` - Füge dem Reporting eine Länderspalte hinzu. Standardmäßig auf false gesetzt. Format: `true`
 
 #### v1-Reporting
 
@@ -73,7 +73,7 @@ curl --request GET \
 
 ## Beispielantworten
 
-### Kampagnenantwort
+### Kampagnen-Antwort
 
 ```json
 {
@@ -103,7 +103,7 @@ curl --request GET \
 }
 ```
 
-### v1-Berichterstattungsantwort
+### v1-Reporting-Antwort
 
 ```
 Tag/Stunde,Werbetreibender ID,Kampagnen-ID,Kreativset-ID,Kreativ-Instanz-ID,Kreativtitel,Kreativkörper,Kreative URL,Impressionsanzahl,Klickanzahl,Abgelehnte Anzahl,Seitenbesuchsanzahl,Konvertierungsanzahl,OS,Ausgaben,Conversion-Anzahl nach Ansicht,Click-through Conversion-Anzahl,Attributionsfenster (Tage)
@@ -114,7 +114,7 @@ Tag/Stunde,Werbetreibender ID,Kampagnen-ID,Kreativset-ID,Kreativ-Instanz-ID,Krea
 2024-01-31T23:00:00,ad5017b3,cmp932f4b3,crs819594b,cri4151a72d,Beispiel Kreativ 2,Test kreativ,https://example.com,1,0,0,0,0,android,0.00800000,0,0,30
 ```
 
-### v2 Berichtsantwort
+### v2-Reporting-Antwort
 
 ```
 Tag/Stunde,Werbetreibender ID,Kampagnen-ID,Kreativset-ID,Kreativ-Instanz-ID,Kreativtitel,Kreativkörper,Kreative URL,Impressionsanzahl,Klickanzahl,Abgelehnte Anzahl,Seitenbesuchsanzahl,Konvertierungsanzahl,OS,Segment,Ausgaben,Conversion-Anzahl nach Ansicht,Click-through Conversion-Anzahl,Attributionsfenster (Tage)
