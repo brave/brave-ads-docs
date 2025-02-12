@@ -33,4 +33,4 @@ Nach Ländern (einzeln, mehrere Länder oder vollständige globale Übernahme)
 ### Best Practices
 
 - Überprüfe unser [Best Practices-Dokument](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
-- Verwenden Sie Bravess [Online-Mockup-Tool](https://mockup.ads.brave.com), um Bilder zu testen
+- Verwende  Braves [Online-Mockup-Tool](https://mockup.ads.brave.com), um Bilder zu testen
