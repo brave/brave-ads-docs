@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Richtlinie für Kryptowährungen
 
-Diese Richtlinien sind nicht endgültig und können sich ändern. Diese Richtlinien und Kriterien sollen potenzielle Blockchain-Werbetreibende informieren, aber Brave behält sich das Recht vor, Werbetreibende aus irgendeinem Grund abzulehnen oder zu disqualifizieren. Bitte beachten Sie, dass aufgrund der neuen und sich entwickelnden Natur des Blockchain-Sektors und seiner Regulierung Werbetreibende, die folgende Richtlinien und Kriterien erfüllen, während der endgültigen Überprüfung oder nach dem Start ihrer Kampagnen abgelehnt werden können.
+Diese Richtlinien sind nicht endgültig und können sich ändern. Diese Richtlinien und Kriterien sollen potenzielle Blockchain-Werbetreibende informieren, aber Brave behält sich das Recht vor, Werbetreibende aus irgendeinem Grund abzulehnen oder zu disqualifizieren. Bitte beachte, dass aufgrund der neuen und dynamischen Entwicklung des Blockchain-Sektors und der Regulierung Werbetreibende, die möglicherweise die folgenden Richtlinien und Kriterien erfüllen, während der abschließenden Überprüfung oder nach dem Start deiner Kampagnen abgelehnt werden können.
 
 Für die Zwecke dieser Richtlinien umfasst „Blockchain-Produkte, -Projekte und zugehörige Dienstleistungen“ unter anderem:
 
@@ -50,26 +50,26 @@ Um die hohen Standards unserer Plattform aufrechtzuerhalten, müssen potenzielle
 
 Eine Suche nach dem Projekt sollte keine kontroversen Berichte oder Berichte von Benutzern oder Kunden über verdächtiges Verhalten des Unternehmens liefern.
 
-## Kreativrichtlinien
+## Richtlinien für Creatives
 
-### Kreative (Werbe-) Texte:
+### Kreative (Anzeigen-) Texte:
 
 - Sollten sich auf den Wertversprechung und Anwendungsfall des Projekts, Tokens oder Dienstes konzentrieren
 - Sollten keine spekulative Sprache, keine Verweise auf den Token als Investition oder Aussagen über steigende Werte oder garantierte Renditen enthalten
 - Dürfen keine spekulative Sprache hinsichtlich Wert oder Preis des Tokens oder der Kryptowährung enthalten
 - Garantierte feste APY- oder APR-Raten dürfen nicht beworben werden
 - Die Verwendung von „Bonus“, „bis zu“ oder ähnlichen Texten ist normalerweise nach Überprüfung zulässig
-  - Zum Beispiel: „Bis zu 5 % Staking-Belohnungen verdienen.“
+  - Zum Beispiel: „Verdiene bis zu 5% an Staking-Belohnungen.“
 
 ### Click-through URLs:
 
-- Zielseiten müssen Benutzer auf die Hauptdomain oder eine verwandte Subdomain des registrierten Werbetreibenden leiten
+- Landing Pages müssen User auf die Hauptdomain oder eine verwandte Subdomain des registrierten Werbetreibenden leiten
 - URLs sollten keine Drittanbieter-Weiterleitungen enthalten, die Benutzer zu Börsen, Liquiditätspools oder sekundären Websites navigieren
 
 ## Pay-to-play-Spiele, Casino-Tombolas, Lotterien
 
 - Jeder Werbetreibende, der eine Zahlung oder Einzahlung verlangt, sei es in Fiat oder Krypto, um an einem Wettbewerb teilzunehmen, wird abgelehnt
-  - Beispiel: Ein Benutzer zahlt ETH oder andere Krypto/Fiat ein, um die Chance zu haben, ein NFT zu gewinnen
+  - Beispiel: Ein Uyer zahlt ETH oder andere Krypto/Fiat ein, um die Chance zu haben, ein NFT zu gewinnen
 - Play to Earn und Quests mit Engagement-Belohnungen sind erlaubt
-  - Beispiel: Benutzer geben ihre E-Mail-Adresse an, um die Chance zu haben, ein NFT zu gewinnen
+  - Beispiel: User geben ihre E-Mail-Adresse an, um die Chance zu haben, ein NFT zu gewinnen
 - Es ist akzeptabel, dass sich ein Werbetreibender auf eine kostenlose Werbeaktion konzentriert, während es andere Teile der Website gibt, die Pay-to-Play-Elemente enthalten
