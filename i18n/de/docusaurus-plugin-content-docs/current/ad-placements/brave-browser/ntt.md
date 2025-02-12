@@ -5,7 +5,7 @@ sidebar_position: 1
 # Neue Tab-Übernahme
 
 **Nur über Managed Service-Käufe verfügbar** <br /><br />
-Die neue Tab-Übernahme ist der wirkungsvollste Anzeigenblock von Brave und bietet eine fast bildschirmfüllende Übernahme der neuen Tab-Seite auf Brave. Anzeigen werden im ersten neuen Tab beim Starten des Browsers und danach in jedem dritten neuen Tab angezeigt. Zwischenzeitlich sehen die Benutzer eine Rotation von Landschaftsfotografien aus der Brave Community.
+Die neue Tab-Übernahme ist der wirkungsvollste Anzeigenblock von Brave und bietet eine fast bildschirmfüllende Übernahme der neuen Tab-Seite auf Brave. Anzeigen werden im ersten neuen Tab beim Starten des Browsers und danach in jedem dritten neuen Tab angezeigt. Zwischenzeitlich sehen die User eine Rotation von Landschaftsfotografien aus der Brave Community.
 
 ![NTT.png](/img/NTT.png)
 
@@ -14,12 +14,12 @@ Die neue Tab-Übernahme ist der wirkungsvollste Anzeigenblock von Brave und biet
 - Zwei bis drei Hintergrundbilder
   - 2560 (Breite) x 1440 (Höhe), nur JPEG-Format
   - Deutlich unterschiedliche visuelle Darstellungen, um sicherzustellen, dass neue Tabs nicht eintönig werden
-  - Platzieren Sie den Hauptfokus des Hintergrunds bei ca. x:935 y:680, um eine Behinderung durch neue Tab-Widgets (Uhr, Karten, Favoriten usw.) zu vermeiden
+  - Plaziere den Hauptfokuspunkt des Hintergrunds bei x:935 y:680, um eine Beeinträchtigung durch neue Tab-Widgets (Uhr, Karten, Favoriten usw.) zu verhindern
   - Hintergrundbilder werden für Mobilgeräte basierend auf dem oben angegebenen Hauptfokusbereich beschnitten
-- Logo-Leinwand
+- Logo-Fläche
   - 512 x 512, nur transparentes PNG
   - Wird für alle Hintergrundbilder verwendet
-  - Besteht aus einem Markenlogo, Werbetext und optionalem CTA (Illustration)
+  - Besteht aus einem Markenlogo, Anzeigentext und optionalem CTA (Illustration)
   - Weiße Texte/Logos werden bevorzugt, aber Farben werden nach Genehmigung akzeptiert
   - Es sollte mindestens eine Schriftgröße von 38pt verwendet werden, um die Lesbarkeit auf kleineren Geräten sicherzustellen
 - Click-Through URL
