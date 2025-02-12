@@ -11,7 +11,7 @@ Brave News ist ein privater, anpassbarer Newsfeed, der auf jeder neuen Tab-Seite
 ### Anforderungen für Ads
 
 - Bild
-  - 900w x 750h (JPEG oder PNG)
+  - 900 × 750 Pixel (JPEG oder PNG)
 - Anzeigentext
   - Titel: maximal 90 Zeichen
   - Handlungsaufforderung (CTA): maximal 15 Zeichen
