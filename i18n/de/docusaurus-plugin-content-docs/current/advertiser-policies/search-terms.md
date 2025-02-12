@@ -6,9 +6,9 @@ sidebar_position: 4
 
 _Zuletzt aktualisiert: 11. März 2024_
 
-Diese Brave Search Werbetreibende Nutzungsbedingungen ("_Bedingungen_") gelten für Ihren Zugang zu und die Nutzung von Diensten (wie in Abschnitt 1 unten definiert), die von Brave US LLC und allen ihren verbundenen Unternehmen bereitgestellt werden, einschließlich, aber nicht beschränkt auf direkte und indirekte Muttergesellschaften, Tochtergesellschaften und sonstige verbundene oder im gemeinsamen Besitz stehende Unternehmen.  ("_Brave_" oder "_wir_").Sie erklären sich auch damit einverstanden, dass diese Bedingungen für alle Ansprüche gelten, die gegen einen Mitarbeiter, Direktor, Offizier oder Vertreter von Brave geltend gemacht werden. **Durch den Zugriff auf oder die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu. Wenn Sie mit diesen Bedingungen, einschließlich der obligatorischen Schiedsklausel und des Verzichts auf Sammelklagen in Abschnitt 13, nicht einverstanden sind, greifen Sie nicht auf unsere Dienste zu und nutzen Sie diese nicht.**
+Diese Brave Search Werbetreibende Nutzungsbedingungen ("_Bedingungen_") gelten für Ihren Zugang zu und die Nutzung von Diensten (wie in Abschnitt 1 unten definiert), die von Brave US LLC und allen ihren verbundenen Unternehmen bereitgestellt werden, einschließlich, aber nicht beschränkt auf direkte und indirekte Muttergesellschaften, Tochtergesellschaften und sonstige verbundene oder im gemeinsamen Besitz stehende Unternehmen.  ("_Brave_" oder "_wir_").Du erklärst dich auch damit einverstanden, dass diese Bedingungen für alle Ansprüche gelten, die gegen einen Mitarbeitenden, Direktor, Offizier oder Vertreter von Brave geltend gemacht werden. **Durch den Zugriff auf oder die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu. Wenn Sie mit diesen Bedingungen, einschließlich der obligatorischen Schiedsklausel und des Verzichts auf Sammelklagen in Abschnitt 13, nicht einverstanden sind, greifen Sie nicht auf unsere Dienste zu und nutzen Sie diese nicht.**
 
-Informationen darüber, wie wir Ihre Daten erfassen und verwenden, finden Sie in unserer [Werbetreibende Datenschutzrichtlinie](https://brave.com/privacy/advertiser/).
+Informationen darüber, wie wir deine Daten erfassen und verwenden, findest du in unserer [Werbetreibende-Datenschutzrichtlinie](https://brave.com/privacy/advertiser/).
 
 Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter advertisers@brave.com.
 
@@ -16,27 +16,27 @@ Du und Brave stimmen dem Folgenden zu:
 
 ## 1. Überblick und Umfang
 
-Brave betreibt eine Plattform (die _"Plattform"_) zur Bereitstellung von Anzeigen für Nutzer der Brave Search, einer proprietären Suchmaschine, die von Brave Software, Inc. betrieben wird. Diese Bedingungen regeln die Dienstleistungen (die _"Dienste"_), die Brave Werbetreibenden, die ein Werbetreibendenkonto bei Brave (_"Brave Werbetreibende"_) einrichten, zur Verfügung stellt, einschließlich der Möglichkeit, Anzeigen zu schalten und damit verbundene Dienstleistungen über die Plattform zu erhalten.
+Brave betreibt eine Plattform (die _"Plattform"_) zur Bereitstellung von Anzeigen für User der Brave Search, einer proprietären Suchmaschine, die von Brave Software, Inc. betrieben wird. Diese Bedingungen regeln die Dienstleistungen (die _"Dienste"_), die Brave Werbetreibenden, die ein Werbetreibendenkonto bei Brave (_"Brave Werbetreibende"_) einrichten, zur Verfügung stellt, einschließlich der Möglichkeit, Anzeigen zu schalten und damit verbundene Dienstleistungen über die Plattform zu erhalten.
 
 ## 2. Berechtigung
 
-Um Zugang zu unseren Diensten zu erhalten und diese zu nutzen, müssen Sie
+Um Zugang zu unseren Diensten zu erhalten und diese zu nutzen, musst du
 
 - mindestens 18 Jahre alt sein und die Fähigkeit besitzen, eine rechtsverbindliche Vereinbarung einzugehen,
 - unsere Dienste nur zu geschäftlichen Zwecken nutzen, und
-- ein Werbetreibenden Konto gemäß Abschnitt 3 einrichten.
+- ein Werbetreibenden-Konto gemäß Abschnitt 3 einrichten.
 
-Sie dürfen nicht auf unsere Dienste zugreifen oder diese nutzen, wenn
+Du darfst nicht auf unsere Dienste zugreifen oder diese nutzen, wenn
 
-- es Ihnen gesetzlich untersagt ist, die Dienste zu nutzen, oder wenn Sie die erforderlichen Lizenzen oder andere behördliche Genehmigungen für die Nutzung der Dienste nicht besitzen,
-- Sie oder Ihr Land auf einer staatlichen Liste von verbotenen oder eingeschränkten Parteien oder Ländern stehen, oder
+- es dir gesetzlich untersagt ist, die Dienste zu nutzen, oder wenn du die erforderlichen Lizenzen oder andere behördliche Genehmigungen für die Nutzung der Dienste nicht besitzt,
+- Du oder dein Land auf einer staatlichen Liste von verbotenen oder eingeschränkten Parteien oder Ländern stehen oder
 - die Nutzung der Dienste durch Sie eine andere Vereinbarung verletzt, an die Sie gebunden sind.
 
 Wenn Sie im Namen einer anderen Person oder eines anderen Unternehmens auf unsere Dienste zugreifen oder diese nutzen: Verweise auf "_Sie_" in diesen Bedingungen beziehen sich gemeinsam auf Sie und diese Person oder dieses Unternehmen, und Sie erklären, dass Sie befugt sind, diese Bedingungen im Namen dieser Person oder dieses Unternehmens zu akzeptieren und dass die Person oder das Unternehmen damit einverstanden ist, uns gegenüber verantwortlich zu sein, wenn Sie oder die andere Person oder das andere Unternehmen diese Bedingungen verletzt.
 
 ## 3. Werbetreibenden Konto
 
-Sie können die Einrichtung eines Werbetreibenden Kontos bei uns beantragen, indem Sie sich unter https://ads.brave.com/search anmelden. Sie müssen uns Informationen zur Einrichtung eines Werbetreibenden Kontos bereitstellen ("_Kontoinformationen_"), einschließlich Ihres Namens und Ihrer E-Mail-Adresse. Wir können nach eigenem Ermessen zusätzliche Kontoinformationen anfordern. Die von Ihnen bereitgestellten Kontoinformationen müssen wahr und genau sein. Sie müssen uns unverzüglich informieren, wenn sich Ihre Kontoinformationen ändern.
+Du kannst die Einrichtung eines Werbetreibenden-Kontos bei uns beantragen, indem du dich unter https://ads.brave.com/search anmeldest. Sie müssen uns Informationen zur Einrichtung eines Werbetreibenden Kontos bereitstellen ("_Kontoinformationen_"), einschließlich Ihres Namens und Ihrer E-Mail-Adresse. Wir können nach eigenem Ermessen zusätzliche Kontoinformationen anfordern. Die von Ihnen bereitgestellten Kontoinformationen müssen wahr und genau sein. Sie müssen uns unverzüglich informieren, wenn sich Ihre Kontoinformationen ändern.
 Wenn Sie Ihr Werbetreibenden Konto einrichten, können wir Ihnen Informationen im Zusammenhang mit den Diensten bereitstellen, die vertraulich sind, und Sie stimmen zu, solche Informationen vertraulich zu behandeln. Sie haben Vertraulichkeitspflichten in Bezug auf diese Informationen und diese Verpflichtungen sind in Abschnitt 7 beschrieben.
 Sie müssen die Sicherheit Ihres Werbetreibenden Kontos gewährleisten und uns umgehend benachrichtigen, wenn Sie entdecken oder vermuten, dass jemand ohne Ihre Erlaubnis auf Ihr Werbetreibenden Konto zugegriffen hat. Wenn Sie anderen die Nutzung Ihres Werbetreibenden Kontos gestatten, sind Sie für die Aktivitäten dieser Personen verantwortlich, die im Zusammenhang mit Ihrem Werbetreibenden Konto auftreten. Sie sind dafür verantwortlich, genaue Kontaktinformationen für Ihr Werbetreibenden Konto bereitzustellen und zu pflegen.
 Wenn Sie wünschen, Ihr Werbetreibenden Konto zu löschen oder zu deaktivieren, können Sie dies gemäß Abschnitt 16 tun, beachten Sie jedoch, dass wir bestimmte Informationen gemäß den gesetzlichen Vorschriften, Vorschriften oder Gerichtsbeschlüssen aufbewahren dürfen.
@@ -182,8 +182,8 @@ Wir können diese Bedingungen von Zeit zu Zeit ändern. Wenn wir Änderungen vor
 
 ### 16. Kündigung und Aussetzung
 
-Wir behalten uns das Recht vor, ohne vorherige Ankündigung und nach eigenem Ermessen Ihr Recht auf Zugang oder Nutzung der Dienste (einschließlich der Kündigung oder Aussetzung Ihres Werbekontos) mit sofortiger Wirkung zu beenden oder auszusetzen. Wir sind nicht verantwortlich für Verluste oder Schäden, die im Zusammenhang mit Ihrer Unfähigkeit, auf die Dienste zuzugreifen oder diese zu nutzen, entstehen.
-Sie können Ihr Werbekonto jederzeit kündigen, indem Sie uns eine Mitteilung an advertisers@brave.com senden. Wenn Ihr Konto aus irgendeinem Grund gekündigt wird, müssen Sie die Vertraulichen Informationen weiterhin, wie in Abschnitt 7 beschrieben, schützen und bleiben für Zahlungen im Zusammenhang mit Ihrer vorherigen Nutzung der Dienste, wie in Abschnitt 5 beschrieben, verantwortlich.
+Wir behalten uns das Recht vor, ohne vorherige Ankündigung und nach eigenem Ermessen dein Recht auf Zugang oder Nutzung der Dienste (einschließlich der Kündigung oder Aussetzung deines Werbekontos) mit sofortiger Wirkung zu beenden oder auszusetzen. Wir sind nicht verantwortlich für Verluste oder Schäden, die im Zusammenhang mit Ihrer Unfähigkeit, auf die Dienste zuzugreifen oder diese zu nutzen, entstehen.
+Du kannst dein Werbekonto jederzeit kündigen, indem du uns eine Mitteilung an advertisers@brave.com sendest. Wenn Ihr Konto aus irgendeinem Grund gekündigt wird, müssen Sie die Vertraulichen Informationen weiterhin, wie in Abschnitt 7 beschrieben, schützen und bleiben für Zahlungen im Zusammenhang mit Ihrer vorherigen Nutzung der Dienste, wie in Abschnitt 5 beschrieben, verantwortlich.
 
 ### 17. Trennbarkeit
 
