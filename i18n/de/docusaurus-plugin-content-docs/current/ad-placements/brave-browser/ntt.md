@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # Neue Tab-Übernahme
 
-**Available only via Managed Service buys** <br /><br />
-The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near full-screen takeover of the new tab page on Brave. Anzeigen werden im ersten neuen Tab beim Starten des Browsers und danach in jedem dritten neuen Tab angezeigt. Zwischenzeitlich sehen die Benutzer eine Rotation von Landschaftsfotografien aus der Brave Community.
+**Nur über Managed Service-Käufe verfügbar** <br /><br />
+Die neue Tab-Übernahme ist der wirkungsvollste Anzeigenblock von Brave und bietet eine fast bildschirmfüllende Übernahme der neuen Tab-Seite auf Brave. Anzeigen werden im ersten neuen Tab beim Starten des Browsers und danach in jedem dritten neuen Tab angezeigt. Zwischenzeitlich sehen die Benutzer eine Rotation von Landschaftsfotografien aus der Brave Community.
 
 ![NTT.png](/img/NTT.png)
 
@@ -23,14 +23,14 @@ The New Tab Takeover is Brave’s most high-impact ad unit, and offers a near fu
   - Weiße Texte/Logos werden bevorzugt, aber Farben werden nach Genehmigung akzeptiert
   - Es sollte mindestens eine Schriftgröße von 38pt verwendet werden, um die Lesbarkeit auf kleineren Geräten sicherzustellen
 - Click-Through URL
-  - Keine Redirects/URL-Verkürzung
+  - Keine Redirects/URL-Kürzung
   - Eine URL wird für alle Hintergrundbilder verwendet
 
-### Verfügbare Zielgruppenansprache
+### Verfügbares Targeting
 
 Nach Ländern (einzeln, mehrere Länder oder vollständige globale Übernahme)
 
 ### Best Practices
 
-- Überprüfen Sie unser [Best Practices-Dokument](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
+- Überprüfe unser [Best Practices-Dokument](https://drive.google.com/file/d/1-3YtHvFeqLbWc243dlffy4TIFUkx4w7i/view?usp=drive_link)
 - Verwenden Sie Bravess [Online-Mockup-Tool](https://mockup.ads.brave.com), um Bilder zu testen
