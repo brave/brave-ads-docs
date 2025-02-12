@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## Erste Schritte
 
-1. Melden Sie sich unter https://ads.brave.com an
+1. Melde dich unter https://ads.brave.com an
 
 2. Erstellen Sie einen API-Schlüssel
    1. Profil -> API-Schlüssel erstellen
