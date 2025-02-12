@@ -28,11 +28,11 @@ Kampagnen dürfen derzeit keine Produkte und Dienstleistungen für die folgenden
 
 Hinweis: Obwohl derzeit nicht verfügbar, könnte die Werbung für eingeschränkte Kategorien in Zukunft möglich werden.
 
-## Anforderungen an Webseiten und Seiten
+## Anforderungen an Websites und Seiten
 
 - Die Website des Werbetreibenden muss zugänglich und voll funktionsfähig sein.
 - Die Website des Werbetreibenden muss Nutzungsbedingungen und/oder eine Datenschutzerklärung haben.
-- Advertiser website must be in the same language as both the ads and the primary language(s) of the country or region(s) targeted by ad campaigns, and/or have options to translate content upon arrival.
+- Die Website des Werbetreibenden muss in der gleichen Sprache wie die Anzeigen und die Hauptsprache(n) des Landes oder der Region(en), die durch die Werbekampagnen angesprochen werden, verfasst sein und/oder Optionen zur Übersetzung des Inhalts beim Aufrufen bieten.
 
 ## Redirect-Links
 
