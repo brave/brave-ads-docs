@@ -15,7 +15,7 @@ Für die Zwecke dieser Richtlinien umfasst „Blockchain-Produkte, -Projekte und
 - Blockchain-Netzwerke
 - DApps
 - Non-Fungible Tokens (NFTs)
-- Web3-Gemeinschaften
+- Web3-Communities
 - Zugehörige Produkte und Zubehör (Hardware-Wallets)
 - Zugehörige Inhalte, Informationsdienste und Beratungen
 
@@ -30,7 +30,7 @@ Um die hohen Standards unserer Plattform aufrechtzuerhalten, müssen potenzielle
 - Nutzungsbedingungen
 - Datenschutzrichtlinie
 
-### Die folgenden Arten von Geschäftsaussagen sind nicht erlaubt:
+### Die folgenden Aussagen sind nicht erlaubt:
 
 - Unrealistische Versprechen
 - Vorschläge oder implizierte garantierte prozentuale Renditen auf Investitionen
