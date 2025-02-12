@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Weiter",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements": {
+    "message": "Anzeigenplatzierungen",
+    "description": "The label for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ad placements.link.generated-index.title": {
+    "message": "Brave Anzeigenplatzierungen",
+    "description": "The generated-index page title for category Ad placements in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search": {
+    "message": "Brave Search",
+    "description": "The label for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Search.link.generated-index.title": {
+    "message": "Brave Search Platzierungen",
+    "description": "The generated-index page title for category Brave Search in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser": {
+    "message": "Brave-Browser",
+    "description": "The label for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Brave Browser.link.generated-index.title": {
+    "message": "Brave Browser Platzierungen",
+    "description": "The generated-index page title for category Brave Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting started": {
+    "message": "Erste Schritte",
+    "description": "The label for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Campaign performance": {
+    "message": "Kampagnenleistung",
+    "description": "The label for category Campaign performance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Account management": {
+    "message": "Kontoverwaltung",
+    "description": "The label for category Account management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advertiser policies": {
+    "message": "Werberichtlinien",
+    "description": "The label for category Advertiser policies in sidebar tutorialSidebar"
+  }
+}

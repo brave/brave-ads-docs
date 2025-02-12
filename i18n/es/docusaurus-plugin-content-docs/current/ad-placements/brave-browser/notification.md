@@ -31,7 +31,6 @@ Esta unidad es un complemento ideal para los anunciantes que buscan agregar comp
 
 - CPM
 - CPC
-- CPSV (Por visita al sitio)
 
 ### Prácticas recomendadas
 
