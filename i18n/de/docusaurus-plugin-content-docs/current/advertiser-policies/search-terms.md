@@ -159,18 +159,18 @@ Das Schiedsverfahren wird die Entdeckung oder den Austausch von nicht privilegie
 
 ### 7. Regeln von JAMS
 
-The JAMS Rules and additional information about JAMS are available on the JAMS website. Durch die Zustimmung zu diesen Bedingungen stimmen Sie entweder
+Die JAMS-Regeln und zusätzliche Informationen über JAMS sind auf der JAMS-Website verfügbar. Durch die Zustimmung zu diesen Bedingungen stimmst du entweder
 
-- (i) zu und bestätigen, dass Sie die JAMS-Regeln gelesen und verstanden haben, oder
-- (ii) verzichten auf Ihre Gelegenheit, die JAMS-Regeln zu lesen, und auf jegliche Ansprüche, dass die JAMS-Regeln aus irgendeinem Grund unfair sind oder nicht angewendet werden sollen.
+- (i) zu und bestätigen, dass du die JAMS-Regeln gelesen und verstanden hast oder
+- (ii) verzichtest auf deine Gelegenheit, die JAMS-Regeln zu lesen, und auf jegliche Ansprüche, dass die JAMS-Regeln aus irgendeinem Grund unfair sind oder nicht angewendet werden sollen.
 
 ### 8. Trennbarkeit der Streitbeilegungs- und Schiedsbestimmungen
 
 Wenn ein Begriff, eine Klausel oder eine Bestimmung dieses Abschnitts 13 ungültig oder undurchsetzbar ist, wird dies im erforderlichen Mindestmaß gehalten, und alle anderen Begriffe, Klauseln und Bestimmungen dieses Abschnitts 13 bleiben gültig und durchsetzbar.
 
-### 9. Abmeldung
+### 9. Widerspruch
 
-You have the right to opt out of binding arbitration within 30 days of the date you first accepted the Terms by notifying us via email at advertisers@brave.com. Um wirksam zu sein, muss die Abmeldebenachrichtigung Ihren vollständigen Namen und Ihre Adresse enthalten und klar angeben, dass Sie sich von der verbindlichen Schiedsgerichtsbarkeit abmelden möchten. Durch die Abmeldung von der verbindlichen Schiedsgerichtsbarkeit erklären Sie sich damit einverstanden, Streitigkeiten gemäß Abschnitt 13 beizulegen.
+Du hast das Recht, innerhalb von 30 Tagen nach der ersten Annahme der Bedingungen der bindenden Schiedsgerichtsbarkeit zu widersprechen, indem du uns per E-Mail an advertisers@brave.com benachrichtigst. Um wirksam zu sein, muss die Abmeldebenachrichtigung deinen vollständigen Namen und deine Adresse enthalten und klar angeben, dass du dich von der verbindlichen Schiedsgerichtsbarkeit abmelden möchtest. Durch die Abmeldung von der verbindlichen Schiedsgerichtsbarkeit erklärst du dich damit einverstanden, Streitigkeiten gemäß Abschnitt 13 beizulegen.
 
 ### 14. Anwendbares Recht und Gerichtsstand
 
@@ -178,17 +178,17 @@ Diese Bedingungen unterliegen den Gesetzen des Staates Kalifornien und werden in
 
 ### 15. Änderungen dieser Bedingungen
 
-Wir können diese Bedingungen von Zeit zu Zeit ändern. Wenn wir Änderungen vornehmen, werden wir das oben angegebene Datum des _"Zuletzt aktualisiert"_ anpassen. Sofern wir Sie nicht anders benachrichtigen, werden die geänderten Bedingungen sofort wirksam und Ihre weitere Nutzung oder der weitere Zugriff auf die Dienste bestätigt Ihre Zustimmung zu den Änderungen. Wenn Sie den geänderten Bedingungen nicht zustimmen, müssen Sie die Nutzung und den Zugriff auf die Dienste einstellen.
+Wir können diese Bedingungen von Zeit zu Zeit ändern. Wenn wir Änderungen vornehmen, werden wir das oben angegebene Datum des _"Zuletzt aktualisiert"_ anpassen. Sofern wir dich nicht anders benachrichtigen, werden die geänderten Bedingungen sofort wirksam und deine weitere Nutzung oder der weitere Zugriff auf die Dienste bestätigt deine Zustimmung zu den Änderungen. Wenn du den geänderten Bedingungen nicht zustimmst, musst du die Nutzung und den Zugriff auf die Dienste einstellen.
 
 ### 16. Kündigung und Aussetzung
 
-Wir behalten uns das Recht vor, ohne vorherige Ankündigung und nach eigenem Ermessen dein Recht auf Zugang oder Nutzung der Dienste (einschließlich der Kündigung oder Aussetzung deines Werbekontos) mit sofortiger Wirkung zu beenden oder auszusetzen. Wir sind nicht verantwortlich für Verluste oder Schäden, die im Zusammenhang mit Ihrer Unfähigkeit, auf die Dienste zuzugreifen oder diese zu nutzen, entstehen.
-Du kannst dein Werbekonto jederzeit kündigen, indem du uns eine Mitteilung an advertisers@brave.com sendest. Wenn Ihr Konto aus irgendeinem Grund gekündigt wird, müssen Sie die Vertraulichen Informationen weiterhin, wie in Abschnitt 7 beschrieben, schützen und bleiben für Zahlungen im Zusammenhang mit Ihrer vorherigen Nutzung der Dienste, wie in Abschnitt 5 beschrieben, verantwortlich.
+Wir behalten uns das Recht vor, ohne vorherige Ankündigung und nach eigenem Ermessen dein Recht auf Zugang oder Nutzung der Dienste (einschließlich der Kündigung oder Aussetzung deines Werbekontos) mit sofortiger Wirkung zu beenden oder auszusetzen. Wir sind nicht verantwortlich für Verluste oder Schäden, die im Zusammenhang mit deiner Unfähigkeit, auf die Dienste zuzugreifen oder diese zu nutzen, entstehen.
+Du kannst dein Werbekonto jederzeit kündigen, indem du uns eine Mitteilung an advertisers@brave.com sendest. Wenn dein Konto aus irgendeinem Grund gekündigt wird, musst du die vertraulichen Informationen weiterhin, wie in Abschnitt 7 beschrieben, schützen und bleiben für Zahlungen im Zusammenhang mit deiner vorherigen Nutzung der Dienste, wie in Abschnitt 5 beschrieben, verantwortlich.
 
-### 17. Trennbarkeit
+### 17. Salvatorische Klausel
 
 Wenn ein Begriff, eine Klausel oder eine Bestimmung dieser Bedingungen rechtswidrig, nichtig oder undurchsetzbar ist, wird dieser Begriff, diese Klausel oder diese Bestimmung von diesen Bedingungen abgetrennt und die Gültigkeit oder Durchsetzbarkeit eines verbleibenden Teils dieses Begriffs, dieser Klausel oder dieser Bestimmung oder eines anderen Begriffs, einer anderen Klausel oder einer anderen Bestimmung dieser Bedingungen wird nicht beeinträchtigt.
 
-### 18. Sonstiges
+### 18. Sonstige Bestimmungen
 
-Diese Bedingungen stellen die gesamte Vereinbarung zwischen Ihnen und uns in Bezug auf Ihren Zugang und Ihre Nutzung der Dienste dar und ersetzen alle früheren Vereinbarungen mit Brave oder seinen verbundenen Unternehmen, ausdrücklich oder stillschweigend, in Bezug auf die Dienste. Wir können diese Bedingungen von Zeit zu Zeit ändern, wenn dies zur Einhaltung der geltenden Gesetze oder Vorschriften angemessen erforderlich ist. Sie dürfen Ihre Rechte und Pflichten aus diesen Bedingungen nicht ohne unsere ausdrückliche schriftliche Zustimmung übertragen. Unser Versäumnis, ein Recht oder eine Bestimmung dieser Bedingungen auszuüben oder durchzusetzen, gilt nicht als Verzicht auf dieses Recht oder diese Bestimmung. Wir haften nicht für Verzögerungen oder die Nichterfüllung von Verpflichtungen aus diesen Bedingungen, wenn die Verzögerung oder Nichterfüllung auf Ursachen zurückzuführen ist, die außerhalb unserer zumutbaren Kontrolle liegen. Ihr Zugang zu oder die Nutzung der Dienste begründet keine Form der Partnerschaft, Gemeinschaftsunternehmen oder ein anderes ähnliches Verhältnis zwischen Ihnen und uns. Soweit hierin nicht anders vorgesehen, dienen diese Bedingungen ausschließlich Ihrem und unserem Nutzen und sind nicht dazu bestimmt, Dritten Rechte als Begünstigte zu verleihen. Du stimmst zu und erkennst an, dass alle Vereinbarungen, Mitteilungen, Offenlegungen und andere Kommunikationen, die wir dir zur Verfügung stellen, einschließlich dieser Bedingungen, in elektronischer Form bereitgestellt werden können.
+Diese Bedingungen stellen die gesamte Vereinbarung zwischen dir und uns in Bezug auf deinen Zugriff auf oder die Nutzung der Dienste dar und ersetzen alle vorherigen ausdrücklichen oder stillschweigenden Vereinbarungen mit Brave oder seinen verbundenen Unternehmen in Bezug auf die Dienste. Wir können diese Bedingungen von Zeit zu Zeit ändern, wenn dies zur Einhaltung der geltenden Gesetze oder Vorschriften angemessen erforderlich ist. Du darfst deine Rechte und Pflichten aus diesen Bedingungen nicht ohne unsere ausdrückliche schriftliche Zustimmung übertragen. Unser Versäumnis, ein Recht oder eine Bestimmung dieser Bedingungen auszuüben oder durchzusetzen, gilt nicht als Verzicht auf dieses Recht oder diese Bestimmung. Wir haften nicht für Verzögerungen oder die Nichterfüllung von Verpflichtungen aus diesen Bedingungen, wenn die Verzögerung oder Nichterfüllung auf Ursachen zurückzuführen ist, die außerhalb unserer zumutbaren Kontrolle liegen. Dein Zugang zu oder die Nutzung der Dienste begründet keine Form der Partnerschaft, Gemeinschaftsunternehmen oder ein anderes ähnliches Verhältnis zwischen dir und uns. Soweit hierin nicht anders vorgesehen, dienen diese Bedingungen ausschließlich deinem und unserem Nutzen und sind nicht dazu bestimmt, Dritten Rechte als Begünstigte zu verleihen. Du stimmst zu und erkennst an, dass alle Vereinbarungen, Mitteilungen, Offenlegungen und andere Kommunikationen, die wir dir zur Verfügung stellen, einschließlich dieser Bedingungen, in elektronischer Form bereitgestellt werden können.
