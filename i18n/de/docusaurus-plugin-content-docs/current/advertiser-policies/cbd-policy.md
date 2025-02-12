@@ -10,7 +10,7 @@ Dieser Artikel behandelt die Richtlinie für die Werbung von CBD-Produkten mit B
 Brave Ads könnte in Zukunft die Werbung für CBD außerhalb der Vereinigten Staaten unterstützen, aber derzeit wird die Werbung für CBD nur in den Vereinigten Staaten unterstützt.
 Dieses Dokument gilt nur für die Werbung von CBD und nicht für Produkte, die THC enthalten.
 Die Werbung für „CBD-Blüten“, „CBD-Wraps“ oder andere CBD-Produkte, die zum Rauchen verwendet werden, ist verboten.
-Advertisements cannot click-through to landing pages that feature THC products for sale alongside the CBD product being advertised.
+Werbung darf nicht zu Landingpages führen, die THC-Produkte zum Verkauf anbieten, zusammen mit dem beworbenen CBD-Produkt.
 
 ## Werbung für CBD
 
@@ -20,7 +20,7 @@ Werbetreibende akzeptieren die volle Haftung und Verantwortung dafür, die staat
 
 Sie versichern und garantieren, dass die CBD-Anzeigen (einschließlich aller darin erwähnten Produkte, Dienstleistungen oder anderen Materialien), jede Website(s) oder andere Ziele, auf die die Anzeigen verweisen oder die sie ansteuern, und jede Handlung oder Unterlassung Ihrerseits in Bezug auf Ihre CBD-Anzeigen (zusammenfassend „CBD-Anzeigen“) keine geltenden Gesetze, Verordnungen, Richtlinien, Vertragsbestimmungen oder Vorschriften oder geltenden Brave Richtlinien oder -Leitlinien in einer der Jurisdiktionen verletzen, in denen die CBD-Anzeigen verbreitet und/oder angezeigt werden.
 
-Sie stimmen zu, Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Directors, Aktionäre, Mitarbeitende und Agenten von allen Ansprüchen, Forderungen, Klagen oder anderen Rechten Dritter, ob tatsächlich oder angeblich (zusammenfassend „Ansprüche“), und daraus resultierenden Urteilen, Schäden, Verlusten, Verbindlichkeiten, Vergleichen, Kosten und Ausgaben (einschließlich, aber nicht beschränkt auf Anwaltsgebühren und -kosten), die aus oder im Zusammenhang mit Ihren CBD-Anzeigen entstehen, zu entschädigen, zu verteidigen und schadlos zu halten. Sie stimmen zu, allein für die Verteidigung gegen jede Forderung gegen Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Directors, Aktionäre, Mitarbeitenden und Agenten verantwortlich zu sein, vorbehaltlich Braves Recht, mit einem eigenen Rechtsbeistand teilzunehmen; vorausgesetzt, dass diese keiner Einigung ohne Braves vorheriger schriftlicher Zustimmung zustimmen werden.
+Sie stimmen zu, Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Directors, Aktionäre, Mitarbeitende und Agenten von allen Ansprüchen, Forderungen, Klagen oder anderen Rechten Dritter, ob tatsächlich oder angeblich (zusammenfassend „Ansprüche“), und daraus resultierenden Urteilen, Schäden, Verlusten, Verbindlichkeiten, Vergleichen, Kosten und Ausgaben (einschließlich, aber nicht beschränkt auf Anwaltsgebühren und -kosten), die aus oder im Zusammenhang mit Ihren CBD-Anzeigen entstehen, zu entschädigen, zu verteidigen und schadlos zu halten. Du stimmst zu, allein für die Verteidigung gegen jede Forderung gegen Brave und seine verbundenen Unternehmen, Tochtergesellschaften, Führungskräfte, Directors, Aktionäre, Mitarbeitenden und Agenten verantwortlich zu sein, vorbehaltlich Braves Recht, mit einem eigenen Rechtsbeistand teilzunehmen; vorausgesetzt, dass diese keiner Einigung ohne Braves vorheriger schriftlicher Zustimmung zustimmen werden.
 
 ### CBD-Werbung ist verfügbar in:
 
