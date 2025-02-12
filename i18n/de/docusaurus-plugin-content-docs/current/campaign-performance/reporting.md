@@ -2,17 +2,17 @@
 sidebar_position: 2
 ---
 
-# Berichterstattung
+# Reporting
 
-Brave Ads ist von Grund auf so aufgebaut, dass es die höchsten Datenschutzstandards unterstützt. Standardmäßig blockiert der Brave-Browser Drittanbieter-Tracking einschließlich Google Analytics, Adobe Analytics und anderen Drittanbieter-Berichts- und Messdienstleistern. Während Brave Ads Benutzerdaten respektiert (und nicht sammelt), bietet es Werbetreibenden auch nützliche, detaillierte Berichte über die Daten zur Kampagnenleistung in einem einfachen, leicht lesbaren Dashboard. Es ermöglicht Marketern zudem, die Kampagnenleistung mithilfe ihrer eigenen Berichterstattungssysteme zu sehen.
+Brave Ads ist von Grund auf so aufgebaut, dass es die höchsten Datenschutzstandards unterstützt. Standardmäßig blockiert der Brave Browser Drittanbieter-Tracking einschließlich Google Analytics, Adobe Analytics und anderen Drittanbieter-Berichts- und Messdienstleistern. Während Brave Ads Benutzerdaten respektiert (und nicht sammelt), bietet es Werbetreibenden auch nützliche, detaillierte Berichte über die Daten zur Kampagnenleistung in einem einfachen, leicht lesbaren Dashboard. Es ermöglicht Marketern zudem, die Kampagnenleistung mithilfe ihrer eigenen Berichterstattungssysteme zu sehen.
 
 ## Werden meine Berichte vom Brave-Browser blockiert?
 
 Der erste Schritt besteht darin zu verstehen, was vom Brave-Browser blockiert wird. Um dies zu tun, öffnen Sie Brave auf Ihrem Desktop und navigieren Sie zu Ihrer Unternehmens-Website oder Kampagnen-Landingpage und folgen Sie diesen Schritten:
 
-1. Klicken Sie auf das Brave-Löwen-Symbol auf der rechten Seite der Adressleiste.
-2. Erweitern Sie das Menü „Erweiterte Steuerung“.
-3. Klicken Sie auf die violette Zahl neben „Blockiere Tracker und Anzeigen“, um anzuzeigen, was derzeit blockiert wird.
+1. Klicke auf das Brave Symbol auf der rechten Seite der Adressleiste.
+2. Erweitere das Menü „Erweiterte Steuerung“.
+3. Klicke auf die violette Zahl neben „Blockiere Tracker und Anzeigen“, um anzuzeigen, was derzeit blockiert wird.
 
 Blockierte Skripte deaktivieren die meisten, wenn nicht alle Funktionen für das Tracking durch Dritte. Hier ist eine hilfreiche Tabelle mit Beispielen für verschiedene Tracking-Szenarien und deren Kompatibilität mit Brave Ads:
 
@@ -39,7 +39,7 @@ Unabhängig davon, ob Ihre Kampagne über Managed Service oder Self-Service erwo
 | Upvotes & Downvotes | Gezählt, wenn ein Benutzer eine Anzeige in seinem Anzeigen-Verlauf entweder positiv oder negativ bewertet.                                                                                                                                                                                                                                                                                                                               |              |                  |              | X                         |
 | Konversionen                            | Summe aller Konversionen, einschließlich anonymer Konversionen ohne eine spezifische Klick- oder Ansichtszuordnung. Gezählt, wenn ein Benutzer eine festgelegte Konversions-Landingpage erreicht.                                                                                                                                                                                                                        |              |                  | X            | X                         |
 | Click-through-Konversionen              | Gezählt, wenn ein Benutzer nach einer Anzeigeimpression und einem Klick auf die Anzeige eine festgelegte Konversions-Landingpage erreicht.                                                                                                                                                                                                                                                                                               |              |                  | X            | X                         |
-| View-through-Konversionen               | Gezählt, wenn ein Benutzer eine festgelegte Konversions-Landingpage nach einer Anzeigeimpression erreicht.                                                                                                                                                                                                                                                                                                                               |              |                  | X            | X                         |
+| View-through-Konversionen               | Gezählt, wenn ein User eine festgelegte Konversions-Landingpage nach einer Anzeigeimpression erreicht.                                                                                                                                                                                                                                                                                                                                   |              |                  | X            | X                         |
 | CTR                                     | Die Click-through-Rate ist ein Prozentsatz, der Klicks im Verhältnis zu Impressionen ausdrückt.                                                                                                                                                                                                                                                                                                                                          | X            | X                | X            | X                         |
 | SVR                                     | Die Site-Visit-Rate ist ein Prozentsatz, der Site-Visits im Verhältnis zu Impressionen ausdrückt.                                                                                                                                                                                                                                                                                                                                        |              | X                | X            | X                         |
 | CPA                                     | Der Cost-per-Action-Wert, der durch Division der Gesamtkosten der Kampagne durch die Anzahl der Konversionen gefunden wird.                                                                                                                                                                                                                                                                                                              |              |                  | X            | X                         |
@@ -63,7 +63,7 @@ Conversion reporting in Brave Ads Manager allows advertisers to define a convers
 - Conversion-Seiten-URLs **müssen** diese Bedingungen erfüllen, um genehmigt zu werden:
   - Dieselbe eTLD+1 wie die verwendete E-Mail-Domain verwenden
     - Zum Beispiel, wenn meine E-Mail-Adresse `admin@example.com` lautet, kann ich die Conversion-URL als eine Seite auf `https://example.com` oder eine Sub-Domain dieser Website setzen, wie z. B. `https://shop.example.com`.
-- Brave may not be able to count the conversion if a user exits the Brave browser (e.g., when visiting third-party apps like app stores). In solchen Fällen sollten Werbetreibende zusätzliche unabhängige Berichterstellungsmethoden verwenden, die von Drittanbietern bereitgestellt werden.
+- Brave kann die Konversion möglicherweise nicht zählen, wenn ein User den Brave Browser verlässt (z. B. beim Besuch von Drittanbieter-Apps wie App-Stores). In solchen Fällen sollten Werbetreibende zusätzliche unabhängige Berichterstellungsmethoden verwenden, die von Drittanbietern bereitgestellt werden.
 
 ### Wahl einer effektiven Conversion-URL
 
