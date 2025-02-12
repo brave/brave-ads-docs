@@ -12,7 +12,7 @@ Informationen darüber, wie wir Ihre Daten erfassen und verwenden, finden Sie in
 
 Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter advertisers@brave.com.
 
-Sie und Brave stimmen dem Folgenden zu:
+Du und Brave stimmen dem Folgenden zu:
 
 ## 1. Überblick und Umfang
 
@@ -43,7 +43,7 @@ Wenn Sie wünschen, Ihr Werbetreibenden Konto zu löschen oder zu deaktivieren, 
 
 ## 4. Werbeinhalt
 
-Sie allein sind verantwortlich für die Anzeigen, die über Ihr Werbetreibenden Konto auf der Plattform eingereicht werden ("_Ihre Anzeigen_"). Sie müssen sicherstellen, dass Ihre Anzeigen wahrheitsgemäß, nicht irreführend und in Übereinstimmung mit allen geltenden Gesetzen sind und, falls erforderlich, durch wissenschaftliche Beweise gestützt werden. Ihre Anzeigen müssen unserer Werbepolitik ("_Werbepolitik_") entsprechen, die wir Ihnen bei der Einrichtung Ihres Werbetreibenden Kontos bereitstellen und die in diese Bedingungen aufgenommen ist. Die Werbepolitik enthält eine Liste der geografischen Regionen, in denen Brave Anzeigen geschaltet werden sollen. Wir können die Werbepolitik von Zeit zu Zeit aktualisieren. Es liegt in Ihrer Verantwortung, diese Änderungen der Werbepolitik laufend zu prüfen.
+Du allein bist verantwortlich für die Anzeigen, die über dein Werbetreibenden-Konto auf der Plattform eingereicht werden ("_Deine Anzeigen_"). Sie müssen sicherstellen, dass Ihre Anzeigen wahrheitsgemäß, nicht irreführend und in Übereinstimmung mit allen geltenden Gesetzen sind und, falls erforderlich, durch wissenschaftliche Beweise gestützt werden. Ihre Anzeigen müssen unserer Werbepolitik ("_Werbepolitik_") entsprechen, die wir Ihnen bei der Einrichtung Ihres Werbetreibenden Kontos bereitstellen und die in diese Bedingungen aufgenommen ist. Die Werbepolitik enthält eine Liste der geografischen Regionen, in denen Brave Anzeigen geschaltet werden sollen. Wir können die Werbepolitik von Zeit zu Zeit aktualisieren. Es liegt in Ihrer Verantwortung, diese Änderungen der Werbepolitik laufend zu prüfen.
 Sie müssen Ihre Anzeigen genau mit den Regionen kennzeichnen, in denen sie gezeigt werden sollen, und der Inhalt jeder Ihrer Anzeigen muss in allen Regionen, die Sie für diese Anzeige kennzeichnen, sowie in den USA, im Bundesstaat Kalifornien und auf den Kaimaninseln legal sein.
 Ihre Anzeigen unterliegen unserer Prüfung und Genehmigung, bevor sie zur Bereitstellung auf der Plattform aktiviert werden. Wir können Ihre Anzeigen jederzeit und aus jedem Grund prüfen. Falls Ihre Anzeigen aus irgendeinem Grund nicht unseren Genehmigungsprozess bestehen oder anderweitig als Verstoß gegen diese Bedingungen betrachtet werden, können wir nach eigenem Ermessen diese Anzeigen deaktivieren, alle Ihre Anzeigen sofort stoppen, Sie von der Plattform suspendieren oder andere Maßnahmen ergreifen, die wir für erforderlich halten, um die Qualität und den Ruf der Plattform zu gewährleisten. Unsere Entscheidung in diesen Angelegenheiten, einschließlich der Festlegung der Inhaltsklassifikationen für Ihre Anzeigen, ist endgültig und bindend. Unsere Entscheidung in diesen Angelegenheiten, einschließlich der Frage, welche Inhaltsklassifizierungen für eine Ihrer Anzeigen gelten, ist endgültig und verbindlich.
 Sie gewähren Brave eine nicht-exklusive, weltweite, gebührenfreie Lizenz zur Vervielfältigung, Verteilung, öffentlichen Darstellung und Modifikation (soweit für die Darstellung auf der Plattform erforderlich) Ihrer Anzeigen, um Ihre Anzeigen über die Plattform anzuzeigen und Ihnen anderweitig die Dienste gemäß diesen Bedingungen bereitzustellen.
@@ -87,7 +87,7 @@ Während der Nutzung oder des Zugriffs auf die Dienste dürfen Sie nicht:
 To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Brave and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the _"Brave Parties"_) from and against all claims, demands, actions, damages, losses, costs and expenses (including attorneys' fees) that arise from or relate to:
 
 - (a) Ihr Zugriff oder Ihre Nutzung der Dienste,
-- (b) Ihre Anzeigen,
+- (b) Deine Anzeigen,
 - (c) Ihre Pflichten oder Verpflichtungen aus diesen Bedingungen,
 - (d) Ihr Verstoß gegen diese Bedingungen oder
 - (e) Ihre Verletzung von Rechten Dritter oder anderer Personen.
@@ -129,9 +129,9 @@ Mit Ausnahme von Streitigkeiten, Ansprüchen, Klagen, Klageursachen, Forderungen
 
 ### Keine Sammelschiedsverfahren, Sammelklagen oder Repräsentativverfahren. Jede Streitigkeit ist persönlich zwischen Ihnen und Brave und wird ausschließlich durch individuelles Schiedsverfahren gelöst und nicht als Sammelschiedsverfahren, Sammelklage oder eine andere Art von repräsentativem oder kollektivem Verfahren eingereicht.
 
-Es wird kein Sammelschiedsverfahren oder Schiedsverfahren geben, bei dem eine Einzelperson versucht, eine Streitigkeit als Vertreter einer anderen Einzelperson oder Gruppe von Einzelpersonen zu lösen. Darüber hinaus kann eine Streitigkeit nicht als Sammelklage oder eine andere Art von repräsentativem Verfahren eingereicht werden, weder innerhalb noch außerhalb eines Schiedsverfahrens, oder im Namen einer anderen Einzelperson oder einer Gruppe von Einzelpersonen. 3.
+Es wird kein Sammelschiedsverfahren oder Schiedsverfahren geben, bei dem eine Einzelperson versucht, eine Streitigkeit als Vertreter einer anderen Einzelperson oder Gruppe von Einzelpersonen zu lösen. Darüber hinaus kann eine Streitigkeit nicht als Sammelklage oder eine andere Art von repräsentativem Verfahren eingereicht werden, weder innerhalb noch außerhalb eines Schiedsverfahrens, oder im Namen einer anderen Einzelperson oder einer Gruppe von Einzelpersonen. Darüber hinaus kann eine Streitigkeit nicht als Sammel- oder andere Art von Vertretungsklage eingebracht werden, weder innerhalb noch außerhalb des Schiedsverfahrens oder im Namen einer anderen Einzelperson oder Gruppe von Personen.
 
-### Bundesschiedsgesetz Die Durchsetzbarkeit dieses Abschnitts 13 wird sowohl materiell als auch verfahrensrechtlich durch und nach Maßgabe des Federal Arbitration Act, 9 U.S.C.
+### 3. Die Durchsetzbarkeit dieses Abschnitts 13 wird sowohl materiell als auch verfahrensrechtlich durch und nach Maßgabe des Federal Arbitration Act, 9 U.S.C.
 
 § 1 ff. (das _„FAA“_), geregelt und ausgelegt und durchgesetzt, soweit gesetzlich zulässig. 4. Mitteilung; informelle Streitbeilegung
 
