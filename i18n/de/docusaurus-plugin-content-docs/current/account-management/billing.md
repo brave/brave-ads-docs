@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Rechnungsstellung
+# Abrechnung
 
 Brave Ads können über verschiedene Preismodelle erworben werden. Standardmäßig werden alle Werbekampagnen weltweit in USD abgerechnet, es sind jedoch auch andere Optionen verfügbar.
 
@@ -16,11 +16,11 @@ Das Preismodell wird auf der Anzeigenebene der Kampagne festgelegt und kann wäh
 
 ## Rechnung bezahlen
 
-Standardmäßig werden Rechnungen für verwaltete Kampagnen am Ende des monatlichen Abrechnungszyklus für den Kalendermonat verschickt. Die Zahlung ist innerhalb von 30 Tagen nach Erhalt der Rechnung fällig. Brave may, at our discretion, require pre-payment for advertisers and campaigns prior to the launch of their campaign
+Standardmäßig werden Rechnungen für verwaltete Kampagnen am Ende des monatlichen Abrechnungszyklus für den Kalendermonat verschickt. Die Zahlung ist innerhalb von 30 Tagen nach Erhalt der Rechnung fällig. Brave kann nach eigenem Ermessen eine Vorauszahlung für Werbetreibende und Kampagnen vor dem Start der Kampagne verlangen.
 
 ## Mit Kreditkarte bezahlen
 
-Both Managed Service and self-directed Brave Ads Manager campaigns can be paid by credit card via Stripe.
+Sowohl Managed Service als auch selbstgesteuerte Brave Ads Manager-Kampagnen können per Kreditkarte über Stripe bezahlt werden.
 
 - Beim Kauf über Managed Service lasse das Account Management einfach wissen, dass du mit Kreditkarte bezahlen möchtest.
 - Beim Kauf über den Brave Ads Manager wirst du aufgefordert, deine Kampagne im Voraus zu bezahlen, indem du dein Konto über Stripe auflädst.
@@ -34,9 +34,9 @@ Sowohl Managed Service- als auch selbstgesteuerte Brave Ads Manager-Kampagnen k�
 
 ## Stornierungen
 
-For New Tab Takeovers, advertisers that cancel within seven days of the campaign launch date will be charged 50% of the campaign cost.
+Für New Tab Takeovers wird Werbetreibenden, die ihre Kampagne innerhalb von sieben Tagen nach dem Startdatum stornieren, 50 % der Kampagnenkosten in Rechnung gestellt.
 
-If working with our accounts and sales team, you can cancel your Search, Notifications, or Newsfeed ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused.
+Wenn du mit unserem Accounts- und Sales-Team zusammenarbeitest, kannst du deine Search-, Benachrichtigungs- oder Newsfeed-Werbekampagnen jederzeit stornieren. Dir werden nur die Kosten für den bereits ausgegebenen Betrag bis zum Zeitpunkt der Pausierung der Kampagne in Rechnung gestellt.
 
 Wenn du deine Kampagne über unsere Self-Service-Option im Voraus bezahlt hast und deine Kampagne frühzeitig stornieren möchtest, beachte bitte, dass du eine Rückerstattung des verbleibenden Betrags per E-Mail an [selfserve@brave.com](mailto:selfserve@brave.com) beantragen musst.
 
