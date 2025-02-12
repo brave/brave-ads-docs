@@ -17,10 +17,10 @@ Kampagnen dürfen derzeit keine Produkte und Dienstleistungen für die folgenden
 - CBD (verfügbar in den USA mit staatlichen Beschränkungen)
 - THC
 - Tabak
-- Dampfen
+- Vaping
 - Arzneimittel
 - Glücksspiel
-- Erwachsenen-Inhalte
+- Inhalte für Erwachsene
 - Politik
 - Gewalt
 - Inhalte, die sich an Kinder richten
