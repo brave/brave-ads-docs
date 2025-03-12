@@ -54,4 +54,4 @@ Pour mettre fin à votre campagne immédiatement et transférer tout fond restan
 
 - Sélectionner la campagne.
 - Cliquer sur « Modifier ».
-- Cliquez sur « Fermer cette campagne. »
+- Cliquez sur « Fermer cette campagne.
