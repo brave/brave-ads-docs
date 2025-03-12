@@ -9,8 +9,8 @@ sidebar_position: 4
 1. Acesse https://ads.brave.com
 
 2. Gere uma chave de API
-   1. Perfil → Gerar Chave de API
-   2. Anote a chave de API gerada, pois você não poderá recuperá-la novamente
+  1. Perfil → Gerar Chave de API
+  2. Anote a chave de API gerada, pois você não poderá recuperá-la novamente
 
 ## Endpoints
 
