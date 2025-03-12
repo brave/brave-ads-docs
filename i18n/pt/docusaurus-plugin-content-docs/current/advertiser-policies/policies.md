@@ -41,7 +41,7 @@ Anunciantes não podem usar links de redirecionamento a menos que estejam no mes
 **Exemplos de redirecionamentos que serão rejeitados:**
 
 - `https://landing.brave.me` Redireciona para: `https://brave.com/landing`
-  - Supondo que ambos sejam de propriedade da Brave, este caso ainda seria negado, pois os links não estão no mesmo eTLD+1.
+    - Supondo que ambos sejam de propriedade da Brave, este caso ainda seria negado, pois os links não estão no mesmo eTLD+1.
 - `https://brave.page.link/abc` - que redireciona para `https://brave.com/landing`
 
 **Exemplos de redirecionamentos que serão aceitos:**
