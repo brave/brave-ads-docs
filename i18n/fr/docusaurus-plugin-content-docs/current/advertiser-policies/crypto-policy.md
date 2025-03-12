@@ -59,7 +59,7 @@ Une recherche sur le projet ne doit pas retourner de rapports controversés ou d
 - Ne doit pas inclure de langage spéculatif lié à la valeur ou au prix du jeton ou de la crypto-monnaie
 - Les taux fixes garantis APY ou APR ne peuvent pas être annoncés
 - Using “bonus”, “up to” or other similar text is normally acceptable upon review
-  - For example:  “Earn up to 5% in staking rewards.”
+    - For example:  “Earn up to 5% in staking rewards.”
 
 ### Click-through URLs:
 
@@ -69,7 +69,7 @@ Une recherche sur le projet ne doit pas retourner de rapports controversés ou d
 ## Pay-to-play games, casino raffles, lotteries
 
 - Tout annonceur nécessitant un paiement ou un dépôt, que ce soit en fiat ou en crypto, pour participer à un concours sera refusé
-  - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
+    - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
 - Play to Earn and Quests with engagement rewards are allowed
-  - Example: users enter their email address for a chance to win an NFT
+    - Example: users enter their email address for a chance to win an NFT
 - It is acceptable for an advertiser to focus their campaign on a free giveaway while there are other parts of the site allowing pay-to-play elements
