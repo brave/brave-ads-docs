@@ -9,8 +9,8 @@ sidebar_position: 4
 1. Inicie sesión en https://ads.brave.com
 
 2. Genere una clave API
-   1. Perfil -> Generar clave API
-   2. Registre la clave API generada, ya que no podrá recuperarla nuevamente
+  1. Perfil -> Generar clave API
+  2. Registre la clave API generada, ya que no podrá recuperarla nuevamente
 
 ## Puntos finales
 
