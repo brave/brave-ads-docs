@@ -31,7 +31,6 @@ Este recurso é uma ótima opção para anunciantes que desejam aumentar o engaj
 
 - CPM
 - CPC
-- CPSV (Visitas ao Site)
 
 ### Boas práticas
 

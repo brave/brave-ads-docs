@@ -41,7 +41,7 @@ Para manter os altos padrões da nossa plataforma, os potenciais anunciantes nes
 
 - Pré-vendas de Token
 - Testnet ou outras ofertas de pré-lançamento
-- Simple Agreement for Future Tokens (SAFTs)
+- Acordo Simples para Tokens Futuros (SAFTs)
 
 ## Presença de mercado:
 
