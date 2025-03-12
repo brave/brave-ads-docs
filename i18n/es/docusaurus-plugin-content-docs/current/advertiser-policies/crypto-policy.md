@@ -59,7 +59,7 @@ Una búsqueda del proyecto no debe devolver informes controvertidos o informes d
 - No debe incluir lenguaje especulativo relacionado con el valor o el precio del token o criptomoneda.
 - Las tasas fijas garantizadas de APY o APR no se pueden anunciar.
 - El uso de "bonificación", "hasta" u otro texto similar normalmente es aceptable después de la revisión.
-  - Por ejemplo: "Gane hasta un 5% en recompensas de staking".
+    - Por ejemplo: "Gane hasta un 5% en recompensas de staking".
 
 ### URLs de clic:
 
@@ -69,7 +69,7 @@ Una búsqueda del proyecto no debe devolver informes controvertidos o informes d
 ## Juegos de pago, sorteos de casino, loterías
 
 - Cualquier anunciante que requiera un pago o depósito, ya sea en moneda fiduciaria o cripto, para participar en un concurso será denegado.
-  - Ejemplo: Un usuario deposita ETH u otra criptomoneda/fiat para tener la oportunidad de ganar un NFT.
+    - Ejemplo: Un usuario deposita ETH u otra criptomoneda/fiat para tener la oportunidad de ganar un NFT.
 - "Play-to-Earn" y misiones con recompensas por compromiso están permitidas.
-  - Ejemplo: los usuarios ingresan su dirección de correo electrónico para tener la oportunidad de ganar un NFT.
+    - Ejemplo: los usuarios ingresan su dirección de correo electrónico para tener la oportunidad de ganar un NFT.
 - Es aceptable que un anunciante centre su campaña en un sorteo gratuito mientras haya otras partes del sitio que permitan elementos de juegos de pago.

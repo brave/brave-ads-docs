@@ -41,7 +41,7 @@ Werbetreibende dürfen keine Weiterleitungslinks verwenden, es sei denn, sie bef
 **Beispiele für Weiterleitungen, die abgelehnt werden:**
 
 - `https://landing.brave.me` Weiterleitung zu: `https://brave.com/landing`
-  - Angenommen, beide gehören Brave, würde dies dennoch abgelehnt, da sie sich nicht auf derselben eTLD+1 befinden.
+    - Angenommen, beide gehören Brave, würde dies dennoch abgelehnt, da sie sich nicht auf derselben eTLD+1 befinden.
 - `https://brave.page.link/abc` - was zu `https://brave.com/landing` weiterleitet
 
 **Beispiele für Weiterleitungen, die akzeptiert werden:**

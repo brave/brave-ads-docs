@@ -12,7 +12,7 @@ Cette unité est un complément idéal pour les annonceurs souhaitant augmenter 
 
 ### Exigences des Ads
 
-- Texte des Ads
+- Texte des annonces
   - Titre : Limite de 30 caractères, doit inclure le nom de la marque
   - Corps : Limite de 60 caractères, pour les messages clés / proposition de valeur / appel à l’action
 - URL de click-through

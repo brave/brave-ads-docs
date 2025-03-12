@@ -106,8 +106,8 @@ Reservamo-nos o direito de exercer controle exclusivo sobre a defesa, às suas c
 ## 11. Limitação de Responsabilidade
 
 - (a) **Até o limite máximo permitido pela lei aplicável:**
-  - **(i) em nenhum caso o Brave ou qualquer uma das Partes do Brave será responsável perante você por quaisquer danos indiretos, especiais, incidentais, consequenciais ou exemplares de qualquer tipo (incluindo, mas não se limitando a, relacionados à perda de receita, renda ou lucros, perda de uso ou dados, ou danos por interrupção de negócios), independentemente da forma de ação, seja baseada em contrato, responsabilidade civil (incluindo, mas não se limitando a, negligência simples, seja ativa, passiva ou imputada) ou qualquer outra teoria legal ou equitativa (mesmo que a parte tenha sido avisada da possibilidade de tais danos e independentemente de tais danos serem previsíveis); e**
-  - **(ii) em nenhum caso a responsabilidade agregada do Brave e das Partes do Brave (individualmente ou em conjunto), seja em contrato, garantia, responsabilidade civil (incluindo negligência, seja ativa, passiva ou imputada), ou outra teoria, decorrente ou relacionada aos Serviços ou a estes Termos excederá o valor total que você gastou em seus anúncios.**
+    - **(i) em nenhum caso o Brave ou qualquer uma das Partes do Brave será responsável perante você por quaisquer danos indiretos, especiais, incidentais, consequenciais ou exemplares de qualquer tipo (incluindo, mas não se limitando a, relacionados à perda de receita, renda ou lucros, perda de uso ou dados, ou danos por interrupção de negócios), independentemente da forma de ação, seja baseada em contrato, responsabilidade civil (incluindo, mas não se limitando a, negligência simples, seja ativa, passiva ou imputada) ou qualquer outra teoria legal ou equitativa (mesmo que a parte tenha sido avisada da possibilidade de tais danos e independentemente de tais danos serem previsíveis); e**
+    - **(ii) em nenhum caso a responsabilidade agregada do Brave e das Partes do Brave (individualmente ou em conjunto), seja em contrato, garantia, responsabilidade civil (incluindo negligência, seja ativa, passiva ou imputada), ou outra teoria, decorrente ou relacionada aos Serviços ou a estes Termos excederá o valor total que você gastou em seus anúncios.**
 - **(b) As limitações estabelecidas na Seção 11(a) não limitarão ou excluirão a responsabilidade por negligência grave, fraude ou má conduta intencional, dolosa ou imprudente da Brave.**
 - (c) Algumas jurisdições não permitem a limitação ou exclusão de responsabilidade por danos incidentais ou consequenciais. Assim, algumas das limitações desta seção podem não se aplicar a você.
 
@@ -142,7 +142,7 @@ Cada parte notificará a outra por escrito de qualquer Disputa dentro de trinta 
 - (i) seu nome, endereço postal, endereço de e-mail e número de telefone,
 - (ii) uma descrição razoavelmente detalhada da natureza ou base da Disputa, e
 - (iii) a reparação específica que você está buscando.
-  Se você e o Brave não conseguirem concordar sobre como resolver a Disputa dentro de trinta (30) dias após a data em que a notificação for recebida pela Parte aplicável, então você ou o Brave poderão, conforme apropriado e de acordo com esta Seção 13, iniciar um procedimento de arbitragem ou, na medida especificamente prevista na Seção 13.1, apresentar uma reclamação em tribunal.
+    Se você e o Brave não conseguirem concordar sobre como resolver a Disputa dentro de trinta (30) dias após a data em que a notificação for recebida pela Parte aplicável, então você ou o Brave poderão, conforme apropriado e de acordo com esta Seção 13, iniciar um procedimento de arbitragem ou, na medida especificamente prevista na Seção 13.1, apresentar uma reclamação em tribunal.
 
 ### 5. Local e Árbitro
 

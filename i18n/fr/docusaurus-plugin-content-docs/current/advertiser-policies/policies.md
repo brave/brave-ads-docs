@@ -41,7 +41,7 @@ Les annonceurs ne peuvent pas utiliser des liens de redirection, sauf s'ils se t
 **Exemples de redirections qui seront rejetées :**
 
 - `https://landing.brave.me` Redirige vers : `https://brave.com/landing`
-  - En supposant qu'ils appartiennent tous deux à Brave, cela serait tout de même refusé puisqu'ils ne sont pas dans le même eTLD+1.
+    - En supposant qu'ils appartiennent tous deux à Brave, cela serait tout de même refusé puisqu'ils ne sont pas dans le même eTLD+1.
 - `https://brave.page.link/abc` - qui redirige vers `https://brave.com/landing`
 
 **Exemples de redirections qui seront acceptées :**
