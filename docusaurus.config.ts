@@ -2,6 +2,25 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const angoliaAppId = process.env.REACT_APP_DOC_SEARCH_APP_ID;
+
+const angoliaConfig = angoliaAppId
+  ? {
+      algolia: {
+        appId: process.env.REACT_APP_DOC_SEARCH_APP_ID,
+        // Public API key: it is safe to commit it
+        apiKey: "9d6bcc3afa8daed9395db8c441bc04a1",
+        indexName: process.env.REACT_APP_DOC_SEARCH_INDEX_NAME,
+        // Ensures that search results are relevant to the current language and version
+        contextualSearch: true,
+        searchParameters: {
+          analytics: false,
+          clickAnalytics: false,
+        },
+      },
+    }
+  : undefined;
+
 const config: Config = {
   title: 'Brave Ads',
   tagline: '',
@@ -121,18 +140,7 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Brave Software, Inc.`,
     },
-    algolia: {
-      appId: process.env.REACT_APP_DOC_SEARCH_APP_ID,
-      // Public API key: it is safe to commit it
-      apiKey: '9d6bcc3afa8daed9395db8c441bc04a1',
-      indexName: process.env.REACT_APP_DOC_SEARCH_INDEX_NAME,
-      // Ensures that search results are relevant to the current language and version
-      contextualSearch: true,
-      searchParameters: {
-        analytics: false,
-        clickAnalytics: false,
-      }
-    },
+    ...angoliaConfig,
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
