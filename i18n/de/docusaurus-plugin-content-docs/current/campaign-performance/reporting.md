@@ -61,8 +61,8 @@ Das Conversion-Reporting im Brave Ads Manager ermöglicht es Werbetreibenden, ei
 ### Einschränkungen
 
 - Conversion-Seiten-URLs **müssen** diese Bedingungen erfüllen, um genehmigt zu werden:
-  - Dieselbe eTLD+1 wie die verwendete E-Mail-Domain verwenden
-    - Zum Beispiel, wenn meine E-Mail-Adresse `admin@example.com` lautet, kann ich die Conversion-URL als eine Seite auf `https://example.com` oder eine Sub-Domain dieser Website setzen, wie z. B. `https://shop.example.com`.
+ - Dieselbe eTLD+1 wie die verwendete E-Mail-Domain verwenden
+  - Zum Beispiel, wenn meine E-Mail-Adresse `admin@example.com` lautet, kann ich die Conversion-URL als eine Seite auf `https://example.com` oder eine Sub-Domain dieser Website setzen, wie z. B. `https://shop.example.com`.
 - Brave kann die Konversion möglicherweise nicht zählen, wenn ein User den Brave Browser verlässt (z. B. beim Besuch von Drittanbieter-Apps wie App-Stores). In solchen Fällen sollten Werbetreibende zusätzliche unabhängige Reporting-Methoden verwenden, die von Drittanbietern bereitgestellt werden.
 
 ### Wahl einer effektiven Conversion-URL
@@ -72,25 +72,25 @@ Die Verwendung einer Conversion-URL ermöglicht eine genauere Messung der Werbew
 **Hauptpunkte:**
 
 - Verwende ein URL-Muster, das falsche Positiv-Ergebnisse vermeidet.
-  - Verwende nicht die Basis-Website-URL als Conversion-URL.
-    - Klicks und Website-Besuche werden standardmäßig bereits für alle Brave Ads-Kampagnen gezählt.
+ - Verwende nicht die Basis-Website-URL als Conversion-URL.
+  - Klicks und Website-Besuche werden standardmäßig bereits für alle Brave Ads-Kampagnen gezählt.
 - Wähle eine URL, die eine tiefere Aktion auf deiner Website repräsentiert, wie zum Beispiel:
-  - Seite für abgeschlossene Anmeldungen
-  - Willkommensseite für E-Mail-Abonnements
-  - Bestätigungsseite des Kaufs
-    - Zum Beispiel, bei einer Werbekampagne für `https://shoestore.com` wäre eine effektive Conversion-URL: `https://shoestore.com/check-out/thank-you*`
+ - Seite für abgeschlossene Anmeldungen
+ - Willkommensseite für E-Mail-Abonnements
+ - Bestätigungsseite des Kaufs
+  - Zum Beispiel, bei einer Werbekampagne für `https://shoestore.com` wäre eine effektive Conversion-URL: `https://shoestore.com/check-out/thank-you*`
 - Als Faustregel sollten alle Conversion-URLs in Platzhaltervariablen enden, um etwaige zusätzliche Abfrageparameter zu berücksichtigen, die den Conversion-Zählprozess stören könnten.
-  - Ein Sternchen (\*) kann als Platzhaltervariable in Ihrer Conversion-URL verwendet werden, die Brave Ads anweist, diese Position in der URL als beliebigen Wert zu behandeln. Dies kann in verschiedenen Situationen verwendet werden, in denen sich die URLs von Konversions-Websites ähnlich verlaufen, aber unterschiedliche Werte enthalten, wie z. B. Produktverzeichnisse oder eindeutige Bestellnummern.
-    - Zum Beispiel, basierend auf dem obigen Beispiel, würde `https://shoestore.com/check-out/thank-you*` effektiv jede URL erfassen, die bis zur Platzhaltervariable identisch ist, wie z.B. `https://shoestore.com/check-out/thank-you/orderID=63551`
+ - Ein Sternchen (\*) kann als Platzhaltervariable in Ihrer Conversion-URL verwendet werden, die Brave Ads anweist, diese Position in der URL als beliebigen Wert zu behandeln. Dies kann in verschiedenen Situationen verwendet werden, in denen sich die URLs von Konversions-Websites ähnlich verlaufen, aber unterschiedliche Werte enthalten, wie z. B. Produktverzeichnisse oder eindeutige Bestellnummern.
+  - Zum Beispiel, basierend auf dem obigen Beispiel, würde `https://shoestore.com/check-out/thank-you*` effektiv jede URL erfassen, die bis zur Platzhaltervariable identisch ist, wie z.B.
 
 ### Erweiterte Verwendung von Platzhaltervariablen in Conversion-URLs
 
 Platzhalterwerte können überall im Unterpfad der URL platziert werden, einschließlich zwischen den Pfadabschnitten. Hier sind einige Beispiele unter Verwendung eines hypothetischen Schuhgeschäfts, `https://shoestore.com`, das seine verfügbaren Schuhe nach Kategorie, Typ und Farbe auf seiner Website kategorisiert. Ihre Seiten sind daher alle nach folgendem Format strukturiert: `https://shoestore.com/category/type/color/`
 
 - Beispiel 1: Diese Conversion-URL zählt Besuche auf Seiten im Verzeichnis „running-shoes“, die als „mens“ kategorisiert sind: `https://shoestore.com/running-shoes/*/mens*`
-  - In diesem Fall repräsentiert das erste Sternchen jeden Typ, während das zweite der empfohlene nachgestellte Platzhalter bei allen Conversion-URLs ist.
+ - In diesem Fall repräsentiert das erste Sternchen jeden Typ, während das zweite der empfohlene nachgestellte Platzhalter bei allen Conversion-URLs ist.
 - Beispiel 2: Diese Conversion-URL zählt Besuche auf Seiten für beliebige Schuhe, die als „childrens“ kategorisiert sind: `https://shoestore.com/*/childrens/*`
-  - In diesem Fall repräsentiert das erste Sternchen die Unterpfade für jede Schuhkategorie. Das zweite Sternchen fungiert sowohl als Schuhfarbe als auch als der empfohlene nachgestellte Platzhalter.
+ - In diesem Fall repräsentiert das erste Sternchen die Unterpfade für jede Schuhkategorie. Das zweite Sternchen fungiert sowohl als Schuhfarbe als auch als der empfohlene nachgestellte Platzhalter.
 
 ### Erweiterte Steuerung der Zuordnung
 
