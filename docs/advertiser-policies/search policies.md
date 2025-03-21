@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Brave Search Advertiser Terms of Service
@@ -84,30 +84,30 @@ To the fullest extent permitted by applicable law, you will indemnify, defend an
 We reserve the right to exercise sole control over the defense, at your expense, of any claim subject to indemnification under this Section 9. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Brave.
 
 ## 10. Disclaimers
-**To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:**
-- **(a) the Services are made available on an *"as is"* and *"as available"* basis without warranties of any kind;**
-- **(b) we expressly disclaim all implied warranties as to the Services, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement;**
-- **(c) we do not represent or warrant that the Services are reliable, current or error-free, meet your requirements, or that defects in the Services will be corrected; and**
-- **(d) we cannot and do not represent or warrant that the Services are free of malware or other harmful components.**
+To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:
+- (a) the Services are made available on an *"as is"* and *"as available"* basis without warranties of any kind;
+- (b) we expressly disclaim all implied warranties as to the Services, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement;
+- (c) we do not represent or warrant that the Services are reliable, current or error-free, meet your requirements, or that defects in the Services will be corrected; and
+- (d) we cannot and do not represent or warrant that the Services are free of malware or other harmful components.
 
 ## 11. Limitation of Liability
-- (a) **To the fullest extent permitted by applicable law:**
-    - **(i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and**
-    - **(ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.**
-- **(b) The limitations set forth in Section 11(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Brave.**
+- (a) To the fullest extent permitted by applicable law:
+    - (i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and
+    - (ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.
+- (b) The limitations set forth in Section 11(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Brave.
 - (c) Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the limitations of this section may not apply to you.
 
 ## 12. Release
 To the fullest extent permitted by applicable law, you release Brave and the other Brave Parties from responsibility, liability, claims, demands and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to disputes between you and other Brave Advertisers or the acts or omissions of third parties. You expressly waive any rights you may have under California Civil Code § 1542 as well as any other statute or common law principles that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
 
 ## 13. Dispute Resolution; Arbitration
-**Please read the following section carefully because it contains additional provisions applicable only to individuals located, resident, or domiciled in the United States. If you are located, resident, or domiciled in the United States, this section requires you to arbitrate certain disputes and claims with Brave and limits the manner in which you can seek relief from us.**
-**If you have a dispute with us, you agree to first contact your account manager. If you would prefer to send a written complaint via mail, please include as much information as possible in describing your complaint, including your support ticket number, how you would like us to resolve the complaint, and any other relevant information to us at legal@brave.com. The complaint process is completed when Brave responds to your complaint or 45 business days after the date we receive your complaint, whichever occurs first. You agree to complete this process before filing an arbitration demand and agree that that completing the complaint process is a condition precedent to filing an arbitration demand or any other litigation.**
+Please read the following section carefully because it contains additional provisions applicable only to individuals located, resident, or domiciled in the United States. If you are located, resident, or domiciled in the United States, this section requires you to arbitrate certain disputes and claims with Brave and limits the manner in which you can seek relief from us.
+If you have a dispute with us, you agree to first contact your account manager. If you would prefer to send a written complaint via mail, please include as much information as possible in describing your complaint, including your support ticket number, how you would like us to resolve the complaint, and any other relevant information to us at legal@brave.com. The complaint process is completed when Brave responds to your complaint or 45 business days after the date we receive your complaint, whichever occurs first. You agree to complete this process before filing an arbitration demand and agree that that completing the complaint process is a condition precedent to filing an arbitration demand or any other litigation.
 
 ### 1. Binding Arbitration.
 Except for any disputes, claims, suits, actions, causes of action, demands or proceedings arising from or related to the Services, including the Terms, Terms, the data we process in connection with the Services and our Advertiser Privacy Policy (collectively, "*Disputes*") in which either Party seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including, without limitation, copyrights, trademarks, trade names, logos, trade secrets or patents, or small claims disputes in which you or Brave seeks to bring an individual action in small claims court located in the county of your billing address, you and Brave:
-- **(i) waive your and Brave's respective rights to have any and all Disputes resolved in a court, and**
-- **(ii) waive your and Brave's respective rights to a jury trial. Instead, you and Brave will arbitrate disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).**
+- (i) waive your and Brave's respective rights to have any and all Disputes resolved in a court, and**
+- (ii) waive your and Brave's respective rights to a jury trial. Instead, you and Brave will arbitrate disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).
 
 ### 2. No Class Arbitrations, Class Actions or Representative Actions.
 Any Dispute is personal to you and Brave and will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action or any other type of representative or collective proceeding. There will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another individual or group of individuals. Further, a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals.
