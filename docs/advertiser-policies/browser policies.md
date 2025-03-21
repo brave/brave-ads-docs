@@ -45,7 +45,7 @@ Browser ad campaigns cannot advertise products and services for the following pr
 
 Note: While currently unavailable, advertising to restricted categories may become available in the future.
 
-## Extended policy for CBD advertising
+### Extended policy for CBD advertising
 
 This article covers the policy for advertising CBD products with Brave Ads in the United States. Brave Ads may support CBD advertising outside of the United States in the future, but currently only supports advertising CBD within the United States. This document only applies for CBD advertising, and does not apply to THC-related products.  Advertising for “CBD flower”, “CBD wraps” or any CBD products used for smoking is prohibited. Advertisements cannot click-through to landing pages that feature THC products for sale alongside the CBD product being advertised. 
 
@@ -57,7 +57,7 @@ You represent and warrant that your CBD advertisements (including any products, 
 
 You agree to indemnify, defend, and hold harmless Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents from and against all claims, demands, suits, or other assertions of rights by any third party, whether actual or alleged (collectively, “Claims”), and any resulting judgments, damages, losses, liabilities, settlements, costs, and expenses (including, but not limited to, attorney’s fees and costs), that arise out of or in connection with your CBD Advertisements. You agree to be solely responsible for defending any Claim against Brave and its affiliates, subsidiaries, officers, directors, shareholders, employees, and agents, subject to Brave’s right to participate with counsel of its own choosing; provided, that you will not agree to any settlement without Brave’s prior written consent.
 
-### CBD advertising is available in:
+#### CBD advertising is available in:
 - Delaware
 - Florida
 - Hawaii
@@ -75,7 +75,7 @@ You agree to indemnify, defend, and hold harmless Brave and its affiliates, subs
 - Tennessee
 - Utah
 
-### CBD advertising, excluding food/beverage products, is available in:
+#### CBD advertising, excluding food/beverage products, is available in:
 - Alaska
 - Arizona
 - Arkansas
@@ -99,7 +99,7 @@ You agree to indemnify, defend, and hold harmless Brave and its affiliates, subs
 - West Virginia
 - Wisconsin
 
-### CBD advertising is NOT available in:
+#### CBD advertising is NOT available in:
 - Idaho
 - Iowa
 - South Dakota
@@ -111,7 +111,7 @@ You agree to indemnify, defend, and hold harmless Brave and its affiliates, subs
 - New Hampshire
 - Nevada
 
-## Extended policy for Cryptocurrency
+### Extended policy for Cryptocurrency
 
 These guidelines are not final, and are subject to change. These guidelines and criteria intend to inform prospective blockchain advertisers, but Brave ultimately reserves the right to reject or disqualify advertisers for any reason. Please note that given the new and evolving nature of the blockchain sector and regulation, advertisers that may meet the following guidelines and criteria may be rejected during the final review, or after their campaigns have launched. 
 
@@ -130,7 +130,7 @@ For the purposes of these guidelines, “blockchain products, projects and relat
 
 To maintain the high standards of our platform, prospective advertisers in this category must follow the guidelines and criteria below. 
 
-### Advertiser website requirements
+#### Advertiser website requirements
 - A physical business address, jurisdiction and contact information in the Terms of Service
 - An official contact email, registered from the same domain as the advertiser website
 - Disclaimers and Risk Disclosures, general or specific to the company jurisdiction or countries in which the company provides products and/or services
@@ -138,36 +138,36 @@ To maintain the high standards of our platform, prospective advertisers in this 
 - Terms of service
 - Privacy policy
 
-#### The following types of business claims are not permitted:
+##### The following types of business claims are not permitted:
 - Unrealistic promises
 - Suggestions or implied guaranteed percentage return on investment
 - Claims of “SEC compliance” or listing on “SEC-compliant exchanges”
 - Token or cryptocurrency must not be explicitly presented solely as a speculative investment opportunity
 
-#### The following promotional campaigns are not permitted: 
+##### The following promotional campaigns are not permitted: 
 - Token pre-sales
 - Testnet or other pre-launch offerings
 - Simple Agreement for Future Tokens (SAFTs)
 
-## Market presence:
+#### Market presence:
 - If applicable, the company token or cryptocurrency is listed with matching information to the advertiser website on Coinmarketcap.com and/or Coingecko.com
 - If applicable, the company token or cryptocurrency should be listed or available on well-known centralized exchanges, or decentralized exchanges
 
 A search for the project should not return controversial reports or reports from users or customers of suspect behavior from the company.
 
-## Creative guidelines
-### Creative (ad) copy:
+#### Creative guidelines for cryptocurrency advertising
+##### Creative (ad) copy:
 - Should focus on the value proposition and use case of the project, token or service
 - Should not include speculative language, references to the token as an investment or claims of increasing value or guaranteed returns
 - Must not include speculative language related to value or price of the token or cryptocurrency
 - Guaranteed fixed APY or APR rates cannot be advertised
 - Using “bonus”, “up to” or other similar text is normally acceptable upon review
     - For example:  “Earn up to 5% in staking rewards.”
-### Click-through URLs:
+##### Click-through URLs:
 - Landing pages must direct users to the top level domain, or related subdomain for the registered advertiser
 - URLs should not contain third-party redirects that navigate users to exchanges, liquidity pools, or secondary sites
 
-## Pay-to-play games, casino raffles, lotteries
+#### Pay-to-play games, casino raffles, lotteries
 - Any advertiser requiring a payment or deposit, whether in fiat or crypto, to enter a contest will be denied
     - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
 - Play to Earn and Quests with engagement rewards are allowed
