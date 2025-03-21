@@ -133,7 +133,7 @@ As limited by the FAA, these Terms and the applicable JAMS Rules, the arbitrator
 The arbitration will allow for the discovery or exchange of non-privileged information relevant to the Dispute. For any arbitration you initiate, you will pay the filing fee, and Brave will pay the remaining JAMS fees and costs. For any arbitration initiated by Brave, Brave will pay all JAMS fees and costs.
 
 ### 7. Rules of JAMS
-The JAMS Rules and additional information about JAMS are available on the JAMS website. By agreeing to be bound by these Terms, you either
+The JAMS Rules and additional information about JAMS are available on the [JAMS website](https://www.jamsadr.com/). By agreeing to be bound by these Terms, you either
 - (i) acknowledge and agree that you have read and understand the JAMS Rules, or
 - (ii) waive your opportunity to read the JAMS Rules and any claim that the JAMS Rules are unfair or should not apply for any reason.
 ### 8. Severability of Dispute Resolution and Arbitration Provisions
