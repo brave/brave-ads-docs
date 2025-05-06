@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Conditions de Service pour les Annonceurs de Recherche Brave
@@ -97,19 +97,19 @@ Nous nous réservons le droit d'exercer un contrôle exclusif sur la défense de
 
 ## 10. Avertissements
 
-**Dans toute la mesure permise par la loi applicable et sauf indication contraire spécifiée par écrit par nous :**
+To the fullest extent permitted by applicable law and except as otherwise specified in writing by us:
 
-- **(a) les Services sont mis à disposition sur une base _"telle quelle"_ et _"selon disponibilité"_ sans garanties d'aucune sorte ;**
-- **(b) nous déclinons expressément toutes les garanties implicites concernant les Services, y compris, sans limitation, les garanties implicites de qualité marchande, d'adaptation à un usage particulier, de titre de propriété et d'absence de contrefaçon ;**
-- **(c) nous ne déclarons ni ne garantissons que les Services sont fiables, actuels ou exempts d'erreurs, qu'ils répondent à vos exigences, ou que les défauts des Services seront corrigés ; et**
-- **(d) nous ne pouvons pas et ne déclarons ni ne garantissons que les Services sont exempts de logiciels malveillants ou d'autres composants nuisibles.**
+- (a) the Services are made available on an _"as is"_ and _"as available"_ basis without warranties of any kind;
+- (b) we expressly disclaim all implied warranties as to the Services, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement;
+- (c) we do not represent or warrant that the Services are reliable, current or error-free, meet your requirements, or that defects in the Services will be corrected; and
+- (d) we cannot and do not represent or warrant that the Services are free of malware or other harmful components.
 
 ## 11. Limitation de responsabilité
 
-- (a) **Dans toute la mesure permise par la loi applicable :**
-    - **(i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and**
-    - **(ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.**
-- **(b) Les limitations énoncées à la section 11(a) ne limiteront ni n'excluront la responsabilité en cas de négligence grave, de fraude ou de faute intentionnelle, volontaire ou imprudente de Brave.**
+- (a) To the fullest extent permitted by applicable law:
+    - (i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and
+    - (ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.
+- (b) The limitations set forth in Section 11(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Brave.
 - (c) Certaines juridictions n'autorisent pas la limitation ou l'exclusion de responsabilité pour les dommages accessoires ou consécutifs. Par conséquent, certaines des limitations de cette section peuvent ne pas s'appliquer à vous.
 
 ## 12. Libération
@@ -118,15 +118,15 @@ Dans toute la mesure permise par la loi applicable, vous déchargez Brave et les
 
 ## 13. Résolution des litiges ; Arbitrage
 
-**Veuillez lire attentivement la section suivante car elle contient des dispositions supplémentaires applicables uniquement aux personnes situées, résidant ou domiciliées aux États-Unis. Si vous êtes situé, résident ou domicilié aux États-Unis, cette section vous oblige à arbitrer certains litiges et réclamations avec Brave et limite la manière dont vous pouvez demander réparation auprès de nous.**
-**Si vous avez un différend avec nous, vous acceptez de contacter d'abord votre gestionnaire de compte. Si vous préférez envoyer une plainte écrite par courrier, veuillez inclure autant d'informations que possible en décrivant votre plainte, y compris votre numéro de ticket de support, comment vous souhaitez que nous résolvions la plainte, et toute autre information pertinente à l'adresse legal@brave.com. Le processus de plainte est terminé lorsque Brave répond à votre plainte ou 45 jours ouvrables après la date de réception de votre plainte, selon la première éventualité. Vous acceptez de terminer ce processus avant de déposer une demande d'arbitrage et convenez que la complétion du processus de plainte est une condition préalable au dépôt d'une demande d'arbitrage ou de toute autre procédure judiciaire.**
+Please read the following section carefully because it contains additional provisions applicable only to individuals located, resident, or domiciled in the United States. If you are located, resident, or domiciled in the United States, this section requires you to arbitrate certain disputes and claims with Brave and limits the manner in which you can seek relief from us.
+If you have a dispute with us, you agree to first contact your account manager. Si vous préférez envoyer une plainte écrite par courrier, veuillez inclure autant d'informations que possible en décrivant votre plainte, y compris votre numéro de ticket de support, comment vous souhaitez que nous résolvions la plainte, et toute autre information pertinente à l'adresse legal@brave.com. Le processus de plainte est terminé lorsque Brave répond à votre plainte ou 45 jours ouvrables après la date de réception de votre plainte, selon la première éventualité. You agree to complete this process before filing an arbitration demand and agree that that completing the complaint process is a condition precedent to filing an arbitration demand or any other litigation.
 
 ### 1. Arbitrage contraignant.
 
 Sauf pour tout litige, réclamation, action, cause d'action, demande ou procédure découlant ou lié aux Services, y compris les Conditions, les Conditions, les données que nous traitons en lien avec les Services et notre politique de confidentialité des annonceurs (collectivement, les _"Litiges"_) dans lesquels l'une des parties cherche à obtenir une injonction ou une autre réparation équitable pour l'utilisation illégale présumée de la propriété intellectuelle, y compris, sans limitation, les droits d'auteur, les marques de commerce, les noms commerciaux, les logos, les secrets commerciaux ou les brevets, ou les litiges de petites créances dans lesquels vous ou Brave cherchez à intenter une action individuelle devant le tribunal des petites créances situé dans le comté de votre adresse de facturation, vous et Brave :
 
-- **(i) waive your and Brave's respective rights to have any and all Disputes resolved in a court, and**
-- Dans toute la mesure permise par la loi applicable, vous déchargez Brave et les autres Parties Brave de toute responsabilité, réclamation, demande et/ou dommage (réel et consécutif) de toute nature, connu et inconnu (y compris, mais sans s'y limiter, les réclamations pour négligence), découlant de ou lié à des litiges entre vous et d'autres annonceurs Brave ou les actes ou omissions de tiers.Vous renoncez expressément à tous les droits que vous pourriez avoir en vertu du Code civil de Californie § 1542 ainsi qu'à tout autre statut ou principe de common law qui limiterait par ailleurs la portée de cette libération pour inclure uniquement les réclamations que vous pourriez connaître ou soupçonner d'exister en votre faveur au moment de l'acceptation de cette libération. Au lieu de cela, vous et Brave arbitrerez les litiges par le biais d'un arbitrage contraignant (qui est la transmission d'un Litige à une ou plusieurs personnes chargées d'examiner le Litige et de prendre une décision finale et contraignante pour le résoudre au lieu de faire juger le Litige par un juge ou un jury devant un tribunal).\*\*
+- (i) waive your and Brave's respective rights to have any and all Disputes resolved in a court, and\*\*
+- (ii) waive your and Brave's respective rights to a jury trial. Instead, you and Brave will arbitrate disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).
 
 ### 2. Aucun arbitrage collectif, action collective ou actions représentatives.
 
@@ -160,7 +160,7 @@ L'arbitrage permettra la découverte ou l'échange d'informations non privilégi
 
 ### 7. Règles de JAMS
 
-Les Règles JAMS et des informations supplémentaires sur JAMS sont disponibles sur le site web de JAMS. En acceptant d'être lié par ces Conditions, vous
+The JAMS Rules and additional information about JAMS are available on the [JAMS website](https://www.jamsadr.com/). En acceptant d'être lié par ces Conditions, vous
 
 - (i) reconnaissez et acceptez que vous avez lu et compris les Règles de JAMS, ou
 - (ii) renoncez à votre opportunité de lire les Règles de JAMS et à toute réclamation selon laquelle les Règles de JAMS sont injustes ou ne devraient pas s'appliquer pour quelque raison que ce soit.
