@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ### Kampagnendetails
 
-Ruft alle von dir durchgeführten Kampagnen sowie die zugehörigen Anzeigengruppen und Anzeigen ab, die mit ihnen verknüpft sind, nach ID.
+Retrieves all campaigns you have ran. For all campaign formats except search, the ad sets and ads associated with them by ID are included.
 
 ```
 GET https://ads-serve.brave.com/v1/api/campaigns
