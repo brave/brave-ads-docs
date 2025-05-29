@@ -48,15 +48,15 @@ Que votre campagne soit achetée via un service géré ou en libre-service, tous
 
 ## Rapport de conversion dans Brave Ads Manager
 
-Le rapport de conversion dans Brave Ads Manager permet aux annonceurs de définir un événement de conversion sur leurs campagnes publicitaires avec Brave en utilisant une URL qui indique quand un utilisateur atteint un certain stade du parcours client 
+Le rapport de conversion dans Brave Ads Manager permet aux annonceurs de définir un événement de conversion sur leurs campagnes publicitaires avec Brave en utilisant une URL qui indique quand un utilisateur atteint un certain stade du parcours client
 
 **Points clés**
 
 - Les conversions sont comptabilisées lorsqu'un utilisateur de Brave qui a interagi avec votre publicité visite une page spécifique de votre site web.
 
-- La mesure est possible parce que Brave fonctionne à la fois comme navigateur et serveur publicitaire 
+- La mesure est possible parce que Brave fonctionne à la fois comme navigateur et serveur publicitaire
 
-- Le processus se déroule entièrement au niveau du navigateur, éliminant le besoin de cookies, de tags ou de scripts de suivi sur votre site web 
+- Le processus se déroule entièrement au niveau du navigateur, éliminant le besoin de cookies, de tags ou de scripts de suivi sur votre site web
 
 ### Limitations
 
@@ -67,7 +67,7 @@ Le rapport de conversion dans Brave Ads Manager permet aux annonceurs de défini
 
 ### Choisir une URL de conversion efficace
 
-Utiliser une URL de conversion fournit une mesure plus précise de l'efficacité d'une publicité que de simplement suivre les visites de la page d'accueil 
+Utiliser une URL de conversion fournit une mesure plus précise de l'efficacité d'une publicité que de simplement suivre les visites de la page d'accueil
 
 **Points clés :**
 
