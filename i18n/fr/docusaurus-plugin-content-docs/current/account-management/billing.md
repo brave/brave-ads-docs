@@ -20,7 +20,7 @@ Par défaut, les factures pour les campagnes gérées sont envoyées à la fin d
 
 ## Payer avec une carte de crédit
 
-Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées par carte de crédit via Stripe. 
+Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées par carte de crédit via Stripe.
 
 - Si vous achetez via un service géré, il suffit d’informer votre gestionnaire de compte que vous souhaitez payer par carte de crédit.
 - Si vous achetez via Brave Ads Manager, il vous sera demandé de pré-payer votre campagne en « rechargeant » votre compte via Stripe.
