@@ -48,15 +48,15 @@ Independentemente de sua campanha ser adquirida via Serviço Gerenciado ou Autoa
 
 ## Relatórios de Conversão no Gerenciador de Anúncios Brave
 
-O relatório de conversão no Gerenciador de Anúncios Brave permite que os anunciantes definam um evento de conversão em suas campanhas de anúncios no Brave usando uma URL que indica quando um usuário atinge um determinado estágio da jornada do cliente. 
+O relatório de conversão no Gerenciador de Anúncios Brave permite que os anunciantes definam um evento de conversão em suas campanhas de anúncios no Brave usando uma URL que indica quando um usuário atinge um determinado estágio da jornada do cliente.
 
 **Pontos principais**
 
 - As conversões são contabilizadas quando um usuário do Brave que interagiu com seu anúncio visita uma página específica em seu site.
 
-- A medição é possível porque o Brave funciona tanto como navegador quanto como servidor de anúncios. 
+- A medição é possível porque o Brave funciona tanto como navegador quanto como servidor de anúncios.
 
-- O processo ocorre inteiramente no navegador, eliminando a necessidade de cookies, tags ou scripts de rastreamento em seu site. 
+- O processo ocorre inteiramente no navegador, eliminando a necessidade de cookies, tags ou scripts de rastreamento em seu site.
 
 ### Limitações
 
@@ -67,12 +67,12 @@ O relatório de conversão no Gerenciador de Anúncios Brave permite que os anun
 
 ### Escolhendo uma URL de conversão eficaz
 
-Usar uma URL de conversão fornece uma medida mais precisa da eficácia do anúncio do que simplesmente rastrear visitas à página inicial. 
+Usar uma URL de conversão fornece uma medida mais precisa da eficácia do anúncio do que simplesmente rastrear visitas à página inicial.
 
 **Pontos principais:**
 
 - Use um padrão de URL que evite falsos positivos.
- - Não use a URL base do seu site como URL de conversão. 
+ - Não use a URL base do seu site como URL de conversão.
   - Cliques e visitas ao site já são contabilizados por padrão em todas as campanhas dos Anúncios Brave.
 - Escolha uma URL que represente uma ação mais profunda em seu site, como:
  - Página de conclusão de cadastro
