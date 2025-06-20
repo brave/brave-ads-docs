@@ -16,7 +16,7 @@ sidebar_position: 4
 
 ### Detalles de campaña
 
-Retrieves all campaigns you have ran. For all campaign formats except search, the ad sets and ads associated with them by ID are included.
+Este recupera todas las campañas que ha ejecutado, así como los conjuntos de anuncios y los anuncios asociados a ellas por ID.
 
 ```
 OBTENER https://ads-serve.brave.com/v1/api/campaigns
