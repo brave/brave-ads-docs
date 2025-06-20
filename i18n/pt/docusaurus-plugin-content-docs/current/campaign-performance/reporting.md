@@ -26,71 +26,67 @@ Scripts bloqueados desativarão a maioria, senão todas, as funções de rastrea
 
 ## Relatórios do Gerenciador de Anúncios Brave
 
-Independentemente de sua campanha ser adquirida via Serviço Gerenciado ou Autoatendimento, todos os anunciantes terão acesso ao dashboard de relatórios dos Anúncios Brave para acompanhar o desempenho das campanhas. Os dashboards de campanhas são atualizados a cada hora, com a opção de exportar relatórios para campanhas de anúncios de Notificação e Feed de Notícias sob demanda.
+Independentemente de sua campanha ser adquirida via Serviço Gerenciado ou Autoatendimento, todos os anunciantes terão acesso ao dashboard de relatórios dos Anúncios Brave para acompanhar o desempenho das campanhas. Campaign dashboards update hourly with the option to export reporting for Notification ad campaigns on demand.
 
 ### Métricas de relatórios disponíveis no Gerenciador de Anúncios Brave
 
-| Métrica                     | Descrição                                                                                                                                                                                                                                                                                                                                                                    | Anúncios de Pesquisa | Anúncios de Nova Guia | Anúncios do feed de notícias | Anúncios de notificação |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------- | ---------------------------- | ----------------------- |
-| Visualizações               | Contabilizado quando um anúncio é exibido na tela por pelo menos um segundo.                                                                                                                                                                                                                                                                                 | X                    | X                     | X                            | X                       |
-| Cliques                     | Contabilizado quando um usuário clica no anúncio. Não inclui cliques para dispensar.                                                                                                                                                                                                                                                         | X                    | X                     | X                            | X                       |
-| Rejeitado                   | Contabilizado quando um usuário clica no botão "fechar" ou "x" para remover um anúncio.                                                                                                                                                                                                                                                                      |                      |                       | X                            | X                       |
-| Visitas ao Site             | Contabilizado quando o usuário clica em um anúncio e passa pelo menos 5 segundos no site do anunciante, com o site aberto em uma guia ativa do navegador. Os 5 segundos devem ser gastos no site após chegar clicando no link do anúncio, e a guia deve permanecer aberta e ativa durante todo o tempo para que a visita seja contabilizada. |                      |                       | X                            | X                       |
-| Votos positivos e negativos | Contabilizado quando um usuário vota positiva ou negativamente em um anúncio no histórico de anúncios.                                                                                                                                                                                                                                                       |                      |                       |                              | X                       |
-| Conversões                  | Soma de todas as conversões, incluindo conversões anônimas sem atribuição de clique ou visualização especificada. Contabilizado quando um usuário alcança uma página de destino de conversão designada.                                                                                                                                      |                      |                       | X                            | X                       |
-| Conversões por Cliques      | Contabilizado quando um usuário chega a uma página de conversão designada após uma visualização e clique no anúncio.                                                                                                                                                                                                                                         |                      |                       | X                            | X                       |
-| Conversões por Visualização | Contabilizado quando um usuário chega a uma página de conversão designada após uma visualização de anúncio.                                                                                                                                                                                                                                                  |                      |                       | X                            | X                       |
-| CTR                         | A taxa de cliques é uma porcentagem que expressa os cliques em relação às visualizações.                                                                                                                                                                                                                                                                     | X                    | X                     | X                            | X                       |
-| SVR                         | A taxa de visitas ao site é uma porcentagem que expressa as visitas ao site em relação às visualizações.                                                                                                                                                                                                                                                     |                      | X                     | X                            | X                       |
-| CPA                         | O custo por ação encontrado dividindo o custo total da campanha pelo número de conversões.                                                                                                                                                                                                                                                                   |                      |                       | X                            | X                       |
-| Taxa de dispensa            | Uma porcentagem que expressa os anúncios rejeitados em relação às visualizações.                                                                                                                                                                                                                                                                             |                      |                       |                              | X                       |
-| Gasto                       | Orçamento gasto pela plataforma.                                                                                                                                                                                                                                                                                                                             | X                    | X                     | X                            | X                       |
+| Métrica                     | Descrição                                                                                                                                                                                                                                                                                                                                                                    | Notification | Anúncios de Nova Guia | Pesquisa |   |   |   |   |   |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------- | -------- | - | - | - | - | - |
+| Visualizações               | Contabilizado quando um anúncio é exibido na tela por pelo menos um segundo.                                                                                                                                                                                                                                                                                 | X            | X                     | X        |   |   |   |   |   |
+| Cliques                     | Contabilizado quando um usuário clica no anúncio. Não inclui cliques para dispensar.                                                                                                                                                                                                                                                         | X            | X                     | X        |   |   |   |   |   |
+| CTR                         | A taxa de cliques é uma porcentagem que expressa os cliques em relação às visualizações.                                                                                                                                                                                                                                                                     | X            | X                     | X        |   |   |   |   |   |
+| Rejeitado                   | Contabilizado quando um usuário clica no botão "fechar" ou "x" para remover um anúncio.                                                                                                                                                                                                                                                                      | X            |                       |          |   |   |   |   |   |
+| Visitas ao Site             | Contabilizado quando o usuário clica em um anúncio e passa pelo menos 5 segundos no site do anunciante, com o site aberto em uma guia ativa do navegador. Os 5 segundos devem ser gastos no site após chegar clicando no link do anúncio, e a guia deve permanecer aberta e ativa durante todo o tempo para que a visita seja contabilizada. | X            |                       |          |   |   |   |   |   |
+| Votos positivos e negativos | Contabilizado quando um usuário vota positiva ou negativamente em um anúncio no histórico de anúncios.                                                                                                                                                                                                                                                       | X            |                       |          |   |   |   |   |   |
+| Conversões                  | Soma de todas as conversões, incluindo conversões anônimas sem atribuição de clique ou visualização especificada. Contabilizado quando um usuário alcança uma página de destino de conversão designada.                                                                                                                                      | X            |                       |          |   |   |   |   |   |
+| Conversões por Cliques      | Contabilizado quando um usuário chega a uma página de conversão designada após uma visualização e clique no anúncio.                                                                                                                                                                                                                                         | X            |                       |          |   |   |   |   |   |
+| Conversões por Visualização | Contabilizado quando um usuário chega a uma página de conversão designada após uma visualização de anúncio.                                                                                                                                                                                                                                                  | X            |                       |          |   |   |   |   |   |
 
 ## Relatórios de Conversão no Gerenciador de Anúncios Brave
 
-O relatório de conversão no Gerenciador de Anúncios Brave permite que os anunciantes definam um evento de conversão em suas campanhas de anúncios no Brave usando uma URL que indica quando um usuário atinge um determinado estágio da jornada do cliente. 
+O relatório de conversão no Gerenciador de Anúncios Brave permite que os anunciantes definam um evento de conversão em suas campanhas de anúncios no Brave usando uma URL que indica quando um usuário atinge um determinado estágio da jornada do cliente.
 
 **Pontos principais**
 
 - As conversões são contabilizadas quando um usuário do Brave que interagiu com seu anúncio visita uma página específica em seu site.
 
-- A medição é possível porque o Brave funciona tanto como navegador quanto como servidor de anúncios. 
+- A medição é possível porque o Brave funciona tanto como navegador quanto como servidor de anúncios.
 
-- O processo ocorre inteiramente no navegador, eliminando a necessidade de cookies, tags ou scripts de rastreamento em seu site. 
+- O processo ocorre inteiramente no navegador, eliminando a necessidade de cookies, tags ou scripts de rastreamento em seu site.
 
 ### Limitações
 
 - As URLs das páginas de conversão **precisam** seguir estas condições para serem aprovadas:
- - Estar no mesmo eTLD+1 que o domínio do e-mail utilizado
-  - Por exemplo, se meu endereço de e-mail for `admin@exemplo.com`, posso definir a URL de conversão como uma página em `https://exemplo.com` ou um subdomínio desse site, como `https://loja.exemplo.com`.
+    - Estar no mesmo eTLD+1 que o domínio do e-mail utilizado
+        - Por exemplo, se meu endereço de e-mail for `admin@exemplo.com`, posso definir a URL de conversão como uma página em `https://exemplo.com` ou um subdomínio desse site, como `https://loja.exemplo.com`.
 - O Brave pode não conseguir contabilizar a conversão se um usuário sair do navegador Brave (por exemplo, ao visitar aplicativos de terceiros, como lojas de aplicativos). Nesses casos, os anunciantes devem usar métodos de relatório independentes adicionais fornecidos por terceiros.
 
 ### Escolhendo uma URL de conversão eficaz
 
-Usar uma URL de conversão fornece uma medida mais precisa da eficácia do anúncio do que simplesmente rastrear visitas à página inicial. 
+Usar uma URL de conversão fornece uma medida mais precisa da eficácia do anúncio do que simplesmente rastrear visitas à página inicial.
 
 **Pontos principais:**
 
 - Use um padrão de URL que evite falsos positivos.
- - Não use a URL base do seu site como URL de conversão. 
-  - Cliques e visitas ao site já são contabilizados por padrão em todas as campanhas dos Anúncios Brave.
+    - Não use a URL base do seu site como URL de conversão.
+        - Cliques e visitas ao site já são contabilizados por padrão em todas as campanhas dos Anúncios Brave.
 - Escolha uma URL que represente uma ação mais profunda em seu site, como:
- - Página de conclusão de cadastro
- - Página de boas-vindas à assinatura de e-mail
- - Página de confirmação de compra
-  - Por exemplo, em uma campanha de anúncios para `https://lojadesapatos.com`, uma URL de conversão eficaz seria: `https://lojadesapatos.com/finalizar-compra/obrigado*`
+    - Página de conclusão de cadastro
+    - Página de boas-vindas à assinatura de e-mail
+    - Página de confirmação de compra
+        - Por exemplo, em uma campanha de anúncios para `https://lojadesapatos.com`, uma URL de conversão eficaz seria: `https://lojadesapatos.com/finalizar-compra/obrigado*`
 - Como regra geral, todas as URLs de conversão devem terminar em variáveis coringas para contabilizar quaisquer parâmetros de consulta adicionais que possam interromper o processo de contagem de conversões.
- - Um asterisco (\*) pode ser usado como uma variável coringa em sua URL de conversão que informará aos Anúncios Brave para tratar essa posição na URL como qualquer valor possível. Isso pode ser usado em uma variedade de situações em que as URLs dos sites de conversão seguem caminhos semelhantes, mas incluem valores diferentes, como diretórios de produtos ou IDs de pedidos únicos.
-  - Por exemplo, com base no exemplo acima, `https://lojadesapatos.com/finalizar-compra/obrigado*` englobaria efetivamente qualquer URL que seja igual até a variável coringa, como `https://lojadesapatos.com/finalizar-compra/obrigado/orderID=63551`
+    - Um asterisco (\*) pode ser usado como uma variável coringa em sua URL de conversão que informará aos Anúncios Brave para tratar essa posição na URL como qualquer valor possível. Isso pode ser usado em uma variedade de situações em que as URLs dos sites de conversão seguem caminhos semelhantes, mas incluem valores diferentes, como diretórios de produtos ou IDs de pedidos únicos.
+        - Por exemplo, com base no exemplo acima, `https://lojadesapatos.com/finalizar-compra/obrigado*` englobaria efetivamente qualquer URL que seja igual até a variável coringa, como `https://lojadesapatos.com/finalizar-compra/obrigado/orderID=63551`
 
 ### Uso avançado de variáveis coringas em URLs de conversão
 
 Valores coringas podem ser colocados em qualquer lugar do subcaminho da URL, incluindo entre seções do caminho. Aqui estão alguns exemplos usando uma loja de sapatos hipotética, `https://lojadesapatos.com`, que categoriza seus sapatos disponíveis por categoria, tipo e cor em todo o site. Suas páginas são estruturadas usando o seguinte formato: `https://lojadesapatos.com/categoria/tipo/cor/`
 
 - Exemplo 1: Esta URL de conversão contará visitas a páginas no diretório "tenis-de-corrida" categorizadas como "masculino": `https://lojadesapatos.com/tenis-de-corrida/*/masculino*`
- - Neste caso, o primeiro asterisco representa qualquer tipo, enquanto o segundo é o coringa final recomendado em todas as URLs de conversão.
+    - Neste caso, o primeiro asterisco representa qualquer tipo, enquanto o segundo é o coringa final recomendado em todas as URLs de conversão.
 - Exemplo 2: Esta URL de conversão contará visitas a páginas de qualquer calçado que seja "infantil": `https://lojadesapatos.com/*/infantil/*`
- - Nesse caso, o primeiro asterisco representa os subcaminhos para qualquer categoria de calçados. O segundo asterisco atua tanto como a cor do calçado quanto cumpre o papel do coringa final recomendado.
+    - Nesse caso, o primeiro asterisco representa os subcaminhos para qualquer categoria de calçados. O segundo asterisco atua tanto como a cor do calçado quanto cumpre o papel do coringa final recomendado.
 
 ### Controles avançados para atribuição
 
