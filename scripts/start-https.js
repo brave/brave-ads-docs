@@ -23,8 +23,9 @@ function generateCertificates() {
   console.log('🔐 Generating self-signed certificates...');
   
   try {
-    // Generate self-signed certificate using OpenSSL
-    execSync(`openssl req -x509 -newkey rsa:2048 -keyout "${keyPath}" -out "${certPath}" -days 365 -nodes -subj "/C=US/ST=State/L=City/O=Organization/CN=localhost"`, { stdio: 'inherit' });
+    // Generate self-signed certificate using OpenSSL with secure flags
+    const opensslCommand = `openssl req -x509 -newkey rsa:2048 -sha256 -keyout "${keyPath}" -out "${certPath}" -days 365 -nodes -subj "/C=US/ST=State/L=City/O=Organization/CN=localhost" -addext "subjectAltName=DNS:localhost,DNS:127.0.0.1,IP:127.0.0.1"`;
+    execSync(opensslCommand, { stdio: 'inherit' });
     console.log('✅ Certificates generated successfully');
     return { certPath, keyPath };
   } catch (error) {

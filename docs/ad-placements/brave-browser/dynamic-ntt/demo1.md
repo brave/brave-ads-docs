@@ -26,5 +26,5 @@ import DynamicNTT from '@site/src/pages/dynamic-ntt';
 
 `}</style>
 
-<DynamicNTT backgroundPath="https://44417002-9501-4222-84f5-18e91bdc0117.ads-dev.s.brave.io/index.html" />
+<DynamicNTT backgroundPath="https://02890f7a-5c00-4154-a06e-10a120132f3a.ads-dev.s.brave.io/index.html" />
 
