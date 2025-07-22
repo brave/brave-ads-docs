@@ -1,0 +1,9 @@
+{
+  "label": "Dynamic NTT",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Dynamic NTT Documentation",
+    "description": "Explore interactive demos and documentation for Brave's Dynamic New Tab Takeover (NTT)."
+  }
+} 

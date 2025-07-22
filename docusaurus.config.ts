@@ -51,7 +51,7 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         'http-equiv': 'Content-Security-Policy',
-        content: `default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
+        content: `default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-src 'self' data: blob: https://*.ads-dev.s.brave.io; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
       },
     }
   ],
@@ -72,6 +72,17 @@ const config: Config = {
   ],
   
   staticDirectories: ["static"],
+
+  // HTTPS Configuration for local development
+  customFields: {
+    // This will be used by the development server
+    https: {
+      enabled: true,
+      // You can specify custom certificate paths if needed
+      // cert: './certs/cert.pem',
+      // key: './certs/key.pem',
+    },
+  },
 
   themeConfig: {
     navbar: {
