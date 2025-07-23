@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import styles from './dynamic-ntt.module.css';
 
 interface DynamicNTTProps {
-  backgroundPath?: string;
+  src?: string;
 }
 
-export default function DynamicNTT({ backgroundPath = "/assets2/index.html" }: DynamicNTTProps): React.JSX.Element {
+export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
   const [showMobilePopup, setShowMobilePopup] = useState(false);
 
   const handleMobileClick = () => {
@@ -21,14 +21,28 @@ export default function DynamicNTT({ backgroundPath = "/assets2/index.html" }: D
     e.stopPropagation();
   };
 
+  const csp = [
+    "default-src 'none';",
+    "script-src 'self';",
+    "style-src 'self';",
+    "img-src 'self';",
+    "media-src 'self';",
+    "font-src 'self';",
+    "base-uri 'none';",
+    "form-action 'none';",
+  ].join(" ");
+
   return (
-    <div className={styles.dnttRoot}>
+    <div className={`${styles.dnttRoot} dynamic-ntt-demo`}>
       {/* Background iframe */}
       <iframe
         id="background-iframe"
-        src={backgroundPath}
+        src={src}
         className={styles.backgroundIframe}
         title="Background Content"
+        sandbox="allow-scripts"
+        referrerPolicy="no-referrer"
+        csp={csp}
       />
 
       {/* Overlay content */}
@@ -50,9 +64,12 @@ export default function DynamicNTT({ backgroundPath = "/assets2/index.html" }: D
               <div className={styles.mobileImageCrop}>
                 <iframe
                   id="mobile-background-iframe"
-                  src={backgroundPath}
+                  src={src}
                   className={styles.mobileBackgroundIframe}
                   title="Mobile Background Content"
+                  sandbox="allow-scripts"
+                  referrerPolicy="no-referrer"
+                  csp={csp}
                 />
               </div>
             </div>
