@@ -53,7 +53,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
         onLoad={() => setIframeLoaded(true)}
         />
 
-      {/* Overlay content */}
+      {/* Emulation of browser provided new tab page furniture */}
       <div className={styles.overlayContent}>
         <div id="root">
           <div className={styles.mainContainer}>
