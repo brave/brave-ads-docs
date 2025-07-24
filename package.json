@@ -28,6 +28,9 @@
     "@docusaurus/types": "3.8.1",
     "typescript": "5.8.3"
   },
+  "overrides": {
+    "webpack-dev-server": "^5.2.1"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
