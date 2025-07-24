@@ -41,7 +41,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
         </div>
       )}
       
-      {/* Background iframe */}
+      {/* NTT content */}
       <iframe
         id="background-iframe"
         src={src}
