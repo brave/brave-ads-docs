@@ -36,3 +36,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   height: 100vh !important;
   z-index: 1000 !important;
 }
+
+.hidden {
+  display: none !important;
+}
+
+/* Hide navigation links to demo pages - multiple selectors for better coverage */
+nav a[href*="dynamic-ntt-demos"]{
+  display: none !important;
+}

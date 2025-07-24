@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_class_name: hidden
 ---
 
 # Dynamic NTT Demo2
@@ -8,4 +8,4 @@ This demo showcases the Dynamic NTT interface with enhanced effects and visual a
 
 import DynamicNTT from '@site/src/pages/dynamic-ntt';
 
-<DynamicNTT src="https://0732516e-fe33-4cb8-9b0e-6ebc140cec82.ads.s.brave.io/index.html" />
+<DynamicNTT src="https://01deef32-ae07-47fc-91df-ce65de9c81f5.ads.s.brave.io/index.html" />

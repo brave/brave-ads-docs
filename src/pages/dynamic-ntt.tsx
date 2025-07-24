@@ -1,25 +1,25 @@
 import React, { useState } from 'react';
 import styles from './dynamic-ntt.module.css';
+import "@fontsource/poppins/600.css";
+import "@fontsource/inter/400.css";
 
 interface DynamicNTTProps {
   src?: string;
 }
 
+// react 18 doesn't permit the (experimental but supported by chromium) csp
+// attribute on iframes. Add it so typescript doesn't complain.
+declare global {
+  // eslint-disable-next-line @typescript-eslint/no-namespace
+  namespace React {
+    interface IframeHTMLAttributes<T> extends HTMLAttributes<T> {
+      csp?: string | undefined;
+    }
+  }
+}
+
 export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
-  const [showMobilePopup, setShowMobilePopup] = useState(false);
-
-  const handleMobileClick = () => {
-    setShowMobilePopup(!showMobilePopup);
-  };
-
-  const handleOverlayClick = () => {
-    setShowMobilePopup(false);
-  };
-
-  const handlePopupClick = (e: React.MouseEvent) => {
-    // Prevent the click from bubbling up to the overlay
-    e.stopPropagation();
-  };
+  const [iframeLoaded, setIframeLoaded] = useState(false);
 
   const csp = [
     "default-src 'none';",
@@ -31,51 +31,30 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
     "base-uri 'none';",
     "form-action 'none';",
   ].join(" ");
-
   return (
     <div className={`${styles.dnttRoot} dynamic-ntt-demo`}>
+      {/* Loading spinner */}
+      {!iframeLoaded && (
+        <div className={styles.loadingSpinner}>
+          <div className={styles.spinner}></div>
+          <div className={styles.loadingText}>Loading Brave Demo...</div>
+        </div>
+      )}
+      
       {/* Background iframe */}
       <iframe
         id="background-iframe"
         src={src}
-        className={styles.backgroundIframe}
+        className={`${styles.backgroundIframe} ${iframeLoaded ? styles.loaded : ''}`}
         title="Background Content"
         sandbox="allow-scripts"
         referrerPolicy="no-referrer"
         csp={csp}
-      />
+        onLoad={() => setIframeLoaded(true)}
+        />
 
       {/* Overlay content */}
       <div className={styles.overlayContent}>
-        {/* Mobile popup overlay */}
-        {showMobilePopup && (
-          <div 
-            className={styles.mobileOverlay} 
-            onClick={handleOverlayClick}
-          >
-            <div className={styles.mobilePopup} onClick={handlePopupClick}>
-              <img
-                src="/img/iphone.png"
-                width="350"
-                height="716"
-                draggable={false}
-                className={styles.mobileIphoneCover}
-              />
-              <div className={styles.mobileImageCrop}>
-                <iframe
-                  id="mobile-background-iframe"
-                  src={src}
-                  className={styles.mobileBackgroundIframe}
-                  title="Mobile Background Content"
-                  sandbox="allow-scripts"
-                  referrerPolicy="no-referrer"
-                  csp={csp}
-                />
-              </div>
-            </div>
-          </div>
-        )}
-
         <div id="root">
           <div className={styles.mainContainer}>
             <div id="main" className={styles.mainContent} data-target="background">
@@ -179,7 +158,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                   <div className={styles.topSitesContainer}>
                     <div className={styles.topSitesList}>
                       <div>
-                        <a href="/ad-placements/brave-browser/dynamic-ntt/demo1" className={styles.pageLink}>
+                        <a href="/dynamic-ntt-demos/demo1" className={styles.pageLink}>
                           <div 
                             id="page1" 
                             className={styles.topSiteItem} 
@@ -192,7 +171,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         </a>
                       </div>
                       <div>
-                        <a href="/ad-placements/brave-browser/dynamic-ntt/demo2" className={styles.pageLink}>
+                        <a href="/dynamic-ntt-demos/demo2" className={styles.pageLink}>
                           <div  id="page2"  className={styles.topSiteItem} data-target="page2">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
@@ -201,7 +180,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         </a>
                       </div>
                       <div>
-                        <a href="/category/dynamic-ntt" className={styles.pageLink}>
+                        <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink}>
                           <div id="page4" className={styles.topSiteItem} data-target="page4">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <svg className={styles.homeIcon} viewBox="0 0 24 24">
@@ -217,13 +196,6 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                           </div>
                           Home
                         </a>
-                      </div>
-                      <div>
-                        <div id="page5" className={styles.topSiteItem} onClick={handleMobileClick}>
-                          <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
-                          <img className={styles.mobileIcon} src="/img/_icons/iPhone.png" alt="" draggable={false} />
-                        </div>
-                        Mobile
                       </div>
                     </div>
                   </div>

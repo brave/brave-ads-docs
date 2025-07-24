@@ -51,7 +51,7 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         'http-equiv': 'Content-Security-Policy',
-        content: `default-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-src  https://*.ads.s.brave.io; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
+        content: `default-src 'none'; img-src 'self' data:; script-src 'self' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; object-src 'none'; media-src 'none'; frame-src  https://*.ads.s.brave.io; connect-src https://*.algolia.net https://*.algolianet.com https://*.algolia.io;`,
       },
     }
   ],

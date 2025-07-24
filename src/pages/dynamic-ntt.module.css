@@ -1,5 +1,48 @@
-/* Import Poppins font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+/* Brave Browser Animated Background */
+
+@keyframes braveStars {
+    0%, 100% { opacity: 0.3; transform: translateY(0px); }
+    50% { opacity: 1; transform: translateY(-10px); }
+}
+
+/* Loading Spinner */
+.loadingSpinner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background: rgba(0, 0, 0, 0.8); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(2px);
+}
+
+.spinner {
+    width: 60px;
+    height: 60px;
+    border: 4px solid rgba(115, 122, 222, 0.3);
+    border-top: 4px solid #737ADE;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+}
+
+.loadingText {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
 
 
 /* ===== ROOT CONTAINER ===== */
@@ -8,16 +51,46 @@
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
     user-select: none;
-    color: #3b3b3b;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", sans-serif;
-    font-size: 13px;
     margin: 0;
-    background: none;
+    background: 
+        radial-gradient(circle at 20% 80%, rgba(115, 122, 222, 0.8) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(76, 84, 210, 0.6) 0%, transparent 50%),
+        radial-gradient(circle at 40% 40%, rgba(160, 165, 235, 0.4) 0%, transparent 50%),
+        linear-gradient(135deg, #1a1a2e 0%, #16213e 25%, #0f3460 50%, #533483 75%, #1a1a2e 100%);
+    animation: bravePulse 8s ease-in-out infinite;
     position: relative;
     width: 100%;
     height: 100vh;
     overflow: hidden;
 }
+
+/* Floating Brave Elements */
+.dnttRoot::before,
+.dnttRoot::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    /* background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23737ADE"><path d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"/></svg>') no-repeat center; */
+    background: url('/img/brave-star.svg') no-repeat center;
+    background-size: contain;
+    opacity: 0.3;
+    animation: braveStars 4s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.dnttRoot::before {
+    top: 20%;
+    left: 10%;
+    animation-delay: 0s;
+}
+
+.dnttRoot::after {
+    top: 60%;
+    right: 15%;
+    animation-delay: 2s;
+}
+
 
 /* ===== BACKGROUND IFRAME ===== */
 .backgroundIframe {
@@ -29,6 +102,12 @@
     border: none;
     z-index: 1;
     pointer-events: auto !important;
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
+}
+
+.backgroundIframe.loaded {
+    opacity: 1;
 }
 
 /* ===== OVERLAY CONTENT ===== */
@@ -42,9 +121,7 @@
 /* Only enable pointer events for specific interactive elements */
 .overlayContent button,
 .overlayContent a,
-.overlayContent .topSiteItem,
-.overlayContent .mobileOverlay,
-.overlayContent .mobilePopup {
+.overlayContent .topSiteItem{
     pointer-events: auto;
 }
 
@@ -210,9 +287,11 @@
 }
 
 .styledTitleTab {
-    --leo-font-heading-h4: 600 16px / 26px Poppins;
     color: #fff;
-    font: 600 16px / 26px Poppins;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
     cursor: pointer;
     padding: 16px 24px 24px;
     margin-bottom: -16px;
@@ -223,6 +302,7 @@
     align-items: center;
     gap: 8px;
 }
+
 
 .cardHeaderIcon {
     display: flex !important; 
@@ -273,7 +353,10 @@
 }
 
 .styledTitle {
-    font: 600 16px / 26px Poppins;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 26px !important;
     gap: 8px;
     color: #ffffff;
     font-size: 14px;
@@ -285,6 +368,10 @@
 
 .content {
     color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
 }
 
 .welcomeText {
@@ -416,11 +503,6 @@
 canvas.pageImageCanvas {
     width: 56%;
     height: auto;
-}
-
-.mobileIcon {
-    /* height: 80%; */
-    width: auto;
 }
 
 .pageLink {
@@ -558,63 +640,6 @@ canvas.pageImageCanvas {
     pointer-events: none !important;
     opacity: 1;
     transition: opacity 0.4s ease-in-out 0s;
-}
-
-/* ===== MOBILE POPUP ===== */
-.mobileOverlay {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 100vw !important;
-    height: 100vh !important;
-    background: rgba(0, 0, 0, 0.5) !important;
-    z-index: 1040 !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    pointer-events: auto !important;
-}
-
-.mobilePopup {
-    position: relative !important;
-    z-index: 1050 !important;
-    pointer-events: auto !important;
-    width: 350px;
-    height: 716px;
-    overflow: hidden;
-    box-shadow: 0px 0px 256px #131313;
-    border-radius: 32px;
-}
-
-.mobileIphoneCover {
-    pointer-events: none !important;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1090 !important;
-    width: 100%;
-    height: 100%;
-}
-
-.mobileImageCrop {
-    pointer-events: auto !important;
-    position: absolute;
-    top: 100px;
-    left: 0px;
-    width: 350px;
-    height: 550px; /* Increased height to show more content */
-    overflow: hidden;
-    z-index: 1 !important;
-}
-
-.mobileBackgroundIframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 120%; /* Extend height to show full content */
-    border: none;
-    pointer-events: auto;
 }
 
 /* ===== RESPONSIVE DESIGN ===== */
