@@ -1,3 +1,4 @@
+// This script is intended to be used to start the development server with HTTPS locally only.
 const fs = require('node:fs');
 const path = require('node:path');
 const { execSync } = require('node:child_process');
