@@ -8,4 +8,4 @@ sidebar_position: 2
 
 - **[Pan & Zoom - 1](/demos/dynamic-ntt/pan-and-zoom-1)**
 - **[Carousel - autofade](/demos/dynamic-ntt/carousel-autofade)** 
-- **[Slider](/demos/dynamic-ntt-demos/slider)**
+- **[Slider](/demos/dynamic-ntt/slider)**

@@ -42,6 +42,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 /* Hide navigation links to demo pages - multiple selectors for better coverage */
-nav a[href*="dynamic-ntt-demos"]{
+nav a[href*="demos"]{
   display: none !important;
 }
