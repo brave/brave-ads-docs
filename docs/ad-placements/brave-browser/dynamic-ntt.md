@@ -7,6 +7,5 @@ sidebar_position: 2
 **[Contact us](https://ads.brave.com/contact)** to inquire about Dynamic New Tab Takeovers.
 
 - **[Pan & Zoom - 1](/demos/dynamic-ntt/pan-and-zoom-1)**
-- **[Pan & Zoom - 2](/demos/dynamic-ntt/pan-and-zoom-2)**
 - **[Carousel - autofade](/demos/dynamic-ntt/carousel-autofade)** 
 - **[Slider](/demos/dynamic-ntt-demos/slider)**
