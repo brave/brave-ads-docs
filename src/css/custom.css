@@ -26,3 +26,22 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Dynamic NTT Demo specific styles */
+.dynamic-ntt-demo {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: 1000 !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Hide navigation links to demo pages - multiple selectors for better coverage */
+nav a[href*="demos"]{
+  display: none !important;
+}
