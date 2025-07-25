@@ -158,37 +158,37 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                   <div className={styles.topSitesContainer}>
                     <div className={styles.topSitesList}>
                       <div>
-                        <a href="/dynamic-ntt-demos/demo1" className={styles.pageLink}>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom-1" className={styles.pageLink}>
                           <div id="page1" className={styles.topSiteItem} data-target="page1">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-brave-release-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
-                          Demo 1
+                          Pan&Zoom-1
                         </a>
                       </div>
                       <div>
-                        <a href="/dynamic-ntt-demos/demo2" className={styles.pageLink}>
+                        <a href="/demos/dynamic-ntt/carousel-autofade" className={styles.pageLink}>
                           <div  id="page2"  className={styles.topSiteItem} data-target="page2">
                             <div className={styles.vpnIconLarge}></div>
                           </div>
-                          Demo 2
+                          Carousel
                         </a>
                       </div>
                       <div>
-                        <a href="/dynamic-ntt-demos/demo3" className={styles.pageLink}>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom-2" className={styles.pageLink}>
                           <div  id="page3"  className={styles.topSiteItem} data-target="page3">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
-                          Demo 3
+                          Pan&Zoom-2
                         </a>
                       </div>
                       <div>
-                        <a href="/dynamic-ntt-demos/demo4" className={styles.pageLink}>
+                        <a href="/demos/dynamic-ntt/slider" className={styles.pageLink}>
                           <div  id="page4"  className={styles.topSiteItem} data-target="page4">
                             <div className={styles.talkIconLarge}></div>
                           </div>
-                          Demo 4
+                          Slider
                         </a>
                       </div>
                       <div>

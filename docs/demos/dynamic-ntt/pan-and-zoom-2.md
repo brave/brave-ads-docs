@@ -2,9 +2,7 @@
 sidebar_class_name: hidden
 ---
 
-# Dynamic NTT Demo3
-
-This demo showcases the Dynamic NTT interface with enhanced effects and visual animations.
+# Pan & Zoom 2
 
 import DynamicNTT from '@site/src/pages/dynamic-ntt';
 

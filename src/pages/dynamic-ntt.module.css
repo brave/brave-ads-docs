@@ -48,7 +48,6 @@
 /* ===== ROOT CONTAINER ===== */
 .dnttRoot {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
     user-select: none;
     margin: 0;
@@ -57,7 +56,6 @@
         radial-gradient(circle at 80% 20%, rgba(76, 84, 210, 0.6) 0%, transparent 50%),
         radial-gradient(circle at 40% 40%, rgba(160, 165, 235, 0.4) 0%, transparent 50%),
         linear-gradient(135deg, #1a1a2e 0%, #16213e 25%, #0f3460 50%, #533483 75%, #1a1a2e 100%);
-    /* animation: bravePulse 8s ease-in-out infinite; */
     position: relative;
     width: 100%;
     height: 100vh;
@@ -126,7 +124,6 @@
 
 /* ===== MAIN CONTAINER ===== */
 .mainContent {
-    -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
     position: relative;
     z-index: 5;
@@ -157,7 +154,6 @@
 .header {
     box-sizing: border-box;
     display: grid;
-    -webkit-font-smoothing: antialiased;
     position: sticky;
     z-index: 6;
     width: 100%;
@@ -204,7 +200,6 @@
 }
 
 .statsList {
-    -webkit-font-smoothing: antialiased;
     display: inline-flex !important;
     flex-wrap: wrap;
     justify-content: var(--ntp-item-justify, start);
@@ -320,13 +315,9 @@
     width: 24px;
     height: 24px;
     background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
-    -webkit-mask-image: url('/img/product-vpn.svg');
     mask-image: url('/img/product-vpn.svg');
-    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
-    -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-size: contain;
     mask-size: contain;
 }
 
@@ -334,13 +325,9 @@
     width: 24px;
     height: 24px;
     background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
-    -webkit-mask-image: url('/img/product-brave-talk.svg');
     mask-image: url('/img/product-brave-talk.svg');
-    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
-    -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-size: contain;
     mask-size: contain;
 }
 
@@ -348,13 +335,9 @@
     width: 100px;
     height: 100px;
     background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
-    -webkit-mask-image: url('/img/product-vpn.svg');
     mask-image: url('/img/product-vpn.svg');
-    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
-    -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-size: contain;
     mask-size: contain;
 }
 
@@ -362,13 +345,9 @@
     width: 100px;
     height: 100px;
     background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
-    -webkit-mask-image: url('/img/product-brave-talk.svg');
     mask-image: url('/img/product-brave-talk.svg');
-    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
-    -webkit-mask-position: center;
     mask-position: center;
-    -webkit-mask-size: contain;
     mask-size: contain;
 }
 
@@ -423,7 +402,6 @@
     align-items: center !important;
     cursor: pointer;
     box-sizing: border-box;
-    -webkit-tap-highlight-color: transparent;
     transition: background 0.12s ease-in-out, box-shadow 0.12s ease-in-out, color 0.12s ease-in-out, opacity 0.12s ease-in-out;
     box-shadow: none;
     border: none !important;
@@ -503,6 +481,14 @@
     line-height: 1.8rem;
 }
 
+.topSitesList > div {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .topSiteItem {
     background-color: rgba(255, 255, 255, 0.25);
     backdrop-filter: blur(20px);
@@ -537,6 +523,11 @@ canvas.pageImageCanvas {
     text-decoration: none;
     color: inherit;
     transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1), transform 0.8s ease-in-out;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.2;
+    margin-top: 8px;
 }
 
 .pageLink:hover {
@@ -720,7 +711,7 @@ canvas.pageImageCanvas {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 20px !important;
 }
 
 .dnttRoot .topSitesList > div {

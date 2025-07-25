@@ -2,9 +2,7 @@
 sidebar_class_name: hidden
 ---
 
-# Dynamic NTT Demo4
-
-This demo showcases the Dynamic NTT interface with enhanced effects and visual animations.
+# Slider
 
 import DynamicNTT from '@site/src/pages/dynamic-ntt';
 

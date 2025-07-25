@@ -2,9 +2,7 @@
 sidebar_class_name: hidden
 ---
 
-# Dynamic NTT Demo2
-
-This demo showcases the Dynamic NTT interface with enhanced effects and visual animations.
+# Carousel - autofade
 
 import DynamicNTT from '@site/src/pages/dynamic-ntt';
 
