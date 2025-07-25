@@ -18,7 +18,7 @@
     justify-content: center;
     align-items: center;
     z-index: 1000;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(1px);
 }
 
 .spinner {
@@ -35,7 +35,7 @@
     color: #fff;
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 600;
     text-align: center;
 }
 
@@ -57,7 +57,7 @@
         radial-gradient(circle at 80% 20%, rgba(76, 84, 210, 0.6) 0%, transparent 50%),
         radial-gradient(circle at 40% 40%, rgba(160, 165, 235, 0.4) 0%, transparent 50%),
         linear-gradient(135deg, #1a1a2e 0%, #16213e 25%, #0f3460 50%, #533483 75%, #1a1a2e 100%);
-    animation: bravePulse 8s ease-in-out infinite;
+    /* animation: bravePulse 8s ease-in-out infinite; */
     position: relative;
     width: 100%;
     height: 100vh;
@@ -71,7 +71,6 @@
     position: absolute;
     width: 100px;
     height: 100px;
-    /* background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23737ADE"><path d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"/></svg>') no-repeat center; */
     background: url('/img/brave-star.svg') no-repeat center;
     background-size: contain;
     opacity: 0.3;
@@ -80,15 +79,15 @@
 }
 
 .dnttRoot::before {
-    top: 20%;
+    top: 30%;
     left: 10%;
-    animation-delay: 0s;
+    animation-delay: 2s;
 }
 
 .dnttRoot::after {
     top: 60%;
     right: 15%;
-    animation-delay: 2s;
+    animation-delay: 0s;
 }
 
 
@@ -345,6 +344,34 @@
     mask-size: contain;
 }
 
+.vpnIconLarge {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
+    -webkit-mask-image: url('/img/product-vpn.svg');
+    mask-image: url('/img/product-vpn.svg');
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+}
+
+.talkIconLarge {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(321.5013256215316deg, rgb(250, 114, 80) 3%, rgb(255, 24, 147) 40%, rgb(167, 138, 255) 99%);
+    -webkit-mask-image: url('/img/product-brave-talk.svg');
+    mask-image: url('/img/product-brave-talk.svg');
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-position: center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+}
+
 .styledCard {
     backdrop-filter: blur(20px);
     background: rgba(28, 30, 38, 0.698);
@@ -509,16 +536,17 @@ canvas.pageImageCanvas {
     display: block;
     text-decoration: none;
     color: inherit;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1), transform 0.8s ease-in-out;
 }
 
 .pageLink:hover {
-    opacity: 0.8;
+    opacity: 0.7;
+    transform: scale(1.05);
 }
 
 .homeIcon {
-    width: auto;
-    height: auto;
+    width: 40px;
+    height: 40px;
     position: absolute;
     top: 50%;
     left: 50%;

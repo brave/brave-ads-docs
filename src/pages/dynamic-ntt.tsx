@@ -159,11 +159,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                     <div className={styles.topSitesList}>
                       <div>
                         <a href="/dynamic-ntt-demos/demo1" className={styles.pageLink}>
-                          <div 
-                            id="page1" 
-                            className={styles.topSiteItem} 
-                            data-target="page1"
-                          >
+                          <div id="page1" className={styles.topSiteItem} data-target="page1">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-brave-release-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
@@ -173,16 +169,31 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                       <div>
                         <a href="/dynamic-ntt-demos/demo2" className={styles.pageLink}>
                           <div  id="page2"  className={styles.topSiteItem} data-target="page2">
-                            <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
-                            <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
+                            <div className={styles.vpnIconLarge}></div>
                           </div>
                           Demo 2
                         </a>
                       </div>
                       <div>
+                        <a href="/dynamic-ntt-demos/demo3" className={styles.pageLink}>
+                          <div  id="page3"  className={styles.topSiteItem} data-target="page3">
+                            <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
+                            <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
+                          </div>
+                          Demo 3
+                        </a>
+                      </div>
+                      <div>
+                        <a href="/dynamic-ntt-demos/demo4" className={styles.pageLink}>
+                          <div  id="page4"  className={styles.topSiteItem} data-target="page4">
+                            <div className={styles.talkIconLarge}></div>
+                          </div>
+                          Demo 4
+                        </a>
+                      </div>
+                      <div>
                         <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink}>
                           <div id="page4" className={styles.topSiteItem} data-target="page4">
-                            <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <svg className={styles.homeIcon} viewBox="0 0 24 24">
                               <defs>
                                 <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
