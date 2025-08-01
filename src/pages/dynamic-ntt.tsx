@@ -37,7 +37,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
       {!iframeLoaded && (
         <div className={styles.loadingSpinner}>
           <div className={styles.spinner}></div>
-          <div className={styles.loadingText}>Loading Brave Demo...</div>
+          <div className={styles.loadingText}>Loading...</div>
         </div>
       )}
       
