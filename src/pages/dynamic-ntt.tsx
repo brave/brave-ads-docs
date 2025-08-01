@@ -158,6 +158,23 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                   <div className={styles.topSitesContainer}>
                     <div className={styles.topSitesList}>
                       <div>
+                        <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink}>
+                          <div id="page4" className={styles.topSiteItem} data-target="page4">
+                            <svg className={styles.homeIcon} viewBox="0 0 24 24">
+                              <defs>
+                                <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                  <stop offset="3%" stopColor="rgb(250, 114, 80)" />
+                                  <stop offset="40%" stopColor="rgb(255, 24, 147)" />
+                                  <stop offset="99%" stopColor="rgb(167, 138, 255)" />
+                                </linearGradient>
+                              </defs>
+                              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="url(#homeGradient)"/>
+                            </svg>
+                          </div>
+                          Home
+                        </a>
+                      </div>
+                      <div>
                         <a href="/demos/dynamic-ntt/pan-and-zoom-1" className={styles.pageLink}>
                           <div id="page1" className={styles.topSiteItem} data-target="page1">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
@@ -180,23 +197,6 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                             <div className={styles.talkIconLarge}></div>
                           </div>
                           Slider
-                        </a>
-                      </div>
-                      <div>
-                        <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink}>
-                          <div id="page4" className={styles.topSiteItem} data-target="page4">
-                            <svg className={styles.homeIcon} viewBox="0 0 24 24">
-                              <defs>
-                                <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                  <stop offset="3%" stopColor="rgb(250, 114, 80)" />
-                                  <stop offset="40%" stopColor="rgb(255, 24, 147)" />
-                                  <stop offset="99%" stopColor="rgb(167, 138, 255)" />
-                                </linearGradient>
-                              </defs>
-                              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="url(#homeGradient)"/>
-                            </svg>
-                          </div>
-                          Home
                         </a>
                       </div>
                     </div>

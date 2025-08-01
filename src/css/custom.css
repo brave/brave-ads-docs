@@ -27,6 +27,40 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+/* Beta badge styling */
+h1 sup {
+  background: #4A46E0;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 8px;
+  font-size: 0.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-left: 8px;
+}
+
+/* Sidebar beta badge styling */
+.theme-doc-sidebar-menu a[href*="dynamic-ntt"] {
+  position: relative;
+}
+
+.theme-doc-sidebar-menu a[href*="dynamic-ntt"]::after {
+  content: "Beta";
+  background: #4A46E0;
+  color: white;
+  padding: 1px 4px;
+  border-radius: 6px;
+  font-size: 0.4em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-left: 4px;
+  vertical-align: super;
+  position: relative;
+  top: -0.5em;
+}
+
 /* Dynamic NTT Demo specific styles */
 .dynamic-ntt-demo {
   position: fixed !important;
