@@ -36,7 +36,7 @@ Sowohl Managed Service- als auch selbstgesteuerte Brave Ads Manager-Kampagnen k�
 
 Für New Tab Takeovers wird Werbetreibenden, die ihre Kampagne innerhalb von sieben Tagen nach dem Startdatum stornieren, 50 % der Kampagnenkosten in Rechnung gestellt.
 
-Wenn du mit unserem Accounts- und Sales-Team zusammenarbeitest, kannst du deine Search-, Benachrichtigungs- oder Newsfeed-Werbekampagnen jederzeit stornieren. Dir werden nur die Kosten für den bereits ausgegebenen Betrag bis zum Zeitpunkt der Pausierung der Kampagne in Rechnung gestellt.
+If working with our accounts and sales team, you can cancel your Search or Notifications ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused.
 
 Wenn du deine Kampagne über unsere Self-Service-Option im Voraus bezahlt hast und deine Kampagne frühzeitig stornieren möchtest, beachte bitte, dass du eine Rückerstattung des verbleibenden Betrags per E-Mail an [selfserve@brave.com](mailto:selfserve@brave.com) beantragen musst.
 
