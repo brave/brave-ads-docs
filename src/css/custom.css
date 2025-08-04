@@ -49,9 +49,9 @@ h1 sup {
   content: "Beta";
   background: #4A46E0;
   color: white;
-  padding: 1px 4px;
-  border-radius: 6px;
-  font-size: 0.4em;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.5em;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.5px;
