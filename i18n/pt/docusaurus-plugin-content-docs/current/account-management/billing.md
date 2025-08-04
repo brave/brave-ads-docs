@@ -36,7 +36,7 @@ Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciad
 
 Para os Anúncios de Nova Guia, os anunciantes que cancelarem dentro de sete dias após a data de lançamento da campanha serão cobrados 50% do custo da campanha.
 
-Se estiver trabalhando com a nossa equipe de contas e vendas, você pode cancelar suas campanhas de anúncios de Pesquisa, Notificações ou Feed de Notícias a qualquer momento e só será faturado pelos valores gastos até o momento em que a campanha foi interrompida.
+If working with our accounts and sales team, you can cancel your Search or Notifications ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused.
 
 Se efetuou o pré-pagamento da sua campanha por meio da nossa opção de autoatendimento e deseja cancelá-la antecipadamente, observe que precisará solicitar um reembolso para qualquer saldo restante enviando um e-mail para [selfserve@brave.com](mailto:selfserve@brave.com).
 
