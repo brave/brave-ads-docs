@@ -74,10 +74,10 @@ Utiliser une URL de conversion fournit une mesure plus précise de l'efficacité
     - Page de confirmation d’inscription
     - Page de bienvenue à l’abonnement e-mail
     - Page de confirmation d’achat
-        - Par exemple, pour une campagne publicitaire pour « https://shoestore.com », une URL de conversion efficace serait : « https://shoestore.com/check-out/thank-you\\\\\\\\\\* »
+        - Par exemple, pour une campagne publicitaire pour « https://shoestore.com », une URL de conversion efficace serait : « https://shoestore.com/check-out/thank-you\\\\\\\\\\\\\\\\\\\\\* »
 - En règle générale, toutes les URL de conversion doivent se terminer par des variables génériques pour prendre en compte tout paramètre de requête supplémentaire qui pourrait risquer de perturber le processus de comptabilisation des conversions.
     - Une astérisque (\*) peut être utilisée comme variable générique dans votre URL de conversion, ce qui indiquera à Brave Ads de traiter cette position dans l’URL comme n’importe quelle valeur possible. Cela peut être utilisé dans une variété de situations où les URL de sites de conversion suivent des chemins similaires mais incluent des valeurs différentes, telles que les répertoires de produits ou les identifiants de commande uniques.
-        - Par exemple, sur la base de l'exemple ci-dessus, « https://shoestore.com/check-out/thank-you\\\\\\\\\\* » capturera efficacement toute URL identique jusqu'à la variable générique, telle que « https://shoestore.com/check-out/thank-you/orderID=63551 »
+        - Par exemple, sur la base de l'exemple ci-dessus, « https://shoestore.com/check-out/thank-you\\\\\\\\\\\\\\\\\\\\\* » capturera efficacement toute URL identique jusqu'à la variable générique, telle que « https://shoestore.com/check-out/thank-you/orderID=63551 »
 
 ### Utilisation avancée des variables génériques dans les URL de conversion
 
