@@ -7,14 +7,14 @@ Brave has pioneered a new breed of privacy-respecting targeting that is matched 
 
 Each of Brave’s ad units has a unique approach to achieve varying levels of ad relevance with the end user:
 
-| **Targeting**              | **Description**                                                                                                                                                   |**New Tab Takeover** | **Newsfeed** | **Notification** | **Search** | 
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------------|------------------|----------------------|
-| **Keyword**               | Based on relevant keywords entered in Brave Search.                                                                                                                                |                       |                      |                  | X                |
-| **Country**      | Location determined by IP address. Only top level country and state level information is inferred.        | X                      | X                    | X                | X                    |
-| **State**      | Location determined by IP address. Only top level country and state level information is inferred. Available only in the USA.           |                      |                    |X                | X                     |
-| **Time of day**            | Delivery based on local time inferred by the IP address.                                                                                                          |                        |                      | X                |                     |
-| **Contextual**    | IAB standard contextual category segments based on page content and domains visited by the user.                                                                           |                        |                      |X                  |                     |
-| **Custom segments** | Bespoke segments built with keywords and domains that the advertiser wishes to target. Minimum spend required, and only available with managed service campaigns. |                        |                      |X                  |                     |
+| **Targeting**              | **Description**                                                                                                                                                   |**New Tab Takeover**| **Notification** | **Search** | 
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------------|----------------------|
+| **Keyword**               | Based on relevant keywords entered in Brave Search.                                                                                                                                |                     |                  | X                |
+| **Country**      | Location determined by IP address. Only top level country and state level information is inferred.        | X                      | X                | X                    |
+| **State**      | Location determined by IP address. Only top level country and state level information is inferred. Available only in the USA.           |                   |X                | X                     |
+| **Time of day**            | Delivery based on local time inferred by the IP address.                                                                                                          |                      | X                |                     |
+| **Contextual**    | IAB standard contextual category segments based on page content and domains visited by the user.                                                                           |                      |X                  |                     |
+| **Custom segments** | Bespoke segments built with keywords and domains that the advertiser wishes to target. Minimum spend required, and only available with managed service campaigns. |                        |X                  |                     |
 
 ## Contextual category list
 
