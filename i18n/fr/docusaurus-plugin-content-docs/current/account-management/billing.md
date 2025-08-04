@@ -20,7 +20,7 @@ Par défaut, les factures pour les campagnes gérées sont envoyées à la fin d
 
 ## Payer avec une carte de crédit
 
-Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées par carte de crédit via Stripe. 
+Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées par carte de crédit via Stripe.
 
 - Si vous achetez via un service géré, il suffit d’informer votre gestionnaire de compte que vous souhaitez payer par carte de crédit.
 - Si vous achetez via Brave Ads Manager, il vous sera demandé de pré-payer votre campagne en « rechargeant » votre compte via Stripe.
@@ -36,7 +36,7 @@ Les campagnes Brave Ads gérées et auto-dirigées peuvent être payées en util
 
 Pour les annonces dans les nouveaux onglets, les annonceurs qui annulent dans les sept jours suivant la date de lancement de la campagne se verront facturer 50 % du coût de la campagne
 
-Si vous travaillez avec notre équipe des comptes et des ventes, vous pouvez annuler vos campagnes d’annonces dans la Recherche, les Notifications ou le fil d’actualité à tout moment ; vous ne serez facturé que pour les montants dépensés jusqu’à ce que la campagne soit mise en pause
+If working with our accounts and sales team, you can cancel your Search or Notifications ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused.
 
 Si vous avez prépayé votre campagne via notre option en libre-service et souhaitez annuler votre campagne à l'avance, veuillez noter que vous devrez demander un remboursement pour tout solde restant en envoyant un e-mail à [selfserve@brave.com](mailto:selfserve@brave.com).
 

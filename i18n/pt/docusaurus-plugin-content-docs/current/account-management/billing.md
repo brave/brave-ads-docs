@@ -20,7 +20,7 @@ Por padrão, as faturas para campanhas gerenciadas são enviadas ao final do cic
 
 ## Pagamento com cartão de crédito
 
-Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciador de Anúncios Brave podem ser pagas com cartão de crédito através da Stripe. 
+Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciador de Anúncios Brave podem ser pagas com cartão de crédito através da Stripe.
 
 - Se estiver comprando através do Serviço Gerenciado, basta informar ao seu gerente de conta que gostaria de pagar via cartão de crédito.
 - Se estiver comprando através do Gerenciador de Anúncios Brave, precisará fazer um "top-up" — complemento — na sua conta da Stripe para efetuar o pré-pagamento da sua campanha.
@@ -34,9 +34,9 @@ Tanto as campanhas de Serviço Gerenciado quanto as autogerenciadas do Gerenciad
 
 ## Cancelamentos
 
-Para os Anúncios de Nova Guia, os anunciantes que cancelarem dentro de sete dias após a data de lançamento da campanha serão cobrados 50% do custo da campanha. 
+Para os Anúncios de Nova Guia, os anunciantes que cancelarem dentro de sete dias após a data de lançamento da campanha serão cobrados 50% do custo da campanha.
 
-Se estiver trabalhando com a nossa equipe de contas e vendas, você pode cancelar suas campanhas de anúncios de Pesquisa, Notificações ou Feed de Notícias a qualquer momento e só será faturado pelos valores gastos até o momento em que a campanha foi interrompida. 
+If working with our accounts and sales team, you can cancel your Search or Notifications ads campaigns at any time and will only be invoiced for the amounts spent up until the campaign was paused.
 
 Se efetuou o pré-pagamento da sua campanha por meio da nossa opção de autoatendimento e deseja cancelá-la antecipadamente, observe que precisará solicitar um reembolso para qualquer saldo restante enviando um e-mail para [selfserve@brave.com](mailto:selfserve@brave.com).
 
