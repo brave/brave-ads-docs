@@ -35,10 +35,6 @@
     "message": "Lernen",
     "description": "The label of footer link with label=Learn linking to https://brave.com/brave-ads/learn"
   },
-  "copyright": {
-    "message": "Urheberrecht © 2024 Brave Software, Inc.",
-    "description": "The footer copyright"
-  },
   "link.item.label.Terms of service": {
     "message": "Nutzungsbedingungen",
     "description": "The label of footer link with label=Terms of service linking to https://basicattentiontoken.org/advertiser-terms-of-service/"
