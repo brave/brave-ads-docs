@@ -2,7 +2,7 @@
 sidebar_class_name: hidden
 ---
 
-# Pan & Zoom 1
+# Pan & Zoom
 
 import DynamicNTT from '@site/src/pages/dynamic-ntt';
 

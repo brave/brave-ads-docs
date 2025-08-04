@@ -149,7 +149,7 @@ Le rapport de conversion d'annonces vérifiables se fait par un ID de conversion
 - La valeur de l'ID de conversion doit être unique pour chaque conversion. Les valeurs en double d'ID d'événement de conversion entraîneront des divergences comptables.
 - L'ID de conversion doit être compris entre 1 et 30 caractères, ne contenir que des caractères alphanumériques (ainsi que des tirets) et correspondre à cette expression régulière : « [-a-zA-Z0-9]{1,30} ».
 - Les valeurs des événements de plus de 30 caractères échoueront, empêchant l'événement d'être correctement pris en compte. Vous pouvez vérifier si votre identifiant est valide en utilisant un site comme « https://regex101.com/ ».
-- Les ID de conversion ne doivent pas inclure d'identifiants d'utilisateur ou d'informations personnelles identifiables. Par exemple, les ID de conversion tels que « <user id>-<random id> », « <random id>-<email address> » ne sont pas autorisés.
+- Les ID de conversion ne doivent pas inclure d'identifiants d'utilisateur ou d'informations personnelles identifiables. Par exemple, les ID de conversion tels que `<user id>-<random id>`, `<random id>-<email address>` ne sont pas autorisés.
 
 Brave utilise TweetNacl pour chiffrer l'ID de conversion.
 

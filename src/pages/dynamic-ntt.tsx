@@ -175,12 +175,12 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         </a>
                       </div>
                       <div>
-                        <a href="/demos/dynamic-ntt/pan-and-zoom-1" className={styles.pageLink}>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom" className={styles.pageLink}>
                           <div id="page1" className={styles.topSiteItem} data-target="page1">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-brave-release-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
-                          Pan&Zoom-1
+                          Pan&Zoom
                         </a>
                       </div>
                       <div>
