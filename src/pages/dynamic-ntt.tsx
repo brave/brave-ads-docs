@@ -184,6 +184,15 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         </a>
                       </div>
                       <div>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom-2" className={styles.pageLink}>
+                          <div id="page1" className={styles.topSiteItem} data-target="page1">
+                            <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
+                            <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
+                          </div>
+                          Pan&Zoom 2  
+                        </a>
+                      </div>
+                      <div>
                         <a href="/demos/dynamic-ntt/carousel-autofade" className={styles.pageLink}>
                           <div  id="page2"  className={styles.topSiteItem} data-target="page2">
                             <div className={styles.vpnIconLarge}></div>
