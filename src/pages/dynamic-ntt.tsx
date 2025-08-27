@@ -213,7 +213,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                           <div  id="page6"  className={styles.topSiteItem} data-target="page6">
                             <div className={styles.vpnIconLarge}></div>
                           </div>
-                          Slider
+                          Digital Rain
                         </a>
                       </div>
                     </div>
