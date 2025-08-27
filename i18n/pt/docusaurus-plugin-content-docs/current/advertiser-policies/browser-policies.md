@@ -23,7 +23,7 @@ Anunciantes não podem usar links de redirecionamento a menos que estejam no mes
 **Exemplos de redirecionamentos que serão rejeitados:**
 
 - `https://landing.brave.me` Redireciona para: `https://brave.com/landing`
-    - Supondo que ambos sejam de propriedade da Brave, este caso ainda seria negado, pois os links não estão no mesmo eTLD+1.
+     - Supondo que ambos sejam de propriedade da Brave, este caso ainda seria negado, pois os links não estão no mesmo eTLD+1.
 - `https://brave.page.link/abc` - que redireciona para `https://brave.com/landing`
 
 **Exemplos de redirecionamentos que serão aceitos:**
@@ -179,7 +179,7 @@ Uma busca pelo projeto não deve retornar relatórios controversos ou relatos de
 - Não deve incluir linguagem especulativa relacionada ao valor ou preço do token, ou criptomoeda
 - Taxas fixas garantidas de APY ou APR não podem ser anunciadas
 - O uso de "bônus", "até" ou outro texto semelhante é geralmente aceitável após revisão
-    - Por exemplo: “Ganhe até 5% em recompensas de staking.”
+     - Por exemplo: “Ganhe até 5% em recompensas de staking.”
 
 ##### URLs de cliques:
 
@@ -189,7 +189,7 @@ Uma busca pelo projeto não deve retornar relatórios controversos ou relatos de
 #### Jogos do tipo "pay to play", sorteios de cassino, loterias
 
 - Qualquer anunciante que exija um pagamento ou depósito, seja em moeda fiduciária ou criptomoeda, para participar de um concurso será rejeitado
-    - Exemplo: Um usuário deposita ETH ou outra criptomoeda/moeda fiduciária para concorrer a um NFT
+     - Exemplo: Um usuário deposita ETH ou outra criptomoeda/moeda fiduciária para concorrer a um NFT
 - "Play to Earn" e "Quests" com recompensas de engajamento são permitidos
-    - Exemplo: os usuários inserem seu endereço de e-mail para concorrer a um NFT
+     - Exemplo: os usuários inserem seu endereço de e-mail para concorrer a um NFT
 - É aceitável que um anunciante concentre sua campanha em um sorteio gratuito, enquanto outras partes do site permitem elementos "pay to play"
