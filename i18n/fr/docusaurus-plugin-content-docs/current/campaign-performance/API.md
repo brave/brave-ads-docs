@@ -9,8 +9,8 @@ sidebar_position: 4
 1. Connectez-vous sur https://ads.brave.com
 
 2. Générez une clé d'API
-  1. Profil -> Générer une clé d'API
-  2. Enregistrez la clé d'API générée, car vous ne pourrez pas la récupérer de nouveau
+   1. Profil -> Générer une clé d'API
+   2. Enregistrez la clé d'API générée, car vous ne pourrez pas la récupérer de nouveau
 
 ## Points de terminaison
 
