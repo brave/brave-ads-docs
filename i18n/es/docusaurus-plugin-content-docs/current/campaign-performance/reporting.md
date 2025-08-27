@@ -57,8 +57,8 @@ Los informes de conversiones del Administrador de Anuncios de Brave permiten a l
 ### Limitaciones
 
 - Las URL de las páginas de conversión **deben** seguir estas condiciones para ser aprobadas:
-    - Estar en el mismo eTLD+1 que el dominio de correo electrónico utilizado.
-        - Por ejemplo, si mi dirección de correo electrónico es `admin@example.com`, puedo establecer la URL de conversión como una página en `https://example.com` o un subdominio de ese sitio web, como `https://shop.example.com`.
+     - Estar en el mismo eTLD+1 que el dominio de correo electrónico utilizado.
+         - Por ejemplo, si mi dirección de correo electrónico es `admin@example.com`, puedo establecer la URL de conversión como una página en `https://example.com` o un subdominio de ese sitio web, como `https://shop.example.com`.
 - Es posible que Brave no pueda contabilizar la conversión si un usuario sale del navegador Brave (por ejemplo, cuando visita aplicaciones de terceros, como tiendas de aplicaciones). En tales casos, los anunciantes deben utilizar métodos de informes independientes adicionales proporcionados por los terceros.
 
 ### Elegir una URL de conversión efectiva
@@ -68,25 +68,25 @@ El uso de una URL de conversión proporciona una medida más precisa de la efica
 **Puntos clave:**
 
 - Utilice un patrón de URL que evite falsos positivos.
-    - No utilice la URL base de su sitio web como URL de conversión.
-        - Los clics y las visitas al sitio ya se cuentan de forma predeterminada para todas las campañas de Anuncios de Brave.
+     - No utilice la URL base de su sitio web como URL de conversión.
+         - Los clics y las visitas al sitio ya se cuentan de forma predeterminada para todas las campañas de Anuncios de Brave.
 - Elija una URL que represente una acción más profunda en su sitio web, como:
-    - Página de finalización de registro
-    - Página de bienvenida de suscripción por correo electrónico
-    - Página de confirmación de compra
-        - Por ejemplo, en una campaña publicitaria para `https://shoestore.com`, una URL de conversión efectiva sería: `https://shoestore.com/check-out/thank-you*`
+     - Página de finalización de registro
+     - Página de bienvenida de suscripción por correo electrónico
+     - Página de confirmación de compra
+         - Por ejemplo, en una campaña publicitaria para `https://shoestore.com`, una URL de conversión efectiva sería: `https://shoestore.com/check-out/thank-you*`
 - Como regla general, todas las URL de conversión deben terminar en variables comodín para tener en cuenta cualquier parámetro de consulta adicional que pueda interrumpir el proceso de recuento de conversiones.
-    - Se puede usar un asterisco (\*) como variable comodín en la URL de conversión que le indicará a los Anuncios de Brave que trate esa posición en la URL como cualquier valor posible. Esto se puede utilizar en una variedad de situaciones en las que las URL del sitio web de conversión siguen rutas similares pero incluyen valores diferentes, como directorios de productos o ID de pedido únicos.
-        - Por ejemplo, basándose en el ejemplo anterior, `https://shoestore.com/check-out/thank-you*` capturaría efectivamente cualquier URL que sea la misma que lleve hasta la variable comodín, como `https://shoestore.com/check-out/thank-you/orderID=63551`
+     - Se puede usar un asterisco (\*) como variable comodín en la URL de conversión que le indicará a los Anuncios de Brave que trate esa posición en la URL como cualquier valor posible. Esto se puede utilizar en una variedad de situaciones en las que las URL del sitio web de conversión siguen rutas similares pero incluyen valores diferentes, como directorios de productos o ID de pedido únicos.
+         - Por ejemplo, basándose en el ejemplo anterior, `https://shoestore.com/check-out/thank-you*` capturaría efectivamente cualquier URL que sea la misma que lleve hasta la variable comodín, como `https://shoestore.com/check-out/thank-you/orderID=63551`
 
 ### Uso avanzado de variables comodín en las URL de conversión
 
 Los valores comodín se pueden colocar en cualquier lugar de la subruta de la URL, incluidas las secciones intermedias de la ruta. Estos son algunos ejemplos que utilizan una hipotética tienda de zapatos, `https://shoestore.com`, que clasifica sus zapatos disponibles por categoría, tipo y color a través de su sitio web. Por lo tanto, todas sus páginas están estructuradas con el siguiente formato: `https://shoestore.com/category/type/color/`
 
 - Ejemplo 1: Esta URL de conversión contará las visitas a las páginas del directorio "running-shoes" categorizadas como "mens": `https://shoestore.com/running-shoes/*/mens*`
-    - En este caso, el primer asterisco representa cualquier tipo, mientras que el segundo es el comodín final recomendado en todas las URL de conversión.
+     - En este caso, el primer asterisco representa cualquier tipo, mientras que el segundo es el comodín final recomendado en todas las URL de conversión.
 - Ejemplo 2: Esta URL de conversión contará las visitas a las páginas de cualquier calzado que sean "childrens": `https://shoestore.com/*/childrens/*`
-    - En este caso, el primer asterisco representa los subcaminos de cualquier categoría de calzado. El segundo asterisco actúa a la vez como color del zapato, y también cumple la función de comodín final recomendado.
+     - En este caso, el primer asterisco representa los subcaminos de cualquier categoría de calzado. El segundo asterisco actúa a la vez como color del zapato, y también cumple la función de comodín final recomendado.
 
 ### Controles avanzados para la atribución
 
