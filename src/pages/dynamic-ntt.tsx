@@ -159,7 +159,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                     <div className={styles.topSitesList}>
                       <div>
                         <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink}>
-                          <div id="page4" className={styles.topSiteItem} data-target="page4">
+                          <div id="page1" className={styles.topSiteItem} data-target="page1">
                             <svg className={styles.homeIcon} viewBox="0 0 24 24">
                               <defs>
                                 <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -176,7 +176,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                       </div>
                       <div>
                         <a href="/demos/dynamic-ntt/pan-and-zoom" className={styles.pageLink}>
-                          <div id="page1" className={styles.topSiteItem} data-target="page1">
+                          <div id="page2" className={styles.topSiteItem} data-target="page2">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-brave-release-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
@@ -185,7 +185,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                       </div>
                       <div>
                         <a href="/demos/dynamic-ntt/pan-and-zoom-2" className={styles.pageLink}>
-                          <div id="page1" className={styles.topSiteItem} data-target="page1">
+                          <div id="page3" className={styles.topSiteItem} data-target="page3">
                             <canvas className={styles.pageImageCanvas} width="140" height="140"></canvas>
                             <img src="/img/_icons/social-bat-favicon-fullheight-color.png" alt="" draggable={false} />
                           </div>
@@ -194,7 +194,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                       </div>
                       <div>
                         <a href="/demos/dynamic-ntt/carousel-autofade" className={styles.pageLink}>
-                          <div  id="page2"  className={styles.topSiteItem} data-target="page2">
+                          <div  id="page4"  className={styles.topSiteItem} data-target="page4">
                             <div className={styles.vpnIconLarge}></div>
                           </div>
                           Carousel
@@ -202,8 +202,16 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                       </div>
                       <div>
                         <a href="/demos/dynamic-ntt/slider" className={styles.pageLink}>
-                          <div  id="page4"  className={styles.topSiteItem} data-target="page4">
+                          <div  id="page5"  className={styles.topSiteItem} data-target="page5">
                             <div className={styles.talkIconLarge}></div>
+                          </div>
+                          Slider
+                        </a>
+                      </div>
+                      <div>
+                        <a href="/demos/dynamic-ntt/digital-rain" className={styles.pageLink}>
+                          <div  id="page6"  className={styles.topSiteItem} data-target="page6">
+                            <div className={styles.vpnIconLarge}></div>
                           </div>
                           Slider
                         </a>
