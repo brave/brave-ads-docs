@@ -70,6 +70,20 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/policies',
+            to: '/category/advertiser-policies',
+          },
+        ],
+      },
+    ],
+  ],
   
   staticDirectories: ["static"],
 
