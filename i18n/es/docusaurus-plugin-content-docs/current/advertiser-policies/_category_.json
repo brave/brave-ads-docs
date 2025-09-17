@@ -1,4 +1,8 @@
 {
   "label": "Políticas de los anunciantes",
-  "position": 5
+  "position": 5,
+  "link": {
+    "type": "índice-generado",
+    "title": "Brave advertiser policies"
+  }
 }
