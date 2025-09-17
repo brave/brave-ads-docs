@@ -23,7 +23,7 @@ Advertisers cannot use redirecting links unless it's within the same eTLD+1. Any
 **Examples of redirects which will be rejected:**
 
 - `https://landing.brave.me` Redirects to: `https://brave.com/landing`
-     - Assuming they are both owned by Brave, this would still be denied since they are not on the same eTLD+1.
+  - Assuming they are both owned by Brave, this would still be denied since they are not on the same eTLD+1.
 - `https://brave.page.link/abc` - which redirects `https://brave.com/landing`
 
 **Examples of redirects that will be accepted:**
@@ -179,7 +179,7 @@ A search for the project should not return controversial reports or reports from
 - Must not include speculative language related to value or price of the token or cryptocurrency
 - Guaranteed fixed APY or APR rates cannot be advertised
 - Using “bonus”, “up to” or other similar text is normally acceptable upon review
-     - For example:  “Earn up to 5% in staking rewards.”
+  - For example:  “Earn up to 5% in staking rewards.”
 
 ##### Click-through URLs:
 
@@ -189,7 +189,7 @@ A search for the project should not return controversial reports or reports from
 #### Pay-to-play games, casino raffles, lotteries
 
 - Any advertiser requiring a payment or deposit, whether in fiat or crypto, to enter a contest will be denied
-     - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
+  - Example: A user deposits ETH or other crypto/fiat for a chance to win an NFT
 - Play to Earn and Quests with engagement rewards are allowed
-     - Example: users enter their email address for a chance to win an NFT
+  - Example: users enter their email address for a chance to win an NFT
 - It is acceptable for an advertiser to focus their campaign on a free giveaway while there are other parts of the site allowing pay-to-play elements
