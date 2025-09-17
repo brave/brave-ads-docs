@@ -23,7 +23,7 @@ Werbetreibende dürfen keine Weiterleitungslinks verwenden, es sei denn, sie bef
 **Beispiele für Weiterleitungen, die abgelehnt werden:**
 
 - `https://landing.brave.me` Weiterleitung zu: `https://brave.com/landing`
-     - Angenommen, beide gehören Brave, würde dies dennoch abgelehnt, da sie sich nicht auf derselben eTLD+1 befinden.
+  - Angenommen, beide gehören Brave, würde dies dennoch abgelehnt, da sie sich nicht auf derselben eTLD+1 befinden.
 - `https://brave.page.link/abc` - was zu `https://brave.com/landing` weiterleitet
 
 **Beispiele für Weiterleitungen, die akzeptiert werden:**
@@ -179,7 +179,7 @@ Eine Suche nach dem Projekt sollte keine kontroversen Berichte oder Berichte von
 - Dürfen keine spekulative Sprache hinsichtlich Wert oder Preis des Tokens oder der Kryptowährung enthalten
 - Garantierte feste APY- oder APR-Raten dürfen nicht beworben werden
 - Die Verwendung von „Bonus“, „bis zu“ oder ähnlichen Texten ist normalerweise nach Überprüfung zulässig
-     - Zum Beispiel: „Verdiene bis zu 5% an Staking-Belohnungen.“
+  - Zum Beispiel: „Verdiene bis zu 5% an Staking-Belohnungen.“
 
 ##### Click-through URLs:
 
@@ -189,7 +189,7 @@ Eine Suche nach dem Projekt sollte keine kontroversen Berichte oder Berichte von
 #### Pay-to-play-Spiele, Casino-Tombolas, Lotterien
 
 - Jeder Werbetreibende, der eine Zahlung oder Einzahlung verlangt, sei es in Fiat oder Krypto, um an einem Wettbewerb teilzunehmen, wird abgelehnt
-     - Beispiel: Ein Uyer zahlt ETH oder andere Krypto/Fiat ein, um die Chance zu haben, ein NFT zu gewinnen
+  - Beispiel: Ein Uyer zahlt ETH oder andere Krypto/Fiat ein, um die Chance zu haben, ein NFT zu gewinnen
 - Play to Earn und Quests mit Engagement-Belohnungen sind erlaubt
-     - Beispiel: User geben ihre E-Mail-Adresse an, um die Chance zu haben, ein NFT zu gewinnen
+  - Beispiel: User geben ihre E-Mail-Adresse an, um die Chance zu haben, ein NFT zu gewinnen
 - Es ist akzeptabel, dass sich ein Werbetreibender auf eine kostenlose Werbeaktion konzentriert, während es andere Teile der Website gibt, die Pay-to-Play-Elemente enthalten
