@@ -1,4 +1,8 @@
 {
   "label": "Advertiser policies",
-  "position": 5
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "title": "Brave advertiser policies"
+  }
 }
