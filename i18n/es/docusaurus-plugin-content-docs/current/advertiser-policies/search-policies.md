@@ -106,8 +106,8 @@ To the fullest extent permitted by applicable law and except as otherwise specif
 ## 11. Limitación de responsabilidad
 
 - (a) To the fullest extent permitted by applicable law:
-    - (i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and
-    - (ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.
+  - (i) in no event will Brave or any of the Brave Parties be liable to you for any indirect, special, incidental, consequential, or exemplary damages of any kind (including, but not limited to, where related to loss of revenue, income or profits, loss of use or data, or damages for business interruption) regardless of the form of action, whether based in contract, tort (including, but not limited to, simple negligence, whether active, passive or imputed), or any other legal or equitable theory (even if the party has been advised of the possibility of such damages and regardless of whether such damages were foreseeable); and
+  - (ii) in no event will the aggregate liability of Brave and the Brave Parties (individually or jointly), whether in contract, warranty, tort (including negligence, whether active, passive or imputed), or other theory, arising out of or relating to the Services or these Terms exceed the total amount you have spent on your ads.
 - (b) The limitations set forth in Section 11(a) will not limit or exclude liability for the gross negligence, fraud or intentional, willful or reckless misconduct of Brave.
 - (c) Algunas jurisdicciones no permiten la limitación o exclusión de responsabilidad por daños incidentales o consecuentes. En consecuencia, es posible que algunas de las limitaciones de esta sección no se apliquen en su caso.
 
@@ -142,7 +142,7 @@ Cada parte notificará a la otra parte por escrito de cualquier disputa dentro d
 - (i) su nombre, dirección postal, dirección de correo electrónico y número de teléfono,
 - (ii) una descripción con detalles razonables de la naturaleza o base de la disputa, y
 - (iii) la reparación específica que está buscando.
-    Si usted y Brave no pueden ponerse de acuerdo sobre cómo resolver la disputa en un plazo de treinta (30) días a partir de la fecha en que la parte correspondiente reciba la notificación, usted o Brave podrán, según corresponda y de conformidad con esta Sección 13, iniciar un procedimiento de arbitraje o, en la medida en que se disponga específicamente en la Sección 13.1, presentar una reclamación ante un tribunal.
+  Si usted y Brave no pueden ponerse de acuerdo sobre cómo resolver la disputa en un plazo de treinta (30) días a partir de la fecha en que la parte correspondiente reciba la notificación, usted o Brave podrán, según corresponda y de conformidad con esta Sección 13, iniciar un procedimiento de arbitraje o, en la medida en que se disponga específicamente en la Sección 13.1, presentar una reclamación ante un tribunal.
 
 ### 5. Lugar y árbitro
 
