@@ -57,8 +57,8 @@ O relatório de conversão no Gerenciador de Anúncios Brave permite que os anun
 ### Limitações
 
 - As URLs das páginas de conversão **precisam** seguir estas condições para serem aprovadas:
-    - Estar no mesmo eTLD+1 que o domínio do e-mail utilizado
-        - Por exemplo, se meu endereço de e-mail for `admin@exemplo.com`, posso definir a URL de conversão como uma página em `https://exemplo.com` ou um subdomínio desse site, como `https://loja.exemplo.com`.
+  - Estar no mesmo eTLD+1 que o domínio do e-mail utilizado
+    - Por exemplo, se meu endereço de e-mail for `admin@exemplo.com`, posso definir a URL de conversão como uma página em `https://exemplo.com` ou um subdomínio desse site, como `https://loja.exemplo.com`.
 - O Brave pode não conseguir contabilizar a conversão se um usuário sair do navegador Brave (por exemplo, ao visitar aplicativos de terceiros, como lojas de aplicativos). Nesses casos, os anunciantes devem usar métodos de relatório independentes adicionais fornecidos por terceiros.
 
 ### Escolhendo uma URL de conversão eficaz
@@ -68,25 +68,25 @@ Usar uma URL de conversão fornece uma medida mais precisa da eficácia do anún
 **Pontos principais:**
 
 - Use um padrão de URL que evite falsos positivos.
-    - Não use a URL base do seu site como URL de conversão.
-        - Cliques e visitas ao site já são contabilizados por padrão em todas as campanhas dos Anúncios Brave.
+  - Não use a URL base do seu site como URL de conversão.
+    - Cliques e visitas ao site já são contabilizados por padrão em todas as campanhas dos Anúncios Brave.
 - Escolha uma URL que represente uma ação mais profunda em seu site, como:
-    - Página de conclusão de cadastro
-    - Página de boas-vindas à assinatura de e-mail
-    - Página de confirmação de compra
-        - Por exemplo, em uma campanha de anúncios para `https://lojadesapatos.com`, uma URL de conversão eficaz seria: `https://lojadesapatos.com/finalizar-compra/obrigado*`
+  - Página de conclusão de cadastro
+  - Página de boas-vindas à assinatura de e-mail
+  - Página de confirmação de compra
+    - Por exemplo, em uma campanha de anúncios para `https://lojadesapatos.com`, uma URL de conversão eficaz seria: `https://lojadesapatos.com/finalizar-compra/obrigado*`
 - Como regra geral, todas as URLs de conversão devem terminar em variáveis coringas para contabilizar quaisquer parâmetros de consulta adicionais que possam interromper o processo de contagem de conversões.
-    - Um asterisco (\*) pode ser usado como uma variável coringa em sua URL de conversão que informará aos Anúncios Brave para tratar essa posição na URL como qualquer valor possível. Isso pode ser usado em uma variedade de situações em que as URLs dos sites de conversão seguem caminhos semelhantes, mas incluem valores diferentes, como diretórios de produtos ou IDs de pedidos únicos.
-        - Por exemplo, com base no exemplo acima, `https://lojadesapatos.com/finalizar-compra/obrigado*` englobaria efetivamente qualquer URL que seja igual até a variável coringa, como `https://lojadesapatos.com/finalizar-compra/obrigado/orderID=63551`
+  - Um asterisco (\*) pode ser usado como uma variável coringa em sua URL de conversão que informará aos Anúncios Brave para tratar essa posição na URL como qualquer valor possível. Isso pode ser usado em uma variedade de situações em que as URLs dos sites de conversão seguem caminhos semelhantes, mas incluem valores diferentes, como diretórios de produtos ou IDs de pedidos únicos.
+    - Por exemplo, com base no exemplo acima, `https://lojadesapatos.com/finalizar-compra/obrigado*` englobaria efetivamente qualquer URL que seja igual até a variável coringa, como `https://lojadesapatos.com/finalizar-compra/obrigado/orderID=63551`
 
 ### Uso avançado de variáveis coringas em URLs de conversão
 
 Valores coringas podem ser colocados em qualquer lugar do subcaminho da URL, incluindo entre seções do caminho. Aqui estão alguns exemplos usando uma loja de sapatos hipotética, `https://lojadesapatos.com`, que categoriza seus sapatos disponíveis por categoria, tipo e cor em todo o site. Suas páginas são estruturadas usando o seguinte formato: `https://lojadesapatos.com/categoria/tipo/cor/`
 
 - Exemplo 1: Esta URL de conversão contará visitas a páginas no diretório "tenis-de-corrida" categorizadas como "masculino": `https://lojadesapatos.com/tenis-de-corrida/*/masculino*`
-    - Neste caso, o primeiro asterisco representa qualquer tipo, enquanto o segundo é o coringa final recomendado em todas as URLs de conversão.
+  - Neste caso, o primeiro asterisco representa qualquer tipo, enquanto o segundo é o coringa final recomendado em todas as URLs de conversão.
 - Exemplo 2: Esta URL de conversão contará visitas a páginas de qualquer calçado que seja "infantil": `https://lojadesapatos.com/*/infantil/*`
-    - Nesse caso, o primeiro asterisco representa os subcaminhos para qualquer categoria de calçados. O segundo asterisco atua tanto como a cor do calçado quanto cumpre o papel do coringa final recomendado.
+  - Nesse caso, o primeiro asterisco representa os subcaminhos para qualquer categoria de calçados. O segundo asterisco atua tanto como a cor do calçado quanto cumpre o papel do coringa final recomendado.
 
 ### Controles avançados para atribuição
 
