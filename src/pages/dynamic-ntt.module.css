@@ -241,6 +241,152 @@
   line-height: 22px;
 }
 
+/* ===== SETTINGS BUTTON ===== */
+.settingsContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.settingsButton {
+  position: absolute;
+  z-index: 2;
+  inset-block-start: 0px;
+  inset-inline-end: 0px;
+  margin: 24px;
+  padding: 8px;
+  border-radius: 50%;
+  color: rgb(255, 255, 255);
+  opacity: 0.9;
+  background: rgba(255, 255, 255, 0.0);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 1.2s cubic-bezier(0.2, 1, 0.1, 1);
+  overflow: hidden;
+}
+
+.settingsButton:hover {
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.settingsButton * {
+  pointer-events: none;
+}
+
+.settingsButton.expanded {
+  border-radius: 10px;
+  padding: 8px;
+  width: 150px;
+  height: auto;
+  background: rgba(37, 37, 37, 0.58);
+  backdrop-filter: blur(50px);
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  transform: scale(1);
+}
+
+.settingsIcon {
+  width: 18px;
+  height: 18px;
+  filter: brightness(0) invert(1);
+  transition: all 0.3s ease;
+}
+
+.settingsButton.expanded .settingsIcon {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.settingsCloseIcon {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 20px;
+  height: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  cursor: pointer;
+  z-index: 10;
+  background: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.settingsCloseIcon::before,
+.settingsCloseIcon::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 12px;
+  height: 2px;
+  background: white;
+  transform-origin: center;
+}
+
+.settingsCloseIcon::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.settingsCloseIcon::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.settingsButton.expanded .settingsCloseIcon {
+  opacity: 1;
+}
+
+.settingsDropdown {
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 0;
+  padding-top: 24px;
+  opacity: 0;
+  transform: translateY(-2px) scale(0.98);
+  transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.settingsButton.expanded .settingsDropdown {
+  display: flex;
+  opacity: 1;
+}
+
+.pageLink {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 12px;
+  color: #e3e3e8ff;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+.pageLink:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.topSiteItem {
+  width: 20px;
+  height: 20px;
+}
+
+
 /* ===== GRADIENT OVERLAY ===== */
 .gradientOverlay {
   background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0) 35%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.6) 100%);
@@ -285,6 +431,7 @@
 }
 
 /* Stack the two remaining widgets when container is less than 900px */
+
 @media (max-width: 950px) {
   .widgetContainer {
     display: flex !important;
@@ -302,29 +449,68 @@
   }
   
   .widget {
-    width: 100% !important;
     max-width: var(--widget-max-width) !important;
     flex: 0 0 auto !important;
   }
-}
 
-@media (max-width: 950px) {
-  .gridContainer {
-    grid-template-rows: 20% 50% 30%;
-  }
-  
   .searchBoxContainer {
     width: 90%;
     max-width: 400px;
   }
-  
-  .imageGrid {
-    gap: 15px;
+
+  .gridContainer {
+    grid-template-rows: 20% 50% 30%;
   }
-  
-  .gridImage {
-    height: 80px;
-  }
+}
+
+@media (max-height: 844px) AND (min-height: 668px) {
+    .widgetContainer {
+        padding-bottom: 40px !important;
+    }
+
+    .widget:last-child {
+        min-height: unset !important;
+        max-height: 150px !important;
+    }
+
+    .widget:not(:last-child) {
+        min-height: unset !important;
+        max-height: 120px !important;
+    }
+
+    .widgetContainer {
+        gap: 5px !important;
+    }
+
+    .widgetDataVPN{
+        padding: 10px !important;
+    }
+}
+
+@media (max-height: 667px) {
+
+    .widgetContainer {
+        padding-bottom: 40px !important;
+    }
+    
+    .widget:last-child {
+        min-height: unset !important;
+        max-height: 140px !important;
+    }
+
+    .widget:not(:last-child) {
+        min-height: unset !important;
+        max-height: 95px !important;
+        padding: 14px !important;
+    }
+
+    .widgetContainer {
+        gap: 2px !important;
+    }
+
+    .widgetDataVPN{
+        padding: 5px !important;
+    }
 }
 
 /* ===== ROOT ELEMENTS ===== */
@@ -340,7 +526,6 @@
   --widget-min-width: 380px;
   --widget-max-width: 512px;
   --widget-gap: 16px;
-  anchor-name: --ntp-widget-container;
   flex: 0 0 auto;
   min-height: var(--widget-height);
   display: grid;
@@ -414,7 +599,9 @@
   display: flex;
   align-items: center;
   color: #e3e3e8ff;
-  font: 400 11px/16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
 }
 
 .widgetDataInner {
@@ -425,28 +612,35 @@
   gap: 24px;
 }
 
+.valueFont {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 26px;
+}
+
 .value {
-  font: 600 20px/26px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   color: #ff8258;
 }
 
 .value2 {
-  font: 600 20px/26px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   color: #a1a2ffff;
 }
 
 .value3 {
-  font: 600 20px/26px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   color: #fff;
 }
 
+.unitsFont {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 22px;
+}
+
 .units {
-  font: 600 14px/22px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   color: #a1a2ffff;
 }
 
-.units3 {
-  font: 600 14px/22px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+.units3{
   color: #fff;
 }
 
@@ -488,15 +682,12 @@
 
 .text {
   flex: 1 1 auto;
-  font: 600 14px/22px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  color: #e3e3e8ff;
   font-weight: 600;
+  font-size: 14px;
   line-height: 22px;
 }
 
 .stackTabs {
-  --leo-icon-size: 16px;
-  --leo-icon-color: #c7c7ccff;
   display: flex;
   flex-direction: column;
   border-radius: 16px 0 0 16px;
@@ -567,7 +758,9 @@
 .provider {
   opacity: 0.3;
   color: #fff;
-  font: 400 11px/16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
   display: flex;
   padding: 0px 8px;
   align-items: center;
@@ -586,10 +779,10 @@
 }
 
 .vpnFeatures {
-  --leo-icon-size: 12px;
-  --leo-icon-color: rgba(199, 199, 204, 0.5);
   flex: 1 1 auto;
-  font: 400 11px/16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -605,44 +798,14 @@
 .vpnRestore {
   opacity: 0.5;
   color: #fff;
-  font: 400 11px/16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+
 }
 
 .shieldIcon {
   width: 12px;
   height: 12px;
   background: url('/img/shield.svg') no-repeat center;
-}
-
-.imageItem {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 16px;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(20px);
-  transition: transform 0.2s ease, background-color 0.2s ease;
-  margin-bottom: 20px;
-  position: relative;
-  color: var(--leo-color-text-primary);
-  border-radius: 16px;
-  background: var(--leo-color-material-thin);
-  backdrop-filter: blur(50px);
-  display: flex;
-  align-items: stretch;
-  animation: linear widget-scroll-fade both;
-  animation-timeline: --ntp-main-view-timeline;
-  animation-range: exit-crossing 10% exit-crossing 100%;
-}
-
-.imageItem:hover {
-  transform: translateY(-4px);
-  background: rgba(255, 255, 255, 0.15);
-}
-
-.gridImage {
-  width: auto;
-  height: 100px;
-  object-fit: contain;
-  border-radius: 16px !important;
 }

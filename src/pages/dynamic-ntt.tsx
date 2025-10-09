@@ -20,6 +20,8 @@ declare global {
 
 export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
   const [iframeLoaded, setIframeLoaded] = useState(false);
+  const [showSettingsDropdown, setShowSettingsDropdown] = useState(false);
+  const settingsRef = useRef<HTMLDivElement>(null);
 
   const csp = [
     "default-src 'none';",
@@ -72,7 +74,58 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                     </div>
                   </div>
                 </div>
-                <div className={styles.gridCell}></div>
+                <div className={styles.gridCell}>
+                  <div className={styles.settingsContainer} ref={settingsRef}>
+                    <button
+                      className={`${styles.settingsButton} ${showSettingsDropdown ? styles.expanded : ''}`}
+                      onClick={() => setShowSettingsDropdown(!showSettingsDropdown)}
+                    >
+                      <img src="/img/settings.svg" alt="Settings" className={styles.settingsIcon} />
+                      <div 
+                        className={styles.settingsCloseIcon}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setShowSettingsDropdown(false);
+                        }}
+                        role="button"
+                        tabIndex={0}
+                        aria-label="Close settings"
+                      />
+                      <div className={styles.settingsDropdown}>
+                        <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          <div className={styles.topSiteItem}>
+                            <svg className={styles.homeIcon} viewBox="0 0 24 24">
+                              <defs>
+                                <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                  <stop offset="3%" stopColor="rgb(250, 114, 80)" />
+                                  <stop offset="40%" stopColor="rgb(255, 24, 147)" />
+                                  <stop offset="99%" stopColor="rgb(167, 138, 255)" />
+                                </linearGradient>
+                              </defs>
+                              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="url(#homeGradient)"/>
+                            </svg>
+                          </div>
+                          Home
+                        </a>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          Pan&Zoom
+                        </a>
+                        <a href="/demos/dynamic-ntt/pan-and-zoom-2" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          Pan&Zoom 2  
+                        </a>
+                        <a href="/demos/dynamic-ntt/carousel-autofade" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          Carousel
+                        </a>
+                        <a href="/demos/dynamic-ntt/slider" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          Slider
+                        </a>
+                        <a href="/demos/dynamic-ntt/digital-rain" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                          Digital Rain
+                        </a>
+                      </div>
+                    </button>
+                  </div>
+                </div>
 
                 {/* Row 2 - Empty cells (70% height) */}
                 <div className={styles.gridCell}></div>
@@ -80,7 +133,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                 <div className={styles.gridCell}></div>
 
                 {/* Row 3 */}
-                <div className={styles.gridCell} style={{gridArea: 'bottom-full', paddingBottom: '40px'}}>
+                <div className={styles.gridCell} style={{gridArea: 'bottom-full'}}>
                   <div className={styles.widgetContainer}>
                     <div className={styles.widget}>
                       <div className={styles.widgetInner}>
@@ -89,18 +142,18 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         <div className={styles.widgetData}>
                           <div className={styles.widgetDataInner}>
                             <div>
-                              <div className={styles.value}>111</div>
+                              <div className={`${styles.value} ${styles.valueFont}`}>111</div>
                               Trackers &amp; ads blocked
                             </div>
                             <div>
-                              <div className={styles.value2}> 4.4 
-                                <span className={styles.units}>MB</span>
+                              <div className={`${styles.value2} ${styles.valueFont}`}> 4.4 
+                                <span className={`${styles.units} ${styles.unitsFont}`}>MB</span>
                               </div>
                               <div>Bandwidth saved</div>
                             </div>
                             <div>
-                              <div className={styles.value3}>6 
-                                <span className={styles.units3}>seconds</span>
+                              <div className={`${styles.value3} ${styles.valueFont}`}>6 
+                                <span className={`${styles.units3} ${styles.unitsFont}`}>seconds</span>
                               </div>
                               Time saved
                             </div>
