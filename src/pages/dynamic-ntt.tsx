@@ -19,6 +19,7 @@ declare global {
 }
 
 export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
+  console.log('DynamicNTT component is rendering!');
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [showSettingsDropdown, setShowSettingsDropdown] = useState(false);
   const settingsRef = useRef<HTMLDivElement>(null);
@@ -78,19 +79,11 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                   <div className={styles.settingsContainer} ref={settingsRef}>
                     <button
                       className={`${styles.settingsButton} ${showSettingsDropdown ? styles.expanded : ''}`}
-                      onClick={() => setShowSettingsDropdown(!showSettingsDropdown)}
+                      onClick={() => {
+                        setShowSettingsDropdown(!showSettingsDropdown);
+                      }}
                     >
                       <img src="/img/settings.svg" alt="Settings" className={styles.settingsIcon} />
-                      <div 
-                        className={styles.settingsCloseIcon}
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          setShowSettingsDropdown(false);
-                        }}
-                        role="button"
-                        tabIndex={0}
-                        aria-label="Close settings"
-                      />
                       <div className={styles.settingsDropdown}>
                         <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
                           <div className={styles.topSiteItem}>

@@ -261,13 +261,12 @@
   border-radius: 50%;
   color: rgb(255, 255, 255);
   opacity: 0.9;
-  background: rgba(255, 255, 255, 0.0);
+  background: transparent;
   border: none;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 1.2s cubic-bezier(0.2, 1, 0.1, 1);
   overflow: hidden;
 }
 
@@ -276,22 +275,16 @@
   background: rgba(255, 255, 255, 0.2);
 }
 
-.settingsButton * {
-  pointer-events: none;
+.settingsButton:hover .settingsDropdown:hover {
+  background: transparent;
 }
 
-.settingsButton.expanded {
-  border-radius: 10px;
-  padding: 8px;
-  width: 150px;
-  height: auto;
-  background: rgba(37, 37, 37, 0.58);
-  backdrop-filter: blur(50px);
-  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
-  flex-direction: column;
-  align-items: stretch;
-  justify-content: flex-start;
-  transform: scale(1);
+.settingsButton:has(.settingsDropdown:hover) {
+  background: transparent !important;
+}
+
+.settingsButton * {
+  pointer-events: none;
 }
 
 .settingsIcon {
@@ -303,28 +296,41 @@
 
 .settingsButton.expanded .settingsIcon {
   opacity: 0;
-  width: 0;
-  height: 0;
-  margin: 0;
-  padding: 0;
+  transform: rotate(90deg);
 }
 
-.settingsCloseIcon {
+/* X icon that appears when dropdown is open */
+.settingsButton::after {
+  content: '';
   position: absolute;
-  top: 4px;
-  right: 4px;
-  width: 20px;
-  height: 20px;
+  top: 50%;
+  left: 50%;
+  width: 12px;
+  height: 2px;
+  background: white;
+  transform: translate(-50%, -50%) rotate(45deg);
   opacity: 0;
-  transition: opacity 0.3s ease;
-  cursor: pointer;
-  z-index: 10;
-  background: none;
-  border: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  transition: all 0.3s ease;
 }
+
+.settingsButton::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 12px;
+  height: 2px;
+  background: white;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.settingsButton.expanded::after,
+.settingsButton.expanded::before {
+  opacity: 1;
+}
+
 
 .settingsCloseIcon::before,
 .settingsCloseIcon::after {
@@ -350,42 +356,152 @@
   opacity: 1;
 }
 
+
 .settingsDropdown {
-  display: none;
-  flex-direction: column;
-  gap: 4px;
-  margin-top: 0;
-  padding-top: 24px;
+  position: fixed;
+  top: 70px;
+  right: 30px;
+  background: transparent;
+
+  backdrop-filter: blur(20px);
+  border-radius: 16px;
+  padding: 8px;
+  box-shadow: 
+    0 20px 25px -5px rgba(0, 0, 0, 0.3),
+    0 10px 10px -5px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(255, 255, 255, 0.05);
+  min-width: 200px;
+  z-index: 9999;
+  
+  /* Animation */
   opacity: 0;
-  transform: translateY(-2px) scale(0.98);
-  transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  transform: translateY(-10px) scale(0.95);
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: none;
 }
 
 .settingsButton.expanded .settingsDropdown {
-  display: flex;
-  opacity: 1;
+  opacity: 1 !important;
+  transform: translateY(0) scale(1) !important;
+  pointer-events: auto !important;
+  display: block !important;
+}
+
+/* Add subtle pulse animation to dropdown when open */
+@keyframes dropdownPulse {
+  0%, 100% { 
+    box-shadow: 
+      0 25px 50px -12px rgba(0, 0, 0, 0.4),
+      0 0 0 1px rgba(255, 255, 255, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 30px rgba(250, 114, 80, 0.1);
+  }
+  50% { 
+    box-shadow: 
+      0 25px 50px -12px rgba(0, 0, 0, 0.4),
+      0 0 0 1px rgba(250, 114, 80, 0.3),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 40px rgba(250, 114, 80, 0.2),
+      0 0 60px rgba(255, 24, 147, 0.1);
+  }
+}
+
+.settingsButton.expanded .settingsDropdown {
+  animation: dropdownPulse 3s ease-in-out infinite;
 }
 
 .pageLink {
   display: flex;
   align-items: center;
-  gap: 6px;
-  padding: 12px;
-  color: #e3e3e8ff;
+  gap: 14px;
+  padding: 14px 18px;
+  color: rgba(255, 255, 255, 0.85);
   text-decoration: none;
-  border-radius: 8px;
-  transition: background-color 0.2s ease;
+  border-radius: 14px;
+  transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+  font-size: 14px;
+  font-weight: 500;
+  position: relative;
+  overflow: hidden;
+  margin: 2px 0;
+  opacity: 0;
+  transform: translateX(-20px);
+  animation: slideInFromLeft 0.5s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+/* animation delays for each dropdown item */
+.pageLink:nth-child(1) { animation-delay: 0.1s; }
+.pageLink:nth-child(2) { animation-delay: 0.15s; }
+.pageLink:nth-child(3) { animation-delay: 0.2s; }
+.pageLink:nth-child(4) { animation-delay: 0.25s; }
+.pageLink:nth-child(5) { animation-delay: 0.3s; }
+.pageLink:nth-child(6) { animation-delay: 0.35s; }
+
+@keyframes slideInFromLeft {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.pageLink::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, 
+    transparent, 
+    rgba(250, 114, 80, 0.1), 
+    rgba(255, 24, 147, 0.1), 
+    rgba(167, 138, 255, 0.1), 
+    transparent);
+  transition: left 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.pageLink::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(90deg, 
+    rgba(250, 114, 80, 0.8), 
+    rgba(255, 24, 147, 0.8), 
+    rgba(167, 138, 255, 0.8));
+  transform: translateY(-50%);
+  transition: width 0.4s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .pageLink:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: 
+    linear-gradient(135deg, 
+      rgba(250, 114, 80, 0.08) 0%, 
+      rgba(255, 24, 147, 0.06) 40%, 
+      rgba(167, 138, 255, 0.08) 99%);
+  color: #ffffff;
+  transform: translateX(8px) scale(1.02);
+  box-shadow: 
+    0 8px 25px rgba(0, 0, 0, 0.3),
+    0 0 0 1px rgba(255, 255, 255, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.pageLink:hover::before {
+  left: 100%;
+}
+
+.pageLink:hover::after {
+  width: 20px;
 }
 
 .topSiteItem {
   width: 20px;
   height: 20px;
 }
-
 
 /* ===== GRADIENT OVERLAY ===== */
 .gradientOverlay {
