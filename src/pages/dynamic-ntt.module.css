@@ -514,11 +514,10 @@
 @media (max-width: calc(3 * 380px + 2 * 16px + 200px)) and (min-width: 951px) {
   .widgetContainer {
     display: flex !important;
-    justify-content: space-between !important;
-    gap: var(--widget-gap);
-    width: calc(2 * var(--widget-max-width) + var(--widget-gap)) !important;
-    max-width: 100% !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
     flex: 1 1 auto !important;
+    align-items: stretch !important;
   }
   
   .widget:nth-child(1) {
@@ -535,6 +534,7 @@
     flex: 1 1 var(--widget-max-width);
     max-width: var(--widget-max-width) !important;
     width: auto !important;
+    margin-left: auto !important;
   }
 }
 
@@ -550,6 +550,7 @@
     width: 100% !important;
     align-items: center !important;
     justify-content: center !important;
+    padding: 0 0px !important;
   }
   
   .widget:nth-child(2) {
@@ -610,6 +611,7 @@
   max-width: 100%;
   position: absolute;
   bottom: 20px;
+  padding: 0 16px;
   justify-content: center !important;
 }
 
