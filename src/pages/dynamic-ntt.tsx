@@ -125,7 +125,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                 <div className={styles.gridCell}></div>
 
                 {/* Row 3 */}
-                <div className={styles.gridCell} style={{gridArea: 'bottom-full'}}>
+                <div className={styles.gridCell}>
                   <div className={styles.widgetContainer}>
                     <div className={styles.widget}>
                       <div className={styles.widgetInner}>
