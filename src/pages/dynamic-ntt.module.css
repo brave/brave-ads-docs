@@ -583,6 +583,10 @@
 
 @media (max-height: 844px) and (max-width: 950px){
 
+    .widgetContainer {
+        min-height: unset !important;
+    }
+
     .widget:last-child  {
         display: none !important;
     }
