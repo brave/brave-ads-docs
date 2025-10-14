@@ -161,6 +161,15 @@
   left: 0;
 }
 
+/* Grid area assignments for each cell */
+.gridCell:nth-child(1) { grid-area: top-left; }
+.gridCell:nth-child(2) { grid-area: top-center; }
+.gridCell:nth-child(3) { grid-area: top-right; }
+.gridCell:nth-child(4) { grid-area: middle-left; }
+.gridCell:nth-child(5) { grid-area: middle-center; }
+.gridCell:nth-child(6) { grid-area: middle-right; }
+.gridCell:nth-child(7) { grid-area: bottom-full; }
+
 .gridCell {
   display: flex;
   align-items: center;

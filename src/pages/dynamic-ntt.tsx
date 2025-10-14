@@ -19,6 +19,7 @@ declare global {
 }
 
 export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
+  console.log('DynamicNTT component is rendering!');
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [showSettingsDropdown, setShowSettingsDropdown] = useState(false);
   const settingsRef = useRef<HTMLDivElement>(null);
@@ -125,7 +126,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                 <div className={styles.gridCell}></div>
 
                 {/* Row 3 */}
-                <div className={styles.gridCell} style={{gridArea: 'bottom-full'}}>
+                <div className={styles.gridCell}>
                   <div className={styles.widgetContainer}>
                     <div className={styles.widget}>
                       <div className={styles.widgetInner}>
