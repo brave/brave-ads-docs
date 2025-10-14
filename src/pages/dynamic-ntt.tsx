@@ -19,7 +19,6 @@ declare global {
 }
 
 export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
-  console.log('DynamicNTT component is rendering!');
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [showSettingsDropdown, setShowSettingsDropdown] = useState(false);
   const settingsRef = useRef<HTMLDivElement>(null);
