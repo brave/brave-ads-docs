@@ -275,10 +275,6 @@
   background: rgba(255, 255, 255, 0.2);
 }
 
-.settingsButton:hover .settingsDropdown:hover {
-  background: transparent;
-}
-
 .settingsButton:has(.settingsDropdown:hover) {
   background: transparent !important;
 }
@@ -356,29 +352,25 @@
   opacity: 1;
 }
 
-
 .settingsDropdown {
   position: fixed;
   top: 70px;
   right: 30px;
-  background: transparent;
-
-  backdrop-filter: blur(20px);
+  background-color: transparent;
   border-radius: 16px;
   padding: 8px;
-  box-shadow: 
-    0 20px 25px -5px rgba(0, 0, 0, 0.3),
-    0 10px 10px -5px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(255, 255, 255, 0.05);
   min-width: 200px;
   z-index: 9999;
-  
-  /* Animation */
   opacity: 0;
-  transform: translateY(-10px) scale(0.95);
-  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
   pointer-events: none;
 }
+
+.settingsDropdown:hover {
+  backdrop-filter: blur(15px) !important;
+  transition: backdrop-filter 0.8s linear;
+}
+
 
 .settingsButton.expanded .settingsDropdown {
   opacity: 1 !important;
@@ -591,9 +583,6 @@
 
     .widget:nth-child(1)  {
         width: 96% !important;
-
-        /* left: 50% !important; */
-        /* transform: translateX(-50%); */
         min-width: unset !important;
     }
 }
