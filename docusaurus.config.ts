@@ -38,13 +38,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['de', 'en', 'es', 'fr', 'pt'],
-  },
   
   headTags: [
     {
@@ -109,7 +102,6 @@ const config: Config = {
         { href: 'https://ads.brave.com/register', label: 'Sign up', position: 'left'},
         { href: 'https://brave.com/brave-ads', label: 'About', position: 'left'},
         { href: 'https://brave.com/brave-ads/audience', label: 'Audience', position: 'left'},
-        { type: 'localeDropdown', position: 'left' },
       ],
     },
     footer: {
