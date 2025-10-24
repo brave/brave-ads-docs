@@ -74,6 +74,19 @@ const config: Config = {
             to: '/category/advertiser-policies',
           },
         ],
+        createRedirects(existingPath) {
+          // Create redirects for all existing paths from localized versions
+          const redirects = [];
+          
+          // For each existing path, create redirects from all language prefixes
+          if (existingPath && existingPath !== '/') {
+            ['de', 'es', 'fr', 'pt'].forEach(lang => {
+              redirects.push(`/${lang}${existingPath}`);
+            });
+          }
+          
+          return redirects;
+        },
       },
     ],
   ],
