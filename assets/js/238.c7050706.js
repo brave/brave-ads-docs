@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrave_ads_docs=self.webpackChunkbrave_ads_docs||[]).push([[238],{9238:(a,s,e)=>{e.r(s),e.d(s,{DocSearchModal:()=>c.a1});var c=e(2648)}}]);
