@@ -36,9 +36,13 @@ const config: Config = {
   projectName: 'brave-ads-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
-  
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    }
+  },
+
   headTags: [
     {
       tagName: 'meta',
