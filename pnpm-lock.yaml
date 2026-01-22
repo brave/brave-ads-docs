@@ -10246,7 +10246,7 @@ snapshots:
 
   regenerator-transform@0.15.2:
     dependencies:
-      '@babel/runtime': 7.28.6
+      '@babel/runtime': 7.26.10
 
   regexpu-core@6.1.1:
     dependencies:
