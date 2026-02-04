@@ -25,17 +25,17 @@ Blocked scripts will disable most, if not all, functions for third-party trackin
 Whether your campaign is purchased via Managed Service or Self-Service, all advertisers will have access to the Brave Ads reporting dashboard to report on the performance of campaigns. Campaign dashboards update hourly with the option to export reporting for Notification ad campaigns on demand.
 
 ### Available reporting metrics in Brave Ads Manager
-| Metric                    | Description                                                                                                                                                                                                                                                                                                   | Notification | New Tab Takeover | Search |   |   |   |   |   |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|--------|---|---|---|---|---|
-| Impressions               | Counted when an ad is displayed on screen for a minimum of one second.                                                                                                                                                                                                                                        | X            | X                | X      |   |   |   |   |   |
-| Clicks                    | Counted when a user clicks on the ad. Does not include clicks to dismiss.                                                                                                                                                                                                                                     | X            | X                | X      |   |   |   |   |   |
-| CTR                       | The click-through rate is a percentage expressing clicks relative to impressions.                                                                                                                                                                                                                             | X            | X                | X      |   |   |   |   |   |
-| Dismissed                 | Counted when a user clicks the “close” or “x” button to make an ad go away.                                                                                                                                                                                                                                   | X            |                  |        |   |   |   |   |   |
-| Site visits               | Counted when the user clicks an ad and spends at least 5 seconds on the advertiser's website, with the website open in an active browser tab. The 5 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X            |                  |        |   |   |   |   |   |
-| Upvotes & downvotes       | Counted when a user either upvotes or downvotes an ad in their ad history.                                                                                                                                                                                                                                    | X            |                  |        |   |   |   |   |   |
-| Conversions               | Sum total of all conversions, including anonymous conversions without a specified click or view attribution. Counted when a user reaches a designated conversion landing page.                                                                                                                                | X            |                  |        |   |   |   |   |   |
-| Click-through conversions | Counted when a user reaches a designated conversion landing page following an impression and click of the ad.                                                                                                                                                                                                 | X            |                  |        |   |   |   |   |   |
-| View-through conversions  | Counted when a user reaches a designated conversion landing page following an ad impression.                                                                                                                                                                                                                  | X            |                  |        |   |   |   |   |   |
+| Metric                    | Description                                                                                                                                                                                                                                                                                                   | Notification | New Tab Takeover | Search | 
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------|--------|
+| Impressions               | Counted when an ad is displayed on screen for a minimum of one second.                                                                                                                                                                                                                                        | X            | X                | X      |
+| Clicks                    | Counted when a user clicks on the ad. Does not include clicks to dismiss.                                                                                                                                                                                                                                     | X            | X                | X      |
+| CTR                       | The click-through rate is a percentage expressing clicks relative to impressions.                                                                                                                                                                                                                             | X            | X                | X      ||
+| Dismissed                 | Counted when a user clicks the “close” or “x” button to make an ad go away.                                                                                                                                                                                                                                   | X            |                  |        |
+| Site visits               | Counted when the user clicks an ad and spends at least 5 seconds on the advertiser's website, with the website open in an active browser tab. The 5 seconds must be spent on the site after arriving by clicking the ad link, and the tab must remain open and active the entire time for the visit to count. | X            |                  |        |
+| Upvotes & downvotes       | Counted when a user either upvotes or downvotes an ad in their ad history.                                                                                                                                                                                                                                    | X            |                  |        |
+| Conversions               | Sum total of all conversions, including anonymous conversions without a specified click or view attribution. Counted when a user reaches a designated conversion landing page.                                                                                                                                | X            |                  |        |
+| Click-through conversions | Counted when a user reaches a designated conversion landing page following an impression and click of the ad.                                                                                                                                                                                                 | X            |                  |        |
+| View-through conversions  | Counted when a user reaches a designated conversion landing page following an ad impression.                                                                                                                                                                                                                  | X            |                  |        |
 
 ## Conversion reporting in Brave Ads Manager
 Conversion reporting in Brave Ads Manager allows advertisers to define a conversion event on their ad campaigns with Brave by using a URL that indicates when a user reaches a certain stage of the customer journey. 
@@ -110,61 +110,6 @@ Click URL tracking parameters are allowed, but only when used in a way that your
 Parse values and set first-party cookies based on the query string parameters from the clickthrough URL. This entire query string can be set as the value or parsed into individual key value pairs.
 When the same user lands from a different channel, your same code snippet can append or overwrite the cookie values with the new parameter values depending on your preference.
 When the user completes the expected action and a network request is made back to your servers, the cookies should be attached to the request headers and you can see that a user has come from a Brave Ads campaign.
-
-## Verifiable Ad Conversions (VAC)
-Verifiable Ad Conversions (VAC) is an optional feature-set of Brave Ads Conversion Reporting. VAC provides Brave advertisers with the ability to determine their return on ad spend by privately reporting encrypted Conversion IDs. Advertisers can then audit the list of encrypted Conversion IDs to verify that the converted user can be attributed to a Brave Ads campaign.
-
-When an eligible user lands on the Conversion Page, a process is invoked that enables the advertiser to account for the specific transaction event, while maintaining user privacy and anonymity. Not even Brave can read or learn anything about that event (aside from the anonymously reported conversion event count). This enables privacy from end-to-end and allows users to feel better about their Conversion Event, knowing that no one can learn anything from the conversion.
-
-Advertisers who choose to use VAC will generate a public-private key pair in the Account Settings of the Brave Ads interface. Brave will retain the public key, sign the Conversion ID with it, and report the encrypted Conversion ID. Only the Advertiser will have the private key, and only the advertiser will be able to decrypt the encrypted Conversion ID.
-
-It’s crucial that the advertiser does not lose their private key for Verifiable Ad Conversions.
-
-### Conversion event ID details
-Verifiable Ad Conversion Reporting is done by a Conversion ID. For your site, this may be an order number, a transaction ID, or something similar.
-
-### Requirements:
-- The Conversion ID value must be unique for each conversion. Duplicate Conversion Event ID values will result in accounting discrepancies.
-- The Conversion ID must be between 1–30 characters long, contain only alphanumeric characters (as well as dashes), and match this regular expression: `` [-a-zA-Z0-9]{1,30}``.
-- Event values longer than 30 characters will fail, preventing the event from being accurately accounted for. You may check if your identifier is valid by using a site like ``https://regex101.com/``.
-- Conversion IDs must not include user identifiers or personally identifying information. For example, Conversion IDs like the following are not permitted: ``<user id>-<random id>``, ``<random id>-<email address>``.
-    
-Brave uses TweetNacl to encrypt the Conversion ID. 
-
-Encrypted Conversion Envelopes will look like:
-```json
-{
- "alg": "crypto_box_curve25519xsalsa20poly1305",
- "ciphertext": "BTX6xKZ4vITaWa11EMcly7gyQ3rN8JoAYvoHeIiYuSS9Lsc4GUQBN54+otIGOsxk",
- "epk": "3N1RKgiOvOXCGjO6txtEwR0DzpEp9U+PkbpwxAkAGwg=",
- "nonce": "N4EH/upCXxyRPLmYLvYCyuaKQASlA6Qo"
-}
-```
-
-### Implementation options
-Brave provides two implementation options for Verifiable Conversions using a URL pattern or DOM element pattern.
-
-#### URL Pattern
-
-An advertiser has a Conversion ID that is present as a query string parameter in the Conversion Page URL pattern. The advertiser must provide Brave with the query string key that identifies the Conversion ID.
-
-When an eligible user lands on the Conversion Page URL, Brave will:
-- Record a conversion event
-- Parse the URL for the query string key that identifies the Conversion ID
-- Encrypt and record the Conversion ID
-
-Take, for example, the following Conversion Page URL: https://example.com/checkout?order=ABC-12345-xyz. Brave will look for the query string key order and encrypt the value ``ABC-12345-xyz``. 
-
-#### DOM Element Pattern
-
-An advertiser has a Conversion ID that is present in the Document Object Model (DOM) of the Conversion Page URL.
-
-The advertiser must provide Brave with the DOM element that uniquely identifies the Conversion ID on the page. When an eligible user lands on the Conversion Page URL, Brave will:
-- Record a conversion event
-- Parse the DOM for the regex pattern that identifies the Conversion ID  
-- Encrypt and record the Conversion ID
-    
-Take, for example, the following DOM element: ``<div class='order-id-value'>Your Order ID: ABC-12345-xyz</div>``. Brave will look for this pattern ``Your Order ID:.*``, set a capture group ``([-a-zA-Z0-9]*)`` and encrypt the value ``ABC-12345-xyz``.
 
 ## Brand lift studies
 Brave brand lift studies consist of pre-post research polls conducted via Brave to help advertisers better measure the impact of their ad campaigns beyond media metrics like impressions or clicks. Studies typically measure brand awareness or consideration, but can also measure growth in product understanding or other effects based on paid media spend with Brave.
