@@ -33,16 +33,6 @@ export default function DynamicNTT({
       iconClass: "topSiteIconHome",
     },
     {
-      label: "Pan & Zoom",
-      url: "/demos/dynamic-ntt/pan-and-zoom",
-      iconClass: "topSiteIconVPN",
-    },
-    {
-      label: "Pan Zoom 2",
-      url: "/demos/dynamic-ntt/pan-and-zoom-2",
-      iconClass: "topSiteIconShield",
-    },
-    {
       label: "Carousel",
       url: "/demos/dynamic-ntt/carousel-autofade",
       iconClass: "topSiteIconRewards",
@@ -51,6 +41,16 @@ export default function DynamicNTT({
       label: "Slider",
       url: "/demos/dynamic-ntt/slider",
       iconClass: "topSiteIconTalk",
+    },
+    {
+      label: "Pan & Zoom",
+      url: "/demos/dynamic-ntt/pan-and-zoom",
+      iconClass: "topSiteIconVPN",
+    },
+    {
+      label: "Pan Zoom 2",
+      url: "/demos/dynamic-ntt/pan-and-zoom-2",
+      iconClass: "topSiteIconShield",
     },
     {
       label: "Digital Rain",
