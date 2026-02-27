@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
-import styles from './dynamic-ntt.module.css';
+import React, { useState, useEffect, useRef } from "react";
+import styles from "./dynamic-ntt.module.css";
 import "@fontsource/poppins/600.css";
 import "@fontsource/inter/400.css";
 
@@ -18,11 +18,47 @@ declare global {
   }
 }
 
-export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element {
+export default function DynamicNTT({
+  src,
+}: DynamicNTTProps): React.JSX.Element {
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [showSettingsDropdown, setShowSettingsDropdown] = useState(false);
+  const [currentTopSitePage, setCurrentTopSitePage] = useState(0);
   const settingsRef = useRef<HTMLDivElement>(null);
 
+  const allTopSites = [
+    {
+      label: "Home",
+      url: "/ad-placements/brave-browser/dynamic-ntt",
+      iconClass: "topSiteIconHome",
+    },
+    {
+      label: "Pan & Zoom",
+      url: "/demos/dynamic-ntt/pan-and-zoom",
+      iconClass: "topSiteIconVPN",
+    },
+    {
+      label: "Pan Zoom 2",
+      url: "/demos/dynamic-ntt/pan-and-zoom-2",
+      iconClass: "topSiteIconShield",
+    },
+    {
+      label: "Carousel",
+      url: "/demos/dynamic-ntt/carousel-autofade",
+      iconClass: "topSiteIconRewards",
+    },
+    {
+      label: "Slider",
+      url: "/demos/dynamic-ntt/slider",
+      iconClass: "topSiteIconTalk",
+    },
+    {
+      label: "Digital Rain",
+      url: "/demos/dynamic-ntt/digital-rain",
+      iconClass: "topSiteIconSettings",
+    },
+    { label: "Brave Ads", url: "/", iconClass: "topSiteIconBAT" },
+  ];
   const csp = [
     "default-src 'none';",
     "script-src 'self';",
@@ -33,7 +69,7 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
     "base-uri 'none';",
     "form-action 'none';",
   ].join(" ");
-  
+
   return (
     <div className={`${styles.dnttRoot} dynamic-ntt-demo`}>
       {/* Loading spinner */}
@@ -43,12 +79,12 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
           <div className={styles.loadingText}>Loading...</div>
         </div>
       )}
-      
+
       {/* NTT content */}
       <iframe
         id="background-iframe"
         src={src}
-        className={`${styles.backgroundIframe} ${iframeLoaded ? styles.loaded : ''}`}
+        className={`${styles.backgroundIframe} ${iframeLoaded ? styles.loaded : ""}`}
         title="Background Content"
         sandbox="allow-scripts"
         referrerPolicy="no-referrer"
@@ -60,58 +96,170 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
       <div className={styles.overlayContent}>
         <div id="root">
           <div className={styles.mainContainer}>
-            <div id="main" className={styles.mainContent} data-target="background">
+            <div
+              id="main"
+              className={styles.mainContent}
+              data-target="background"
+            >
               {/* 3x3 Grid Layout */}
               <div className={styles.gridContainer}>
-                
                 {/* Row 1 */}
                 <div className={styles.gridCell}></div>
                 <div className={styles.gridCell}>
-                  <div className={styles.searchBoxContainer}>
-                    <div className={styles.searchBoxContent}>
-                      <img src="/img/brave128.png" alt="Brave" className={styles.braveLogo} />
-                      <div className={styles.searchText}>Ask Brave Search</div>
+                  <div className={styles.topCenterContent}>
+                    {/* Top Sites */}
+                    <div className={styles.topSitesContainer}>
+                      <div className={styles.topSitesRow}>
+                        <div className={styles.topSitesViewport}>
+                          <div
+                            className={styles.topSitesGrid}
+                            style={{
+                              transform: `translateX(${currentTopSitePage * -74}px)`,
+                            }}
+                          >
+                            {allTopSites.map((site, index) => (
+                              <a
+                                key={`topsite-${index}`}
+                                href={site.url}
+                                className={styles.topSiteLink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                <div className={styles.topSiteTile}>
+                                  <div className={styles[site.iconClass]} />
+                                </div>
+                                <div className={styles.topSiteLabel}>
+                                  {site.label}
+                                </div>
+                              </a>
+                            ))}
+                          </div>
+                        </div>
+                        <div className={styles.topSiteMenuBtn}>
+                          <span />
+                          <span />
+                          <span />
+                        </div>
+                      </div>
+                      <div className={styles.topSitePageDots}>
+                        <button
+                          className={`${styles.topSitePageDot} ${currentTopSitePage === 0 ? styles.topSitePageDotActive : ""}`}
+                          onClick={() => setCurrentTopSitePage(0)}
+                        />
+                        <button
+                          className={`${styles.topSitePageDot} ${currentTopSitePage === 1 ? styles.topSitePageDotActive : ""}`}
+                          onClick={() => setCurrentTopSitePage(1)}
+                        />
+                      </div>
+                    </div>
+                    {/* Search Box */}
+                    <div className={styles.searchBoxContainer}>
+                      <div className={styles.searchBoxContent}>
+                        <img
+                          src="/img/brave128.png"
+                          alt="Brave"
+                          className={styles.braveLogo}
+                        />
+                        <div className={styles.searchText}>
+                          Ask Brave Search
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
                 <div className={styles.gridCell}>
                   <div className={styles.settingsContainer} ref={settingsRef}>
                     <button
-                      className={`${styles.settingsButton} ${showSettingsDropdown ? styles.expanded : ''}`}
+                      className={`${styles.settingsButton} ${showSettingsDropdown ? styles.expanded : ""}`}
                       onClick={() => {
                         setShowSettingsDropdown(!showSettingsDropdown);
                       }}
                     >
-                      <img src="/img/settings.svg" alt="Settings" className={styles.settingsIcon} />
+                      <img
+                        src="/img/settings.svg"
+                        alt="Settings"
+                        className={styles.settingsIcon}
+                      />
                       <div className={styles.settingsDropdown}>
-                        <a href="/ad-placements/brave-browser/dynamic-ntt" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href="/ad-placements/brave-browser/dynamic-ntt"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <div className={styles.topSiteItem}>
-                            <svg className={styles.homeIcon} viewBox="0 0 24 24">
+                            <svg
+                              className={styles.homeIcon}
+                              viewBox="0 0 24 24"
+                            >
                               <defs>
-                                <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                                  <stop offset="3%" stopColor="rgb(250, 114, 80)" />
-                                  <stop offset="40%" stopColor="rgb(255, 24, 147)" />
-                                  <stop offset="99%" stopColor="rgb(167, 138, 255)" />
+                                <linearGradient
+                                  id="homeGradient"
+                                  x1="0%"
+                                  y1="0%"
+                                  x2="100%"
+                                  y2="100%"
+                                >
+                                  <stop
+                                    offset="3%"
+                                    stopColor="rgb(250, 114, 80)"
+                                  />
+                                  <stop
+                                    offset="40%"
+                                    stopColor="rgb(255, 24, 147)"
+                                  />
+                                  <stop
+                                    offset="99%"
+                                    stopColor="rgb(167, 138, 255)"
+                                  />
                                 </linearGradient>
                               </defs>
-                              <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" fill="url(#homeGradient)"/>
+                              <path
+                                d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"
+                                fill="url(#homeGradient)"
+                              />
                             </svg>
                           </div>
                           Home
                         </a>
-                        <a href="/demos/dynamic-ntt/pan-and-zoom" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href="/demos/dynamic-ntt/pan-and-zoom"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Pan&Zoom
                         </a>
-                        <a href="/demos/dynamic-ntt/pan-and-zoom-2" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
-                          Pan&Zoom 2  
+                        <a
+                          href="/demos/dynamic-ntt/pan-and-zoom-2"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Pan&Zoom 2
                         </a>
-                        <a href="/demos/dynamic-ntt/carousel-autofade" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href="/demos/dynamic-ntt/carousel-autofade"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Carousel
                         </a>
-                        <a href="/demos/dynamic-ntt/slider" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href="/demos/dynamic-ntt/slider"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Slider
                         </a>
-                        <a href="/demos/dynamic-ntt/digital-rain" className={styles.pageLink} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href="/demos/dynamic-ntt/digital-rain"
+                          className={styles.pageLink}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Digital Rain
                         </a>
                       </div>
@@ -121,7 +269,9 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
 
                 {/* Row 2 - Empty cells (70% height) */}
                 <div className={styles.gridCell}></div>
-                <div className={`${styles.gridCell} ${styles.middleCell}`}></div>
+                <div
+                  className={`${styles.gridCell} ${styles.middleCell}`}
+                ></div>
                 <div className={styles.gridCell}></div>
 
                 {/* Row 3 */}
@@ -134,18 +284,37 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         <div className={styles.widgetData}>
                           <div className={styles.widgetDataInner}>
                             <div>
-                              <div className={`${styles.value} ${styles.valueFont}`}>111</div>
+                              <div
+                                className={`${styles.value} ${styles.valueFont}`}
+                              >
+                                111
+                              </div>
                               Trackers &amp; ads blocked
                             </div>
                             <div>
-                              <div className={`${styles.value2} ${styles.valueFont}`}> 4.4 
-                                <span className={`${styles.units} ${styles.unitsFont}`}>MB</span>
+                              <div
+                                className={`${styles.value2} ${styles.valueFont}`}
+                              >
+                                {" "}
+                                4.4
+                                <span
+                                  className={`${styles.units} ${styles.unitsFont}`}
+                                >
+                                  MB
+                                </span>
                               </div>
                               <div>Bandwidth saved</div>
                             </div>
                             <div>
-                              <div className={`${styles.value3} ${styles.valueFont}`}>6 
-                                <span className={`${styles.units3} ${styles.unitsFont}`}>seconds</span>
+                              <div
+                                className={`${styles.value3} ${styles.valueFont}`}
+                              >
+                                6
+                                <span
+                                  className={`${styles.units3} ${styles.unitsFont}`}
+                                >
+                                  seconds
+                                </span>
                               </div>
                               Time saved
                             </div>
@@ -159,7 +328,9 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                         <div className={styles.widgetTitle}>NEWS</div>
                         <div className={styles.optIn}>
                           <div className={styles.graphic}></div>
-                          <div className={styles.text}>Turn on Brave News, and never miss a story</div>
+                          <div className={styles.text}>
+                            Turn on Brave News, and never miss a story
+                          </div>
                           <div className={styles.actions}>
                             <button className={styles.newsButton}>
                               Turn on Brave News
@@ -174,37 +345,77 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                           <button className={styles.activeVpnButton}>
                             <div className={styles.activeVpnButtonIcon}></div>
                           </button>
-                          
+
                           <button className={styles.inactiveVpnButton}>
                             <div className={styles.inactiveVpnButtonIcon}></div>
                           </button>
-                          
+
                           <button className={styles.inactiveVpnButton}>
-                            <div className={styles.inactiveVpnButtonIcon2}></div>
+                            <div
+                              className={styles.inactiveVpnButtonIcon2}
+                            ></div>
                           </button>
                         </div>
                         <div className={styles.widgetDataVPN}>
                           <div className={styles.widgetDataInnerVPN}>
-                            <div className={styles.widgetTitle} style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
-                              <span style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
-                                <div className={styles.activeVpnButtonIconGradient}></div>
+                            <div
+                              className={styles.widgetTitle}
+                              style={{
+                                display: "flex",
+                                alignItems: "center",
+                                gap: "8px",
+                              }}
+                            >
+                              <span
+                                style={{
+                                  display: "flex",
+                                  alignItems: "center",
+                                  gap: "8px",
+                                }}
+                              >
+                                <div
+                                  className={styles.activeVpnButtonIconGradient}
+                                ></div>
                                 BRAVE VPN
                               </span>
-                              <span className={styles.provider}>Powered by 
+                              <span className={styles.provider}>
+                                Powered by
                                 <div className={styles.guardianIcon}></div>
                               </span>
                             </div>
                             <div className={styles.vpnContent}>
                               <div className={styles.vpnFeatures}>
-                                <div style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
+                                <div
+                                  style={{
+                                    display: "flex",
+                                    alignItems: "center",
+                                    gap: "8px",
+                                  }}
+                                >
                                   <div className={styles.shieldIcon}></div>
-                                  <span>Extra privacy &amp; security online</span>
+                                  <span>
+                                    Extra privacy &amp; security online
+                                  </span>
                                 </div>
-                                <div style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
+                                <div
+                                  style={{
+                                    display: "flex",
+                                    alignItems: "center",
+                                    gap: "8px",
+                                  }}
+                                >
                                   <div className={styles.shieldIcon}></div>
-                                  <span>Hide your IP &amp; change your location</span>
+                                  <span>
+                                    Hide your IP &amp; change your location
+                                  </span>
                                 </div>
-                                <div style={{display: 'flex', alignItems: 'center', gap: '8px'}}>
+                                <div
+                                  style={{
+                                    display: "flex",
+                                    alignItems: "center",
+                                    gap: "8px",
+                                  }}
+                                >
                                   <div className={styles.shieldIcon}></div>
                                   <span>Protect every app on your device</span>
                                 </div>
@@ -215,7 +426,9 @@ export default function DynamicNTT({ src }: DynamicNTTProps): React.JSX.Element 
                                     Start free trial
                                   </button>
                                 </div>
-                                <span className={styles.vpnRestore}>Already purchased?</span>
+                                <span className={styles.vpnRestore}>
+                                  Already purchased?
+                                </span>
                               </div>
                             </div>
                           </div>
