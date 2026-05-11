@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbrave_ads_docs=globalThis.webpackChunkbrave_ads_docs||[]).push([[767],{7767(s,a,b){b.r(a)}}]);
