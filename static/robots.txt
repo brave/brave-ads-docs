@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /demos/
 
-Sitemap: https://help.ads.brave.com/sitemap.xml
+Sitemap: https://ads-help.brave.com/sitemap.xml

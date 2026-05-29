@@ -27,7 +27,7 @@ const config: Config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://help.ads.brave.com',
+  url: 'https://ads-help.brave.com',
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -60,6 +60,9 @@ const config: Config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
+        },
+        sitemap: {
+          ignorePatterns: ['/demos/**'],
         },
         theme: {
           customCss: './src/css/custom.css',
