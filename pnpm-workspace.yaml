@@ -4,10 +4,9 @@ allowBuilds:
 
 auditConfig:
   ignoreGhsas: 
-    # these two image-size ghsa's awaiting fix release
-    
+    # these two image-size ghsa's awaiting fix release    
     - GHSA-5p2g-fcmc-qvqq
-    - GHSA-w3rx-r6r6-pgpr 
+    - GHSA-w3rx-r6r6-pgpr
 
 blockExoticSubdeps: true
 
