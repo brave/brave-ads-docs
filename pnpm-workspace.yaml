@@ -19,7 +19,7 @@ overrides:
   brace-expansion@<5.0.9: ^5.0.9
   browserslist@<=4.28.6: ^4.28.7
   colord@<2.9.4: ^2.9.4
-  fast-uri@^3: ^3.1.6
+  fast-uri@^3: ^4.0.0
   follow-redirects@<=1.15.11: '^1.16.0'
   image-size@<=2.0.2: ^2.0.3
   joi@>=17.2.0 <17.13.6: ^17.13.6
