@@ -3,25 +3,28 @@ allowBuilds:
   'core-js-pure': true
 
 auditConfig:
-  ignoreGhsas:
+  ignoreGhsas: []
     # these two image-size ghsa's awaiting fix release    
-    - GHSA-5p2g-fcmc-qvqq
-    - GHSA-w3rx-r6r6-pgpr
+    # - GHSA-5p2g-fcmc-qvqq
+    # - GHSA-w3rx-r6r6-pgpr
 
 blockExoticSubdeps: true
 
 minimumReleaseAge: 10080
-minimumReleaseAgeExclude: [ qs@6.16.0 ]
+minimumReleaseAgeExclude: [ qs@6.16.0, joi@17.13.6, colord@2.9.4, js-yaml@4.3.2, svgo@3.3.5, image-size@2.0.3 ]
 
 overrides:
   '@babel/plugin-transform-modules-systemjs@>=7.12.0 <=7.29.3': '^7.29.4'
   body-parser@<1.20.6: ^1.20.6
   brace-expansion@<5.0.9: ^5.0.9
   browserslist@<=4.28.6: ^4.28.7
+  colord@<2.9.4: ^2.9.4
   fast-uri@^3: ^3.1.6
   follow-redirects@<=1.15.11: '^1.16.0'
-  js-yaml@>=3.0.0 <3.15.1: ^3.15.1
-  js-yaml@>=4.0.0 <4.3.1: ^4.3.1
+  image-size@<=2.0.2: ^2.0.3
+  joi@>=17.2.0 <17.13.6: ^17.13.6
+  js-yaml@>=3.0.0 <3.15.2: ^3.15.2
+  js-yaml@>=4.0.0 <4.3.2: ^4.3.2
   launch-editor@<=2.8.2: '^2.9.0'
   lodash@>=4.0.0 <=4.17.22: '^4.18'
   minimatch@<3.1.4: '^3.1.4'
@@ -32,7 +35,7 @@ overrides:
   postcss@<=8.5.22: ^8.5.23
   qs@<6.16.0: ^6.16.0
   serialize-javascript@<7.0.5: '^7.0.5'
-  svgo@>=3.0.0 <3.3.4: ^3.3.4
+  svgo@>=3.0.0 <3.3.5: ^3.3.5
   uuid@<11.1.1: '^11.1.1'
   webpack-dev-server@<=5.2.5: ^5.2.6
   ws@>=8.0.0 <8.20.1: '^8.20.1'
