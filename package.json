@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "check": "pnpm run /^check:.*/",
+    "check:audit": "pnpm audit",
+    "check:typecheck": "tsc",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "start-https": "node scripts/start-https.js",
@@ -11,8 +14,7 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
@@ -44,11 +46,18 @@
       "last 5 safari version"
     ]
   },
-  "engines": {
-    "node": ">=24.0",
-    "npm": "please-use-pnpm"
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "24.15.0",
+      "onFail": "download"
+    },
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.4.2",
+      "onFail": "download"
+    }
   },
   "author": "Brave Software",
-  "license": "MPL-2.0",
-  "packageManager": "pnpm@12.4.2"
+  "license": "MPL-2.0"
 }
