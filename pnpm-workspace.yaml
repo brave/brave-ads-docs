@@ -4,14 +4,11 @@ allowBuilds:
 
 auditConfig:
   ignoreGhsas: []
-    # these two image-size ghsa's awaiting fix release    
-    # - GHSA-5p2g-fcmc-qvqq
-    # - GHSA-w3rx-r6r6-pgpr
 
 blockExoticSubdeps: true
 
 minimumReleaseAge: 10080
-minimumReleaseAgeExclude: [ qs@6.16.0, joi@17.13.6, colord@2.9.4, js-yaml@4.3.2, svgo@3.3.5, image-size@2.0.3 ]
+minimumReleaseAgeExclude: [ ]
 
 overrides:
   '@babel/plugin-transform-modules-systemjs@>=7.12.0 <=7.29.3': '^7.29.4'
