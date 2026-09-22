@@ -50,5 +50,5 @@
   },
   "author": "Brave Software",
   "license": "MPL-2.0",
-  "packageManager": "pnpm@11.9.0"
+  "packageManager": "pnpm@12.4.2"
 }
