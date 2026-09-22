@@ -11,6 +11,10 @@
     {
       "matchUpdateTypes": ["major"],
       "enabled": true
+    },
+    {
+      "matchDepTypes": ["pnpm.overrides", "pnpm-workspace.overrides"],
+      "enabled": false
     }
   ]
 }
