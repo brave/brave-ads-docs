@@ -1,6 +1,8 @@
 name: Build and Maybe Deploy Docs
 
-on: [push]
+on:
+  push:
+  merge_group:
 
 jobs:
   build-publish:
