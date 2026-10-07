@@ -79,11 +79,10 @@ Wildcard values can be placed anywhere in the sub-path of the URL, including in-
 
 When setting up a conversion URL in Brave, you’ll be asked to pick an observation window, also known as a look-back window, which determines how long after an ad view (or click) should a conversion be attributed to the ad campaign. This can be set for 1, 7, or 30 days, where 1-day will capture the fewest conversions and 30-day will capture the most.
 
-Conversions in Brave Ads Manager are represented via three metrics to provide you with a clearer understanding of ad impact:
+Conversions in Brave Ads Manager are represented via two metrics to provide you with a clearer understanding of ad impact:
 
-- **Conversions**: The sum of post-view and post-click conversions.
 - **Post-click conversions** (Click-through): counted when the user converts after clicking the ad.
-- **Post-view conversions** (View-through): counted when the user sees an ad but does not click it and later returns to the website. _Supported on Notification ads only_.
+- **Post-view conversions** (View-through): counted when the user sees an ad but does not click it and later returns to the website. **_Supported on Notification ads only_**.
 
 ## Independent reporting (first-party)
 In addition to reporting offered via the Brave dashboard, you can use a combination of the following methods to accurately and independently verify the results of your Brave Ads campaign:
