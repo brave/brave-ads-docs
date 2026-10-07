@@ -83,7 +83,7 @@ Conversions in Brave Ads Manager are represented via three metrics to provide yo
 
 - **Conversions**: The sum of post-view and post-click conversions.
 - **Post-click conversions** (Click-through): counted when the user converts after clicking the ad.
-- **Post-view conversions** (View-through): counted when the user sees an ad but does not click it and later returns to the website.        
+- **Post-view conversions** (View-through): counted when the user sees an ad but does not click it and later returns to the website. _Supported on Notification ads only_.
 
 ## Independent reporting (first-party)
 In addition to reporting offered via the Brave dashboard, you can use a combination of the following methods to accurately and independently verify the results of your Brave Ads campaign:
