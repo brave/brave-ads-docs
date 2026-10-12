@@ -49,12 +49,12 @@
   "devEngines": {
     "runtime": {
       "name": "node",
-      "version": "24.15.0",
+      "version": "24.21.0",
       "onFail": "download"
     },
     "packageManager": {
       "name": "pnpm",
-      "version": "12.4.2",
+      "version": "12.9.1",
       "onFail": "download"
     }
   },
