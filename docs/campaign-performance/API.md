@@ -8,9 +8,13 @@ sidebar_position: 4
 
 1. Log on to https://ads.brave.com
 
-2. Generate an API KEY
+2. Generate an API key
    1. Profile -> Generate API Key
-   1. Record generated API key, as you will not be able to retrieve it again
+   2. Record generated API key, as you will not be able to retrieve it again
+   3. You can regenerate the API key whenever you wish, this invalidates any previously issued keys
+
+3. Pass the API key in the requests below, in the `X-Brave-Api-Key` http header.
+
 
 ## Endpoint: Campaign Details
 
