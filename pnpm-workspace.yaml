@@ -12,6 +12,9 @@ minimumReleaseAgeExclude:
 - body-parser@1.20.9
 - serialize-javascript@7.1.3
 - fast-uri@3.1.9
+- joi@17.13.9
+- minimatch@11.0.1
+- '@isaacs/nonrecursive-glob-match@1.0.1'
 
 overrides:
   '@babel/plugin-transform-modules-systemjs@>=7.12.0 <=7.29.3': '^7.29.4'
@@ -21,15 +24,15 @@ overrides:
   colord@<2.9.4: ^2.9.4
   compression@<1.8.2: ^1.8.2
   fast-uri@>=3.0.0 <3.1.9: ^3.1.9
-  follow-redirects@<1.16.1: ^1.16.1
+  follow-redirects@<1.16.2: ^1.16.2
   http-cache-semantics@<=4.2.0: ^4.3.0
   image-size@<=2.0.2: ^2.0.3
-  joi@<17.13.8: ^17.13.8
+  joi@<17.13.9: ^17.13.9
   js-yaml@>=3.0.0 <3.15.2: ^3.15.2
   js-yaml@>=4.0.0 <4.3.2: ^4.3.2
   launch-editor@<=2.14.1: ^2.14.2
   lodash@>=4.0.0 <=4.17.22: '^4.18'
-  minimatch@<3.1.4: '^3.1.4'
+  minimatch@<11.0.1: ^11.0.1
   nanoid@<3.3.18: ^3.3.18
   node-forge@<1.4.0: '^1.4.0'
   path-to-regexp@<0.1.13: '^0.1.13'
